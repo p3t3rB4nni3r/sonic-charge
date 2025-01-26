@@ -1,0 +1,102 @@
+SynplantPatch: {
+	branches: {
+		{ id: 0xcf3fc884, length: "0.0%", volume: "0.0 dB" },
+		{ id: 0xcf3fc885, length: "0.0%", volume: "0.0 dB" },
+		{ id: 0xcf3fc886, length: "0.0%", volume: "0.0 dB" },
+		{ id: 0xcf3fc887, length: "0.0%", volume: "0.0 dB" },
+		{ id: 0xcf3fc888, length: "0.0%", volume: "0.0 dB" },
+		{ id: 0xcf3fc889, length: "0.0%", volume: "0.0 dB" },
+		{ id: 0xcf3fc88a, length: "0.0%", volume: "0.0 dB" },
+		{ id: 0xcf3fc88b, length: "0.0%", volume: "0.0 dB" },
+		{ id: 0xcf3fc88c, length: "0.0%", volume: "0.0 dB" },
+		{ id: 0xcf3fc88d, length: "0.0%", volume: "0.0 dB" },
+		{ id: 0xcf3fc88e, length: "0.0%", volume: "0.0 dB" },
+		{ id: 0xcf3fc88f, length: "0.0%", volume: "0.0 dB" }
+	}
+	control: {
+		atonality: "50.0%"
+		bulbMode: "standard"
+		effect: "+0.0%"
+		glideTime: "0.0 s"
+		modWheel: "0.0%"
+		release: "0.5367819700603921 s"
+		rotation: "0.0 degrees"
+		tempoSync: "off"
+		tuning: "1.3482213020324707 sm"
+		velSens: "33.678460121154785%"
+		voiceMode: "poly"
+		volume: "3.372135659354319 dB"
+		wheelScale: "82.18231201171875%"
+		wheelTarget: "effect"
+	}
+	format: 28
+	genome: {
+		a_color: 0.8728538
+		a_form: 0.8043389
+		a_freq: 0.43047363
+		a_mod: 0.6045516
+		a_noise: 0.6436692
+		adj_bass: 0.51281875
+		adj_clip: 0.34697187
+		adj_pan: 0.57480454
+		adj_treb: 0.49579787
+		b_form: 0.74372154
+		b_freq: 0.5197729
+		b_mod: 0.51764643
+		b_noise: 0.49424353
+		b_sh: 0.08326971
+		env_kf: 0.7413495
+		env_loop: 0.710453
+		env_tilt: 0.6406493
+		env_time: 0.8159372
+		flt_freq: 0.57948965
+		flt_kf: 1.0
+		flt_mod: 0.7233308
+		flt_q: 0.19043331
+		flt_sep: 0.059889562
+		flt_type: 0.6744137
+		fm_amt: 0.67154026
+		fm_mod: 0.51528084
+		lfo_amt: 0.6971333
+		lfo_bal: 0.5347084
+		lfo_dly: 0.51640207
+		lfo_rate: 0.26162565
+		mix_mod: 0.534847
+		mod_atk: 0.88592976
+		mod_dcy: 0.5445325
+		mod_sh: 0.44192857
+		mod_vel: 0.21291623
+		osc_mix: 0.6641949
+		rvb_atk: 0.8283175
+		rvb_chor: 0.6592486
+		rvb_damp: 0.44918078
+		rvb_len: 0.80383664
+		rvb_mix: 0.6433253
+		rvb_size: 0.83263373
+		saturate: 0.4804806
+		sub_am: 0.44814533
+		vol_atk: 0.23771872
+		vol_dcy: 0.2825314
+		vol_fade: 0.49683908
+		vol_sus: 0.3481199
+	}
+	implementation: 29
+	layers: {
+		{ enabled: "on" },
+		{ enabled: "off" },
+		{ enabled: "off" },
+		{ enabled: "off" },
+		{ enabled: "off" },
+		{ enabled: "off" },
+		{ enabled: "off" },
+		{ enabled: "off" },
+		{ enabled: "off" },
+		{ enabled: "off" },
+		{ enabled: "off" },
+		{ enabled: "off" }
+	}
+	legacyMode: false
+	modified: true
+	pitchAdjust: 0.0
+	seedId: 0xcf3fc884
+}
