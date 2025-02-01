@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "CS Vegetal Harp"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 81.39685392 %
+	Effect: -47.39866853 %
+	Release: 4.89280382 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 4.03267663 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xba0f7a69
+	Pitch: -0.29391527
+	Cloned: false
+	Genome: {
+		env_time: 0.00000000,
+		env_loop: 0.00000000,
+		env_tilt: 0.00000000,
+		vol_atk: 0.00000000,
+		vol_dcy: 0.83671653,
+		vol_sus: 0.59788299,
+		mod_atk: 0.00000000,
+		mod_dcy: 0.50904649,
+		mod_sh: 0.01333910,
+		mod_vel: 0.47655481,
+		lfo_rate: 0.02808630,
+		lfo_amt: 0.84571338,
+		lfo_bal: 0.20900202,
+		a_form: 0.83549404,
+		a_noise: 0.38703567,
+		a_color: 0.45259678,
+		a_freq: 0.71565253,
+		a_mod: 0.50804591,
+		b_form: 0.26067531,
+		b_noise: 0.26498604,
+		b_freq: 0.58478642,
+		b_mod: 0.52952516,
+		b_sh: 0.33323920,
+		fm_amt: 0.71195078,
+		fm_mod: 0.70902014,
+		sub_am: 0.91282243,
+		balance: 0.34470594,
+		flt_freq: 0.48131305,
+		flt_mod: 0.78954256,
+		flt_sep: 0.63059473,
+		flt_q: 0.83434021,
+		flt_kf: 0.32725018,
+		fx_mix: 0.65405858,
+		fx_len: 0.82672608,
+		fx_damp: 0.44147915,
+		fx_chors: 0.50632280,
+		fx_size: 0.39172408
+	}
+}

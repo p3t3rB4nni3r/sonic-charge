@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "CS Tranceplant"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -80.68520874 %
+	Release: 402.00000941 ms 
+	WheelScale: 41.99999869 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x48fb9c3a
+	Pitch: 0.48096800
+	Cloned: false
+	Genome: {
+		env_time: 0.26480544,
+		env_loop: 0.29064012,
+		env_tilt: 0.00000000,
+		vol_atk: 0.00000000,
+		vol_dcy: 0.98938107,
+		vol_sus: 0.25030029,
+		mod_atk: 0.00000000,
+		mod_dcy: 0.41975570,
+		mod_sh: 0.24708605,
+		mod_vel: 0.53721595,
+		lfo_rate: 0.36411232,
+		lfo_amt: 0.58341885,
+		lfo_bal: 0.86713123,
+		a_form: 0.68275529,
+		a_noise: 0.67158264,
+		a_color: 0.74730605,
+		a_freq: 0.08650535,
+		a_mod: 0.50554389,
+		b_form: 0.41121322,
+		b_noise: 0.35996979,
+		b_freq: 0.69260550,
+		b_mod: 0.50133806,
+		b_sh: 0.24349403,
+		fm_amt: 0.45444936,
+		fm_mod: 0.71458912,
+		sub_am: 0.13796091,
+		balance: 0.15787578,
+		flt_freq: 0.34010917,
+		flt_mod: 0.96511620,
+		flt_sep: 0.50228029,
+		flt_q: 0.58076489,
+		flt_kf: 0.72486782,
+		fx_mix: 0.23148543,
+		fx_len: 0.94034201,
+		fx_damp: 0.45812672,
+		fx_chors: 0.20949584,
+		fx_size: 0.52050292
+	}
+}

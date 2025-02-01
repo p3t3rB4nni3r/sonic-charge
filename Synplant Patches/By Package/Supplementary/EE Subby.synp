@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "EE Subby"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -100.00000000 %
+	Release: 144.46477180 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 3.39849697 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x70a27107
+	Pitch: 0.31156135
+	Cloned: false
+	Genome: {
+		env_time: 0.01469219,
+		env_loop: 0.12883885,
+		env_tilt: 0.54509705,
+		vol_atk: 0.72336638,
+		vol_dcy: 0.15653372,
+		vol_sus: 0.98828906,
+		mod_atk: 0.11307096,
+		mod_dcy: 0.21520132,
+		mod_sh: 0.67473781,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.71427500,
+		lfo_amt: 0.50395834,
+		lfo_bal: 0.16691345,
+		a_form: 0.46990025,
+		a_noise: 0.89958942,
+		a_color: 0.47220451,
+		a_freq: 0.11473978,
+		a_mod: 0.57738000,
+		b_form: 0.84204698,
+		b_noise: 0.51614618,
+		b_freq: 0.03144890,
+		b_mod: 0.57482171,
+		b_sh: 0.05548537,
+		fm_amt: 0.50371832,
+		fm_mod: 0.08993971,
+		sub_am: 0.14895797,
+		balance: 0.36221540,
+		flt_freq: 0.31689703,
+		flt_mod: 0.86868072,
+		flt_sep: 0.58455431,
+		flt_q: 0.83885098,
+		flt_kf: 0.56153238,
+		fx_mix: 0.36620128,
+		fx_len: 0.62480766,
+		fx_damp: 0.60406375,
+		fx_chors: 0.24545372,
+		fx_size: 0.35494933
+	}
+}

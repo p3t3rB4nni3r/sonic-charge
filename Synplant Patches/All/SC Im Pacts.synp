@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Im Pacts"
+	ModWheel: 0.00000000 %
+	Rotation: 330.00000715 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 100.00000000 %
+	Effect: -41.48377180 %
+	Release: 878.39642925 ms 
+	WheelScale: 40.60975611 %
+	VelSens: 0.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 18.07228923 %
+	Branch2: 0.00000000 %
+	Branch3: 19.15337443 %
+	Branch4: 26.55954659 %
+	Branch5: 30.13302982 %
+	Branch6: 43.16899180 %
+	Branch7: 23.75905812 %
+	Branch8: 51.04600787 %
+	Branch9: 51.64276361 %
+	Branch10: 43.62829626 %
+	Branch11: 15.94619453 %
+	Branch12: 32.10694790 %
+	Seed: 0xb6c46bd5
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.64326555,
+		env_loop: 0.60959232,
+		env_tilt: 0.40575176,
+		vol_atk: 0.35104167,
+		vol_dcy: 0.41224280,
+		vol_sus: 0.20473066,
+		mod_atk: 0.90460491,
+		mod_dcy: 0.04947546,
+		mod_sh: 0.64502978,
+		mod_vel: 0.59839731,
+		lfo_rate: 0.65402931,
+		lfo_amt: 0.76320893,
+		lfo_bal: 0.46217895,
+		a_form: 0.02871388,
+		a_noise: 0.68833125,
+		a_color: 0.63989824,
+		a_freq: 0.16666667,
+		a_mod: 0.52597421,
+		b_form: 0.26703092,
+		b_noise: 0.50717103,
+		b_freq: 0.30997270,
+		b_mod: 0.93971443,
+		b_sh: 0.76826608,
+		fm_amt: 0.75797743,
+		fm_mod: 0.11835101,
+		sub_am: 0.34770110,
+		balance: 0.92665762,
+		flt_freq: 0.74823642,
+		flt_mod: 0.81976330,
+		flt_sep: 0.66155106,
+		flt_q: 0.61457539,
+		flt_kf: 0.70739353,
+		fx_mix: 0.70624119,
+		fx_len: 0.61047840,
+		fx_damp: 0.20622247,
+		fx_chors: 0.70682919,
+		fx_size: 0.32612890
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Lemon Drops"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +5.18443680 sm 
+	Atonality: 66.30584002 %
+	Effect: 100.00000000 %
+	Release: 1.65405013 s 
+	WheelScale: 47.49999940 %
+	VelSens: 50.00000000 %
+	Volume: -6.43856147 dB
+	Branch1: 0.00000000 %
+	Branch2: 33.26063156 %
+	Branch3: 36.19002700 %
+	Branch4: 41.81464016 %
+	Branch5: 50.90765357 %
+	Branch6: 47.25951552 %
+	Branch7: 37.50539124 %
+	Branch8: 29.88153398 %
+	Branch9: 36.23544276 %
+	Branch10: 38.03741634 %
+	Branch11: 34.84701216 %
+	Branch12: 29.37521935 %
+	Seed: 0xeb5a339c
+	Pitch: -0.43545845
+	Cloned: false
+	Genome: {
+		env_time: 0.76282936,
+		env_loop: 0.77288860,
+		env_tilt: 0.73727429,
+		vol_atk: 0.56634104,
+		vol_dcy: 0.31605351,
+		vol_sus: 0.48697501,
+		mod_atk: 0.30028033,
+		mod_dcy: 0.36254537,
+		mod_sh: 0.17958951,
+		mod_vel: 0.82515717,
+		lfo_rate: 0.12498009,
+		lfo_amt: 0.13591182,
+		lfo_bal: 0.28240377,
+		a_form: 0.32082111,
+		a_noise: 0.12858653,
+		a_color: 0.51050496,
+		a_freq: 0.57257640,
+		a_mod: 0.23565811,
+		b_form: 0.13225836,
+		b_noise: 0.14937556,
+		b_freq: 0.75599289,
+		b_mod: 0.61050606,
+		b_sh: 0.05035394,
+		fm_amt: 0.22964662,
+		fm_mod: 0.06841195,
+		sub_am: 0.69993305,
+		balance: 0.27660948,
+		flt_freq: 0.29227710,
+		flt_mod: 0.53984177,
+		flt_sep: 0.86423033,
+		flt_q: 0.09706426,
+		flt_kf: 0.23129833,
+		fx_mix: 0.97788471,
+		fx_len: 0.56798422,
+		fx_damp: 0.95231318,
+		fx_chors: 0.24530393,
+		fx_size: 0.32589233
+	}
+}

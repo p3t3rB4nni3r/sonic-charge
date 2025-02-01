@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "EE Electrical Fault"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 100.00000000 %
+	Release: 223.60679775 ms 
+	WheelScale: 45.12194991 %
+	VelSens: 50.00000000 %
+	Volume: 13.91118673 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x3fea8e3a
+	Pitch: -0.28566980
+	Cloned: false
+	Genome: {
+		env_time: 0.55437577,
+		env_loop: 0.05654621,
+		env_tilt: 0.59797454,
+		vol_atk: 0.11321795,
+		vol_dcy: 0.05674970,
+		vol_sus: 0.51067495,
+		mod_atk: 0.91444892,
+		mod_dcy: 0.21563852,
+		mod_sh: 0.80524147,
+		mod_vel: 0.23624760,
+		lfo_rate: 0.45414829,
+		lfo_amt: 0.15523618,
+		lfo_bal: 0.70612603,
+		a_form: 0.95462722,
+		a_noise: 0.51883715,
+		a_color: 0.76921397,
+		a_freq: 0.38094497,
+		a_mod: 0.50000000,
+		b_form: 0.24521756,
+		b_noise: 0.26123774,
+		b_freq: 0.74518144,
+		b_mod: 0.50000000,
+		b_sh: 0.71675301,
+		fm_amt: 0.80070704,
+		fm_mod: 0.22259367,
+		sub_am: 0.61854380,
+		balance: 0.24635780,
+		flt_freq: 0.72238666,
+		flt_mod: 0.29491520,
+		flt_sep: 0.81378943,
+		flt_q: 0.69115674,
+		flt_kf: 0.70511806,
+		fx_mix: 0.95545012,
+		fx_len: 0.25773299,
+		fx_damp: 0.67190200,
+		fx_chors: 0.28654540,
+		fx_size: 0.35494933
+	}
+}

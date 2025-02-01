@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Simplastic Bass"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: -100.00000000 %
+	Release: 244.61987931 ms 
+	WheelScale: 92.50000119 %
+	VelSens: 0.00000000 %
+	Volume: -6.43856362 dB
+	Branch1: 0.92738392 %
+	Branch2: 0.92738392 %
+	Branch3: 0.92738392 %
+	Branch4: 0.92738392 %
+	Branch5: 0.92738392 %
+	Branch6: 0.92738392 %
+	Branch7: 0.92738392 %
+	Branch8: 0.92738392 %
+	Branch9: 0.92738392 %
+	Branch10: 0.92738392 %
+	Branch11: 0.92738392 %
+	Branch12: 0.92738392 %
+	Seed: 0x240781c4
+	Pitch: 1.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.43914282
+		env_loop: 0.55946052
+		env_tilt: 0.05376410
+		vol_atk: 0.52182174
+		vol_dcy: 0.81478083
+		vol_sus: 0.91142172
+		mod_atk: 0.51369917
+		mod_dcy: 0.21321851
+		mod_sh: 0.70447916
+		mod_vel: 0.60942906
+		lfo_rate: 0.46601510
+		lfo_amt: 0.41656542
+		lfo_bal: 0.43310785
+		a_form: 0.36705077
+		a_noise: 0.50704795
+		a_color: 0.57899863
+		a_freq: 0.50000000
+		a_mod: 0.47905999
+		b_form: 0.56050700
+		b_noise: 0.62421256
+		b_freq: 0.49565423
+		b_mod: 0.53104746
+		b_sh: 0.57261270
+		fm_amt: 0.65858805
+		fm_mod: 0.79504097
+		sub_am: 0.80587196
+		balance: 0.95217073
+		flt_freq: 0.09102297
+		flt_mod: 0.91259468
+		flt_sep: 0.36963028
+		flt_q: 0.59183657
+		flt_kf: 0.84132177
+		fx_mix: 0.10487914
+		fx_len: 0.62170589
+		fx_damp: 0.55716592
+		fx_chors: 0.33846140
+		fx_size: 0.50000000
+	}
+}

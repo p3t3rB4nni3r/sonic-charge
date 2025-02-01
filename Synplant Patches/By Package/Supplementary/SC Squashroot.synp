@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Squashroot"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 25.70575178 %
+	Effect: -100.00000000 %
+	Release: 50.00000000 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x96874721
+	Pitch: 2.96481228
+	Cloned: true
+	Genome: {
+		env_time: 0.46999955,
+		env_loop: 0.86949879,
+		env_tilt: 0.15157413,
+		vol_atk: 0.62626731,
+		vol_dcy: 0.89894426,
+		vol_sus: 0.90046918,
+		mod_atk: 0.97191501,
+		mod_dcy: 0.05277574,
+		mod_sh: 0.46202230,
+		mod_vel: 0.37290996,
+		lfo_rate: 0.67738795,
+		lfo_amt: 0.29824561,
+		lfo_bal: 0.67204815,
+		a_form: 0.79331064,
+		a_noise: 0.83712465,
+		a_color: 0.13361394,
+		a_freq: 0.00586462,
+		a_mod: 0.50000000,
+		b_form: 0.13551217,
+		b_noise: 0.52177608,
+		b_freq: 0.52197725,
+		b_mod: 0.50000000,
+		b_sh: 0.37727642,
+		fm_amt: 0.57055593,
+		fm_mod: 0.20577955,
+		sub_am: 0.37737232,
+		balance: 0.74664474,
+		flt_freq: 0.79426533,
+		flt_mod: 0.89907992,
+		flt_sep: 0.64684093,
+		flt_q: 0.10246140,
+		flt_kf: 0.78594124,
+		fx_mix: 0.90364623,
+		fx_len: 0.52604496,
+		fx_damp: 0.22505778,
+		fx_chors: 0.09673631,
+		fx_size: 0.35494933
+	}
+}

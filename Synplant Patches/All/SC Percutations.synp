@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Percutations"
+	ModWheel: 47.34201431 %
+	Rotation: 60.00000179 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 60.00000238 %
+	Effect: -53.42465639 %
+	Release: 959.79318462 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 2.57888244 dB
+	Branch1: 100.00000000 %
+	Branch2: 29.42605019 %
+	Branch3: 37.03628480 %
+	Branch4: 55.93520403 %
+	Branch5: 47.34659195 %
+	Branch6: 57.49978423 %
+	Branch7: 73.32889438 %
+	Branch8: 40.63544273 %
+	Branch9: 30.52070439 %
+	Branch10: 37.27126122 %
+	Branch11: 36.86791956 %
+	Branch12: 24.48717803 %
+	Seed: 0x5c0db014
+	Pitch: 0.64994025
+	Cloned: false
+	Genome: {
+		env_time: 0.00000000,
+		env_loop: 0.90421391,
+		env_tilt: 0.00000000,
+		vol_atk: 1.00000000,
+		vol_dcy: 0.97470701,
+		vol_sus: 0.03019191,
+		mod_atk: 0.86916429,
+		mod_dcy: 0.01713485,
+		mod_sh: 0.05679265,
+		mod_vel: 0.38222772,
+		lfo_rate: 0.85102266,
+		lfo_amt: 0.48234212,
+		lfo_bal: 0.34738562,
+		a_form: 0.73628837,
+		a_noise: 0.79332286,
+		a_color: 1.00000000,
+		a_freq: 0.10333871,
+		a_mod: 1.00000000,
+		b_form: 0.04881757,
+		b_noise: 0.09023625,
+		b_freq: 0.66570342,
+		b_mod: 0.95105028,
+		b_sh: 0.91214246,
+		fm_amt: 0.02327053,
+		fm_mod: 0.18076369,
+		sub_am: 0.50000000,
+		balance: 0.50000000,
+		flt_freq: 0.48708266,
+		flt_mod: 0.34598413,
+		flt_sep: 0.90311980,
+		flt_q: 0.19912513,
+		flt_kf: 0.58773869,
+		fx_mix: 0.17438415,
+		fx_len: 0.72836006,
+		fx_damp: 0.29654357,
+		fx_chors: 0.68240750,
+		fx_size: 0.21313608
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TJ Thunderchild"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -27.43573189 %
+	Release: 50.00000000 ms 
+	WheelScale: 0.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 5.26068926 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x1bdfdc6b
+	Pitch: -0.00000012
+	Cloned: false
+	Genome: {
+		env_time: 0.81887746
+		env_loop: 0.83014315
+		env_tilt: 0.61002803
+		vol_atk: 0.81718469
+		vol_dcy: 0.41899568
+		vol_sus: 0.80465913
+		mod_atk: 0.37198246
+		mod_dcy: 0.02729750
+		mod_sh: 0.86242193
+		mod_vel: 0.20551497
+		lfo_rate: 0.87302864
+		lfo_amt: 0.22150755
+		lfo_bal: 0.63807487
+		a_form: 0.90966356
+		a_noise: 0.99497557
+		a_color: 0.03433394
+		a_freq: 0.16666669
+		a_mod: 0.50000000
+		b_form: 0.12125963
+		b_noise: 0.88535833
+		b_freq: 0.46574676
+		b_mod: 0.50000000
+		b_sh: 0.30346471
+		fm_amt: 0.45545125
+		fm_mod: 0.52222711
+		sub_am: 0.17375219
+		balance: 0.53083336
+		flt_freq: 0.44578183
+		flt_mod: 0.98518348
+		flt_sep: 0.29582167
+		flt_q: 0.25465482
+		flt_kf: 0.82178366
+		fx_mix: 0.35329551
+		fx_len: 0.82566577
+		fx_damp: 0.28750527
+		fx_chors: 0.52209157
+		fx_size: 0.63757741
+	}
+}

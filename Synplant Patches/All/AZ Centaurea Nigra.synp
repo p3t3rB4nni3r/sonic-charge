@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Centaurea Nigra"
+	ModWheel: 66.92913175 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 17.86576211 %
+	Effect: 0.00000000 %
+	Release: 2.44385664 s 
+	WheelScale: 51.24999881 %
+	VelSens: 50.00000000 %
+	Volume: -6.43856362 dB
+	Branch1: 39.50036466 %
+	Branch2: 43.00496578 %
+	Branch3: 36.33751273 %
+	Branch4: 34.24077034 %
+	Branch5: 38.82747591 %
+	Branch6: 44.77883875 %
+	Branch7: 48.53622913 %
+	Branch8: 39.64060247 %
+	Branch9: 40.14519453 %
+	Branch10: 44.17558610 %
+	Branch11: 39.64060247 %
+	Branch12: 36.33751273 %
+	Seed: 0xe3818e2a
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.07829046
+		env_loop: 0.52458829
+		env_tilt: 0.96082544
+		vol_atk: 0.78787327
+		vol_dcy: 0.28581059
+		vol_sus: 0.72113454
+		mod_atk: 0.48687685
+		mod_dcy: 0.40764904
+		mod_sh: 0.54202378
+		mod_vel: 0.09756279
+		lfo_rate: 0.31342173
+		lfo_amt: 0.00591493
+		lfo_bal: 0.94341660
+		a_form: 0.95826375
+		a_noise: 0.72192931
+		a_color: 0.28104669
+		a_freq: 1.00000000
+		a_mod: 0.48644483
+		b_form: 0.00839078
+		b_noise: 0.58599800
+		b_freq: 0.34362102
+		b_mod: 0.50877237
+		b_sh: 0.27296865
+		fm_amt: 0.23938292
+		fm_mod: 0.35663605
+		sub_am: 0.61282778
+		balance: 0.86502379
+		flt_freq: 0.16551334
+		flt_mod: 0.63670653
+		flt_sep: 0.94632912
+		flt_q: 0.01240218
+		flt_kf: 0.62812543
+		fx_mix: 0.83339810
+		fx_len: 0.34916675
+		fx_damp: 0.36153442
+		fx_chors: 0.58828932
+		fx_size: 0.09325510
+	}
+}

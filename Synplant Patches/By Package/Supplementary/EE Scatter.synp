@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "EE Scatter"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 100.00000000 %
+	Effect: -83.21186900 %
+	Release: 197.23892028 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 4.65321396 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x8051cd60
+	Pitch: 0.80793631
+	Cloned: false
+	Genome: {
+		env_time: 0.76114655,
+		env_loop: 0.06179196,
+		env_tilt: 0.16991878,
+		vol_atk: 0.13031948,
+		vol_dcy: 0.64468324,
+		vol_sus: 0.10917145,
+		mod_atk: 0.52631938,
+		mod_dcy: 0.56765026,
+		mod_sh: 0.85649300,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.58518094,
+		lfo_amt: 0.27742904,
+		lfo_bal: 0.35322237,
+		a_form: 0.62395704,
+		a_noise: 0.27001828,
+		a_color: 0.67597866,
+		a_freq: 0.53201061,
+		a_mod: 0.99364507,
+		b_form: 0.25469244,
+		b_noise: 0.12052476,
+		b_freq: 0.25201595,
+		b_mod: 0.44479698,
+		b_sh: 0.68704301,
+		fm_amt: 0.80050808,
+		fm_mod: 0.88811851,
+		sub_am: 0.64781314,
+		balance: 0.99216866,
+		flt_freq: 0.70435923,
+		flt_mod: 0.18366605,
+		flt_sep: 0.74471188,
+		flt_q: 0.33770525,
+		flt_kf: 0.35541028,
+		fx_mix: 0.81064630,
+		fx_len: 0.59858012,
+		fx_damp: 0.86233872,
+		fx_chors: 0.51375705,
+		fx_size: 0.35494933
+	}
+}

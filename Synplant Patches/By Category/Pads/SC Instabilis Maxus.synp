@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Instabilis Maxus"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 1.65358856 %
+	Effect: 0.00000000 %
+	Release: 7.24332869 s 
+	WheelScale: 29.26829457 %
+	VelSens: 50.00000000 %
+	Volume: -2.96197362 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xb0df4fe4
+	Pitch: -0.63221216
+	Cloned: false
+	Genome: {
+		env_time: 0.83712780,
+		env_loop: 0.64025623,
+		env_tilt: 0.74079794,
+		vol_atk: 0.48424876,
+		vol_dcy: 0.53867114,
+		vol_sus: 0.87240452,
+		mod_atk: 0.83197790,
+		mod_dcy: 0.67218822,
+		mod_sh: 0.51105487,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.22128016,
+		lfo_amt: 0.79800719,
+		lfo_bal: 0.70989507,
+		a_form: 0.85838330,
+		a_noise: 0.57745165,
+		a_color: 0.58694959,
+		a_freq: 0.77203536,
+		a_mod: 0.50394684,
+		b_form: 0.35019648,
+		b_noise: 0.09628433,
+		b_freq: 0.31558359,
+		b_mod: 0.49803042,
+		b_sh: 0.52581078,
+		fm_amt: 0.48015720,
+		fm_mod: 0.18619120,
+		sub_am: 0.66199225,
+		balance: 0.77726406,
+		flt_freq: 0.99466538,
+		flt_mod: 0.80374336,
+		flt_sep: 0.42865098,
+		flt_q: 0.50454056,
+		flt_kf: 0.70454079,
+		fx_mix: 0.89276725,
+		fx_len: 0.48766172,
+		fx_damp: 0.61797732,
+		fx_chors: 0.82370549,
+		fx_size: 0.01714189
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "HearYouNowLeadAv1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: -41.50027633 %
+	Release: 2.28701344 s 
+	WheelScale: 51.24999881 %
+	VelSens: 50.00000000 %
+	Volume: 2.08673448 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xb6032d48
+	Pitch: -0.05682945
+	Cloned: true
+	Genome: {
+		env_time: 0.16025531
+		env_loop: 0.58946049
+		env_tilt: 0.11541641
+		vol_atk: 0.74950755
+		vol_dcy: 0.77984422
+		vol_sus: 0.82152963
+		mod_atk: 0.81200188
+		mod_dcy: 0.17152369
+		mod_sh: 0.37216610
+		mod_vel: 0.45856565
+		lfo_rate: 0.64771461
+		lfo_amt: 0.82214749
+		lfo_bal: 0.40866178
+		a_form: 0.69084460
+		a_noise: 0.80578691
+		a_color: 0.63245857
+		a_freq: 0.50947160
+		a_mod: 0.57412201
+		b_form: 0.26590353
+		b_noise: 0.04358178
+		b_freq: 0.67443830
+		b_mod: 0.58543915
+		b_sh: 0.41207427
+		fm_amt: 0.74019635
+		fm_mod: 0.14802086
+		sub_am: 0.56593889
+		balance: 0.66886526
+		flt_freq: 0.55952519
+		flt_mod: 0.88375986
+		flt_sep: 0.40558815
+		flt_q: 0.40932572
+		flt_kf: 0.37351042
+		fx_mix: 0.60788727
+		fx_len: 0.84934676
+		fx_damp: 0.35840333
+		fx_chors: 0.50970447
+		fx_size: 0.45264781
+	}
+}

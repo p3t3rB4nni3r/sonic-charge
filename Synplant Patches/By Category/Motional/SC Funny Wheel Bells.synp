@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "NE Funny Wheel Bells"
+	ModWheel: 3.14960629 %
+	Rotation: 0.00000000 degrees
+	Tuning: +2.50374985 sm 
+	Atonality: 100.00000000 %
+	Effect: 0.00000000 %
+	Release: 2.82099994 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 47.99999893 %
+	Branch2: 47.99999893 %
+	Branch3: 47.99999893 %
+	Branch4: 47.99999893 %
+	Branch5: 47.99999893 %
+	Branch6: 47.99999893 %
+	Branch7: 47.99999893 %
+	Branch8: 47.99999893 %
+	Branch9: 47.99999893 %
+	Branch10: 47.99999893 %
+	Branch11: 47.99999893 %
+	Branch12: 47.99999893 %
+	Seed: 0x932e304e
+	Pitch: 1.86326933
+	Cloned: true
+	Genome: {
+		env_time: 0.95388925,
+		env_loop: 0.50854391,
+		env_tilt: 0.06186807,
+		vol_atk: 0.72269773,
+		vol_dcy: 0.74518949,
+		vol_sus: 0.56290114,
+		mod_atk: 0.41653216,
+		mod_dcy: 0.99810183,
+		mod_sh: 0.29575437,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.45065331,
+		lfo_amt: 0.73826003,
+		lfo_bal: 0.06785041,
+		a_form: 0.77422488,
+		a_noise: 0.21789193,
+		a_color: 0.40588909,
+		a_freq: 0.02278847,
+		a_mod: 0.49850404,
+		b_form: 0.86752152,
+		b_noise: 0.28480113,
+		b_freq: 0.68918085,
+		b_mod: 0.45398867,
+		b_sh: 0.33793521,
+		fm_amt: 0.84443629,
+		fm_mod: 0.92013329,
+		sub_am: 0.25000000,
+		balance: 0.15618199,
+		flt_freq: 0.67063034,
+		flt_mod: 0.17671669,
+		flt_sep: 0.57777846,
+		flt_q: 0.82404375,
+		flt_kf: 0.75000000,
+		fx_mix: 0.54329157,
+		fx_len: 0.77285933,
+		fx_damp: 0.11351973,
+		fx_chors: 0.25000000,
+		fx_size: 0.56602216
+	}
+}

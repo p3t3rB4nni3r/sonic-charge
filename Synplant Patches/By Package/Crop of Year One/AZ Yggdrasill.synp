@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Yggdrasill"
+	ModWheel: 93.44199896 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 26.69866979 %
+	Effect: 0.00000000 %
+	Release: 2.23722787 s 
+	WheelScale: 100.00000000 %
+	VelSens: 0.00000000 %
+	Volume: 1.40778525 dB
+	Branch1: 25.47889054 %
+	Branch2: 29.37521935 %
+	Branch3: 34.84701216 %
+	Branch4: 34.53297019 %
+	Branch5: 37.89375126 %
+	Branch6: 32.20393658 %
+	Branch7: 33.11761618 %
+	Branch8: 37.17066050 %
+	Branch9: 34.47464108 %
+	Branch10: 27.91998386 %
+	Branch11: 30.13302982 %
+	Branch12: 23.43370020 %
+	Seed: 0x01416e4e
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.45578998
+		env_loop: 0.81416023
+		env_tilt: 0.71874052
+		vol_atk: 0.91958368
+		vol_dcy: 0.47646058
+		vol_sus: 0.66601610
+		mod_atk: 0.96361685
+		mod_dcy: 0.19508940
+		mod_sh: 0.38476533
+		mod_vel: 0.38506186
+		lfo_rate: 0.27120417
+		lfo_amt: 0.44832355
+		lfo_bal: 0.73290122
+		a_form: 0.72850192
+		a_noise: 0.38976216
+		a_color: 0.34448126
+		a_freq: 0.50000000
+		a_mod: 0.44516835
+		b_form: 0.41656792
+		b_noise: 0.34555131
+		b_freq: 0.43372732
+		b_mod: 0.56917316
+		b_sh: 0.90976918
+		fm_amt: 0.41793793
+		fm_mod: 0.35450864
+		sub_am: 0.83017337
+		balance: 0.57950097
+		flt_freq: 0.21173096
+		flt_mod: 0.82043672
+		flt_sep: 0.36665085
+		flt_q: 0.15453976
+		flt_kf: 0.23650420
+		fx_mix: 0.76364589
+		fx_len: 0.78446972
+		fx_damp: 0.31178185
+		fx_chors: 0.06408057
+		fx_size: 0.40038994
+	}
+}

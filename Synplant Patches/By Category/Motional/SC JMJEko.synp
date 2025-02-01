@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE JMJEko"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 23.28766584 %
+	Release: 1.42385799 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x2fa76024
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.69402611
+		env_loop: 0.33861697
+		env_tilt: 0.05149966
+		vol_atk: 0.00428355
+		vol_dcy: 0.61808747
+		vol_sus: 0.39385641
+		mod_atk: 0.39083678
+		mod_dcy: 0.00964987
+		mod_sh: 0.18685794
+		mod_vel: 0.39392048
+		lfo_rate: 0.98150772
+		lfo_amt: 0.53327215
+		lfo_bal: 0.80208659
+		a_form: 0.45271337
+		a_noise: 0.80423611
+		a_color: 0.57462180
+		a_freq: 0.66666669
+		a_mod: 0.50000000
+		b_form: 0.18365932
+		b_noise: 0.13092780
+		b_freq: 0.00393438
+		b_mod: 0.50000000
+		b_sh: 0.48586702
+		fm_amt: 0.57663107
+		fm_mod: 0.44283557
+		sub_am: 0.85602808
+		balance: 0.52965319
+		flt_freq: 0.78384912
+		flt_mod: 0.06868815
+		flt_sep: 0.41970348
+		flt_q: 0.10859221
+		flt_kf: 0.76116675
+		fx_mix: 0.49814725
+		fx_len: 0.90498555
+		fx_damp: 0.48378468
+		fx_chors: 0.29940760
+		fx_size: 0.66017658
+	}
+}

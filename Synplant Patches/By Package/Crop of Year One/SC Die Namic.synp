@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Die Namic"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 14.95942324 %
+	Effect: -39.67427611 %
+	Release: 609.79694144 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 24.44544733 %
+	Branch2: 0.00000000 %
+	Branch3: 13.18207830 %
+	Branch4: 29.56561148 %
+	Branch5: 27.29018033 %
+	Branch6: 2.95884833 %
+	Branch7: 23.13481420 %
+	Branch8: 29.43875194 %
+	Branch9: 19.15337443 %
+	Branch10: 12.70002425 %
+	Branch11: 10.10205969 %
+	Branch12: 15.74623734 %
+	Seed: 0xf62c4e63
+	Pitch: -1.05401707
+	Cloned: true
+	Genome: {
+		env_time: 0.34028232
+		env_loop: 0.42176402
+		env_tilt: 0.00634432
+		vol_atk: 0.14446038
+		vol_dcy: 0.62914139
+		vol_sus: 0.68844336
+		mod_atk: 0.80496752
+		mod_dcy: 0.21329558
+		mod_sh: 0.16240931
+		mod_vel: 0.53884733
+		lfo_rate: 0.60881317
+		lfo_amt: 0.82341552
+		lfo_bal: 0.21690434
+		a_form: 0.66557050
+		a_noise: 0.30552870
+		a_color: 0.36005884
+		a_freq: 0.67566949
+		a_mod: 0.51756799
+		b_form: 0.45066971
+		b_noise: 0.29422349
+		b_freq: 0.56452644
+		b_mod: 0.49921751
+		b_sh: 0.56232435
+		fm_amt: 0.87754220
+		fm_mod: 0.49146348
+		sub_am: 0.58743727
+		balance: 0.59664565
+		flt_freq: 0.30649173
+		flt_mod: 0.94090056
+		flt_sep: 0.18566543
+		flt_q: 0.46933889
+		flt_kf: 0.45460385
+		fx_mix: 0.59432292
+		fx_len: 0.39882457
+		fx_damp: 0.28548735
+		fx_chors: 0.28039080
+		fx_size: 0.53057718
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Hayes Command"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 31.69024885 %
+	Effect: -100.00000000 %
+	Release: 50.00000000 ms 
+	WheelScale: 66.25000238 %
+	VelSens: 0.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 40.97442329 %
+	Branch2: 40.97442329 %
+	Branch3: 40.97442329 %
+	Branch4: 40.97442329 %
+	Branch5: 40.97442329 %
+	Branch6: 40.97442329 %
+	Branch7: 40.97442329 %
+	Branch8: 40.97442329 %
+	Branch9: 40.97442329 %
+	Branch10: 40.97442329 %
+	Branch11: 40.97442329 %
+	Branch12: 40.97442329 %
+	Seed: 0x9efe1d3d
+	Pitch: 0.01889133
+	Cloned: true
+	Genome: {
+		env_time: 0.00000000,
+		env_loop: 0.00000000,
+		env_tilt: 1.00000000,
+		vol_atk: 0.41183373,
+		vol_dcy: 0.00974512,
+		vol_sus: 0.99354136,
+		mod_atk: 0.00000000,
+		mod_dcy: 0.12348288,
+		mod_sh: 0.00000000,
+		mod_vel: 0.20581627,
+		lfo_rate: 0.81926966,
+		lfo_amt: 0.46406555,
+		lfo_bal: 0.66874015,
+		a_form: 0.18661481,
+		a_noise: 0.27179253,
+		a_color: 0.22865063,
+		a_freq: 0.83018482,
+		a_mod: 0.84934932,
+		b_form: 0.59155113,
+		b_noise: 0.07994360,
+		b_freq: 0.97604913,
+		b_mod: 0.24490678,
+		b_sh: 0.87963986,
+		fm_amt: 0.38833493,
+		fm_mod: 0.14775288,
+		sub_am: 0.43366170,
+		balance: 0.08349419,
+		flt_freq: 1.00000000,
+		flt_mod: 0.50690597,
+		flt_sep: 0.69718301,
+		flt_q: 0.68961906,
+		flt_kf: 0.70906723,
+		fx_mix: 0.00708234,
+		fx_len: 0.38083372,
+		fx_damp: 0.59889829,
+		fx_chors: 0.02950990,
+		fx_size: 0.68660659
+	}
+}

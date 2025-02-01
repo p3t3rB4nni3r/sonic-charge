@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "RL Surrounding Me"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 58.94147754 %
+	Effect: 100.00000000 %
+	Release: 1.37416857 s 
+	WheelScale: 28.04878056 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 2.52278969 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x7f04af41
+	Pitch: 0.02094936
+	Cloned: false
+	Genome: {
+		env_time: 0.84540838,
+		env_loop: 1.00000000,
+		env_tilt: 0.55100173,
+		vol_atk: 0.08035100,
+		vol_dcy: 1.00000000,
+		vol_sus: 0.00000000,
+		mod_atk: 0.83036447,
+		mod_dcy: 0.38240433,
+		mod_sh: 0.96057874,
+		mod_vel: 0.96435487,
+		lfo_rate: 0.46090835,
+		lfo_amt: 0.07346272,
+		lfo_bal: 0.16348708,
+		a_form: 0.08771569,
+		a_noise: 0.66534710,
+		a_color: 0.03276837,
+		a_freq: 0.50000000,
+		a_mod: 0.32544178,
+		b_form: 0.15827852,
+		b_noise: 0.62438571,
+		b_freq: 0.50000000,
+		b_mod: 0.50000000,
+		b_sh: 0.70937675,
+		fm_amt: 0.01182382,
+		fm_mod: 0.00000000,
+		sub_am: 0.79884523,
+		balance: 0.61676705,
+		flt_freq: 0.19696784,
+		flt_mod: 0.89282954,
+		flt_sep: 0.41541189,
+		flt_q: 0.00000000,
+		flt_kf: 0.53983974,
+		fx_mix: 0.98680484,
+		fx_len: 0.95137411,
+		fx_damp: 0.56647408,
+		fx_chors: 0.23843950,
+		fx_size: 0.83087415
+	}
+}

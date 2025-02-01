@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Windups"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +5.94000006 sm 
+	Atonality: 100.00000000 %
+	Effect: -33.25621486 %
+	Release: 3.06400007 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -4.35000046 dB
+	Branch1: 49.00000095 %
+	Branch2: 56.00000024 %
+	Branch3: 54.00000215 %
+	Branch4: 52.99999714 %
+	Branch5: 38.99999857 %
+	Branch6: 34.99999940 %
+	Branch7: 33.00000131 %
+	Branch8: 37.00000048 %
+	Branch9: 43.99999976 %
+	Branch10: 50.00000000 %
+	Branch11: 47.99999893 %
+	Branch12: 47.99999893 %
+	Seed: 0xa5dddfdf
+	Pitch: -0.61103868
+	Cloned: false
+	Genome: {
+		env_time: 0.55402350,
+		env_loop: 0.57314461,
+		env_tilt: 0.31538844,
+		vol_atk: 0.17853868,
+		vol_dcy: 0.90216929,
+		vol_sus: 0.57950807,
+		mod_atk: 0.13050580,
+		mod_dcy: 0.47861958,
+		mod_sh: 0.62871933,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.01534569,
+		lfo_amt: 0.61431617,
+		lfo_bal: 0.77548051,
+		a_form: 0.34291327,
+		a_noise: 0.44548249,
+		a_color: 0.60736686,
+		a_freq: 0.60183978,
+		a_mod: 0.08862007,
+		b_form: 0.85072583,
+		b_noise: 0.38059092,
+		b_freq: 0.14438331,
+		b_mod: 0.53733611,
+		b_sh: 0.44404197,
+		fm_amt: 0.85083055,
+		fm_mod: 0.76908791,
+		sub_am: 0.25000000,
+		balance: 0.78677917,
+		flt_freq: 0.73262846,
+		flt_mod: 0.56386352,
+		flt_sep: 0.31409967,
+		flt_q: 0.86326122,
+		flt_kf: 0.75000000,
+		fx_mix: 0.84969175,
+		fx_len: 0.57565427,
+		fx_damp: 0.61919963,
+		fx_chors: 0.25000000,
+		fx_size: 0.10101754
+	}
+}

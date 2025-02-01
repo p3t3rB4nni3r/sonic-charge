@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Double Dutch Drums"
+	ModWheel: 0.00000000 %
+	Rotation: 299.99999285 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 38.99999857 %
+	Effect: -35.52535176 %
+	Release: 211.65445726 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 5.89768939 dB
+	Branch1: 54.58810329 %
+	Branch2: 100.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 73.32889438 %
+	Branch5: 78.70273590 %
+	Branch6: 72.31818438 %
+	Branch7: 77.94294357 %
+	Branch8: 73.20670485 %
+	Branch9: 34.93975997 %
+	Branch10: 39.85578120 %
+	Branch11: 25.31489432 %
+	Branch12: 26.62637234 %
+	Seed: 0x3044d09a
+	Pitch: -0.98490477
+	Cloned: false
+	Genome: {
+		env_time: 0.43021968,
+		env_loop: 0.83091176,
+		env_tilt: 0.33247384,
+		vol_atk: 1.00000000,
+		vol_dcy: 0.46056128,
+		vol_sus: 0.90010285,
+		mod_atk: 0.18811381,
+		mod_dcy: 0.01037628,
+		mod_sh: 0.07907176,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.61124080,
+		lfo_amt: 0.20331120,
+		lfo_bal: 0.83192104,
+		a_form: 0.70146507,
+		a_noise: 0.26483631,
+		a_color: 0.39677119,
+		a_freq: 0.16415077,
+		a_mod: 0.92765844,
+		b_form: 0.49184501,
+		b_noise: 0.53481519,
+		b_freq: 0.07334363,
+		b_mod: 0.32385886,
+		b_sh: 0.78379965,
+		fm_amt: 0.67153567,
+		fm_mod: 0.01627576,
+		sub_am: 0.25000000,
+		balance: 0.52022028,
+		flt_freq: 0.01136410,
+		flt_mod: 0.73415089,
+		flt_sep: 0.14557201,
+		flt_q: 0.19001269,
+		flt_kf: 0.75000000,
+		fx_mix: 0.00136876,
+		fx_len: 0.16708288,
+		fx_damp: 0.34024581,
+		fx_chors: 0.59043276,
+		fx_size: 0.07076811
+	}
+}

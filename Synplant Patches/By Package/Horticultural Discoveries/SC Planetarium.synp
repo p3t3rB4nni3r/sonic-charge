@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "planetarium v1b"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 742.59073407 ms 
+	WheelScale: 25.00000298 %
+	VelSens: 50.00000000 %
+	Volume: 6.21006457 dB
+	Branch1: 10.86219400 %
+	Branch2: 16.62257761 %
+	Branch3: 16.86746925 %
+	Branch4: 16.99753106 %
+	Branch5: 23.51877540 %
+	Branch6: 28.72307599 %
+	Branch7: 29.56561148 %
+	Branch8: 20.11911571 %
+	Branch9: 5.17432317 %
+	Branch10: 0.00000000 %
+	Branch11: 21.73080593 %
+	Branch12: 23.75905812 %
+	Seed: 0x35700101
+	Pitch: 0.21521211
+	Cloned: false
+	Genome: {
+		env_time: 0.76664507
+		env_loop: 0.98891640
+		env_tilt: 0.96721375
+		vol_atk: 0.82980335
+		vol_dcy: 0.85769117
+		vol_sus: 0.84369695
+		mod_atk: 0.13567215
+		mod_dcy: 0.05942243
+		mod_sh: 0.80842590
+		mod_vel: 0.00000000
+		lfo_rate: 0.64610595
+		lfo_amt: 0.40221786
+		lfo_bal: 0.42573071
+		a_form: 0.36655080
+		a_noise: 0.77617139
+		a_color: 0.44518709
+		a_freq: 0.63079798
+		a_mod: 0.52795208
+		b_form: 0.85321510
+		b_noise: 0.80144805
+		b_freq: 0.18368435
+		b_mod: 0.13505983
+		b_sh: 0.21490794
+		fm_amt: 0.56667256
+		fm_mod: 0.06551856
+		sub_am: 0.92394364
+		balance: 0.53517479
+		flt_freq: 0.68260700
+		flt_mod: 0.43086034
+		flt_sep: 0.07488817
+		flt_q: 0.37519747
+		flt_kf: 1.00000000
+		fx_mix: 0.98238707
+		fx_len: 0.91400856
+		fx_damp: 0.79711658
+		fx_chors: 0.49504936
+		fx_size: 0.82029933
+	}
+}

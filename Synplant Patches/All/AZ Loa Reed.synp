@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Loa Reed"
+	ModWheel: 49.60629940 %
+	Rotation: 0.00000000 degrees
+	Tuning: +3.26078653 sm 
+	Atonality: 0.00000000 %
+	Effect: -4.76190448 %
+	Release: 405.47746126 ms 
+	WheelScale: 62.19512224 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 85.70791483 %
+	Branch2: 85.70791483 %
+	Branch3: 85.70791483 %
+	Branch4: 85.70791483 %
+	Branch5: 85.70791483 %
+	Branch6: 85.70791483 %
+	Branch7: 85.70791483 %
+	Branch8: 85.70791483 %
+	Branch9: 85.70791483 %
+	Branch10: 85.70791483 %
+	Branch11: 85.70791483 %
+	Branch12: 85.70791483 %
+	Seed: 0x5fe36b43
+	Pitch: 0.05961132
+	Cloned: true
+	Genome: {
+		env_time: 0.77429426,
+		env_loop: 0.66919702,
+		env_tilt: 0.49158645,
+		vol_atk: 0.25041783,
+		vol_dcy: 0.43289837,
+		vol_sus: 0.60172600,
+		mod_atk: 0.16591495,
+		mod_dcy: 0.83439803,
+		mod_sh: 0.38337100,
+		mod_vel: 0.61321527,
+		lfo_rate: 0.16694796,
+		lfo_amt: 0.11061320,
+		lfo_bal: 0.36398262,
+		a_form: 0.21562037,
+		a_noise: 0.44235358,
+		a_color: 0.13530082,
+		a_freq: 0.61026126,
+		a_mod: 0.82051986,
+		b_form: 0.78652602,
+		b_noise: 0.33404601,
+		b_freq: 0.74253005,
+		b_mod: 0.53071374,
+		b_sh: 0.28612322,
+		fm_amt: 1.00000000,
+		fm_mod: 0.64275569,
+		sub_am: 0.18780556,
+		balance: 0.29923159,
+		flt_freq: 0.26324061,
+		flt_mod: 0.89479524,
+		flt_sep: 0.60347545,
+		flt_q: 0.60702878,
+		flt_kf: 0.49263960,
+		fx_mix: 0.75979656,
+		fx_len: 0.29993567,
+		fx_damp: 0.58081478,
+		fx_chors: 0.54599738,
+		fx_size: 1.00000000
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE NAND Gate"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +8.02890587 sm 
+	Atonality: 60.00000238 %
+	Effect: -55.57301044 %
+	Release: 1.17832013 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 4.03267663 dB
+	Branch1: 0.00000000 %
+	Branch2: 41.13274515 %
+	Branch3: 46.26545310 %
+	Branch4: 14.45783079 %
+	Branch5: 100.00000000 %
+	Branch6: 61.23387218 %
+	Branch7: 64.24299479 %
+	Branch8: 24.11039323 %
+	Branch9: 42.46923327 %
+	Branch10: 51.84373260 %
+	Branch11: 61.44578457 %
+	Branch12: 82.87686706 %
+	Seed: 0x152d201b
+	Pitch: -0.36293435
+	Cloned: false
+	Genome: {
+		env_time: 0.25911745,
+		env_loop: 0.61956924,
+		env_tilt: 0.16457665,
+		vol_atk: 0.90257609,
+		vol_dcy: 0.88526386,
+		vol_sus: 0.33357942,
+		mod_atk: 0.34157693,
+		mod_dcy: 0.03826928,
+		mod_sh: 0.36719966,
+		mod_vel: 0.52796149,
+		lfo_rate: 0.79089713,
+		lfo_amt: 0.46226442,
+		lfo_bal: 0.37531078,
+		a_form: 0.49037188,
+		a_noise: 0.77100152,
+		a_color: 0.60185933,
+		a_freq: 0.06048906,
+		a_mod: 0.88724369,
+		b_form: 0.01279396,
+		b_noise: 0.28913140,
+		b_freq: 0.60280836,
+		b_mod: 0.84252352,
+		b_sh: 0.83539915,
+		fm_amt: 0.08412498,
+		fm_mod: 0.24738795,
+		sub_am: 0.47112375,
+		balance: 0.09842086,
+		flt_freq: 0.15288271,
+		flt_mod: 0.28212982,
+		flt_sep: 0.13612548,
+		flt_q: 1.00000000,
+		flt_kf: 0.84480709,
+		fx_mix: 0.67442644,
+		fx_len: 0.43064061,
+		fx_damp: 0.18193364,
+		fx_chors: 0.26599401,
+		fx_size: 0.61357349
+	}
+}

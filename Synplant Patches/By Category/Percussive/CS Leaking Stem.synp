@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "CS Leaking Stem"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 25.36455095 %
+	Effect: -64.85168636 %
+	Release: 439.24913451 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 6.16988598 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x505f521b
+	Pitch: 0.99999976
+	Cloned: false
+	Genome: {
+		env_time: 0.21682012,
+		env_loop: 0.17484152,
+		env_tilt: 0.42540503,
+		vol_atk: 0.86926031,
+		vol_dcy: 0.66183484,
+		vol_sus: 0.86836392,
+		mod_atk: 0.01078105,
+		mod_dcy: 0.23584837,
+		mod_sh: 0.28017128,
+		mod_vel: 0.51253450,
+		lfo_rate: 0.56069750,
+		lfo_amt: 0.30288231,
+		lfo_bal: 0.70473868,
+		a_form: 0.78067839,
+		a_noise: 0.49352670,
+		a_color: 0.07004219,
+		a_freq: 0.33333337,
+		a_mod: 0.45903623,
+		b_form: 0.68545461,
+		b_noise: 0.74465013,
+		b_freq: 0.44307590,
+		b_mod: 0.58617073,
+		b_sh: 0.97070831,
+		fm_amt: 0.81469178,
+		fm_mod: 0.64169514,
+		sub_am: 0.78322661,
+		balance: 0.27911901,
+		flt_freq: 0.28992325,
+		flt_mod: 0.90790302,
+		flt_sep: 0.23846972,
+		flt_q: 0.29697955,
+		flt_kf: 0.27113008,
+		fx_mix: 0.88396943,
+		fx_len: 0.84649241,
+		fx_damp: 0.13367963,
+		fx_chors: 0.56631339,
+		fx_size: 0.15034777
+	}
+}

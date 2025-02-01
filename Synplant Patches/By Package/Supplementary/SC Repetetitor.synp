@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Repetetitor"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 47.27512598 %
+	Release: 20.00000000 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xa20ed71c
+	Pitch: 0.63465118
+	Cloned: true
+	Genome: {
+		env_time: 0.73598838,
+		env_loop: 0.76102644,
+		env_tilt: 0.65546119,
+		vol_atk: 0.99063647,
+		vol_dcy: 0.98154211,
+		vol_sus: 0.81943733,
+		mod_atk: 0.12009341,
+		mod_dcy: 0.99948639,
+		mod_sh: 0.93114996,
+		mod_vel: 0.49091315,
+		lfo_rate: 0.58210170,
+		lfo_amt: 0.98612249,
+		lfo_bal: 0.64154512,
+		a_form: 0.16924363,
+		a_noise: 0.24941331,
+		a_color: 0.08014816,
+		a_freq: 0.39422482,
+		a_mod: 0.50000000,
+		b_form: 0.87156856,
+		b_noise: 0.22755748,
+		b_freq: 0.76361531,
+		b_mod: 0.50000000,
+		b_sh: 0.25238258,
+		fm_amt: 0.27099460,
+		fm_mod: 0.17682564,
+		sub_am: 0.73437268,
+		balance: 0.36650491,
+		flt_freq: 0.43038231,
+		flt_mod: 0.81015420,
+		flt_sep: 0.10917354,
+		flt_q: 0.67091537,
+		flt_kf: 0.64321882,
+		fx_mix: 0.07276618,
+		fx_len: 0.96918535,
+		fx_damp: 0.02124965,
+		fx_chors: 0.52854365,
+		fx_size: 0.35494933
+	}
+}

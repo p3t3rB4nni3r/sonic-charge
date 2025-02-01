@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Ruff Stuff"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -4.97491336 sm 
+	Atonality: 6.71400577 %
+	Effect: -54.15705740 %
+	Release: 180.39404498 ms 
+	WheelScale: 58.74999762 %
+	VelSens: 50.00000000 %
+	Volume: 3.39849697 dB
+	Branch1: 2.02595387 %
+	Branch2: 2.02595387 %
+	Branch3: 2.02595387 %
+	Branch4: 2.02595387 %
+	Branch5: 2.02595387 %
+	Branch6: 2.02595387 %
+	Branch7: 2.02595387 %
+	Branch8: 2.02595387 %
+	Branch9: 2.02595387 %
+	Branch10: 2.02595387 %
+	Branch11: 2.02595387 %
+	Branch12: 2.02595387 %
+	Seed: 0x3bdd1200
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.00530463
+		env_loop: 0.35171163
+		env_tilt: 0.10729635
+		vol_atk: 0.63477010
+		vol_dcy: 0.74977183
+		vol_sus: 0.88134158
+		mod_atk: 0.06173807
+		mod_dcy: 0.29815859
+		mod_sh: 0.64553928
+		mod_vel: 0.57417065
+		lfo_rate: 0.05137444
+		lfo_amt: 0.19371319
+		lfo_bal: 0.35970080
+		a_form: 0.59726483
+		a_noise: 0.74271095
+		a_color: 0.10915780
+		a_freq: 0.50000000
+		a_mod: 0.52087945
+		b_form: 0.22510219
+		b_noise: 0.28433216
+		b_freq: 0.62327158
+		b_mod: 0.48738337
+		b_sh: 0.75575244
+		fm_amt: 0.04105020
+		fm_mod: 0.01922202
+		sub_am: 0.46279860
+		balance: 0.17900765
+		flt_freq: 0.43899465
+		flt_mod: 0.53553212
+		flt_sep: 0.94442350
+		flt_q: 0.07009280
+		flt_kf: 0.83691645
+		fx_mix: 0.54086310
+		fx_len: 0.50318140
+		fx_damp: 0.05862767
+		fx_chors: 0.12580186
+		fx_size: 0.50000000
+	}
+}

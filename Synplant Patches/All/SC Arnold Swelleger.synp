@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Arnold Swelleger"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 222.25688010 ms 
+	WheelScale: 37.50000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x8866db77
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.52651906,
+		env_loop: 0.94110769,
+		env_tilt: 0.63771367,
+		vol_atk: 0.48993468,
+		vol_dcy: 0.26537395,
+		vol_sus: 0.79829973,
+		mod_atk: 0.43975502,
+		mod_dcy: 0.13296807,
+		mod_sh: 0.56277204,
+		mod_vel: 0.64632225,
+		lfo_rate: 0.69373745,
+		lfo_amt: 0.06811565,
+		lfo_bal: 0.55293167,
+		a_form: 0.56131059,
+		a_noise: 0.40423495,
+		a_color: 0.46058893,
+		a_freq: 0.50000000,
+		a_mod: 0.44604445,
+		b_form: 0.41515684,
+		b_noise: 0.64048421,
+		b_freq: 0.47685325,
+		b_mod: 0.55142617,
+		b_sh: 0.26592827,
+		fm_amt: 0.57224393,
+		fm_mod: 0.98877835,
+		sub_am: 0.48276782,
+		balance: 0.12594271,
+		flt_freq: 0.63294905,
+		flt_mod: 0.74978685,
+		flt_sep: 0.70487750,
+		flt_q: 0.29247463,
+		flt_kf: 0.93784440,
+		fx_mix: 0.68331289,
+		fx_len: 0.80183715,
+		fx_damp: 0.38949454,
+		fx_chors: 0.30080789,
+		fx_size: 0.50000000
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Merry Go Pad"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 14.63887841 %
+	Effect: 8.87904167 %
+	Release: 2.39179339 s 
+	WheelScale: 78.74999642 %
+	VelSens: 50.00000000 %
+	Volume: -2.24949421 dB
+	Branch1: 14.61245269 %
+	Branch2: 14.61245269 %
+	Branch3: 14.61245269 %
+	Branch4: 14.61245269 %
+	Branch5: 14.61245269 %
+	Branch6: 14.61245269 %
+	Branch7: 14.61245269 %
+	Branch8: 14.61245269 %
+	Branch9: 14.61245269 %
+	Branch10: 14.61245269 %
+	Branch11: 14.61245269 %
+	Branch12: 14.61245269 %
+	Seed: 0x5303b38c
+	Pitch: -1.05656910
+	Cloned: true
+	Genome: {
+		env_time: 0.55289370
+		env_loop: 0.20153666
+		env_tilt: 0.59740484
+		vol_atk: 0.85806561
+		vol_dcy: 0.87458235
+		vol_sus: 0.98467773
+		mod_atk: 0.27448535
+		mod_dcy: 0.59060526
+		mod_sh: 0.92123359
+		mod_vel: 0.09089869
+		lfo_rate: 0.21918333
+		lfo_amt: 0.95468318
+		lfo_bal: 0.81089479
+		a_form: 0.72548664
+		a_noise: 0.73329431
+		a_color: 0.89379263
+		a_freq: 0.67609489
+		a_mod: 0.45705521
+		b_form: 0.77357042
+		b_noise: 0.47628415
+		b_freq: 0.60271341
+		b_mod: 0.40445012
+		b_sh: 0.53391415
+		fm_amt: 0.54505652
+		fm_mod: 0.83837068
+		sub_am: 0.99123597
+		balance: 0.50838190
+		flt_freq: 0.72898978
+		flt_mod: 0.63542080
+		flt_sep: 0.20673639
+		flt_q: 0.26911217
+		flt_kf: 0.90275711
+		fx_mix: 0.69735789
+		fx_len: 0.59968859
+		fx_damp: 0.35571015
+		fx_chors: 0.63590813
+		fx_size: 0.62745714
+	}
+}

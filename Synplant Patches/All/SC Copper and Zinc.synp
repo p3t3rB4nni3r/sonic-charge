@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "anotterbrussV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 16.89904928 %
+	Effect: 0.00000000 %
+	Release: 372.92851229 ms 
+	WheelScale: 44.99999881 %
+	VelSens: 50.00000000 %
+	Volume: -3.04006072 dB
+	Branch1: 0.31253819 %
+	Branch2: 0.31253819 %
+	Branch3: 0.31253819 %
+	Branch4: 0.31253819 %
+	Branch5: 0.31253819 %
+	Branch6: 0.31253819 %
+	Branch7: 0.31253819 %
+	Branch8: 0.31253819 %
+	Branch9: 0.31253819 %
+	Branch10: 0.31253819 %
+	Branch11: 0.31253819 %
+	Branch12: 0.31253819 %
+	Seed: 0x7e7ff44b
+	Pitch: 0.58910775
+	Cloned: true
+	Genome: {
+		env_time: 0.33471906
+		env_loop: 0.68526751
+		env_tilt: 0.86007440
+		vol_atk: 0.98577410
+		vol_dcy: 0.93789965
+		vol_sus: 0.82840049
+		mod_atk: 0.54420501
+		mod_dcy: 0.53328550
+		mod_sh: 0.74842513
+		mod_vel: 0.00017989
+		lfo_rate: 0.33690202
+		lfo_amt: 0.24251002
+		lfo_bal: 0.23858982
+		a_form: 0.36973500
+		a_noise: 0.07218528
+		a_color: 0.82422918
+		a_freq: 0.56848204
+		a_mod: 0.57403606
+		b_form: 0.24089253
+		b_noise: 0.18813640
+		b_freq: 0.51005352
+		b_mod: 0.43858981
+		b_sh: 0.38994348
+		fm_amt: 0.77518028
+		fm_mod: 0.22525012
+		sub_am: 0.40219092
+		balance: 0.73476380
+		flt_freq: 0.78333521
+		flt_mod: 0.77356571
+		flt_sep: 0.29067516
+		flt_q: 0.00010645
+		flt_kf: 0.35527766
+		fx_mix: 0.61900598
+		fx_len: 0.56297976
+		fx_damp: 0.77396256
+		fx_chors: 0.28316724
+		fx_size: 0.43809646
+	}
+}

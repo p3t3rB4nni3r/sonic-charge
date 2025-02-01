@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "vibraphone2vibr v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 3.92008411 s 
+	WheelScale: 25.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 3.89043041 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x13590ab8
+	Pitch: -0.00702095
+	Cloned: false
+	Genome: {
+		env_time: 0.20803303
+		env_loop: 0.33598995
+		env_tilt: 0.25518471
+		vol_atk: 0.82662171
+		vol_dcy: 0.48688686
+		vol_sus: 0.77074897
+		mod_atk: 0.02871913
+		mod_dcy: 0.27258825
+		mod_sh: 0.14538348
+		mod_vel: 0.00000000
+		lfo_rate: 0.44384074
+		lfo_amt: 0.89020258
+		lfo_bal: 0.83356148
+		a_form: 0.08434796
+		a_noise: 0.77728450
+		a_color: 0.85443944
+		a_freq: 0.66783684
+		a_mod: 0.44531262
+		b_form: 0.10492021
+		b_noise: 0.31632102
+		b_freq: 0.76207012
+		b_mod: 0.50472456
+		b_sh: 0.50644439
+		fm_amt: 0.59128159
+		fm_mod: 0.79455447
+		sub_am: 0.43091279
+		balance: 0.49818301
+		flt_freq: 0.23313665
+		flt_mod: 0.86999530
+		flt_sep: 0.68050081
+		flt_q: 0.34350735
+		flt_kf: 1.00000000
+		fx_mix: 0.59954989
+		fx_len: 0.68053585
+		fx_damp: 0.07768595
+		fx_chors: 0.39864177
+		fx_size: 0.53978139
+	}
+}

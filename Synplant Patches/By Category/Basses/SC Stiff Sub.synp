@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Stiff Sub"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 61.99999935 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x701d6892
+	Pitch: -1.19547510
+	Cloned: true
+	Genome: {
+		env_time: 0.13644248,
+		env_loop: 0.17268276,
+		env_tilt: 0.11094105,
+		vol_atk: 0.09311676,
+		vol_dcy: 0.48363769,
+		vol_sus: 0.85682893,
+		mod_atk: 0.92194420,
+		mod_dcy: 0.17103601,
+		mod_sh: 0.52844685,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.48571920,
+		lfo_amt: 0.06153643,
+		lfo_bal: 0.84612882,
+		a_form: 0.48137474,
+		a_noise: 0.01144600,
+		a_color: 0.72738820,
+		a_freq: 0.53257918,
+		a_mod: 0.84424418,
+		b_form: 0.51175988,
+		b_noise: 0.74544168,
+		b_freq: 0.52197725,
+		b_mod: 0.52119833,
+		b_sh: 0.10684949,
+		fm_amt: 0.55143017,
+		fm_mod: 0.49852252,
+		sub_am: 0.25000000,
+		balance: 0.89928907,
+		flt_freq: 0.17858648,
+		flt_mod: 0.62893760,
+		flt_sep: 0.50007325,
+		flt_q: 0.74476904,
+		flt_kf: 0.75000000,
+		fx_mix: 0.08454633,
+		fx_len: 0.42817390,
+		fx_damp: 0.37096250,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

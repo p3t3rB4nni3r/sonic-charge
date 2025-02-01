@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "almostLazerV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 15.71779251 %
+	Effect: -38.77425790 %
+	Release: 497.65853600 ms 
+	WheelScale: 42.50000119 %
+	VelSens: 50.00000000 %
+	Volume: -2.24949421 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x3f813048
+	Pitch: 0.04698157
+	Cloned: true
+	Genome: {
+		env_time: 0.65420336
+		env_loop: 0.54125059
+		env_tilt: 0.71421289
+		vol_atk: 0.36606359
+		vol_dcy: 0.43300879
+		vol_sus: 0.97760385
+		mod_atk: 0.57756388
+		mod_dcy: 0.23074901
+		mod_sh: 0.21340346
+		mod_vel: 0.00000000
+		lfo_rate: 0.27973527
+		lfo_amt: 0.12862802
+		lfo_bal: 0.70827234
+		a_form: 0.43399030
+		a_noise: 0.64573836
+		a_color: 0.95014745
+		a_freq: 0.49216974
+		a_mod: 0.50413001
+		b_form: 0.69700676
+		b_noise: 0.19205070
+		b_freq: 0.40287852
+		b_mod: 0.50188357
+		b_sh: 0.32303834
+		fm_amt: 0.31414843
+		fm_mod: 0.93430507
+		sub_am: 0.08504015
+		balance: 0.61239994
+		flt_freq: 0.95706534
+		flt_mod: 0.00879377
+		flt_sep: 0.21482670
+		flt_q: 0.25514531
+		flt_kf: 1.00000000
+		fx_mix: 0.91120541
+		fx_len: 0.68813342
+		fx_damp: 0.45233548
+		fx_chors: 0.69210297
+		fx_size: 0.44277129
+	}
+}

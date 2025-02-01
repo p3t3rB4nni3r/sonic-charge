@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ekkko2v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 20.00000000 s 
+	WheelScale: 50.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 3.22012433 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x2895efe4
+	Pitch: -0.36436176
+	Cloned: false
+	Genome: {
+		env_time: 0.81915748
+		env_loop: 0.42517853
+		env_tilt: 0.21104413
+		vol_atk: 0.48171240
+		vol_dcy: 0.00229996
+		vol_sus: 0.00000000
+		mod_atk: 0.65042633
+		mod_dcy: 0.19882947
+		mod_sh: 0.00000000
+		mod_vel: 0.00000000
+		lfo_rate: 0.94572312
+		lfo_amt: 0.51842791
+		lfo_bal: 0.15192574
+		a_form: 0.11404186
+		a_noise: 0.24053502
+		a_color: 0.84825665
+		a_freq: 0.56072694
+		a_mod: 0.50000000
+		b_form: 0.78464884
+		b_noise: 0.24435782
+		b_freq: 0.82857734
+		b_mod: 0.50000000
+		b_sh: 0.00000000
+		fm_amt: 0.93350124
+		fm_mod: 0.50000000
+		sub_am: 0.34831792
+		balance: 0.13104784
+		flt_freq: 0.24398011
+		flt_mod: 0.50000000
+		flt_sep: 0.08133161
+		flt_q: 0.89050555
+		flt_kf: 1.00000000
+		fx_mix: 0.88379836
+		fx_len: 0.89761752
+		fx_damp: 0.58861911
+		fx_chors: 0.29380023
+		fx_size: 0.76962066
+	}
+}

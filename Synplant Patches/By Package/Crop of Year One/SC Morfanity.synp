@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Morfanity"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 8.35855529 %
+	Effect: 73.62384796 %
+	Release: 50.00000000 ms 
+	WheelScale: 88.75000477 %
+	VelSens: 50.00000000 %
+	Volume: 4.65321396 dB
+	Branch1: 11.95882410 %
+	Branch2: 11.95882410 %
+	Branch3: 11.95882410 %
+	Branch4: 11.95882410 %
+	Branch5: 11.95882410 %
+	Branch6: 11.95882410 %
+	Branch7: 11.95882410 %
+	Branch8: 11.95882410 %
+	Branch9: 11.95882410 %
+	Branch10: 11.95882410 %
+	Branch11: 11.95882410 %
+	Branch12: 11.95882410 %
+	Seed: 0xd8ce3d38
+	Pitch: 2.25000000
+	Cloned: true
+	Genome: {
+		env_time: 0.20786971
+		env_loop: 0.74431401
+		env_tilt: 0.33926296
+		vol_atk: 0.66788995
+		vol_dcy: 0.65673691
+		vol_sus: 0.91393793
+		mod_atk: 0.16330332
+		mod_dcy: 0.66954494
+		mod_sh: 0.71427709
+		mod_vel: 0.06452513
+		lfo_rate: 0.74823093
+		lfo_amt: 0.23621345
+		lfo_bal: 0.85616827
+		a_form: 0.79821950
+		a_noise: 0.21075428
+		a_color: 0.30981714
+		a_freq: 0.12500000
+		a_mod: 0.49143386
+		b_form: 0.20501351
+		b_noise: 0.74130487
+		b_freq: 0.54316092
+		b_mod: 0.51933026
+		b_sh: 0.37454259
+		fm_amt: 0.34774613
+		fm_mod: 0.95128942
+		sub_am: 0.77915823
+		balance: 0.29666424
+		flt_freq: 0.75404054
+		flt_mod: 0.44804245
+		flt_sep: 0.98233330
+		flt_q: 0.24915302
+		flt_kf: 0.00079572
+		fx_mix: 0.44283879
+		fx_len: 0.76664031
+		fx_damp: 0.32232821
+		fx_chors: 0.62483919
+		fx_size: 0.83624041
+	}
+}

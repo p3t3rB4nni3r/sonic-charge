@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "CS Glasshouse Effect"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 13.99597675 %
+	Effect: 7.79128075 %
+	Release: 233.31305578 ms 
+	WheelScale: 86.25000119 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 7.79872164 %
+	Branch2: 7.79872164 %
+	Branch3: 7.79872164 %
+	Branch4: 7.79872164 %
+	Branch5: 7.79872164 %
+	Branch6: 7.79872164 %
+	Branch7: 7.79872164 %
+	Branch8: 7.79872164 %
+	Branch9: 7.79872164 %
+	Branch10: 7.79872164 %
+	Branch11: 7.79872164 %
+	Branch12: 7.79872164 %
+	Seed: 0x7be44917
+	Pitch: -0.23682785
+	Cloned: true
+	Genome: {
+		env_time: 0.82644832,
+		env_loop: 0.69158959,
+		env_tilt: 0.46165276,
+		vol_atk: 0.79183447,
+		vol_dcy: 0.62386942,
+		vol_sus: 0.89188135,
+		mod_atk: 0.48489994,
+		mod_dcy: 0.42170560,
+		mod_sh: 0.69964314,
+		mod_vel: 0.34421420,
+		lfo_rate: 0.43755510,
+		lfo_amt: 0.62079322,
+		lfo_bal: 0.09126627,
+		a_form: 0.67500073,
+		a_noise: 0.24496222,
+		a_color: 0.40649927,
+		a_freq: 0.37280464,
+		a_mod: 0.55550241,
+		b_form: 0.35110325,
+		b_noise: 0.49718791,
+		b_freq: 0.54061520,
+		b_mod: 0.48930579,
+		b_sh: 0.35298502,
+		fm_amt: 0.66511428,
+		fm_mod: 0.02555895,
+		sub_am: 0.13415867,
+		balance: 0.49683779,
+		flt_freq: 0.50992334,
+		flt_mod: 0.84393454,
+		flt_sep: 0.36059624,
+		flt_q: 0.42847979,
+		flt_kf: 0.12686372,
+		fx_mix: 0.43058217,
+		fx_len: 0.20813754,
+		fx_damp: 0.61713868,
+		fx_chors: 0.28493994,
+		fx_size: 0.46506578
+	}
+}

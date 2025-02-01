@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "CS Botanist Means Organist"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 20.98063678 %
+	Effect: 0.00000000 %
+	Release: 439.24913451 ms 
+	WheelScale: 81.25000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x67ca46ab
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.09753656,
+		env_loop: 0.14315677,
+		env_tilt: 0.19514239,
+		vol_atk: 0.51333261,
+		vol_dcy: 0.35700113,
+		vol_sus: 0.90406775,
+		mod_atk: 0.47879857,
+		mod_dcy: 0.12928098,
+		mod_sh: 0.17637771,
+		mod_vel: 0.10894638,
+		lfo_rate: 0.88327229,
+		lfo_amt: 0.16087228,
+		lfo_bal: 0.27638566,
+		a_form: 0.32850438,
+		a_noise: 0.00000000,
+		a_color: 0.10833186,
+		a_freq: 0.50000000,
+		a_mod: 0.51219380,
+		b_form: 0.67243898,
+		b_noise: 0.45536649,
+		b_freq: 0.74078131,
+		b_mod: 0.51487064,
+		b_sh: 0.20784587,
+		fm_amt: 0.09494117,
+		fm_mod: 0.33583659,
+		sub_am: 0.63203686,
+		balance: 0.74937725,
+		flt_freq: 0.66636169,
+		flt_mod: 0.55685186,
+		flt_sep: 0.88346541,
+		flt_q: 0.69745219,
+		flt_kf: 0.03731412,
+		fx_mix: 0.47242749,
+		fx_len: 0.42662427,
+		fx_damp: 0.45478725,
+		fx_chors: 0.48976523,
+		fx_size: 0.58564430
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Synthetic 2 Organic"
+	ModWheel: 70.86614370 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 38.99999857 %
+	Effect: -37.74111271 %
+	Release: 335.70705312 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -4.68930426 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xdd85c670
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.79852176
+		env_loop: 0.37683481
+		env_tilt: 0.96096921
+		vol_atk: 0.81953198
+		vol_dcy: 0.88806748
+		vol_sus: 0.44208091
+		mod_atk: 0.31401539
+		mod_dcy: 0.60753214
+		mod_sh: 0.79895985
+		mod_vel: 0.50000000
+		lfo_rate: 0.43307739
+		lfo_amt: 0.00659776
+		lfo_bal: 0.15392339
+		a_form: 0.96435839
+		a_noise: 0.58841437
+		a_color: 0.70988679
+		a_freq: 0.50000000
+		a_mod: 0.49168885
+		b_form: 0.28224784
+		b_noise: 0.09995419
+		b_freq: 0.59173125
+		b_mod: 0.49485570
+		b_sh: 0.38107181
+		fm_amt: 0.40855604
+		fm_mod: 0.37339520
+		sub_am: 0.09002620
+		balance: 0.59991384
+		flt_freq: 0.70498788
+		flt_mod: 0.93929088
+		flt_sep: 0.19397062
+		flt_q: 0.88969761
+		flt_kf: 0.75700617
+		fx_mix: 0.70671433
+		fx_len: 0.58083147
+		fx_damp: 0.69283807
+		fx_chors: 0.32957739
+		fx_size: 0.35494933
+	}
+}

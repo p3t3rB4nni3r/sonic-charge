@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "EE Bubble"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: 100.00000000 %
+	Release: 223.60679775 ms 
+	WheelScale: 25.60975552 %
+	VelSens: 50.00000000 %
+	Volume: 10.72105895 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x7488df3f
+	Pitch: -0.28566980
+	Cloned: false
+	Genome: {
+		env_time: 0.45847028,
+		env_loop: 0.20919037,
+		env_tilt: 0.60730284,
+		vol_atk: 0.13279617,
+		vol_dcy: 0.01444626,
+		vol_sus: 0.13662127,
+		mod_atk: 0.99858272,
+		mod_dcy: 0.70302492,
+		mod_sh: 0.88209397,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.77548367,
+		lfo_amt: 0.29673970,
+		lfo_bal: 0.30225527,
+		a_form: 0.83990645,
+		a_noise: 0.33484674,
+		a_color: 0.38380283,
+		a_freq: 0.38094497,
+		a_mod: 0.21792161,
+		b_form: 0.24325466,
+		b_noise: 0.51554477,
+		b_freq: 0.74518144,
+		b_mod: 0.42619789,
+		b_sh: 0.94028068,
+		fm_amt: 0.73741668,
+		fm_mod: 0.92862451,
+		sub_am: 0.16288447,
+		balance: 0.74545157,
+		flt_freq: 0.00000000,
+		flt_mod: 0.36422855,
+		flt_sep: 0.86996830,
+		flt_q: 0.82087553,
+		flt_kf: 0.72409904,
+		fx_mix: 0.71988571,
+		fx_len: 0.66054136,
+		fx_damp: 0.64017630,
+		fx_chors: 0.04245079,
+		fx_size: 0.35494933
+	}
+}

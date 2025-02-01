@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Star Gated"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 47.51391411 %
+	Effect: 23.28766584 %
+	Release: 50.00000000 ms 
+	WheelScale: 75.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 2.75007110 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x656633c3
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.25321221
+		env_loop: 0.20452577
+		env_tilt: 0.32965803
+		vol_atk: 0.48052704
+		vol_dcy: 0.80283248
+		vol_sus: 0.31730402
+		mod_atk: 0.29395592
+		mod_dcy: 0.51780784
+		mod_sh: 0.45638311
+		mod_vel: 0.40868706
+		lfo_rate: 0.95239693
+		lfo_amt: 0.26720178
+		lfo_bal: 0.80357742
+		a_form: 0.70135355
+		a_noise: 0.79480636
+		a_color: 0.23627603
+		a_freq: 0.66666669
+		a_mod: 0.50000000
+		b_form: 0.37298286
+		b_noise: 0.32486916
+		b_freq: 0.00393438
+		b_mod: 0.50000000
+		b_sh: 0.15412605
+		fm_amt: 0.58682436
+		fm_mod: 0.42091489
+		sub_am: 0.61907303
+		balance: 0.26451886
+		flt_freq: 0.90397906
+		flt_mod: 0.23813593
+		flt_sep: 0.73357594
+		flt_q: 0.21234083
+		flt_kf: 0.64511573
+		fx_mix: 0.75630403
+		fx_len: 0.77958679
+		fx_damp: 0.98178661
+		fx_chors: 0.57792217
+		fx_size: 0.66017658
+	}
+}

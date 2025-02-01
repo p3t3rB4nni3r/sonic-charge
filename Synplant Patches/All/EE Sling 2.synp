@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 4
+	Name: "EE Sling 2"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +9.76101494 sm 
+	Atonality: 0.00000000 %
+	Effect: 100.00000000 %
+	Release: 4.20913411 s 
+	WheelScale: 42.68292785 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x4d4645eb
+	Pitch: -0.06272054
+	Cloned: false
+	Genome: {
+		env_time: 0.79308331,
+		env_loop: 0.81535196,
+		env_tilt: 0.09271502,
+		vol_atk: 0.00018710,
+		vol_dcy: 0.49066663,
+		vol_sus: 0.07566488,
+		mod_atk: 0.60196733,
+		mod_dcy: 0.55965441,
+		mod_sh: 0.48835468,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.11817002,
+		lfo_amt: 0.17891598,
+		lfo_bal: 0.41902113,
+		a_form: 0.21572757,
+		a_noise: 0.59317356,
+		a_color: 0.66770881,
+		a_freq: 0.20941344,
+		a_mod: 0.48883009,
+		b_form: 0.35952437,
+		b_noise: 0.73387873,
+		b_freq: 0.73437601,
+		b_mod: 0.49012518,
+		b_sh: 0.10411251,
+		fm_amt: 0.55272299,
+		fm_mod: 0.57568568,
+		sub_am: 0.17417336,
+		balance: 0.93134916,
+		flt_freq: 0.65355879,
+		flt_mod: 0.76806009,
+		flt_sep: 0.05892736,
+		flt_q: 0.11530912,
+		flt_kf: 0.52885491,
+		fx_mix: 0.89890498,
+		fx_len: 0.43751675,
+		fx_damp: 0.05849910,
+		fx_chors: 0.55621600,
+		fx_size: 0.35494933
+	}
+}

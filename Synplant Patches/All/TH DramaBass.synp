@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TH DramaBass"
+	ModWheel: 36.66766882 %
+	Rotation: 0.00000000 degrees
+	Tuning: +2.00623083 sm 
+	Atonality: 0.00000000 %
+	Effect: -67.71388352 %
+	Release: 214.08969643 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -2.24949421 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x0a366b05
+	Pitch: -2.14071226
+	Cloned: true
+	Genome: {
+		env_time: 0.94187218,
+		env_loop: 0.86754644,
+		env_tilt: 0.00000000,
+		vol_atk: 0.70778966,
+		vol_dcy: 0.97789526,
+		vol_sus: 0.95370585,
+		mod_atk: 0.54169554,
+		mod_dcy: 0.47248146,
+		mod_sh: 0.84202981,
+		mod_vel: 0.38214356,
+		lfo_rate: 0.35180885,
+		lfo_amt: 0.58356994,
+		lfo_bal: 0.05577815,
+		a_form: 0.96221483,
+		a_noise: 0.24060875,
+		a_color: 0.01033545,
+		a_freq: 0.49962193,
+		a_mod: 0.50005567,
+		b_form: 0.79800773,
+		b_noise: 0.09728348,
+		b_freq: 0.56209487,
+		b_mod: 0.50000000,
+		b_sh: 0.06292057,
+		fm_amt: 0.33560345,
+		fm_mod: 0.88172382,
+		sub_am: 0.79449463,
+		balance: 0.86536217,
+		flt_freq: 0.09042137,
+		flt_mod: 0.57372856,
+		flt_sep: 0.20100787,
+		flt_q: 0.61605066,
+		flt_kf: 0.54666173,
+		fx_mix: 1.00000000,
+		fx_len: 0.32013366,
+		fx_damp: 0.65249437,
+		fx_chors: 1.00000000,
+		fx_size: 0.30973813
+	}
+}

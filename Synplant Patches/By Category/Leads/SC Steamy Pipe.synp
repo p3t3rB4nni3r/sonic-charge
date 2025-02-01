@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "pipy v1b"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.49999999 %
+	Effect: 78.65543365 %
+	Release: 3.65229737 s 
+	WheelScale: 39.99999762 %
+	VelSens: 16.75000042 %
+	Volume: 0.00000000 dB
+	Branch1: 3.14758681 %
+	Branch2: 3.14758681 %
+	Branch3: 3.14758681 %
+	Branch4: 3.14758681 %
+	Branch5: 3.14758681 %
+	Branch6: 3.14758681 %
+	Branch7: 3.14758681 %
+	Branch8: 3.14758681 %
+	Branch9: 3.14758681 %
+	Branch10: 3.14758681 %
+	Branch11: 3.14758681 %
+	Branch12: 3.14758681 %
+	Seed: 0x4a0c6ce1
+	Pitch: 0.74676800
+	Cloned: true
+	Genome: {
+		env_time: 0.32625109
+		env_loop: 0.57070088
+		env_tilt: 0.74512184
+		vol_atk: 0.86923736
+		vol_dcy: 0.44030166
+		vol_sus: 0.71285707
+		mod_atk: 0.26872647
+		mod_dcy: 0.18381006
+		mod_sh: 0.71887237
+		mod_vel: 0.80595326
+		lfo_rate: 0.60791636
+		lfo_amt: 0.11481607
+		lfo_bal: 0.65412790
+		a_form: 0.05980456
+		a_noise: 0.82169181
+		a_color: 0.56292695
+		a_freq: 0.54220533
+		a_mod: 0.43229830
+		b_form: 0.11484206
+		b_noise: 1.00000000
+		b_freq: 0.21060777
+		b_mod: 0.44796884
+		b_sh: 0.83916104
+		fm_amt: 0.50506562
+		fm_mod: 0.71173388
+		sub_am: 0.36047137
+		balance: 0.42353129
+		flt_freq: 0.63502085
+		flt_mod: 0.41539061
+		flt_sep: 0.70307374
+		flt_q: 0.90922284
+		flt_kf: 0.78679615
+		fx_mix: 0.83272755
+		fx_len: 0.48155785
+		fx_damp: 0.87669581
+		fx_chors: 0.79159933
+		fx_size: 0.30816618
+	}
+}

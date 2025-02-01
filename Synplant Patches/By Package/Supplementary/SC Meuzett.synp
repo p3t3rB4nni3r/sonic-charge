@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Meuzett"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 68.30511093 %
+	Release: 325.11823032 ms 
+	WheelScale: 73.17073345 %
+	VelSens: 50.00000000 %
+	Volume: -4.56538108 dB
+	Branch1: 1.20481923 %
+	Branch2: 1.20481923 %
+	Branch3: 1.20481923 %
+	Branch4: 1.20481923 %
+	Branch5: 1.20481923 %
+	Branch6: 1.20481923 %
+	Branch7: 1.20481923 %
+	Branch8: 1.20481923 %
+	Branch9: 1.20481923 %
+	Branch10: 1.20481923 %
+	Branch11: 1.20481923 %
+	Branch12: 1.20481923 %
+	Seed: 0xb672af8e
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.63479406,
+		env_loop: 0.94902432,
+		env_tilt: 0.63498861,
+		vol_atk: 0.65908051,
+		vol_dcy: 0.94734836,
+		vol_sus: 0.52385318,
+		mod_atk: 0.39296532,
+		mod_dcy: 0.08379996,
+		mod_sh: 0.62546349,
+		mod_vel: 0.93442613,
+		lfo_rate: 0.67954952,
+		lfo_amt: 0.14647037,
+		lfo_bal: 0.25548244,
+		a_form: 0.66726869,
+		a_noise: 0.60137463,
+		a_color: 0.59729987,
+		a_freq: 0.83333331,
+		a_mod: 0.50000000,
+		b_form: 0.78472596,
+		b_noise: 0.08319473,
+		b_freq: 0.42949617,
+		b_mod: 0.50000000,
+		b_sh: 0.49041677,
+		fm_amt: 0.34907353,
+		fm_mod: 0.61713147,
+		sub_am: 0.45248342,
+		balance: 0.79410630,
+		flt_freq: 0.58916801,
+		flt_mod: 0.52381164,
+		flt_sep: 0.56647843,
+		flt_q: 0.80310971,
+		flt_kf: 0.76566851,
+		fx_mix: 0.21298862,
+		fx_len: 0.31719172,
+		fx_damp: 0.40220571,
+		fx_chors: 0.33124459,
+		fx_size: 0.41893733
+	}
+}

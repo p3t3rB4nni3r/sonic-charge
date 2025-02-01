@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "SM Leadpad"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 44.80239749 %
+	Effect: -31.43681884 %
+	Release: 1.18989604 s 
+	WheelScale: 47.14634120 %
+	VelSens: 50.00000000 %
+	Volume: -1.48001199 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x59847e7d
+	Pitch: 4.73103619
+	Cloned: false
+	Genome: {
+		env_time: 0.71274596,
+		env_loop: 0.69049919,
+		env_tilt: 0.33458322,
+		vol_atk: 0.26683611,
+		vol_dcy: 0.06640351,
+		vol_sus: 0.93223846,
+		mod_atk: 0.40654135,
+		mod_dcy: 0.86014241,
+		mod_sh: 0.53823858,
+		mod_vel: 0.46276617,
+		lfo_rate: 0.62603819,
+		lfo_amt: 0.14539349,
+		lfo_bal: 0.00039405,
+		a_form: 0.50488055,
+		a_noise: 0.53509140,
+		a_color: 0.84478372,
+		a_freq: 0.04482728,
+		a_mod: 0.47654289,
+		b_form: 0.06951594,
+		b_noise: 0.45432830,
+		b_freq: 0.48167384,
+		b_mod: 0.51051724,
+		b_sh: 0.20210814,
+		fm_amt: 0.53102303,
+		fm_mod: 0.91414076,
+		sub_am: 0.32730246,
+		balance: 0.78562200,
+		flt_freq: 0.12301260,
+		flt_mod: 0.91156578,
+		flt_sep: 0.13527870,
+		flt_q: 0.31139386,
+		flt_kf: 0.84023082,
+		fx_mix: 0.94784302,
+		fx_len: 0.84337789,
+		fx_damp: 0.22839302,
+		fx_chors: 0.94904011,
+		fx_size: 0.28343385
+	}
+}

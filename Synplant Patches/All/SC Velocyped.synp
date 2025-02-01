@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Velocyped"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 54.49390411 %
+	Release: 11.75627617 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -3.04006263 dB
+	Branch1: 100.00000000 %
+	Branch2: 100.00000000 %
+	Branch3: 100.00000000 %
+	Branch4: 100.00000000 %
+	Branch5: 100.00000000 %
+	Branch6: 100.00000000 %
+	Branch7: 100.00000000 %
+	Branch8: 100.00000000 %
+	Branch9: 100.00000000 %
+	Branch10: 100.00000000 %
+	Branch11: 100.00000000 %
+	Branch12: 100.00000000 %
+	Seed: 0x98e7ac01
+	Pitch: -2.00734568
+	Cloned: true
+	Genome: {
+		env_time: 0.72192067
+		env_loop: 0.31257862
+		env_tilt: 0.28545749
+		vol_atk: 0.92795020
+		vol_dcy: 0.35189468
+		vol_sus: 0.22349423
+		mod_atk: 0.23838556
+		mod_dcy: 0.83843136
+		mod_sh: 0.28946131
+		mod_vel: 0.21875501
+		lfo_rate: 0.64560753
+		lfo_amt: 0.29367959
+		lfo_bal: 0.53758943
+		a_form: 0.57710755
+		a_noise: 0.38662636
+		a_color: 0.01521182
+		a_freq: 0.83455759
+		a_mod: 0.49715209
+		b_form: 0.09691566
+		b_noise: 0.12972188
+		b_freq: 0.83720887
+		b_mod: 0.52355254
+		b_sh: 0.08717763
+		fm_amt: 0.03045446
+		fm_mod: 0.03078640
+		sub_am: 0.71173054
+		balance: 0.56019747
+		flt_freq: 0.63963342
+		flt_mod: 0.15347308
+		flt_sep: 0.73078775
+		flt_q: 0.96150064
+		flt_kf: 0.71976185
+		fx_mix: 0.19194007
+		fx_len: 0.49606812
+		fx_damp: 0.74987829
+		fx_chors: 0.16945881
+		fx_size: 0.68618608
+	}
+}

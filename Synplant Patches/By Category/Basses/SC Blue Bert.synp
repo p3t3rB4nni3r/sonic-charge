@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Blue Bert"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +23.48055840 ct 
+	Atonality: 0.00000000 %
+	Effect: -53.44876349 %
+	Release: 50.00000000 ms 
+	WheelScale: 32.92683065 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x16363e5c
+	Pitch: 0.36286759
+	Cloned: true
+	Genome: {
+		env_time: 0.81976354,
+		env_loop: 0.79105103,
+		env_tilt: 0.41184342,
+		vol_atk: 1.00000000,
+		vol_dcy: 0.41743338,
+		vol_sus: 0.65500802,
+		mod_atk: 0.78536230,
+		mod_dcy: 0.21395028,
+		mod_sh: 0.18071997,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.11423409,
+		lfo_amt: 0.84492350,
+		lfo_bal: 0.00595480,
+		a_form: 0.80409211,
+		a_noise: 0.55422413,
+		a_color: 0.40368605,
+		a_freq: 0.27285540,
+		a_mod: 0.50931758,
+		b_form: 0.47438782,
+		b_noise: 0.74127942,
+		b_freq: 0.47805810,
+		b_mod: 0.50529116,
+		b_sh: 0.79941428,
+		fm_amt: 0.67452919,
+		fm_mod: 0.50194204,
+		sub_am: 0.61168593,
+		balance: 0.77682078,
+		flt_freq: 0.30645734,
+		flt_mod: 0.84247839,
+		flt_sep: 0.23053920,
+		flt_q: 0.54958105,
+		flt_kf: 0.44564819,
+		fx_mix: 1.00000000,
+		fx_len: 0.00000000,
+		fx_damp: 0.08512819,
+		fx_chors: 0.35522294,
+		fx_size: 0.21285880
+	}
+}

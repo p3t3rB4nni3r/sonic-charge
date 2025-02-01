@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "shards v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 6.19358942 %
+	Effect: 0.00000000 %
+	Release: 5.41309266 s 
+	WheelScale: 52.49999762 %
+	VelSens: 50.00000000 %
+	Volume: -1.08074964 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x4f5035fc
+	Pitch: 0.41774178
+	Cloned: true
+	Genome: {
+		env_time: 0.38397557
+		env_loop: 0.45795965
+		env_tilt: 0.23938555
+		vol_atk: 0.38750100
+		vol_dcy: 0.42175734
+		vol_sus: 0.80718994
+		mod_atk: 0.58397657
+		mod_dcy: 0.36575073
+		mod_sh: 0.84703982
+		mod_vel: 0.00000000
+		lfo_rate: 0.33642352
+		lfo_amt: 0.70636332
+		lfo_bal: 0.49287850
+		a_form: 0.78142452
+		a_noise: 0.54963803
+		a_color: 0.64617413
+		a_freq: 0.93037641
+		a_mod: 0.47003198
+		b_form: 0.70687288
+		b_noise: 0.57366377
+		b_freq: 0.70692235
+		b_mod: 0.53466511
+		b_sh: 0.23089927
+		fm_amt: 0.50216579
+		fm_mod: 0.36583722
+		sub_am: 0.09926766
+		balance: 0.87255025
+		flt_freq: 0.58778864
+		flt_mod: 0.96574259
+		flt_sep: 0.53817219
+		flt_q: 0.39639986
+		flt_kf: 1.00000000
+		fx_mix: 0.69246835
+		fx_len: 0.67781878
+		fx_damp: 0.13288605
+		fx_chors: 0.55893773
+		fx_size: 0.33611396
+	}
+}

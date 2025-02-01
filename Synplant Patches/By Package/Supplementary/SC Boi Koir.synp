@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 4
+	Name: "NE Boi Koir"
+	ModWheel: 50.39370060 %
+	Rotation: 90.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 71.78549767 %
+	Release: 4.37389555 s 
+	WheelScale: 31.79877996 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x0b2deca7
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.52801841,
+		env_loop: 0.70624417,
+		env_tilt: 0.87037200,
+		vol_atk: 0.63560998,
+		vol_dcy: 0.61708450,
+		vol_sus: 0.97218156,
+		mod_atk: 0.43960395,
+		mod_dcy: 0.86090273,
+		mod_sh: 0.15053017,
+		mod_vel: 0.66146684,
+		lfo_rate: 0.37076458,
+		lfo_amt: 0.12168989,
+		lfo_bal: 0.02317862,
+		a_form: 0.27380392,
+		a_noise: 0.75685066,
+		a_color: 0.58448559,
+		a_freq: 0.50000000,
+		a_mod: 0.44805545,
+		b_form: 0.13807355,
+		b_noise: 0.42011362,
+		b_freq: 0.59173125,
+		b_mod: 0.46784821,
+		b_sh: 0.46373674,
+		fm_amt: 0.49043784,
+		fm_mod: 0.09763947,
+		sub_am: 0.05643759,
+		balance: 0.43382964,
+		flt_freq: 0.73616076,
+		flt_mod: 0.49749571,
+		flt_sep: 0.18170686,
+		flt_q: 0.78328061,
+		flt_kf: 0.29964554,
+		fx_mix: 0.49961609,
+		fx_len: 0.71229029,
+		fx_damp: 0.60121119,
+		fx_chors: 0.67706680,
+		fx_size: 0.35494933
+	}
+}

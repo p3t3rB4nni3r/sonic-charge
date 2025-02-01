@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "anotherFemaleV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 14.41298425 %
+	Effect: 0.00000000 %
+	Release: 3.14228859 s 
+	WheelScale: 75.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -1.53214446 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x018760ad
+	Pitch: -0.74633551
+	Cloned: true
+	Genome: {
+		env_time: 0.64187866
+		env_loop: 0.31927919
+		env_tilt: 0.50741595
+		vol_atk: 0.36054808
+		vol_dcy: 0.42064667
+		vol_sus: 0.89454424
+		mod_atk: 0.40496898
+		mod_dcy: 0.02079165
+		mod_sh: 0.03024983
+		mod_vel: 0.00000000
+		lfo_rate: 0.89283168
+		lfo_amt: 0.22620082
+		lfo_bal: 0.46978843
+		a_form: 0.41154158
+		a_noise: 0.83603889
+		a_color: 0.78199959
+		a_freq: 0.62438923
+		a_mod: 0.56444806
+		b_form: 0.32334757
+		b_noise: 0.33337402
+		b_freq: 0.67325622
+		b_mod: 0.53558439
+		b_sh: 0.35149968
+		fm_amt: 0.43622029
+		fm_mod: 0.46334231
+		sub_am: 0.12270451
+		balance: 0.75833327
+		flt_freq: 0.64291167
+		flt_mod: 0.54828316
+		flt_sep: 0.94373268
+		flt_q: 0.76348144
+		flt_kf: 0.45101535
+		fx_mix: 0.65239161
+		fx_len: 0.69118863
+		fx_damp: 0.40685320
+		fx_chors: 0.86509573
+		fx_size: 0.80685389
+	}
+}

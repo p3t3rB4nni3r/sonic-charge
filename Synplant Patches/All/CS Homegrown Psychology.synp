@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "CS Homegrown Psychology"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 30.45787215 %
+	Effect: -48.89770150 %
+	Release: 439.24913451 ms 
+	WheelScale: 13.75000179 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x446dbf72
+	Pitch: 0.99999976
+	Cloned: false
+	Genome: {
+		env_time: 0.65518498,
+		env_loop: 0.52449566,
+		env_tilt: 0.27572024,
+		vol_atk: 0.55911750,
+		vol_dcy: 0.94167018,
+		vol_sus: 1.00000000,
+		mod_atk: 0.07542294,
+		mod_dcy: 0.77872556,
+		mod_sh: 0.68752152,
+		mod_vel: 0.22905582,
+		lfo_rate: 0.48069263,
+		lfo_amt: 0.48163325,
+		lfo_bal: 0.44691175,
+		a_form: 0.81782180,
+		a_noise: 0.33810180,
+		a_color: 0.73610556,
+		a_freq: 0.33333337,
+		a_mod: 0.44354844,
+		b_form: 0.33264065,
+		b_noise: 0.34897232,
+		b_freq: 0.47389483,
+		b_mod: 0.56393188,
+		b_sh: 0.94711953,
+		fm_amt: 0.41901302,
+		fm_mod: 0.69645888,
+		sub_am: 0.46919703,
+		balance: 0.58836585,
+		flt_freq: 0.16782081,
+		flt_mod: 0.84814626,
+		flt_sep: 0.07270396,
+		flt_q: 0.51391810,
+		flt_kf: 0.48000312,
+		fx_mix: 0.67687517,
+		fx_len: 0.86638588,
+		fx_damp: 0.14210415,
+		fx_chors: 0.26127565,
+		fx_size: 0.15034777
+	}
+}

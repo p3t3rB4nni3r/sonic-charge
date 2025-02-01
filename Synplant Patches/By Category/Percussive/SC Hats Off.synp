@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Hats Off"
+	ModWheel: 0.00000000 %
+	Rotation: 90.00000000 degrees
+	Tuning: +1.97079277 sm 
+	Atonality: 60.00000238 %
+	Effect: -75.88561326 %
+	Release: 606.15314418 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 4.03267663 dB
+	Branch1: 67.30461121 %
+	Branch2: 66.96444750 %
+	Branch3: 59.54149365 %
+	Branch4: 58.39688778 %
+	Branch5: 51.20862722 %
+	Branch6: 45.33339441 %
+	Branch7: 42.49900281 %
+	Branch8: 35.19958258 %
+	Branch9: 26.39758289 %
+	Branch10: 14.89178538 %
+	Branch11: 7.57037774 %
+	Branch12: 4.59770113 %
+	Seed: 0xcf120967
+	Pitch: 1.19393015
+	Cloned: true
+	Genome: {
+		env_time: 0.60735619,
+		env_loop: 0.31356409,
+		env_tilt: 0.29368931,
+		vol_atk: 0.18532018,
+		vol_dcy: 0.00000000,
+		vol_sus: 0.00000000,
+		mod_atk: 0.40583923,
+		mod_dcy: 0.87072515,
+		mod_sh: 0.60521680,
+		mod_vel: 0.00000000,
+		lfo_rate: 0.48023644,
+		lfo_amt: 0.12110179,
+		lfo_bal: 0.78719741,
+		a_form: 0.49853438,
+		a_noise: 0.87615669,
+		a_color: 1.00000000,
+		a_freq: 0.13434497,
+		a_mod: 0.95452297,
+		b_form: 0.52522641,
+		b_noise: 0.47409019,
+		b_freq: 0.07005131,
+		b_mod: 0.45638078,
+		b_sh: 0.40722564,
+		fm_amt: 0.64804518,
+		fm_mod: 0.22790183,
+		sub_am: 0.21033591,
+		balance: 0.55909574,
+		flt_freq: 0.77623439,
+		flt_mod: 0.64259529,
+		flt_sep: 0.39317730,
+		flt_q: 0.70584726,
+		flt_kf: 0.54159552,
+		fx_mix: 0.52383488,
+		fx_len: 0.72736466,
+		fx_damp: 0.47304544,
+		fx_chors: 0.93473595,
+		fx_size: 0.25836018
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Rezo Nation"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 23.28766584 %
+	Release: 180.39404498 ms 
+	WheelScale: 43.25342476 %
+	VelSens: 50.00000000 %
+	Volume: 2.75006797 dB
+	Branch1: 51.52377486 %
+	Branch2: 32.21604824 %
+	Branch3: 51.52377486 %
+	Branch4: 51.52377486 %
+	Branch5: 30.57053685 %
+	Branch6: 51.52377486 %
+	Branch7: 51.52377486 %
+	Branch8: 51.52377486 %
+	Branch9: 51.52377486 %
+	Branch10: 51.52377486 %
+	Branch11: 51.52377486 %
+	Branch12: 51.52377486 %
+	Seed: 0x5135a55f
+	Pitch: -1.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.21304762
+		env_loop: 0.37776208
+		env_tilt: 0.31935620
+		vol_atk: 0.67640513
+		vol_dcy: 0.50043893
+		vol_sus: 0.95333081
+		mod_atk: 0.67551529
+		mod_dcy: 0.09086913
+		mod_sh: 0.71280921
+		mod_vel: 0.13335216
+		lfo_rate: 0.55773270
+		lfo_amt: 0.47222942
+		lfo_bal: 0.77314067
+		a_form: 0.77164924
+		a_noise: 0.59724367
+		a_color: 0.86497927
+		a_freq: 0.50000000
+		a_mod: 0.50000000
+		b_form: 0.86724991
+		b_noise: 0.59763759
+		b_freq: 0.62658983
+		b_mod: 0.50000000
+		b_sh: 0.39469934
+		fm_amt: 0.73252821
+		fm_mod: 0.39169765
+		sub_am: 0.10996711
+		balance: 0.92705691
+		flt_freq: 0.49729311
+		flt_mod: 0.29092348
+		flt_sep: 0.50655800
+		flt_q: 0.91260886
+		flt_kf: 0.47981882
+		fx_mix: 0.02762419
+		fx_len: 0.26456678
+		fx_damp: 0.18368745
+		fx_chors: 0.74447888
+		fx_size: 0.50000000
+	}
+}

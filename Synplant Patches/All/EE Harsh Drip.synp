@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "EE Harsh Drip"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 83.59578848 %
+	Release: 2.29405964 s 
+	WheelScale: 35.36585271 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x00c6074a
+	Pitch: 0.17902088
+	Cloned: false
+	Genome: {
+		env_time: 0.42988342,
+		env_loop: 0.98173213,
+		env_tilt: 0.13826978,
+		vol_atk: 0.52390534,
+		vol_dcy: 0.55555063,
+		vol_sus: 0.85638541,
+		mod_atk: 0.90150213,
+		mod_dcy: 0.81223327,
+		mod_sh: 0.82222509,
+		mod_vel: 0.68670022,
+		lfo_rate: 0.75731683,
+		lfo_amt: 0.19997323,
+		lfo_bal: 0.18777680,
+		a_form: 0.93888229,
+		a_noise: 0.54486114,
+		a_color: 0.82648396,
+		a_freq: 0.63682985,
+		a_mod: 0.50444788,
+		b_form: 0.26218224,
+		b_noise: 0.07649398,
+		b_freq: 0.21849394,
+		b_mod: 0.50094402,
+		b_sh: 0.65877396,
+		fm_amt: 0.42925018,
+		fm_mod: 0.19617671,
+		sub_am: 0.54165548,
+		balance: 0.02131784,
+		flt_freq: 0.47607899,
+		flt_mod: 0.47217321,
+		flt_sep: 0.22860068,
+		flt_q: 0.35141313,
+		flt_kf: 0.15202975,
+		fx_mix: 0.09054363,
+		fx_len: 0.95775247,
+		fx_damp: 0.57090050,
+		fx_chors: 0.67398506,
+		fx_size: 0.35494933
+	}
+}

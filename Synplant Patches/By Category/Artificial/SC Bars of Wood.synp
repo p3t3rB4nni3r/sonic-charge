@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "glucken2v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 60.13357639 %
+	Effect: 16.79760218 %
+	Release: 20.00000000 s 
+	WheelScale: 40.00000060 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 3.23874690 %
+	Branch2: 9.68682542 %
+	Branch3: 11.08011529 %
+	Branch4: 11.59442365 %
+	Branch5: 24.22196716 %
+	Branch6: 10.10205969 %
+	Branch7: 25.54232478 %
+	Branch8: 19.19058561 %
+	Branch9: 20.05009651 %
+	Branch10: 24.31339175 %
+	Branch11: 15.24561048 %
+	Branch12: 9.68682542 %
+	Seed: 0x00000001
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.51869786
+		env_loop: 0.88988429
+		env_tilt: 0.10042123
+		vol_atk: 0.20519356
+		vol_dcy: 0.47803208
+		vol_sus: 0.29915830
+		mod_atk: 0.71386790
+		mod_dcy: 0.73006237
+		mod_sh: 0.85332406
+		mod_vel: 0.00000000
+		lfo_rate: 0.14665850
+		lfo_amt: 0.69403297
+		lfo_bal: 0.90734285
+		a_form: 0.08876608
+		a_noise: 0.69915336
+		a_color: 0.64962852
+		a_freq: 0.66563040
+		a_mod: 0.51013267
+		b_form: 0.00949757
+		b_noise: 0.16691256
+		b_freq: 0.68364614
+		b_mod: 0.52346772
+		b_sh: 0.46134475
+		fm_amt: 0.56228346
+		fm_mod: 1.00000000
+		sub_am: 0.21484181
+		balance: 0.59000152
+		flt_freq: 0.68867379
+		flt_mod: 0.56129324
+		flt_sep: 0.78698069
+		flt_q: 0.96885455
+		flt_kf: 0.65123188
+		fx_mix: 0.12159060
+		fx_len: 0.82324058
+		fx_damp: 0.88773811
+		fx_chors: 0.82330316
+		fx_size: 0.24170505
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "EsqOrgan1v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 6.56508580 %
+	Effect: -67.65784025 %
+	Release: 123.60528255 ms 
+	WheelScale: 67.50000119 %
+	VelSens: 0.00000000 %
+	Volume: -3.85290156 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x00000006
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.05144462
+		env_loop: 0.09256691
+		env_tilt: 0.13687299
+		vol_atk: 0.40302530
+		vol_dcy: 0.81544477
+		vol_sus: 0.92235827
+		mod_atk: 0.34807876
+		mod_dcy: 0.03445395
+		mod_sh: 0.63123256
+		mod_vel: 0.00000000
+		lfo_rate: 0.57611269
+		lfo_amt: 0.80884862
+		lfo_bal: 0.70327538
+		a_form: 0.44627884
+		a_noise: 0.64996797
+		a_color: 0.53355604
+		a_freq: 0.66704953
+		a_mod: 0.60863078
+		b_form: 0.26556605
+		b_noise: 0.43400499
+		b_freq: 0.50596058
+		b_mod: 0.48504984
+		b_sh: 0.46406260
+		fm_amt: 0.58840758
+		fm_mod: 0.60473555
+		sub_am: 0.47416303
+		balance: 0.74941570
+		flt_freq: 0.55440944
+		flt_mod: 0.64250052
+		flt_sep: 0.74354202
+		flt_q: 0.73369157
+		flt_kf: 1.00000000
+		fx_mix: 0.57024145
+		fx_len: 0.04587724
+		fx_damp: 0.79228973
+		fx_chors: 0.09103167
+		fx_size: 0.97184747
+	}
+}

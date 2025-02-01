@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "neatom v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 5.16579336 s 
+	WheelScale: 28.74999940 %
+	VelSens: 0.00000000 %
+	Volume: 1.40778197 dB
+	Branch1: 33.26063156 %
+	Branch2: 33.26063156 %
+	Branch3: 33.26063156 %
+	Branch4: 33.26063156 %
+	Branch5: 33.26063156 %
+	Branch6: 33.26063156 %
+	Branch7: 33.26063156 %
+	Branch8: 33.26063156 %
+	Branch9: 33.26063156 %
+	Branch10: 33.26063156 %
+	Branch11: 33.26063156 %
+	Branch12: 33.26063156 %
+	Seed: 0x0de5bab8
+	Pitch: -0.47088337
+	Cloned: true
+	Genome: {
+		env_time: 0.30593252
+		env_loop: 0.56887919
+		env_tilt: 0.33881974
+		vol_atk: 0.82339787
+		vol_dcy: 0.44866908
+		vol_sus: 0.40454739
+		mod_atk: 0.79302049
+		mod_dcy: 0.17360538
+		mod_sh: 0.49302256
+		mod_vel: 0.03118718
+		lfo_rate: 0.16255957
+		lfo_amt: 0.07733893
+		lfo_bal: 0.81851625
+		a_form: 0.72127450
+		a_noise: 0.33298469
+		a_color: 0.29688007
+		a_freq: 0.41181391
+		a_mod: 0.61361521
+		b_form: 0.31117135
+		b_noise: 0.44251043
+		b_freq: 0.52645284
+		b_mod: 0.42248464
+		b_sh: 0.08836430
+		fm_amt: 0.32379889
+		fm_mod: 0.32036811
+		sub_am: 0.51842707
+		balance: 0.82309896
+		flt_freq: 0.12043071
+		flt_mod: 0.98729300
+		flt_sep: 0.59159648
+		flt_q: 0.32026428
+		flt_kf: 0.99896049
+		fx_mix: 0.45584577
+		fx_len: 0.35168064
+		fx_damp: 0.86655813
+		fx_chors: 0.13995665
+		fx_size: 0.21805972
+	}
+}

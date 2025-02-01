@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Donaldux"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 94.99999881 %
+	Effect: 0.00000000 %
+	Release: 104.99999825 ms 
+	WheelScale: 17.49999970 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 15.07296562 %
+	Branch3: 16.52424037 %
+	Branch4: 0.00000000 %
+	Branch5: 28.45234573 %
+	Branch6: 14.73232508 %
+	Branch7: 14.47504014 %
+	Branch8: 6.38788342 %
+	Branch9: 17.57818311 %
+	Branch10: 23.02048951 %
+	Branch11: 16.72069579 %
+	Branch12: 31.61962628 %
+	Seed: 0x0b797083
+	Pitch: -0.35005400
+	Cloned: false
+	Genome: {
+		env_time: 0.94000000,
+		env_loop: 0.19196497,
+		env_tilt: 0.26687118,
+		vol_atk: 0.55526423,
+		vol_dcy: 0.87146986,
+		vol_sus: 0.79932714,
+		mod_atk: 0.19867940,
+		mod_dcy: 0.14030851,
+		mod_sh: 0.68370861,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.48572031,
+		lfo_amt: 0.07049181,
+		lfo_bal: 0.84203750,
+		a_form: 0.94839388,
+		a_noise: 0.38275179,
+		a_color: 0.79674375,
+		a_freq: 0.42166418,
+		a_mod: 0.16715997,
+		b_form: 0.96692485,
+		b_noise: 0.92232561,
+		b_freq: 0.53072107,
+		b_mod: 0.44564435,
+		b_sh: 0.96141428,
+		fm_amt: 0.84906501,
+		fm_mod: 0.50077879,
+		sub_am: 0.25000000,
+		balance: 0.76955932,
+		flt_freq: 0.15365157,
+		flt_mod: 0.31272587,
+		flt_sep: 0.50000751,
+		flt_q: 1.00000000,
+		flt_kf: 0.75000000,
+		fx_mix: 0.39217195,
+		fx_len: 0.27311993,
+		fx_damp: 0.17314726,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

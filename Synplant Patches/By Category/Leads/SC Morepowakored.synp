@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Morepowakored"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -5.01267028 sm 
+	Atonality: 5.29984608 %
+	Effect: 1.56661272 %
+	Release: 1.14680624 s 
+	WheelScale: 86.25000119 %
+	VelSens: 0.00000000 %
+	Volume: -3.04006072 dB
+	Branch1: 9.37238634 %
+	Branch2: 9.37238634 %
+	Branch3: 9.37238634 %
+	Branch4: 9.37238634 %
+	Branch5: 9.37238634 %
+	Branch6: 9.37238634 %
+	Branch7: 9.37238634 %
+	Branch8: 9.37238634 %
+	Branch9: 9.37238634 %
+	Branch10: 9.37238634 %
+	Branch11: 9.37238634 %
+	Branch12: 9.37238634 %
+	Seed: 0x221d9ce2
+	Pitch: 0.23126197
+	Cloned: true
+	Genome: {
+		env_time: 0.34932870
+		env_loop: 0.68101966
+		env_tilt: 0.04707772
+		vol_atk: 0.15612239
+		vol_dcy: 0.89729857
+		vol_sus: 0.95780802
+		mod_atk: 0.08634728
+		mod_dcy: 0.17205298
+		mod_sh: 0.05757946
+		mod_vel: 0.18476689
+		lfo_rate: 0.03095675
+		lfo_amt: 0.22946662
+		lfo_bal: 0.04195839
+		a_form: 0.57075155
+		a_noise: 0.01939756
+		a_color: 0.65962017
+		a_freq: 0.29478967
+		a_mod: 0.50115877
+		b_form: 0.15916616
+		b_noise: 0.56869429
+		b_freq: 0.54026449
+		b_mod: 0.49743706
+		b_sh: 0.66306913
+		fm_amt: 0.11659890
+		fm_mod: 0.39997333
+		sub_am: 0.67351061
+		balance: 0.37610513
+		flt_freq: 0.82055080
+		flt_mod: 0.47136492
+		flt_sep: 0.08862257
+		flt_q: 0.37334490
+		flt_kf: 0.03922516
+		fx_mix: 0.60315609
+		fx_len: 0.36572844
+		fx_damp: 0.17776495
+		fx_chors: 0.04566920
+		fx_size: 0.04493320
+	}
+}

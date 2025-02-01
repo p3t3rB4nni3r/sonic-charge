@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TH SlightEerie"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.24261475 ct 
+	Atonality: 0.00000000 %
+	Effect: -16.40737653 %
+	Release: 2.61096097 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -3.85290352 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x231ba4b1
+	Pitch: -0.00020218
+	Cloned: false
+	Genome: {
+		env_time: 0.99701643,
+		env_loop: 0.72782660,
+		env_tilt: 0.79982412,
+		vol_atk: 0.64380234,
+		vol_dcy: 0.52922499,
+		vol_sus: 0.44868040,
+		mod_atk: 0.75064510,
+		mod_dcy: 0.64354956,
+		mod_sh: 0.80600083,
+		mod_vel: 0.14302015,
+		lfo_rate: 0.62788045,
+		lfo_amt: 0.82983434,
+		lfo_bal: 0.14488375,
+		a_form: 0.98160762,
+		a_noise: 0.32283199,
+		a_color: 0.00587702,
+		a_freq: 0.50003368,
+		a_mod: 0.50000000,
+		b_form: 0.80206776,
+		b_noise: 0.57552975,
+		b_freq: 0.50021845,
+		b_mod: 0.50000000,
+		b_sh: 0.04587090,
+		fm_amt: 0.30248582,
+		fm_mod: 0.82089323,
+		sub_am: 0.95421350,
+		balance: 0.60336190,
+		flt_freq: 0.43393230,
+		flt_mod: 0.53807378,
+		flt_sep: 0.40952641,
+		flt_q: 0.80026525,
+		flt_kf: 0.80029190,
+		fx_mix: 0.54112852,
+		fx_len: 0.79695415,
+		fx_damp: 0.40933555,
+		fx_chors: 0.61355555,
+		fx_size: 0.67227513
+	}
+}

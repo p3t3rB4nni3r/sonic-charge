@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "neatoleado v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 46.37191296 %
+	Release: 639.39037919 ms 
+	WheelScale: 30.00000119 %
+	VelSens: 31.25000000 %
+	Volume: 0.00000000 dB
+	Branch1: 3.63761894 %
+	Branch2: 3.63761894 %
+	Branch3: 3.63761894 %
+	Branch4: 3.63761894 %
+	Branch5: 3.63761894 %
+	Branch6: 3.63761894 %
+	Branch7: 3.63761894 %
+	Branch8: 3.63761894 %
+	Branch9: 3.63761894 %
+	Branch10: 3.63761894 %
+	Branch11: 3.63761894 %
+	Branch12: 3.63761894 %
+	Seed: 0xd861f6e5
+	Pitch: 0.18644524
+	Cloned: true
+	Genome: {
+		env_time: 0.50111175
+		env_loop: 0.97188145
+		env_tilt: 0.77269983
+		vol_atk: 0.29071105
+		vol_dcy: 0.61369091
+		vol_sus: 0.71954024
+		mod_atk: 0.23511970
+		mod_dcy: 0.12274683
+		mod_sh: 0.13925380
+		mod_vel: 0.94296479
+		lfo_rate: 0.67476505
+		lfo_amt: 0.88496339
+		lfo_bal: 0.59642261
+		a_form: 0.84922278
+		a_noise: 0.42799509
+		a_color: 0.87248880
+		a_freq: 0.63559246
+		a_mod: 0.40115619
+		b_form: 0.88054371
+		b_noise: 0.13114327
+		b_freq: 0.12249029
+		b_mod: 0.06826806
+		b_sh: 0.69569832
+		fm_amt: 0.44361544
+		fm_mod: 0.45532441
+		sub_am: 0.81121266
+		balance: 0.45332801
+		flt_freq: 0.06910431
+		flt_mod: 0.93862933
+		flt_sep: 0.23711342
+		flt_q: 0.16328818
+		flt_kf: 1.00000000
+		fx_mix: 0.15022123
+		fx_len: 0.74711478
+		fx_damp: 0.88137496
+		fx_chors: 0.64256138
+		fx_size: 0.55263156
+	}
+}

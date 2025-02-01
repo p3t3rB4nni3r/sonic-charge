@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Gee Thar"
+	ModWheel: 50.39370060 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 40.49951732 %
+	Effect: 0.00000000 %
+	Release: 2.10342205 s 
+	WheelScale: 43.90244484 %
+	VelSens: 50.00000000 %
+	Volume: -1.96559025 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x35439efc
+	Pitch: -0.20200908
+	Cloned: true
+	Genome: {
+		env_time: 0.63509047,
+		env_loop: 0.93596852,
+		env_tilt: 0.12578450,
+		vol_atk: 0.12092853,
+		vol_dcy: 0.44907033,
+		vol_sus: 0.31079566,
+		mod_atk: 0.73045987,
+		mod_dcy: 0.13750418,
+		mod_sh: 0.12639301,
+		mod_vel: 0.93264341,
+		lfo_rate: 0.84552240,
+		lfo_amt: 0.21124128,
+		lfo_bal: 0.12882152,
+		a_form: 0.93515241,
+		a_noise: 0.25194511,
+		a_color: 0.83838516,
+		a_freq: 0.20033485,
+		a_mod: 0.48749220,
+		b_form: 0.43798119,
+		b_noise: 0.40393847,
+		b_freq: 0.72830319,
+		b_mod: 0.51808900,
+		b_sh: 0.41876820,
+		fm_amt: 0.37222624,
+		fm_mod: 0.68355894,
+		sub_am: 0.94387174,
+		balance: 0.55939233,
+		flt_freq: 0.23193207,
+		flt_mod: 0.78568357,
+		flt_sep: 0.54042852,
+		flt_q: 0.27261364,
+		flt_kf: 0.96548867,
+		fx_mix: 0.57407993,
+		fx_len: 0.44889402,
+		fx_damp: 0.92610914,
+		fx_chors: 0.31765711,
+		fx_size: 0.31839460
+	}
+}

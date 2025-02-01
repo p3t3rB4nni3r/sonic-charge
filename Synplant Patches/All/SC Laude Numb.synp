@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Laude Numb"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 35.93200445 %
+	Release: 2.53262441 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 7.74443150 %
+	Branch2: 7.74443150 %
+	Branch3: 7.74443150 %
+	Branch4: 7.74443150 %
+	Branch5: 7.74443150 %
+	Branch6: 7.74443150 %
+	Branch7: 7.74443150 %
+	Branch8: 7.74443150 %
+	Branch9: 7.74443150 %
+	Branch10: 7.74443150 %
+	Branch11: 7.74443150 %
+	Branch12: 7.74443150 %
+	Seed: 0x09c99c2e
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.66905940,
+		env_loop: 0.36405832,
+		env_tilt: 0.61003804,
+		vol_atk: 0.31448150,
+		vol_dcy: 0.41241682,
+		vol_sus: 0.64444977,
+		mod_atk: 0.40146565,
+		mod_dcy: 0.47011799,
+		mod_sh: 0.55603558,
+		mod_vel: 0.72833258,
+		lfo_rate: 0.52069926,
+		lfo_amt: 0.86981440,
+		lfo_bal: 0.10718971,
+		a_form: 0.42326963,
+		a_noise: 0.30692649,
+		a_color: 0.24627280,
+		a_freq: 0.66666669,
+		a_mod: 0.57026923,
+		b_form: 0.60949105,
+		b_noise: 0.12095588,
+		b_freq: 0.78287601,
+		b_mod: 0.58394986,
+		b_sh: 0.36560071,
+		fm_amt: 0.51747912,
+		fm_mod: 0.33367097,
+		sub_am: 0.12710315,
+		balance: 0.68037128,
+		flt_freq: 0.62622344,
+		flt_mod: 0.47547913,
+		flt_sep: 0.45463300,
+		flt_q: 0.31210089,
+		flt_kf: 0.36068326,
+		fx_mix: 0.60998237,
+		fx_len: 0.90114546,
+		fx_damp: 0.73565966,
+		fx_chors: 0.53713799,
+		fx_size: 0.52693218
+	}
+}

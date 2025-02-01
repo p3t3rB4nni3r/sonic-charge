@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ME Mellow Kick"
+	ModWheel: 1.57480314 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -100.00000000 %
+	Release: 658.00232249 ms 
+	WheelScale: 89.02438879 %
+	VelSens: 50.00000000 %
+	Volume: 12.17618440 dB
+	Branch1: 1.40195889 %
+	Branch2: 1.40195889 %
+	Branch3: 1.40195889 %
+	Branch4: 1.40195889 %
+	Branch5: 1.40195889 %
+	Branch6: 1.40195889 %
+	Branch7: 1.40195889 %
+	Branch8: 1.40195889 %
+	Branch9: 1.40195889 %
+	Branch10: 1.40195889 %
+	Branch11: 1.40195889 %
+	Branch12: 1.40195889 %
+	Seed: 0x690b7189
+	Pitch: 0.31156135
+	Cloned: true
+	Genome: {
+		env_time: 0.13108969,
+		env_loop: 0.37351292,
+		env_tilt: 0.20221627,
+		vol_atk: 0.62587041,
+		vol_dcy: 0.70265996,
+		vol_sus: 0.89238435,
+		mod_atk: 0.26628965,
+		mod_dcy: 0.03667116,
+		mod_sh: 0.64603001,
+		mod_vel: 0.79323238,
+		lfo_rate: 0.28050870,
+		lfo_amt: 0.30325049,
+		lfo_bal: 0.45594198,
+		a_form: 0.37933087,
+		a_noise: 0.88839930,
+		a_color: 0.67460263,
+		a_freq: 0.11473978,
+		a_mod: 0.50088578,
+		b_form: 0.60254836,
+		b_noise: 0.18410808,
+		b_freq: 0.03144890,
+		b_mod: 0.50085652,
+		b_sh: 0.43040842,
+		fm_amt: 0.90371865,
+		fm_mod: 0.02324754,
+		sub_am: 0.57760215,
+		balance: 0.54809022,
+		flt_freq: 0.30056626,
+		flt_mod: 0.88561654,
+		flt_sep: 0.27530533,
+		flt_q: 0.84050834,
+		flt_kf: 0.29087293,
+		fx_mix: 0.30845731,
+		fx_len: 0.66957116,
+		fx_damp: 0.71577656,
+		fx_chors: 0.05025160,
+		fx_size: 0.35494933
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "FilterEnvDroneV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 223.60679775 ms 
+	WheelScale: 47.49999940 %
+	VelSens: 50.00000000 %
+	Volume: 2.75007110 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xc30afe0b
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 1.00000000
+		env_loop: 0.35790932
+		env_tilt: 0.00000000
+		vol_atk: 0.50000000
+		vol_dcy: 0.50000000
+		vol_sus: 1.00000000
+		mod_atk: 0.50000000
+		mod_dcy: 0.06726918
+		mod_sh: 0.91335458
+		mod_vel: 0.68352532
+		lfo_rate: 0.33853194
+		lfo_amt: 1.00000000
+		lfo_bal: 1.00000000
+		a_form: 0.57675982
+		a_noise: 0.50000000
+		a_color: 0.50000000
+		a_freq: 0.50000000
+		a_mod: 0.50000000
+		b_form: 0.57675898
+		b_noise: 0.50000000
+		b_freq: 0.50000000
+		b_mod: 0.50000000
+		b_sh: 0.50000000
+		fm_amt: 0.50000000
+		fm_mod: 0.50000000
+		sub_am: 0.00000000
+		balance: 0.00000000
+		flt_freq: 0.45101321
+		flt_mod: 1.00000000
+		flt_sep: 0.00000000
+		flt_q: 0.57372802
+		flt_kf: 1.00000000
+		fx_mix: 0.33585206
+		fx_len: 0.84230936
+		fx_damp: 0.70021874
+		fx_chors: 0.75834668
+		fx_size: 0.50000000
+	}
+}

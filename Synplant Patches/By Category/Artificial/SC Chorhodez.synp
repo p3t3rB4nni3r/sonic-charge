@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Chorhodez"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 53.40168476 %
+	Effect: 33.42481852 %
+	Release: 1.44677490 s 
+	WheelScale: 14.50885385 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 50.61167479 %
+	Branch2: 50.61167479 %
+	Branch3: 50.61167479 %
+	Branch4: 50.61167479 %
+	Branch5: 50.61167479 %
+	Branch6: 50.61167479 %
+	Branch7: 50.61167479 %
+	Branch8: 50.61167479 %
+	Branch9: 50.61167479 %
+	Branch10: 50.61167479 %
+	Branch11: 50.61167479 %
+	Branch12: 50.61167479 %
+	Seed: 0xaa743a20
+	Pitch: 0.00092220
+	Cloned: true
+	Genome: {
+		env_time: 0.71459496,
+		env_loop: 0.91087133,
+		env_tilt: 0.12391108,
+		vol_atk: 0.17326391,
+		vol_dcy: 0.37395996,
+		vol_sus: 0.35022968,
+		mod_atk: 0.44319129,
+		mod_dcy: 0.38785410,
+		mod_sh: 0.37148261,
+		mod_vel: 0.29034781,
+		lfo_rate: 0.35274529,
+		lfo_amt: 0.33995718,
+		lfo_bal: 0.68069136,
+		a_form: 0.33225119,
+		a_noise: 0.77837133,
+		a_color: 0.63434553,
+		a_freq: 0.66651297,
+		a_mod: 0.46655774,
+		b_form: 0.28055549,
+		b_noise: 0.04007769,
+		b_freq: 0.58118284,
+		b_mod: 0.51338351,
+		b_sh: 0.44795442,
+		fm_amt: 0.21506676,
+		fm_mod: 0.42954677,
+		sub_am: 0.70878506,
+		balance: 0.53317285,
+		flt_freq: 0.12602860,
+		flt_mod: 0.57257813,
+		flt_sep: 0.23545069,
+		flt_q: 0.62402695,
+		flt_kf: 0.60470009,
+		fx_mix: 0.26493150,
+		fx_len: 0.64567173,
+		fx_damp: 0.65392172,
+		fx_chors: 0.35280311,
+		fx_size: 0.49864849
+	}
+}

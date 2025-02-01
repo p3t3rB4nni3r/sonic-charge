@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "JJ DisChordBass"
+	ModWheel: 38.40790093 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: 22.94017076 %
+	Release: 982.73848163 ms 
+	WheelScale: 25.60976148 %
+	VelSens: 50.00000000 %
+	Volume: 1.40778525 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 2.06129439 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 7.45714530 %
+	Branch11: 27.45498419 %
+	Branch12: 0.00000000 %
+	Seed: 0xe9079f8a
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.82252073
+		env_loop: 0.49827158
+		env_tilt: 0.11950304
+		vol_atk: 0.44647959
+		vol_dcy: 0.54743004
+		vol_sus: 0.64564288
+		mod_atk: 0.28727400
+		mod_dcy: 0.53600460
+		mod_sh: 0.69687426
+		mod_vel: 0.74063927
+		lfo_rate: 0.62714404
+		lfo_amt: 0.61113089
+		lfo_bal: 0.32156134
+		a_form: 0.78456336
+		a_noise: 0.31035584
+		a_color: 0.69900441
+		a_freq: 0.50394124
+		a_mod: 0.44833070
+		b_form: 0.86407554
+		b_noise: 0.27947024
+		b_freq: 0.70451593
+		b_mod: 0.50377619
+		b_sh: 0.59577227
+		fm_amt: 0.36168548
+		fm_mod: 0.19543007
+		sub_am: 0.88374400
+		balance: 0.42829359
+		flt_freq: 0.47984415
+		flt_mod: 0.21894956
+		flt_sep: 0.22194946
+		flt_q: 0.37458831
+		flt_kf: 0.28192204
+		fx_mix: 0.10808411
+		fx_len: 0.12260568
+		fx_damp: 0.95803100
+		fx_chors: 0.08396270
+		fx_size: 0.13922265
+	}
+}

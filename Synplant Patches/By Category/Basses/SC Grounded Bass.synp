@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "bounceBassBV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +41.36652946 ct 
+	Atonality: 0.00000000 %
+	Effect: -33.12708139 %
+	Release: 879.42876891 ms 
+	WheelScale: 67.50000119 %
+	VelSens: 0.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.10456960 %
+	Branch2: 0.10456960 %
+	Branch3: 0.10456960 %
+	Branch4: 0.10456960 %
+	Branch5: 0.10456960 %
+	Branch6: 0.10456960 %
+	Branch7: 0.10456960 %
+	Branch8: 0.10456960 %
+	Branch9: 0.10456960 %
+	Branch10: 0.10456960 %
+	Branch11: 0.10456960 %
+	Branch12: 0.10456960 %
+	Seed: 0x8d42631a
+	Pitch: -0.76337910
+	Cloned: true
+	Genome: {
+		env_time: 0.10753107
+		env_loop: 0.43047154
+		env_tilt: 0.27384329
+		vol_atk: 0.46741980
+		vol_dcy: 0.91934222
+		vol_sus: 0.99064094
+		mod_atk: 0.78748286
+		mod_dcy: 0.08827168
+		mod_sh: 0.36430532
+		mod_vel: 0.00000000
+		lfo_rate: 0.52011198
+		lfo_amt: 0.45546883
+		lfo_bal: 0.78549314
+		a_form: 0.66376090
+		a_noise: 0.32408214
+		a_color: 0.38781250
+		a_freq: 0.12722987
+		a_mod: 0.89892823
+		b_form: 0.92832983
+		b_noise: 0.58332157
+		b_freq: 0.78743637
+		b_mod: 0.50007254
+		b_sh: 0.46391469
+		fm_amt: 0.77962857
+		fm_mod: 0.69469172
+		sub_am: 0.30583471
+		balance: 0.70667380
+		flt_freq: 0.40966272
+		flt_mod: 0.74129832
+		flt_sep: 0.98555374
+		flt_q: 0.28175652
+		flt_kf: 1.00000000
+		fx_mix: 0.91736484
+		fx_len: 0.53067178
+		fx_damp: 0.28093410
+		fx_chors: 0.25132447
+		fx_size: 0.46867102
+	}
+}

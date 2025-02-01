@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TH Boarded"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -46.52736783 %
+	Release: 1.11768678 s 
+	WheelScale: 30.00000119 %
+	VelSens: 50.00000000 %
+	Volume: -6.89263279 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x12f31b35
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.81564575,
+		env_loop: 1.00000000,
+		env_tilt: 0.77394700,
+		vol_atk: 0.98062414,
+		vol_dcy: 0.88374430,
+		vol_sus: 0.71861535,
+		mod_atk: 0.29715413,
+		mod_dcy: 0.50401580,
+		mod_sh: 0.56357890,
+		mod_vel: 0.76043057,
+		lfo_rate: 0.07674909,
+		lfo_amt: 0.90311974,
+		lfo_bal: 0.09396243,
+		a_form: 0.79093504,
+		a_noise: 0.59363192,
+		a_color: 0.13631132,
+		a_freq: 0.50003338,
+		a_mod: 0.57750356,
+		b_form: 0.75336403,
+		b_noise: 0.56257021,
+		b_freq: 0.75013810,
+		b_mod: 0.50000000,
+		b_sh: 0.68211371,
+		fm_amt: 0.67060840,
+		fm_mod: 0.98689121,
+		sub_am: 0.65210330,
+		balance: 0.71391225,
+		flt_freq: 0.69785875,
+		flt_mod: 0.29588056,
+		flt_sep: 0.45784774,
+		flt_q: 0.69081259,
+		flt_kf: 0.61976320,
+		fx_mix: 0.78740323,
+		fx_len: 0.90878880,
+		fx_damp: 0.71478009,
+		fx_chors: 0.86329907,
+		fx_size: 0.67280811
+	}
+}

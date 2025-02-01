@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TJ Ekologisch"
+	ModWheel: 100.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -36.00418568 %
+	Release: 88.36048252 ms 
+	WheelScale: 26.24999881 %
+	VelSens: 0.00000000 %
+	Volume: -7.35463658 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xd5ea7ad0
+	Pitch: 0.34427547
+	Cloned: false
+	Genome: {
+		env_time: 0.90589309
+		env_loop: 0.66622609
+		env_tilt: 0.15296209
+		vol_atk: 0.08094752
+		vol_dcy: 0.27495128
+		vol_sus: 0.78413069
+		mod_atk: 0.86155438
+		mod_dcy: 0.50075847
+		mod_sh: 0.77171916
+		mod_vel: 0.23587054
+		lfo_rate: 0.52595818
+		lfo_amt: 0.08995235
+		lfo_bal: 0.30108821
+		a_form: 0.79797715
+		a_noise: 0.22580695
+		a_color: 0.37227899
+		a_freq: 0.60928744
+		a_mod: 0.50063938
+		b_form: 0.50552404
+		b_noise: 0.11633992
+		b_freq: 0.58009499
+		b_mod: 0.49943519
+		b_sh: 0.39387870
+		fm_amt: 0.25808263
+		fm_mod: 0.63952368
+		sub_am: 0.22472179
+		balance: 0.88455766
+		flt_freq: 0.76669931
+		flt_mod: 0.19730592
+		flt_sep: 0.68305767
+		flt_q: 0.02034497
+		flt_kf: 0.13208365
+		fx_mix: 0.84873414
+		fx_len: 0.73577839
+		fx_damp: 0.50524032
+		fx_chors: 0.99300361
+		fx_size: 0.66496521
+	}
+}

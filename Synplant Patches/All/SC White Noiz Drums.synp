@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "NE White Noiz Drums"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -2.91000009 sm 
+	Atonality: 38.99999857 %
+	Effect: 0.00000000 %
+	Release: 20.00000000 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 4.19000140 dB
+	Branch1: 42.26208925 %
+	Branch2: 46.81285322 %
+	Branch3: 34.93975997 %
+	Branch4: 13.41216415 %
+	Branch5: 61.81136370 %
+	Branch6: 54.94011045 %
+	Branch7: 47.77086675 %
+	Branch8: 59.27844048 %
+	Branch9: 51.64276361 %
+	Branch10: 48.65987599 %
+	Branch11: 52.83202529 %
+	Branch12: 54.94011045 %
+	Seed: 0x547890a9
+	Pitch: -1.49623203
+	Cloned: false
+	Genome: {
+		env_time: 0.25311494,
+		env_loop: 0.44523320,
+		env_tilt: 0.08269056,
+		vol_atk: 0.43598750,
+		vol_dcy: 0.89791846,
+		vol_sus: 0.00000000,
+		mod_atk: 0.99027729,
+		mod_dcy: 0.20693511,
+		mod_sh: 0.00611082,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.45056900,
+		lfo_amt: 0.36268848,
+		lfo_bal: 0.79715860,
+		a_form: 0.31989661,
+		a_noise: 0.96897823,
+		a_color: 0.89999211,
+		a_freq: 0.41603869,
+		a_mod: 0.74411386,
+		b_form: 0.62182200,
+		b_noise: 0.66982049,
+		b_freq: 0.02248052,
+		b_mod: 0.48392659,
+		b_sh: 0.80264139,
+		fm_amt: 0.83643323,
+		fm_mod: 0.38593447,
+		sub_am: 0.25000000,
+		balance: 0.16030735,
+		flt_freq: 0.80771387,
+		flt_mod: 0.87243479,
+		flt_sep: 0.75271130,
+		flt_q: 0.09205218,
+		flt_kf: 0.75000000,
+		fx_mix: 0.04192988,
+		fx_len: 0.44475892,
+		fx_damp: 0.87487960,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

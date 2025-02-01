@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Acidophilus"
+	ModWheel: 0.00000000 %
+	Rotation: 120.00000358 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: -35.47554612 %
+	Release: 166.38680368 ms 
+	WheelScale: 40.00000060 %
+	VelSens: 50.00000000 %
+	Volume: -5.55067993 dB
+	Branch1: 39.64060247 %
+	Branch2: 32.72258341 %
+	Branch3: 26.93272531 %
+	Branch4: 18.79580468 %
+	Branch5: 28.72307599 %
+	Branch6: 39.64060247 %
+	Branch7: 47.74201512 %
+	Branch8: 18.63947958 %
+	Branch9: 7.06233680 %
+	Branch10: 8.11100900 %
+	Branch11: 23.75905812 %
+	Branch12: 32.31286108 %
+	Seed: 0x3c8da545
+	Pitch: 0.17458248
+	Cloned: false
+	Genome: {
+		env_time: 0.70820022
+		env_loop: 0.67150062
+		env_tilt: 0.14890599
+		vol_atk: 0.13349006
+		vol_dcy: 0.85367793
+		vol_sus: 0.00000000
+		mod_atk: 0.04296519
+		mod_dcy: 0.00596402
+		mod_sh: 0.43397048
+		mod_vel: 0.50000000
+		lfo_rate: 0.48571914
+		lfo_amt: 0.49527898
+		lfo_bal: 0.23082356
+		a_form: 0.92228961
+		a_noise: 0.20737082
+		a_color: 0.58911818
+		a_freq: 0.30423626
+		a_mod: 0.42557180
+		b_form: 0.99782276
+		b_noise: 0.22801013
+		b_freq: 0.73880339
+		b_mod: 0.50303191
+		b_sh: 0.63426208
+		fm_amt: 0.63417959
+		fm_mod: 0.63617086
+		sub_am: 0.83127975
+		balance: 0.71691197
+		flt_freq: 0.02583480
+		flt_mod: 0.93546671
+		flt_sep: 0.49996796
+		flt_q: 0.84901839
+		flt_kf: 0.22684778
+		fx_mix: 0.42108133
+		fx_len: 0.97416538
+		fx_damp: 0.14639650
+		fx_chors: 0.25000000
+		fx_size: 0.35494933
+	}
+}

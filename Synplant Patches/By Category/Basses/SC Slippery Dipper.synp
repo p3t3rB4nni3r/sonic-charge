@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Slippery Dipper"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -11.98000000 sm 
+	Atonality: 3.99999991 %
+	Effect: 0.00000000 %
+	Release: 50.00000000 ms 
+	WheelScale: 47.56097794 %
+	VelSens: 50.00000000 %
+	Volume: 4.97480692 dB
+	Branch1: 7.99999982 %
+	Branch2: 3.99999991 %
+	Branch3: 3.99999991 %
+	Branch4: 10.99999994 %
+	Branch5: 12.77180165 %
+	Branch6: 20.99999934 %
+	Branch7: 12.99999952 %
+	Branch8: 7.99999982 %
+	Branch9: 7.00000003 %
+	Branch10: 10.00000015 %
+	Branch11: 7.00000003 %
+	Branch12: 9.00000036 %
+	Seed: 0x03045ab6
+	Pitch: 1.68573380
+	Cloned: false
+	Genome: {
+		env_time: 0.06913245,
+		env_loop: 0.56926107,
+		env_tilt: 0.18961871,
+		vol_atk: 0.07238287,
+		vol_dcy: 0.90269667,
+		vol_sus: 0.79833412,
+		mod_atk: 0.06029463,
+		mod_dcy: 0.10075331,
+		mod_sh: 0.69591707,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.68856001,
+		lfo_amt: 0.03491282,
+		lfo_bal: 0.92947197,
+		a_form: 0.73609877,
+		a_noise: 0.16173756,
+		a_color: 0.79912287,
+		a_freq: 0.05237770,
+		a_mod: 0.49704361,
+		b_form: 0.04617262,
+		b_noise: 0.27460879,
+		b_freq: 0.25742149,
+		b_mod: 0.50898474,
+		b_sh: 0.97466213,
+		fm_amt: 0.50618380,
+		fm_mod: 0.77194643,
+		sub_am: 0.25000000,
+		balance: 0.23438847,
+		flt_freq: 0.65719259,
+		flt_mod: 0.93034160,
+		flt_sep: 0.79591775,
+		flt_q: 0.57283175,
+		flt_kf: 0.75000000,
+		fx_mix: 0.38877738,
+		fx_len: 0.40601009,
+		fx_damp: 0.84507066,
+		fx_chors: 0.25000000,
+		fx_size: 0.63268864
+	}
+}

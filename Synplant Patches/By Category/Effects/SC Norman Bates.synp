@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Norman Bates"
+	ModWheel: 0.00000000 %
+	Rotation: 30.00000089 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 69.76451278 %
+	Effect: -44.84361410 %
+	Release: 4.37389555 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -4.01420747 dB
+	Branch1: 66.97292924 %
+	Branch2: 20.85697502 %
+	Branch3: 7.88743794 %
+	Branch4: 36.33751273 %
+	Branch5: 88.91416788 %
+	Branch6: 72.55010009 %
+	Branch7: 57.42309093 %
+	Branch8: 58.56633186 %
+	Branch9: 61.45392060 %
+	Branch10: 69.42479014 %
+	Branch11: 48.23100865 %
+	Branch12: 1.82566419 %
+	Seed: 0x1ab8d6f3
+	Pitch: 0.17936206
+	Cloned: false
+	Genome: {
+		env_time: 0.95802313,
+		env_loop: 0.40714514,
+		env_tilt: 0.33303297,
+		vol_atk: 0.21142346,
+		vol_dcy: 0.95230508,
+		vol_sus: 0.18344808,
+		mod_atk: 0.45135486,
+		mod_dcy: 0.06919491,
+		mod_sh: 0.80813527,
+		mod_vel: 0.35666418,
+		lfo_rate: 0.84114945,
+		lfo_amt: 0.07081544,
+		lfo_bal: 0.11415136,
+		a_form: 0.59394521,
+		a_noise: 0.07472539,
+		a_color: 0.54385424,
+		a_freq: 0.63677299,
+		a_mod: 0.37868237,
+		b_form: 0.64912689,
+		b_noise: 0.21624196,
+		b_freq: 0.71520215,
+		b_mod: 0.13320482,
+		b_sh: 0.65459502,
+		fm_amt: 0.58393711,
+		fm_mod: 0.72416043,
+		sub_am: 0.22481596,
+		balance: 0.57814324,
+		flt_freq: 0.34874529,
+		flt_mod: 0.56605601,
+		flt_sep: 0.94632256,
+		flt_q: 0.06123495,
+		flt_kf: 0.63381082,
+		fx_mix: 0.86368895,
+		fx_len: 0.36576003,
+		fx_damp: 0.48814058,
+		fx_chors: 0.42428660,
+		fx_size: 0.56162673
+	}
+}

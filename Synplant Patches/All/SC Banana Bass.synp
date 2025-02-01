@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "saagbaas v1b"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: -60.76904535 %
+	Release: 546.14524387 ms 
+	WheelScale: 44.99999881 %
+	VelSens: 33.75000060 %
+	Volume: 4.22187596 dB
+	Branch1: 0.23473133 %
+	Branch2: 0.23473133 %
+	Branch3: 0.23473133 %
+	Branch4: 0.23473133 %
+	Branch5: 0.23473133 %
+	Branch6: 0.23473133 %
+	Branch7: 0.23473133 %
+	Branch8: 0.23473133 %
+	Branch9: 0.23473133 %
+	Branch10: 0.23473133 %
+	Branch11: 0.23473133 %
+	Branch12: 0.23473133 %
+	Seed: 0x710f1527
+	Pitch: 0.00616312
+	Cloned: true
+	Genome: {
+		env_time: 0.35168076
+		env_loop: 0.78025693
+		env_tilt: 0.27988803
+		vol_atk: 0.03898412
+		vol_dcy: 0.57439387
+		vol_sus: 0.56979972
+		mod_atk: 0.63866723
+		mod_dcy: 0.49991393
+		mod_sh: 0.69697207
+		mod_vel: 0.45856538
+		lfo_rate: 0.13670570
+		lfo_amt: 0.40982258
+		lfo_bal: 0.66238672
+		a_form: 0.55261689
+		a_noise: 0.22840726
+		a_color: 0.04289162
+		a_freq: 0.16563946
+		a_mod: 0.45002520
+		b_form: 0.34790725
+		b_noise: 0.36420524
+		b_freq: 0.72454792
+		b_mod: 0.70808715
+		b_sh: 0.09512419
+		fm_amt: 0.46270102
+		fm_mod: 0.18914801
+		sub_am: 0.40145373
+		balance: 0.28000939
+		flt_freq: 0.52463543
+		flt_mod: 0.83328599
+		flt_sep: 0.79498261
+		flt_q: 0.89669859
+		flt_kf: 0.49622419
+		fx_mix: 0.68384284
+		fx_len: 0.47827649
+		fx_damp: 0.35837364
+		fx_chors: 0.62765843
+		fx_size: 0.81783211
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Mad Cow"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -6.32929802 sm 
+	Atonality: 36.55107021 %
+	Effect: -7.46106505 %
+	Release: 785.95735935 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 40.52524865 %
+	Branch2: 40.52524865 %
+	Branch3: 40.52524865 %
+	Branch4: 40.52524865 %
+	Branch5: 40.52524865 %
+	Branch6: 40.52524865 %
+	Branch7: 40.52524865 %
+	Branch8: 40.52524865 %
+	Branch9: 40.52524865 %
+	Branch10: 40.52524865 %
+	Branch11: 40.52524865 %
+	Branch12: 40.52524865 %
+	Seed: 0x8616e006
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.04508084
+		env_loop: 0.48352435
+		env_tilt: 0.02722473
+		vol_atk: 0.00000030
+		vol_dcy: 0.00310732
+		vol_sus: 0.74665725
+		mod_atk: 0.00000000
+		mod_dcy: 0.28074712
+		mod_sh: 0.15500784
+		mod_vel: 0.85497600
+		lfo_rate: 0.66388631
+		lfo_amt: 0.81562889
+		lfo_bal: 0.80859429
+		a_form: 0.48150632
+		a_noise: 0.24031827
+		a_color: 0.64141572
+		a_freq: 0.75834596
+		a_mod: 0.00000000
+		b_form: 0.73569524
+		b_noise: 0.30394658
+		b_freq: 0.48733163
+		b_mod: 0.00000000
+		b_sh: 0.28412518
+		fm_amt: 0.24045610
+		fm_mod: 1.00000000
+		sub_am: 0.84213191
+		balance: 0.42782024
+		flt_freq: 0.82360470
+		flt_mod: 0.67094314
+		flt_sep: 0.65715057
+		flt_q: 0.26360449
+		flt_kf: 0.82856107
+		fx_mix: 0.82991040
+		fx_len: 0.00000000
+		fx_damp: 0.85666561
+		fx_chors: 0.61171901
+		fx_size: 0.83156711
+	}
+}

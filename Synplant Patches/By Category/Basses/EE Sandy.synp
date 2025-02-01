@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "EE Sandy"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 46.86976969 %
+	Effect: -68.96737516 %
+	Release: 220.66100572 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x3a421e81
+	Pitch: 0.00247788
+	Cloned: false
+	Genome: {
+		env_time: 0.83182061,
+		env_loop: 0.53593093,
+		env_tilt: 0.68075401,
+		vol_atk: 0.09675574,
+		vol_dcy: 0.58210921,
+		vol_sus: 0.40478611,
+		mod_atk: 0.79581714,
+		mod_dcy: 0.15170997,
+		mod_sh: 0.39096874,
+		mod_vel: 0.66752243,
+		lfo_rate: 0.55830783,
+		lfo_amt: 0.69979632,
+		lfo_bal: 0.21984208,
+		a_form: 0.70593864,
+		a_noise: 0.91947627,
+		a_color: 0.71716100,
+		a_freq: 0.16625369,
+		a_mod: 0.45457780,
+		b_form: 0.47399044,
+		b_noise: 0.60956734,
+		b_freq: 0.60690737,
+		b_mod: 0.47436655,
+		b_sh: 0.12823808,
+		fm_amt: 0.34521079,
+		fm_mod: 0.24199569,
+		sub_am: 0.87561440,
+		balance: 0.82441103,
+		flt_freq: 0.85065705,
+		flt_mod: 0.84351063,
+		flt_sep: 0.86788183,
+		flt_q: 0.26514661,
+		flt_kf: 0.69806814,
+		fx_mix: 0.70590335,
+		fx_len: 0.90069723,
+		fx_damp: 0.91832054,
+		fx_chors: 0.09315169,
+		fx_size: 0.35494933
+	}
+}

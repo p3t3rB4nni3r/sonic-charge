@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Flatline Base"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -51.75014734 %
+	Release: 50.00000000 ms 
+	WheelScale: 94.99999881 %
+	VelSens: 50.00000000 %
+	Volume: 6.52586292 dB
+	Branch1: 30.57053685 %
+	Branch2: 30.57053685 %
+	Branch3: 30.57053685 %
+	Branch4: 30.57053685 %
+	Branch5: 30.57053685 %
+	Branch6: 30.57053685 %
+	Branch7: 30.57053685 %
+	Branch8: 30.57053685 %
+	Branch9: 30.57053685 %
+	Branch10: 30.57053685 %
+	Branch11: 30.57053685 %
+	Branch12: 30.57053685 %
+	Seed: 0xc7d7a3a7
+	Pitch: -0.00000012
+	Cloned: true
+	Genome: {
+		env_time: 0.37575567,
+		env_loop: 0.18898773,
+		env_tilt: 0.40940952,
+		vol_atk: 0.73106992,
+		vol_dcy: 0.32716060,
+		vol_sus: 0.87157488,
+		mod_atk: 0.19065726,
+		mod_dcy: 0.20030421,
+		mod_sh: 0.64037180,
+		mod_vel: 0.31835544,
+		lfo_rate: 0.67383981,
+		lfo_amt: 0.35994041,
+		lfo_bal: 0.70900452,
+		a_form: 0.66628325,
+		a_noise: 0.38989323,
+		a_color: 0.50578159,
+		a_freq: 0.16666669,
+		a_mod: 0.50972652,
+		b_form: 0.40266681,
+		b_noise: 0.70775080,
+		b_freq: 0.82420492,
+		b_mod: 0.50439095,
+		b_sh: 0.58367938,
+		fm_amt: 0.18818569,
+		fm_mod: 0.06513119,
+		sub_am: 0.26892394,
+		balance: 0.28566360,
+		flt_freq: 0.58564174,
+		flt_mod: 0.64176375,
+		flt_sep: 0.41363263,
+		flt_q: 0.11252189,
+		flt_kf: 0.59469950,
+		fx_mix: 1.00000000,
+		fx_len: 0.33643878,
+		fx_damp: 0.64585942,
+		fx_chors: 0.88022798,
+		fx_size: 0.09980524
+	}
+}

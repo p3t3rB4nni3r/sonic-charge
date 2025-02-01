@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "NE Underwater Synth"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 100.00000000 %
+	Effect: 40.41634798 %
+	Release: 4.44800068 s 
+	WheelScale: 43.75000000 %
+	VelSens: 50.00000000 %
+	Volume: 4.03267962 dB
+	Branch1: 18.00000072 %
+	Branch2: 25.00000000 %
+	Branch3: 37.00000048 %
+	Branch4: 23.00000042 %
+	Branch5: 27.00000107 %
+	Branch6: 17.05812663 %
+	Branch7: 27.00000107 %
+	Branch8: 15.99999964 %
+	Branch9: 18.99999976 %
+	Branch10: 28.00000012 %
+	Branch11: 34.00000036 %
+	Branch12: 18.00000072 %
+	Seed: 0xbd454452
+	Pitch: 1.68409395
+	Cloned: false
+	Genome: {
+		env_time: 0.90931034,
+		env_loop: 0.30327457,
+		env_tilt: 0.45750663,
+		vol_atk: 0.57905632,
+		vol_dcy: 0.48433223,
+		vol_sus: 0.23856306,
+		mod_atk: 0.23519593,
+		mod_dcy: 0.13714877,
+		mod_sh: 0.89987773,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.60867071,
+		lfo_amt: 1.00000000,
+		lfo_bal: 0.29275104,
+		a_form: 0.05174335,
+		a_noise: 0.04703593,
+		a_color: 0.49537086,
+		a_freq: 0.00000000,
+		a_mod: 0.26766413,
+		b_form: 0.06111729,
+		b_noise: 0.24680738,
+		b_freq: 0.77633560,
+		b_mod: 0.08720065,
+		b_sh: 0.99387896,
+		fm_amt: 0.11653604,
+		fm_mod: 0.31773591,
+		sub_am: 0.85065627,
+		balance: 0.79969156,
+		flt_freq: 0.67595553,
+		flt_mod: 0.69644266,
+		flt_sep: 0.45172828,
+		flt_q: 0.69861937,
+		flt_kf: 0.75000000,
+		fx_mix: 0.29996169,
+		fx_len: 0.72702485,
+		fx_damp: 0.08108326,
+		fx_chors: 0.25000000,
+		fx_size: 1.00000000
+	}
+}

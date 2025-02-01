@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Sweet Tesla"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 50.00000000 ms 
+	WheelScale: 68.61301661 %
+	VelSens: 0.00000000 %
+	Volume: -8.30074999 dB
+	Branch1: 1.42984726 %
+	Branch2: 1.42984726 %
+	Branch3: 1.42984726 %
+	Branch4: 1.42984726 %
+	Branch5: 1.42984726 %
+	Branch6: 1.42984726 %
+	Branch7: 1.42984726 %
+	Branch8: 1.42984726 %
+	Branch9: 1.42984726 %
+	Branch10: 1.42984726 %
+	Branch11: 1.42984726 %
+	Branch12: 1.42984726 %
+	Seed: 0xf948b22f
+	Pitch: -1.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.09521875,
+		env_loop: 0.85497457,
+		env_tilt: 0.71319467,
+		vol_atk: 0.36915350,
+		vol_dcy: 0.54726094,
+		vol_sus: 0.89112282,
+		mod_atk: 0.32606322,
+		mod_dcy: 0.92036819,
+		mod_sh: 0.76372623,
+		mod_vel: 0.43293005,
+		lfo_rate: 0.90333831,
+		lfo_amt: 0.40660810,
+		lfo_bal: 0.22899532,
+		a_form: 0.06531656,
+		a_noise: 0.26954448,
+		a_color: 0.97257876,
+		a_freq: 1.00000000,
+		a_mod: 0.50000000,
+		b_form: 0.56160301,
+		b_noise: 0.21439290,
+		b_freq: 0.25152278,
+		b_mod: 0.50000000,
+		b_sh: 0.24055946,
+		fm_amt: 0.29788929,
+		fm_mod: 0.91772425,
+		sub_am: 0.49017894,
+		balance: 0.84837776,
+		flt_freq: 0.29614741,
+		flt_mod: 0.50235224,
+		flt_sep: 0.55591190,
+		flt_q: 0.20442325,
+		flt_kf: 0.23797178,
+		fx_mix: 0.87980890,
+		fx_len: 0.91763717,
+		fx_damp: 0.69792736,
+		fx_chors: 0.08613080,
+		fx_size: 0.94624102
+	}
+}

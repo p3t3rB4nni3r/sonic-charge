@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "NE Carbohydratic"
+	ModWheel: 3.93700786 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 20.98063678 %
+	Effect: 0.00000000 %
+	Release: 6.33876541 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 3.94073643 dB
+	Branch1: 26.08740032 %
+	Branch2: 44.48773563 %
+	Branch3: 55.47323227 %
+	Branch4: 66.65955186 %
+	Branch5: 51.28593445 %
+	Branch6: 40.66074491 %
+	Branch7: 36.76702380 %
+	Branch8: 45.19977570 %
+	Branch9: 23.94203544 %
+	Branch10: 56.91331625 %
+	Branch11: 26.80918276 %
+	Branch12: 59.34072137 %
+	Seed: 0x1abd838a
+	Pitch: -2.00083017
+	Cloned: true
+	Genome: {
+		env_time: 0.22496723,
+		env_loop: 0.63657105,
+		env_tilt: 0.12597421,
+		vol_atk: 0.17344438,
+		vol_dcy: 0.76761276,
+		vol_sus: 0.68601739,
+		mod_atk: 0.32520121,
+		mod_dcy: 0.81807488,
+		mod_sh: 0.90173674,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.67413288,
+		lfo_amt: 0.68062973,
+		lfo_bal: 0.27184594,
+		a_form: 0.31314614,
+		a_noise: 0.59722167,
+		a_color: 0.48436931,
+		a_freq: 0.83347172,
+		a_mod: 0.54050648,
+		b_form: 0.91060370,
+		b_noise: 0.08835996,
+		b_freq: 0.68422377,
+		b_mod: 0.52957630,
+		b_sh: 0.25286698,
+		fm_amt: 0.27247220,
+		fm_mod: 0.76673442,
+		sub_am: 0.25000000,
+		balance: 0.05026776,
+		flt_freq: 0.77644527,
+		flt_mod: 0.45267454,
+		flt_sep: 0.40637258,
+		flt_q: 0.74767119,
+		flt_kf: 0.53686392,
+		fx_mix: 0.69419068,
+		fx_len: 0.87307817,
+		fx_damp: 0.31278884,
+		fx_chors: 0.44376010,
+		fx_size: 0.36609706
+	}
+}

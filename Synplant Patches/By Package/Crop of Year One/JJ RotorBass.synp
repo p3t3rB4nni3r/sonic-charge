@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "JJ RotorBass"
+	ModWheel: 64.56993222 %
+	Rotation: 0.00000000 degrees
+	Tuning: -0.41770935 ct 
+	Atonality: 31.89257383 %
+	Effect: -33.70572329 %
+	Release: 1.72349370 s 
+	WheelScale: 29.26829159 %
+	VelSens: 50.00000000 %
+	Volume: 3.48924047 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xbd1d1c5e
+	Pitch: 1.79784644
+	Cloned: false
+	Genome: {
+		env_time: 0.55550027
+		env_loop: 0.20121700
+		env_tilt: 0.57168019
+		vol_atk: 0.24970725
+		vol_dcy: 0.87204182
+		vol_sus: 0.54553205
+		mod_atk: 0.90508652
+		mod_dcy: 0.94633067
+		mod_sh: 0.61429000
+		mod_vel: 0.50059587
+		lfo_rate: 0.78028464
+		lfo_amt: 0.32364964
+		lfo_bal: 0.32781738
+		a_form: 0.63737094
+		a_noise: 0.56012291
+		a_color: 0.48982805
+		a_freq: 0.20035884
+		a_mod: 0.49980983
+		b_form: 0.55503410
+		b_noise: 0.28437129
+		b_freq: 0.50426364
+		b_mod: 0.49368736
+		b_sh: 0.62915438
+		fm_amt: 0.27245414
+		fm_mod: 0.47486377
+		sub_am: 0.72591811
+		balance: 0.46543834
+		flt_freq: 0.69374710
+		flt_mod: 0.77900851
+		flt_sep: 0.37839669
+		flt_q: 0.23306933
+		flt_kf: 0.40319338
+		fx_mix: 0.33148527
+		fx_len: 0.55596644
+		fx_damp: 0.11381358
+		fx_chors: 0.74397796
+		fx_size: 0.50000000
+	}
+}

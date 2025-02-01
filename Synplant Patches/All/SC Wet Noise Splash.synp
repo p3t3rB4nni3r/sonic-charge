@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Wet Noise Splash"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +2.36688423 sm 
+	Atonality: 60.00000238 %
+	Effect: 0.00000000 %
+	Release: 7.78610198 s 
+	WheelScale: 100.00000000 %
+	VelSens: 62.19512224 %
+	Volume: -3.04006263 dB
+	Branch1: 14.47504014 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x44ecbab0
+	Pitch: 1.16288686
+	Cloned: false
+	Genome: {
+		env_time: 0.71712279,
+		env_loop: 0.78990060,
+		env_tilt: 0.11059338,
+		vol_atk: 0.01900411,
+		vol_dcy: 0.00749820,
+		vol_sus: 0.41149062,
+		mod_atk: 0.63078904,
+		mod_dcy: 0.88249511,
+		mod_sh: 0.81578034,
+		mod_vel: 0.32004213,
+		lfo_rate: 0.56163794,
+		lfo_amt: 0.28957999,
+		lfo_bal: 0.61033970,
+		a_form: 0.26827407,
+		a_noise: 0.45267969,
+		a_color: 0.80957365,
+		a_freq: 0.13951886,
+		a_mod: 0.94306225,
+		b_form: 0.43871045,
+		b_noise: 0.88046861,
+		b_freq: 0.23578346,
+		b_mod: 0.91306102,
+		b_sh: 0.45457792,
+		fm_amt: 0.85371459,
+		fm_mod: 0.09560370,
+		sub_am: 0.87537754,
+		balance: 0.00185239,
+		flt_freq: 0.99319124,
+		flt_mod: 0.45521736,
+		flt_sep: 0.08516371,
+		flt_q: 0.40977091,
+		flt_kf: 0.44149220,
+		fx_mix: 0.93819678,
+		fx_len: 0.95963919,
+		fx_damp: 0.60365468,
+		fx_chors: 0.82227635,
+		fx_size: 0.25836018
+	}
+}

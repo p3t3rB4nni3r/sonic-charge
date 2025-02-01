@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "R7 Autofiltdelay"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -2.50970936 sm 
+	Atonality: 77.22917199 %
+	Effect: 36.38342619 %
+	Release: 5.29450158 s 
+	WheelScale: 20.73170841 %
+	VelSens: 50.00000000 %
+	Volume: 2.75006797 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xee0c5205
+	Pitch: 0.20634627
+	Cloned: false
+	Genome: {
+		env_time: 0.74639636,
+		env_loop: 0.25397372,
+		env_tilt: 0.52043712,
+		vol_atk: 0.44655466,
+		vol_dcy: 0.21035695,
+		vol_sus: 0.40653551,
+		mod_atk: 0.01003325,
+		mod_dcy: 0.81073749,
+		mod_sh: 0.62324411,
+		mod_vel: 0.33092356,
+		lfo_rate: 0.38524413,
+		lfo_amt: 0.22998089,
+		lfo_bal: 0.59352052,
+		a_form: 0.96983713,
+		a_noise: 0.78142631,
+		a_color: 0.29272550,
+		a_freq: 0.46560895,
+		a_mod: 0.41466177,
+		b_form: 0.30082828,
+		b_noise: 0.52925301,
+		b_freq: 0.50368351,
+		b_mod: 0.55269563,
+		b_sh: 0.78665847,
+		fm_amt: 0.17658615,
+		fm_mod: 0.31884706,
+		sub_am: 0.12316728,
+		balance: 0.26830846,
+		flt_freq: 0.22133553,
+		flt_mod: 0.74946076,
+		flt_sep: 0.19531071,
+		flt_q: 0.84006876,
+		flt_kf: 0.01192349,
+		fx_mix: 0.49015236,
+		fx_len: 0.64365017,
+		fx_damp: 0.38644946,
+		fx_chors: 0.68675232,
+		fx_size: 0.34824809
+	}
+}

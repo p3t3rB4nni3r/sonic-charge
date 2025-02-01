@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "ME Hard Bass"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: -100.00000000 %
+	Release: 50.00000000 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xf5237284
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.67395753,
+		env_loop: 0.85212779,
+		env_tilt: 0.11924362,
+		vol_atk: 0.33736074,
+		vol_dcy: 0.86133206,
+		vol_sus: 0.96576154,
+		mod_atk: 0.61641467,
+		mod_dcy: 0.44939935,
+		mod_sh: 0.29821813,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.63789988,
+		lfo_amt: 0.36455980,
+		lfo_bal: 0.00000000,
+		a_form: 0.82416415,
+		a_noise: 0.74248642,
+		a_color: 0.33699834,
+		a_freq: 0.50000000,
+		a_mod: 0.50000000,
+		b_form: 0.48913109,
+		b_noise: 0.55104780,
+		b_freq: 0.50000000,
+		b_mod: 0.50000000,
+		b_sh: 0.31360286,
+		fm_amt: 0.27950811,
+		fm_mod: 0.08454430,
+		sub_am: 0.47257572,
+		balance: 0.11279428,
+		flt_freq: 0.42852366,
+		flt_mod: 0.53582305,
+		flt_sep: 0.63814360,
+		flt_q: 0.36332393,
+		flt_kf: 0.75000000,
+		fx_mix: 0.49081481,
+		fx_len: 0.62974542,
+		fx_damp: 0.67635536,
+		fx_chors: 0.18699253,
+		fx_size: 0.35494933
+	}
+}

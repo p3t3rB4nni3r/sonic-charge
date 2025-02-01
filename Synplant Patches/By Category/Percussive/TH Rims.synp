@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TH Rims"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 47.99999893 %
+	Effect: 23.31589460 %
+	Release: 163.58008561 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 0.00000000 %
+	Volume: -3.97379983 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x3e9b4d60
+	Pitch: 0.00059295
+	Cloned: false
+	Genome: {
+		env_time: 0.32014027,
+		env_loop: 0.05097237,
+		env_tilt: 0.05441779,
+		vol_atk: 0.96195912,
+		vol_dcy: 1.00000000,
+		vol_sus: 0.00000000,
+		mod_atk: 0.82404160,
+		mod_dcy: 0.42527843,
+		mod_sh: 0.74976003,
+		mod_vel: 0.35025269,
+		lfo_rate: 0.03926802,
+		lfo_amt: 0.95022756,
+		lfo_bal: 0.49541575,
+		a_form: 0.79514766,
+		a_noise: 0.90354550,
+		a_color: 0.07180238,
+		a_freq: 0.49990118,
+		a_mod: 0.80885899,
+		b_form: 0.04526412,
+		b_noise: 0.51158887,
+		b_freq: 0.39513946,
+		b_mod: 0.87075365,
+		b_sh: 0.01480532,
+		fm_amt: 0.33755851,
+		fm_mod: 0.66631258,
+		sub_am: 0.06552637,
+		balance: 0.86173528,
+		flt_freq: 0.15951741,
+		flt_mod: 0.87023455,
+		flt_sep: 0.71093309,
+		flt_q: 0.06573725,
+		flt_kf: 0.93355983,
+		fx_mix: 0.18351674,
+		fx_len: 0.10358524,
+		fx_damp: 0.26909053,
+		fx_chors: 0.15369666,
+		fx_size: 0.69107759
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "RL Padded Coagulation"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -23.46598506 %
+	Release: 6.02464878 s 
+	WheelScale: 35.36585271 %
+	VelSens: 50.00000000 %
+	Volume: 4.65321396 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x22165642
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.00000000,
+		env_loop: 1.00000000,
+		env_tilt: 0.65313148,
+		vol_atk: 1.00000000,
+		vol_dcy: 0.45503968,
+		vol_sus: 0.68323588,
+		mod_atk: 1.00000000,
+		mod_dcy: 0.00000000,
+		mod_sh: 0.05894986,
+		mod_vel: 0.80642676,
+		lfo_rate: 0.54796731,
+		lfo_amt: 0.57709974,
+		lfo_bal: 0.15893435,
+		a_form: 0.71737885,
+		a_noise: 0.47973520,
+		a_color: 0.88133973,
+		a_freq: 0.50000000,
+		a_mod: 0.00000000,
+		b_form: 0.75384390,
+		b_noise: 0.57868177,
+		b_freq: 0.50000000,
+		b_mod: 0.50000000,
+		b_sh: 0.49217021,
+		fm_amt: 0.45008901,
+		fm_mod: 1.00000000,
+		sub_am: 0.47246975,
+		balance: 0.22526577,
+		flt_freq: 0.42978722,
+		flt_mod: 0.30477446,
+		flt_sep: 0.44150326,
+		flt_q: 0.45837104,
+		flt_kf: 0.57320487,
+		fx_mix: 0.87435555,
+		fx_len: 0.28996769,
+		fx_damp: 0.27025050,
+		fx_chors: 0.49037343,
+		fx_size: 0.00621611
+	}
+}

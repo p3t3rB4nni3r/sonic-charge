@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TJ Tone To Chaos"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 23.99999946 %
+	Effect: 0.00000000 %
+	Release: 2.49603055 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -2.24949421 dB
+	Branch1: 46.57741785 %
+	Branch2: 42.45933890 %
+	Branch3: 57.79440403 %
+	Branch4: 55.45660257 %
+	Branch5: 51.02428794 %
+	Branch6: 45.83554566 %
+	Branch7: 50.79542994 %
+	Branch8: 46.76400125 %
+	Branch9: 46.80126011 %
+	Branch10: 54.09901738 %
+	Branch11: 60.93143821 %
+	Branch12: 37.76051402 %
+	Seed: 0x22b8a847
+	Pitch: 0.41665936
+	Cloned: true
+	Genome: {
+		env_time: 0.18995309,
+		env_loop: 0.78269446,
+		env_tilt: 0.67250228,
+		vol_atk: 0.67592859,
+		vol_dcy: 0.34384006,
+		vol_sus: 0.87719715,
+		mod_atk: 0.59523106,
+		mod_dcy: 0.34854090,
+		mod_sh: 0.16249597,
+		mod_vel: 0.44490528,
+		lfo_rate: 0.15232301,
+		lfo_amt: 0.27265656,
+		lfo_bal: 0.50710201,
+		a_form: 0.56747961,
+		a_noise: 0.42891979,
+		a_color: 0.05484641,
+		a_freq: 0.59722346,
+		a_mod: 0.43550640,
+		b_form: 0.33292538,
+		b_noise: 0.23857892,
+		b_freq: 0.48543739,
+		b_mod: 0.75550175,
+		b_sh: 0.63927579,
+		fm_amt: 0.81044698,
+		fm_mod: 0.35674244,
+		sub_am: 0.25000000,
+		balance: 0.98598760,
+		flt_freq: 0.51560664,
+		flt_mod: 0.51267934,
+		flt_sep: 0.86284482,
+		flt_q: 0.82724398,
+		flt_kf: 0.75000000,
+		fx_mix: 0.61212420,
+		fx_len: 0.42794013,
+		fx_damp: 0.06738925,
+		fx_chors: 0.24582714,
+		fx_size: 0.15465018
+	}
+}

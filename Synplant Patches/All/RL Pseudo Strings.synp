@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "RL Pseudo Strings"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: 32.28446245 %
+	Release: 5.13134083 s 
+	WheelScale: 20.73170692 %
+	VelSens: 50.00000000 %
+	Volume: -3.04006263 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x6ac79ef1
+	Pitch: 0.27881646
+	Cloned: false
+	Genome: {
+		env_time: 0.99105960,
+		env_loop: 0.77250868,
+		env_tilt: 0.91287833,
+		vol_atk: 0.70932257,
+		vol_dcy: 0.48352671,
+		vol_sus: 0.15834066,
+		mod_atk: 0.83903408,
+		mod_dcy: 0.57596445,
+		mod_sh: 0.82825321,
+		mod_vel: 0.33585519,
+		lfo_rate: 0.02704883,
+		lfo_amt: 0.56544477,
+		lfo_bal: 0.75518572,
+		a_form: 0.50733286,
+		a_noise: 0.82244021,
+		a_color: 0.86208904,
+		a_freq: 0.28686392,
+		a_mod: 0.50218344,
+		b_form: 0.92798150,
+		b_noise: 0.37856507,
+		b_freq: 0.59156674,
+		b_mod: 0.50002009,
+		b_sh: 0.53892523,
+		fm_amt: 0.36988783,
+		fm_mod: 0.04025269,
+		sub_am: 0.14070046,
+		balance: 0.16820198,
+		flt_freq: 0.51449889,
+		flt_mod: 0.04748756,
+		flt_sep: 0.71897030,
+		flt_q: 0.24886334,
+		flt_kf: 0.30626738,
+		fx_mix: 0.79041618,
+		fx_len: 0.22872019,
+		fx_damp: 0.16424358,
+		fx_chors: 0.49887991,
+		fx_size: 0.28689325
+	}
+}

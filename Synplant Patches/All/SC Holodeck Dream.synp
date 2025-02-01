@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "esperanto1V1b"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 15.15834276 s 
+	WheelScale: 77.49999762 %
+	VelSens: 50.00000000 %
+	Volume: -4.58807299 dB
+	Branch1: 42.33466089 %
+	Branch2: 42.33466089 %
+	Branch3: 42.33466089 %
+	Branch4: 42.33466089 %
+	Branch5: 42.33466089 %
+	Branch6: 42.33466089 %
+	Branch7: 42.33466089 %
+	Branch8: 42.33466089 %
+	Branch9: 42.33466089 %
+	Branch10: 42.33466089 %
+	Branch11: 42.33466089 %
+	Branch12: 42.33466089 %
+	Seed: 0xd6a44a84
+	Pitch: 0.02001786
+	Cloned: true
+	Genome: {
+		env_time: 0.98703384
+		env_loop: 0.68480426
+		env_tilt: 0.78047907
+		vol_atk: 0.65102756
+		vol_dcy: 0.02716304
+		vol_sus: 0.89489287
+		mod_atk: 0.64857095
+		mod_dcy: 0.23614824
+		mod_sh: 0.25039870
+		mod_vel: 0.04986036
+		lfo_rate: 0.69321901
+		lfo_amt: 0.16264212
+		lfo_bal: 0.00478006
+		a_form: 0.91926634
+		a_noise: 0.92646819
+		a_color: 0.70465285
+		a_freq: 0.49666369
+		a_mod: 0.57312590
+		b_form: 0.51011038
+		b_noise: 0.74090248
+		b_freq: 0.80059540
+		b_mod: 0.86172616
+		b_sh: 0.71190816
+		fm_amt: 0.44245261
+		fm_mod: 0.70246077
+		sub_am: 0.73387051
+		balance: 0.22737730
+		flt_freq: 0.58225256
+		flt_mod: 0.56475174
+		flt_sep: 0.38543457
+		flt_q: 0.56762719
+		flt_kf: 0.87262440
+		fx_mix: 0.94089043
+		fx_len: 0.49741971
+		fx_damp: 0.50840777
+		fx_chors: 0.70239431
+		fx_size: 0.61675978
+	}
+}

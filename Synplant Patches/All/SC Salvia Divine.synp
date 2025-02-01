@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Salvia Divine"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 32.83244371 %
+	Effect: 75.87227821 %
+	Release: 4.34840484 s 
+	WheelScale: 52.43902206 %
+	VelSens: 50.00000000 %
+	Volume: -1.40602766 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x540d986b
+	Pitch: 1.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.81534350,
+		env_loop: 0.91157246,
+		env_tilt: 0.55993587,
+		vol_atk: 0.54723167,
+		vol_dcy: 0.96076196,
+		vol_sus: 0.91338301,
+		mod_atk: 0.69271904,
+		mod_dcy: 0.56403089,
+		mod_sh: 0.39811048,
+		mod_vel: 0.89379209,
+		lfo_rate: 0.09145391,
+		lfo_amt: 0.60387641,
+		lfo_bal: 0.19623813,
+		a_form: 0.51353437,
+		a_noise: 0.82746106,
+		a_color: 0.78115612,
+		a_freq: 0.33333334,
+		a_mod: 0.50000000,
+		b_form: 0.85298693,
+		b_noise: 0.11509667,
+		b_freq: 0.66274971,
+		b_mod: 0.50000000,
+		b_sh: 0.49097964,
+		fm_amt: 0.46524617,
+		fm_mod: 0.16871741,
+		sub_am: 0.29797202,
+		balance: 0.26142934,
+		flt_freq: 0.30694932,
+		flt_mod: 0.32970700,
+		flt_sep: 0.92656207,
+		flt_q: 0.43019661,
+		flt_kf: 0.23227081,
+		fx_mix: 0.19240683,
+		fx_len: 0.82644600,
+		fx_damp: 0.59320027,
+		fx_chors: 0.40122882,
+		fx_size: 0.57818359
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE String Michelin"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 17.25434810 %
+	Effect: -56.66759312 %
+	Release: 1.38022585 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -3.04006263 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x403833c2
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.51192689,
+		env_loop: 0.54952097,
+		env_tilt: 0.37687677,
+		vol_atk: 0.55611265,
+		vol_dcy: 0.84516352,
+		vol_sus: 0.90301991,
+		mod_atk: 0.30544674,
+		mod_dcy: 0.25440073,
+		mod_sh: 0.67819983,
+		mod_vel: 0.60633266,
+		lfo_rate: 0.33763415,
+		lfo_amt: 0.73741692,
+		lfo_bal: 0.06772947,
+		a_form: 0.45204902,
+		a_noise: 0.31703985,
+		a_color: 0.74190426,
+		a_freq: 0.66666669,
+		a_mod: 0.50342506,
+		b_form: 0.32677382,
+		b_noise: 0.54617494,
+		b_freq: 0.57336247,
+		b_mod: 0.39035112,
+		b_sh: 0.01478064,
+		fm_amt: 0.57646430,
+		fm_mod: 0.54710817,
+		sub_am: 0.23110884,
+		balance: 0.55062723,
+		flt_freq: 0.91925812,
+		flt_mod: 0.94670272,
+		flt_sep: 0.39125085,
+		flt_q: 0.09098959,
+		flt_kf: 0.79406279,
+		fx_mix: 0.22605339,
+		fx_len: 0.67271757,
+		fx_damp: 0.95351642,
+		fx_chors: 0.67443311,
+		fx_size: 0.56185353
+	}
+}

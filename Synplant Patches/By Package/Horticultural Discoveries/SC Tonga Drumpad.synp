@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "schtonga v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 42.25110710 %
+	Effect: 0.00000000 %
+	Release: 950.25915510 ms 
+	WheelScale: 38.74999881 %
+	VelSens: 50.00000000 %
+	Volume: 4.28614819 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xd08df69a
+	Pitch: 0.03039026
+	Cloned: false
+	Genome: {
+		env_time: 0.57843542
+		env_loop: 0.96673131
+		env_tilt: 0.17590332
+		vol_atk: 0.18054199
+		vol_dcy: 0.04016113
+		vol_sus: 0.49243164
+		mod_atk: 0.61767578
+		mod_dcy: 0.04086304
+		mod_sh: 0.14904785
+		mod_vel: 0.00000000
+		lfo_rate: 0.13061523
+		lfo_amt: 0.23962402
+		lfo_bal: 0.44555664
+		a_form: 0.74462891
+		a_noise: 0.13854980
+		a_color: 0.10321045
+		a_freq: 0.32826829
+		a_mod: 0.62695312
+		b_form: 0.49926758
+		b_noise: 0.57617188
+		b_freq: 0.62695312
+		b_mod: 0.62158203
+		b_sh: 0.53027344
+		fm_amt: 0.35888672
+		fm_mod: 0.87548828
+		sub_am: 0.05960083
+		balance: 0.62988281
+		flt_freq: 0.62255859
+		flt_mod: 0.88818359
+		flt_sep: 0.73437500
+		flt_q: 0.14697266
+		flt_kf: 1.00000000
+		fx_mix: 0.33325195
+		fx_len: 0.41186523
+		fx_damp: 0.36059570
+		fx_chors: 0.37988281
+		fx_size: 0.90966797
+	}
+}

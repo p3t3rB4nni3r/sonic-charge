@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "JJ StrimmerBass"
+	ModWheel: 11.30975336 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 52.84154415 %
+	Effect: -100.00000000 %
+	Release: 238.13165865 ms 
+	WheelScale: 73.17073345 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 19.60068345 %
+	Branch2: 19.60068345 %
+	Branch3: 19.60068345 %
+	Branch4: 19.60068345 %
+	Branch5: 19.60068345 %
+	Branch6: 19.60068345 %
+	Branch7: 19.60068345 %
+	Branch8: 19.60068345 %
+	Branch9: 19.60068345 %
+	Branch10: 29.89728451 %
+	Branch11: 19.60068345 %
+	Branch12: 19.60068345 %
+	Seed: 0x6991a06f
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.25188801
+		env_loop: 0.65878433
+		env_tilt: 1.00000000
+		vol_atk: 0.80733335
+		vol_dcy: 0.30295268
+		vol_sus: 0.66983789
+		mod_atk: 0.25468531
+		mod_dcy: 0.23993914
+		mod_sh: 0.42598051
+		mod_vel: 0.40043747
+		lfo_rate: 0.07999469
+		lfo_amt: 0.36168540
+		lfo_bal: 0.00000000
+		a_form: 0.33523500
+		a_noise: 0.50749075
+		a_color: 0.41257465
+		a_freq: 0.50000000
+		a_mod: 0.50164956
+		b_form: 0.74931824
+		b_noise: 0.51910084
+		b_freq: 0.49821424
+		b_mod: 0.37222612
+		b_sh: 0.33055717
+		fm_amt: 0.26487648
+		fm_mod: 0.41110969
+		sub_am: 0.85560256
+		balance: 0.40451023
+		flt_freq: 0.26132762
+		flt_mod: 0.52239633
+		flt_sep: 0.81201261
+		flt_q: 0.33536795
+		flt_kf: 0.00000000
+		fx_mix: 0.36493391
+		fx_len: 0.66746324
+		fx_damp: 0.00000000
+		fx_chors: 0.00000000
+		fx_size: 0.33052340
+	}
+}

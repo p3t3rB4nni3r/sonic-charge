@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Abyssopelagic"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -2.11153150 sm 
+	Atonality: 20.00000030 %
+	Effect: 0.00000000 %
+	Release: 1.84199991 s 
+	WheelScale: 33.75000060 %
+	VelSens: 50.00000000 %
+	Volume: -3.85290156 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xc5e1551a
+	Pitch: 1.92564297
+	Cloned: false
+	Genome: {
+		env_time: 0.43357608,
+		env_loop: 0.40584502,
+		env_tilt: 0.23280105,
+		vol_atk: 0.24724130,
+		vol_dcy: 0.83256751,
+		vol_sus: 0.33444238,
+		mod_atk: 0.47547084,
+		mod_dcy: 0.74181640,
+		mod_sh: 0.00899413,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.48571917,
+		lfo_amt: 0.29810086,
+		lfo_bal: 0.94089431,
+		a_form: 0.79808515,
+		a_noise: 0.83690530,
+		a_color: 0.43444493,
+		a_freq: 0.34572616,
+		a_mod: 0.38578117,
+		b_form: 0.75121075,
+		b_noise: 0.14704031,
+		b_freq: 0.46509323,
+		b_mod: 0.68471199,
+		b_sh: 0.00124923,
+		fm_amt: 0.81334424,
+		fm_mod: 0.50000030,
+		sub_am: 0.25000000,
+		balance: 0.00000002,
+		flt_freq: 0.22242293,
+		flt_mod: 0.57210600,
+		flt_sep: 0.49997056,
+		flt_q: 0.51105469,
+		flt_kf: 0.75000000,
+		fx_mix: 0.90347254,
+		fx_len: 0.90793234,
+		fx_damp: 0.00743761,
+		fx_chors: 0.25000000,
+		fx_size: 1.00000000
+	}
+}

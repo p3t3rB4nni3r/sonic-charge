@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Wheel For Mant"
+	ModWheel: 70.07874250 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: -51.90416873 %
+	Release: 279.54478529 ms 
+	WheelScale: 69.99999881 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 6.38788342 %
+	Branch2: 6.38788342 %
+	Branch3: 6.38788342 %
+	Branch4: 6.38788342 %
+	Branch5: 6.38788342 %
+	Branch6: 6.38788342 %
+	Branch7: 6.38788342 %
+	Branch8: 6.38788342 %
+	Branch9: 6.38788342 %
+	Branch10: 6.38788342 %
+	Branch11: 6.38788342 %
+	Branch12: 6.38788342 %
+	Seed: 0x45838460
+	Pitch: -0.00000012
+	Cloned: true
+	Genome: {
+		env_time: 0.79197735,
+		env_loop: 0.92342502,
+		env_tilt: 0.00000000,
+		vol_atk: 0.99543393,
+		vol_dcy: 0.20465374,
+		vol_sus: 0.63493317,
+		mod_atk: 0.29044676,
+		mod_dcy: 0.24986947,
+		mod_sh: 0.27145350,
+		mod_vel: 0.50386596,
+		lfo_rate: 0.64560699,
+		lfo_amt: 0.82274359,
+		lfo_bal: 0.00000000,
+		a_form: 0.80228257,
+		a_noise: 0.34455425,
+		a_color: 0.50272977,
+		a_freq: 0.16666669,
+		a_mod: 0.50833035,
+		b_form: 0.57230407,
+		b_noise: 0.14099710,
+		b_freq: 0.64968294,
+		b_mod: 0.45376551,
+		b_sh: 0.00000000,
+		fm_amt: 0.60775691,
+		fm_mod: 0.39232028,
+		sub_am: 0.93133080,
+		balance: 0.76670855,
+		flt_freq: 0.72825462,
+		flt_mod: 0.38688514,
+		flt_sep: 0.29159448,
+		flt_q: 1.00000000,
+		flt_kf: 0.00000000,
+		fx_mix: 1.00000000,
+		fx_len: 0.54081440,
+		fx_damp: 0.00000000,
+		fx_chors: 0.75326353,
+		fx_size: 0.73675090
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Plaque Tapper"
+	ModWheel: 54.33070660 %
+	Rotation: 0.00000000 degrees
+	Tuning: +8.96906376 sm 
+	Atonality: 15.28818011 %
+	Effect: 0.00000000 %
+	Release: 2.45915472 s 
+	WheelScale: 50.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 3.39850003 dB
+	Branch1: 16.29960835 %
+	Branch2: 16.29960835 %
+	Branch3: 16.29960835 %
+	Branch4: 16.29960835 %
+	Branch5: 16.29960835 %
+	Branch6: 16.29960835 %
+	Branch7: 16.29960835 %
+	Branch8: 16.29960835 %
+	Branch9: 16.29960835 %
+	Branch10: 16.29960835 %
+	Branch11: 16.29960835 %
+	Branch12: 16.29960835 %
+	Seed: 0xbab12cd5
+	Pitch: -0.41567469
+	Cloned: true
+	Genome: {
+		env_time: 0.85190028,
+		env_loop: 0.18338853,
+		env_tilt: 0.12951326,
+		vol_atk: 0.48820037,
+		vol_dcy: 0.53295362,
+		vol_sus: 0.65734994,
+		mod_atk: 0.98581958,
+		mod_dcy: 0.14491385,
+		mod_sh: 0.50706887,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.44694054,
+		lfo_amt: 0.95172215,
+		lfo_bal: 0.46150529,
+		a_form: 0.77354562,
+		a_noise: 0.86266923,
+		a_color: 0.13583183,
+		a_freq: 0.39867133,
+		a_mod: 0.49213576,
+		b_form: 0.34392107,
+		b_noise: 0.71615726,
+		b_freq: 0.70291221,
+		b_mod: 0.51053596,
+		b_sh: 0.29534346,
+		fm_amt: 0.97421420,
+		fm_mod: 0.47619891,
+		sub_am: 0.25000000,
+		balance: 0.33958328,
+		flt_freq: 0.73011905,
+		flt_mod: 0.95848513,
+		flt_sep: 0.73815858,
+		flt_q: 0.41848338,
+		flt_kf: 0.75000000,
+		fx_mix: 0.25190830,
+		fx_len: 0.64961994,
+		fx_damp: 0.77132976,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

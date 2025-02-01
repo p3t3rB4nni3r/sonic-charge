@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Lobotonotes"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 16.61874950 %
+	Effect: 23.28766584 %
+	Release: 654.72833881 ms 
+	WheelScale: 35.75342298 %
+	VelSens: 50.00000000 %
+	Volume: -6.43856147 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xd987ca62
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.50061077
+		env_loop: 0.49658221
+		env_tilt: 0.93123376
+		vol_atk: 0.32400668
+		vol_dcy: 0.65163219
+		vol_sus: 0.76493865
+		mod_atk: 0.43174613
+		mod_dcy: 0.01273435
+		mod_sh: 0.01410270
+		mod_vel: 0.16501045
+		lfo_rate: 0.68925875
+		lfo_amt: 0.49004710
+		lfo_bal: 0.96708256
+		a_form: 0.40876549
+		a_noise: 0.72387040
+		a_color: 0.10227764
+		a_freq: 0.66666669
+		a_mod: 0.52823663
+		b_form: 0.10026270
+		b_noise: 0.13036233
+		b_freq: 0.00393438
+		b_mod: 0.46124297
+		b_sh: 0.01856995
+		fm_amt: 0.56962907
+		fm_mod: 0.30179638
+		sub_am: 0.61379081
+		balance: 0.57636029
+		flt_freq: 0.49479121
+		flt_mod: 0.55233711
+		flt_sep: 0.59014827
+		flt_q: 0.52076864
+		flt_kf: 0.91113687
+		fx_mix: 0.46029782
+		fx_len: 0.78549111
+		fx_damp: 0.99510670
+		fx_chors: 0.14159417
+		fx_size: 0.66017658
+	}
+}

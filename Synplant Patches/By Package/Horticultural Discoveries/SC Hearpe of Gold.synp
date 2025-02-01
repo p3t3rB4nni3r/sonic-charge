@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "cuteHarpV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 1.96559515 s 
+	WheelScale: 62.50000000 %
+	VelSens: 50.00000000 %
+	Volume: 2.75007110 dB
+	Branch1: 11.14341095 %
+	Branch2: 11.14341095 %
+	Branch3: 11.14341095 %
+	Branch4: 11.14341095 %
+	Branch5: 11.14341095 %
+	Branch6: 11.14341095 %
+	Branch7: 11.14341095 %
+	Branch8: 11.14341095 %
+	Branch9: 11.14341095 %
+	Branch10: 11.14341095 %
+	Branch11: 11.14341095 %
+	Branch12: 11.14341095 %
+	Seed: 0xbc9a2c6e
+	Pitch: 0.43835211
+	Cloned: true
+	Genome: {
+		env_time: 0.01097107
+		env_loop: 0.08074951
+		env_tilt: 0.19628906
+		vol_atk: 0.75195312
+		vol_dcy: 0.96337891
+		vol_sus: 0.78027344
+		mod_atk: 0.63623047
+		mod_dcy: 0.04037476
+		mod_sh: 0.24426270
+		mod_vel: 0.00000000
+		lfo_rate: 0.48876953
+		lfo_amt: 0.93132985
+		lfo_bal: 0.81152344
+		a_form: 0.05004883
+		a_noise: 0.53466797
+		a_color: 0.77490234
+		a_freq: 0.59360796
+		a_mod: 0.44750977
+		b_form: 0.76562500
+		b_noise: 0.52148438
+		b_freq: 0.84082031
+		b_mod: 0.51855469
+		b_sh: 0.64257812
+		fm_amt: 0.12536621
+		fm_mod: 0.21850586
+		sub_am: 0.93212891
+		balance: 0.13110352
+		flt_freq: 0.62890625
+		flt_mod: 0.95654297
+		flt_sep: 0.45166016
+		flt_q: 0.18676758
+		flt_kf: 0.78686422
+		fx_mix: 0.35102910
+		fx_len: 0.85693359
+		fx_damp: 0.87500000
+		fx_chors: 0.79980469
+		fx_size: 0.63378906
+	}
+}

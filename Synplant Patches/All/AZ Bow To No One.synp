@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Bow To No One"
+	ModWheel: 74.01574850 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 20.32710314 %
+	Effect: -4.13978696 %
+	Release: 299.82397012 ms 
+	WheelScale: 48.78048897 %
+	VelSens: 50.00000596 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xc5720b4b
+	Pitch: -0.00755095
+	Cloned: true
+	Genome: {
+		env_time: 0.58515298,
+		env_loop: 0.49435216,
+		env_tilt: 0.97606552,
+		vol_atk: 0.56434715,
+		vol_dcy: 0.84959108,
+		vol_sus: 0.71899474,
+		mod_atk: 0.38829821,
+		mod_dcy: 0.62787491,
+		mod_sh: 0.76755083,
+		mod_vel: 0.28762829,
+		lfo_rate: 0.54486489,
+		lfo_amt: 0.13305545,
+		lfo_bal: 0.31644237,
+		a_form: 0.61418653,
+		a_noise: 0.45985770,
+		a_color: 0.95280147,
+		a_freq: 0.50125849,
+		a_mod: 0.43920064,
+		b_form: 0.21871597,
+		b_noise: 0.48595673,
+		b_freq: 0.57298422,
+		b_mod: 0.50967306,
+		b_sh: 0.37492430,
+		fm_amt: 0.24569255,
+		fm_mod: 0.71386218,
+		sub_am: 0.95422328,
+		balance: 0.60678947,
+		flt_freq: 0.74211484,
+		flt_mod: 0.56609154,
+		flt_sep: 0.40475881,
+		flt_q: 0.23695958,
+		flt_kf: 0.59433252,
+		fx_mix: 0.29506946,
+		fx_len: 0.74692214,
+		fx_damp: 0.87595272,
+		fx_chors: 0.58082503,
+		fx_size: 0.43069381
+	}
+}

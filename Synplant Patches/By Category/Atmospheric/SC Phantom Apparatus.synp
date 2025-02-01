@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "NE Phantom Apparatus"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 20.99999934 %
+	Effect: 60.51465273 %
+	Release: 1.95690460 s 
+	WheelScale: 42.50000119 %
+	VelSens: 50.00000000 %
+	Volume: -3.04006263 dB
+	Branch1: 27.35612094 %
+	Branch2: 23.43370020 %
+	Branch3: 24.91645664 %
+	Branch4: 28.92847955 %
+	Branch5: 25.96787810 %
+	Branch6: 27.56659985 %
+	Branch7: 28.10233533 %
+	Branch8: 19.33885366 %
+	Branch9: 30.22079766 %
+	Branch10: 26.17031336 %
+	Branch11: 30.24584949 %
+	Branch12: 34.77736115 %
+	Seed: 0x2af68a15
+	Pitch: 0.89606738
+	Cloned: false
+	Genome: {
+		env_time: 0.75314772,
+		env_loop: 0.71594161,
+		env_tilt: 0.66426241,
+		vol_atk: 0.75968778,
+		vol_dcy: 0.81220043,
+		vol_sus: 0.50000000,
+		mod_atk: 0.35176563,
+		mod_dcy: 0.25383723,
+		mod_sh: 0.85014844,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.25187016,
+		lfo_amt: 0.36322874,
+		lfo_bal: 0.73124075,
+		a_form: 0.89376658,
+		a_noise: 0.60181874,
+		a_color: 0.37270957,
+		a_freq: 0.35065544,
+		a_mod: 0.54740024,
+		b_form: 0.70579350,
+		b_noise: 0.43911105,
+		b_freq: 0.86240375,
+		b_mod: 0.59485984,
+		b_sh: 0.46048355,
+		fm_amt: 0.06053114,
+		fm_mod: 0.75838929,
+		sub_am: 0.50000000,
+		balance: 0.36761230,
+		flt_freq: 0.63594496,
+		flt_mod: 0.43170130,
+		flt_sep: 0.65208733,
+		flt_q: 0.98531717,
+		flt_kf: 0.75000000,
+		fx_mix: 0.65411878,
+		fx_len: 1.00000000,
+		fx_damp: 0.34837455,
+		fx_chors: 0.50000000,
+		fx_size: 0.35125244
+	}
+}

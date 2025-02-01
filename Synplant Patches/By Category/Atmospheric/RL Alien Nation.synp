@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "RL Alien Nation"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 100.00000000 %
+	Release: 6.86281472 s 
+	WheelScale: 34.14634168 %
+	VelSens: 50.00000000 %
+	Volume: -5.55067993 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x2bfde6e0
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 1.00000000,
+		env_loop: 0.80623966,
+		env_tilt: 0.57621694,
+		vol_atk: 0.04317638,
+		vol_dcy: 0.82670939,
+		vol_sus: 0.44926032,
+		mod_atk: 1.00000000,
+		mod_dcy: 0.28619879,
+		mod_sh: 0.32437921,
+		mod_vel: 0.09945548,
+		lfo_rate: 0.73290145,
+		lfo_amt: 0.65586716,
+		lfo_bal: 0.44307876,
+		a_form: 0.55924499,
+		a_noise: 0.76182353,
+		a_color: 0.74137992,
+		a_freq: 0.50000000,
+		a_mod: 0.41242814,
+		b_form: 0.76178551,
+		b_noise: 0.37381974,
+		b_freq: 0.72709751,
+		b_mod: 0.50284058,
+		b_sh: 0.62119359,
+		fm_amt: 0.60465437,
+		fm_mod: 0.68585432,
+		sub_am: 0.62299305,
+		balance: 0.22950983,
+		flt_freq: 0.60056591,
+		flt_mod: 0.61514848,
+		flt_sep: 0.37209857,
+		flt_q: 0.23699829,
+		flt_kf: 0.69112033,
+		fx_mix: 0.93986046,
+		fx_len: 0.77697635,
+		fx_damp: 0.63564676,
+		fx_chors: 0.90610802,
+		fx_size: 0.09716181
+	}
+}

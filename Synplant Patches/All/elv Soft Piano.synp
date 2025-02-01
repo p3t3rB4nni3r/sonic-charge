@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "elv Soft Piano"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 7.08661452 %
+	Effect: -27.55905390 %
+	Release: 779.24355419 ms 
+	WheelScale: 17.00000018 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x4454749f
+	Pitch: 2.44801021
+	Cloned: false
+	Genome: {
+		env_time: 0.45213360
+		env_loop: 0.89422071
+		env_tilt: 0.17544818
+		vol_atk: 0.98500824
+		vol_dcy: 0.94422400
+		vol_sus: 0.18306148
+		mod_atk: 0.02267963
+		mod_dcy: 0.05025852
+		mod_sh: 0.77686918
+		mod_vel: 0.15289289
+		lfo_rate: 0.29841560
+		lfo_amt: 0.15027022
+		lfo_bal: 0.64383578
+		a_form: 0.31240392
+		a_noise: 0.35917014
+		a_color: 0.60354805
+		a_freq: 0.25866497
+		a_mod: 0.48974770
+		b_form: 0.83965313
+		b_noise: 0.32318449
+		b_freq: 0.64911652
+		b_mod: 0.42661339
+		b_sh: 0.67583984
+		fm_amt: 0.23661381
+		fm_mod: 0.33867711
+		sub_am: 0.12174690
+		balance: 0.15740955
+		flt_freq: 0.09340847
+		flt_mod: 0.75748193
+		flt_sep: 0.87269479
+		flt_q: 0.12566876
+		flt_kf: 0.75217557
+		fx_mix: 0.71849978
+		fx_len: 0.91539901
+		fx_damp: 0.76737523
+		fx_chors: 0.13796294
+		fx_size: 0.50000000
+	}
+}

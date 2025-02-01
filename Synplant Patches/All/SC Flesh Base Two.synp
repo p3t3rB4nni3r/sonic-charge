@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Flesh Base Two"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 47.99999893 %
+	Effect: -24.70161319 %
+	Release: 165.99999958 ms 
+	WheelScale: 62.19512224 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xa84c590e
+	Pitch: -0.09289932
+	Cloned: true
+	Genome: {
+		env_time: 0.35110652,
+		env_loop: 0.67403996,
+		env_tilt: 0.19155705,
+		vol_atk: 0.41986310,
+		vol_dcy: 0.88386190,
+		vol_sus: 0.89146787,
+		mod_atk: 0.32190967,
+		mod_dcy: 0.11695069,
+		mod_sh: 0.80699348,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.45443058,
+		lfo_amt: 0.06877548,
+		lfo_bal: 0.28553224,
+		a_form: 0.68183845,
+		a_noise: 0.83634835,
+		a_color: 0.71830601,
+		a_freq: 0.34881657,
+		a_mod: 0.58544123,
+		b_form: 0.88030750,
+		b_noise: 0.13210964,
+		b_freq: 0.49322474,
+		b_mod: 0.39626527,
+		b_sh: 0.59331149,
+		fm_amt: 0.29427481,
+		fm_mod: 0.45779330,
+		sub_am: 0.25000000,
+		balance: 0.02064455,
+		flt_freq: 0.20870012,
+		flt_mod: 0.98562980,
+		flt_sep: 0.55036449,
+		flt_q: 0.41881692,
+		flt_kf: 0.75000000,
+		fx_mix: 0.35974622,
+		fx_len: 0.49251610,
+		fx_damp: 0.32989043,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

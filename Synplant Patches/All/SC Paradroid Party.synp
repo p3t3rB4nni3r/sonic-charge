@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Paradroid Party"
+	ModWheel: 0.00000000 %
+	Rotation: 60.00000179 degrees
+	Tuning: +7.00398588 sm 
+	Atonality: 100.00000000 %
+	Effect: -50.62983632 %
+	Release: 50.00000000 ms 
+	WheelScale: 31.25000000 %
+	VelSens: 0.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 24.36999530 %
+	Branch2: 24.65513796 %
+	Branch3: 18.39080453 %
+	Branch4: 30.50512373 %
+	Branch5: 30.03159463 %
+	Branch6: 30.32348454 %
+	Branch7: 47.27459550 %
+	Branch8: 30.80652058 %
+	Branch9: 30.32348454 %
+	Branch10: 24.36999530 %
+	Branch11: 23.54590446 %
+	Branch12: 22.19688296 %
+	Seed: 0xceeaadc4
+	Pitch: -0.75366688
+	Cloned: false
+	Genome: {
+		env_time: 0.95558190,
+		env_loop: 0.19382493,
+		env_tilt: 0.30914831,
+		vol_atk: 0.33894798,
+		vol_dcy: 0.97643971,
+		vol_sus: 0.63388133,
+		mod_atk: 0.67463940,
+		mod_dcy: 0.35416532,
+		mod_sh: 0.84988785,
+		mod_vel: 0.63706547,
+		lfo_rate: 0.40977046,
+		lfo_amt: 0.47044614,
+		lfo_bal: 0.64730108,
+		a_form: 0.28066760,
+		a_noise: 0.70348656,
+		a_color: 0.57296598,
+		a_freq: 0.29227781,
+		a_mod: 0.99546278,
+		b_form: 0.75395417,
+		b_noise: 0.24986671,
+		b_freq: 0.73817259,
+		b_mod: 0.30130833,
+		b_sh: 0.54522628,
+		fm_amt: 0.58988631,
+		fm_mod: 0.64671832,
+		sub_am: 0.40285507,
+		balance: 0.15189998,
+		flt_freq: 0.15454826,
+		flt_mod: 0.00685182,
+		flt_sep: 0.52759904,
+		flt_q: 0.90256000,
+		flt_kf: 0.96572226,
+		fx_mix: 0.02499247,
+		fx_len: 0.92871058,
+		fx_damp: 0.17768617,
+		fx_chors: 0.41248918,
+		fx_size: 0.50000000
+	}
+}

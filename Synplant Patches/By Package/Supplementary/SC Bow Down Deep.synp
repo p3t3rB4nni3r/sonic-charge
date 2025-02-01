@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Bow Down Deep"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 66.30584002 %
+	Effect: -51.48515403 %
+	Release: 7.23649519 s 
+	WheelScale: 32.50000179 %
+	VelSens: 50.00000000 %
+	Volume: -2.24949421 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xed7df2ee
+	Pitch: -2.12286997
+	Cloned: false
+	Genome: {
+		env_time: 0.83455205,
+		env_loop: 1.00000000,
+		env_tilt: 0.24514267,
+		vol_atk: 0.74931949,
+		vol_dcy: 0.42387938,
+		vol_sus: 0.36065847,
+		mod_atk: 0.31795090,
+		mod_dcy: 0.34362599,
+		mod_sh: 0.73023260,
+		mod_vel: 0.00000000,
+		lfo_rate: 0.76683557,
+		lfo_amt: 0.89830309,
+		lfo_bal: 0.38789970,
+		a_form: 0.24878037,
+		a_noise: 0.67681479,
+		a_color: 0.79045278,
+		a_freq: 0.18714499,
+		a_mod: 0.84183580,
+		b_form: 0.21152525,
+		b_noise: 0.52487588,
+		b_freq: 0.76489919,
+		b_mod: 0.39138460,
+		b_sh: 0.73359227,
+		fm_amt: 0.13692355,
+		fm_mod: 0.44564816,
+		sub_am: 0.91893637,
+		balance: 0.47416502,
+		flt_freq: 0.00000000,
+		flt_mod: 0.34767455,
+		flt_sep: 0.34121576,
+		flt_q: 0.58773905,
+		flt_kf: 0.13046627,
+		fx_mix: 0.77995974,
+		fx_len: 0.61310565,
+		fx_damp: 0.20576370,
+		fx_chors: 0.99091220,
+		fx_size: 0.58222407
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Subtlety"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -7.28000987 sm 
+	Atonality: 1.22600226 %
+	Effect: 38.47640753 %
+	Release: 6.64022554 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 2.08673448 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xb2402d5b
+	Pitch: 0.14745378
+	Cloned: false
+	Genome: {
+		env_time: 0.61925316
+		env_loop: 0.21313608
+		env_tilt: 0.59310436
+		vol_atk: 0.09908044
+		vol_dcy: 0.59164619
+		vol_sus: 0.47238916
+		mod_atk: 0.93305826
+		mod_dcy: 0.27329230
+		mod_sh: 0.36160398
+		mod_vel: 0.73754644
+		lfo_rate: 0.52244955
+		lfo_amt: 0.51794565
+		lfo_bal: 0.51732469
+		a_form: 0.33585256
+		a_noise: 0.14196187
+		a_color: 0.49707937
+		a_freq: 0.74542928
+		a_mod: 0.49961931
+		b_form: 0.12398234
+		b_noise: 0.36750519
+		b_freq: 0.50151640
+		b_mod: 0.49979234
+		b_sh: 0.64518631
+		fm_amt: 0.40088087
+		fm_mod: 0.63040072
+		sub_am: 0.74250364
+		balance: 0.56836283
+		flt_freq: 0.49315715
+		flt_mod: 0.68998396
+		flt_sep: 0.49466896
+		flt_q: 0.31001627
+		flt_kf: 0.72939873
+		fx_mix: 0.51732576
+		fx_len: 0.37819570
+		fx_damp: 0.51429087
+		fx_chors: 0.39494547
+		fx_size: 0.59751451
+	}
+}

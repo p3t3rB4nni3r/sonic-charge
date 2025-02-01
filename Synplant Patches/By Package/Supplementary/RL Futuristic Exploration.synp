@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "RL Futuristic exploration"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: 19.69490051 %
+	Release: 195.09135647 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 0.79268338 %
+	Volume: 14.88322109 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x3b30274d
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.21886462,
+		env_loop: 0.91835558,
+		env_tilt: 0.71596235,
+		vol_atk: 0.42148298,
+		vol_dcy: 0.26334137,
+		vol_sus: 0.65439212,
+		mod_atk: 0.00000000,
+		mod_dcy: 1.00000000,
+		mod_sh: 0.20840907,
+		mod_vel: 0.71691227,
+		lfo_rate: 0.23805165,
+		lfo_amt: 0.32813603,
+		lfo_bal: 0.17376345,
+		a_form: 0.74494493,
+		a_noise: 0.56817979,
+		a_color: 0.00073850,
+		a_freq: 0.66666669,
+		a_mod: 0.50000000,
+		b_form: 0.43315843,
+		b_noise: 0.19624692,
+		b_freq: 0.54674250,
+		b_mod: 0.10602117,
+		b_sh: 0.96079373,
+		fm_amt: 0.11984503,
+		fm_mod: 0.87770551,
+		sub_am: 0.55930912,
+		balance: 0.23982900,
+		flt_freq: 0.22697920,
+		flt_mod: 0.27769434,
+		flt_sep: 0.12222800,
+		flt_q: 0.15537827,
+		flt_kf: 0.37855002,
+		fx_mix: 0.12416184,
+		fx_len: 0.82269549,
+		fx_damp: 0.35579848,
+		fx_chors: 0.00317156,
+		fx_size: 0.01770514
+	}
+}

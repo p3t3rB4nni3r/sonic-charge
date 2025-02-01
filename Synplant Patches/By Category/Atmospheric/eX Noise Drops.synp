@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "eX Noise Drops"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -7.00316155 sm 
+	Atonality: 4.86187637 %
+	Effect: 55.78051805 %
+	Release: 4.09816407 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 5.56695007 dB
+	Branch1: 91.97677970 %
+	Branch2: 91.97677970 %
+	Branch3: 91.97677970 %
+	Branch4: 91.97677970 %
+	Branch5: 91.97677970 %
+	Branch6: 91.97677970 %
+	Branch7: 91.97677970 %
+	Branch8: 91.97677970 %
+	Branch9: 91.97677970 %
+	Branch10: 91.97677970 %
+	Branch11: 91.97677970 %
+	Branch12: 91.97677970 %
+	Seed: 0x2034af66
+	Pitch: 1.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.07291618
+		env_loop: 0.58117497
+		env_tilt: 0.74951184
+		vol_atk: 0.69844568
+		vol_dcy: 0.65987265
+		vol_sus: 0.66537738
+		mod_atk: 0.00000000
+		mod_dcy: 0.56609321
+		mod_sh: 0.00000000
+		mod_vel: 0.92945695
+		lfo_rate: 0.59065580
+		lfo_amt: 0.54192972
+		lfo_bal: 0.88476890
+		a_form: 0.74985141
+		a_noise: 0.49202907
+		a_color: 1.00000000
+		a_freq: 0.59952980
+		a_mod: 0.50849253
+		b_form: 1.00000000
+		b_noise: 0.56277484
+		b_freq: 0.60038280
+		b_mod: 0.51165694
+		b_sh: 0.22536409
+		fm_amt: 0.74970722
+		fm_mod: 0.51510900
+		sub_am: 0.50754201
+		balance: 0.53661305
+		flt_freq: 0.46466300
+		flt_mod: 0.75200725
+		flt_sep: 0.27434796
+		flt_q: 0.73686105
+		flt_kf: 0.76494241
+		fx_mix: 0.74645090
+		fx_len: 0.50714409
+		fx_damp: 0.62793493
+		fx_chors: 0.51937926
+		fx_size: 0.50000000
+	}
+}

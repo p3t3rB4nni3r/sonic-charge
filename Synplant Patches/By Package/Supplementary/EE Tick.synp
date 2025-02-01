@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "EE Tick"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 7.84027576 %
+	Release: 427.88878775 ms 
+	WheelScale: 95.12194991 %
+	VelSens: 50.00000000 %
+	Volume: 4.03267663 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x7c1827e6
+	Pitch: -0.50734818
+	Cloned: false
+	Genome: {
+		env_time: 0.00000000,
+		env_loop: 0.10938825,
+		env_tilt: 0.00000000,
+		vol_atk: 0.34566954,
+		vol_dcy: 0.64624149,
+		vol_sus: 0.00000000,
+		mod_atk: 0.82087690,
+		mod_dcy: 0.55527234,
+		mod_sh: 0.79281598,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.43662107,
+		lfo_amt: 0.40803909,
+		lfo_bal: 0.39210737,
+		a_form: 0.82285672,
+		a_noise: 0.30715227,
+		a_color: 0.58055437,
+		a_freq: 0.25122470,
+		a_mod: 0.31706870,
+		b_form: 0.30859196,
+		b_noise: 0.24555671,
+		b_freq: 0.10371226,
+		b_mod: 0.72643679,
+		b_sh: 0.73598534,
+		fm_amt: 0.82221448,
+		fm_mod: 0.83673960,
+		sub_am: 0.45772809,
+		balance: 0.94247305,
+		flt_freq: 0.71111953,
+		flt_mod: 0.23199648,
+		flt_sep: 0.73020935,
+		flt_q: 0.48118508,
+		flt_kf: 0.34344602,
+		fx_mix: 0.20210782,
+		fx_len: 0.74740410,
+		fx_damp: 0.79637605,
+		fx_chors: 0.58865893,
+		fx_size: 0.35494933
+	}
+}

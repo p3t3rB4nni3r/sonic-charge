@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TH SpaceBox"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.24261475 ct 
+	Atonality: 0.00000000 %
+	Effect: -55.07252514 %
+	Release: 2.61096097 s 
+	WheelScale: 36.25000119 %
+	VelSens: 50.00000000 %
+	Volume: 3.39850003 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xe0e5e4aa
+	Pitch: -0.00020218
+	Cloned: false
+	Genome: {
+		env_time: 0.32480431,
+		env_loop: 0.98407650,
+		env_tilt: 0.30020046,
+		vol_atk: 0.27921623,
+		vol_dcy: 0.11198151,
+		vol_sus: 0.68619543,
+		mod_atk: 0.89264059,
+		mod_dcy: 0.86976647,
+		mod_sh: 0.77690923,
+		mod_vel: 0.18624735,
+		lfo_rate: 0.77765268,
+		lfo_amt: 0.09576404,
+		lfo_bal: 0.52188647,
+		a_form: 0.55756801,
+		a_noise: 0.55868328,
+		a_color: 0.03746665,
+		a_freq: 0.50003368,
+		a_mod: 0.50000000,
+		b_form: 0.87200916,
+		b_noise: 0.46208942,
+		b_freq: 0.50021845,
+		b_mod: 0.50000000,
+		b_sh: 0.77883524,
+		fm_amt: 0.88143140,
+		fm_mod: 0.09080505,
+		sub_am: 0.06658489,
+		balance: 0.65873301,
+		flt_freq: 0.59073895,
+		flt_mod: 0.18356168,
+		flt_sep: 0.45120442,
+		flt_q: 0.89758605,
+		flt_kf: 0.89732838,
+		fx_mix: 0.61972111,
+		fx_len: 0.30549359,
+		fx_damp: 0.47724199,
+		fx_chors: 0.82886589,
+		fx_size: 0.67227513
+	}
+}

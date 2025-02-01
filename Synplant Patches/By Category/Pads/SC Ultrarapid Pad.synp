@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "NE Ultrarapid Pad"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 20.00000030 %
+	Effect: 0.00000000 %
+	Release: 20.00000000 s 
+	WheelScale: 32.92683065 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 58.99999738 %
+	Branch2: 58.99999738 %
+	Branch3: 58.99999738 %
+	Branch4: 58.99999738 %
+	Branch5: 58.99999738 %
+	Branch6: 58.99999738 %
+	Branch7: 58.99999738 %
+	Branch8: 58.99999738 %
+	Branch9: 58.99999738 %
+	Branch10: 58.99999738 %
+	Branch11: 58.99999738 %
+	Branch12: 58.99999738 %
+	Seed: 0x74d6f9d3
+	Pitch: 1.42602968
+	Cloned: true
+	Genome: {
+		env_time: 0.76819319,
+		env_loop: 0.61115772,
+		env_tilt: 0.90774256,
+		vol_atk: 0.02885621,
+		vol_dcy: 0.77036655,
+		vol_sus: 0.14344215,
+		mod_atk: 0.83459449,
+		mod_dcy: 0.46590343,
+		mod_sh: 0.38939500,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.30218658,
+		lfo_amt: 0.76541030,
+		lfo_bal: 0.16922969,
+		a_form: 0.38916779,
+		a_noise: 0.12679711,
+		a_color: 0.39326254,
+		a_freq: 0.42899507,
+		a_mod: 0.52015543,
+		b_form: 0.26402009,
+		b_noise: 0.81043208,
+		b_freq: 0.47566956,
+		b_mod: 0.43205765,
+		b_sh: 0.21233915,
+		fm_amt: 0.32222506,
+		fm_mod: 0.98989737,
+		sub_am: 0.25000000,
+		balance: 0.08254797,
+		flt_freq: 0.63321900,
+		flt_mod: 0.77950943,
+		flt_sep: 0.24455701,
+		flt_q: 0.07389654,
+		flt_kf: 0.75000000,
+		fx_mix: 0.91968983,
+		fx_len: 0.70091957,
+		fx_damp: 0.98346823,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

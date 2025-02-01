@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Modula Too"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 23.63996506 %
+	Effect: -38.54938745 %
+	Release: 10.62777749 s 
+	WheelScale: 67.50000119 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 81.12877607 %
+	Branch2: 81.12877607 %
+	Branch3: 81.12877607 %
+	Branch4: 81.12877607 %
+	Branch5: 81.12877607 %
+	Branch6: 81.12877607 %
+	Branch7: 81.12877607 %
+	Branch8: 81.12877607 %
+	Branch9: 81.12877607 %
+	Branch10: 81.12877607 %
+	Branch11: 81.12877607 %
+	Branch12: 81.12877607 %
+	Seed: 0x78489c90
+	Pitch: 0.34352946
+	Cloned: true
+	Genome: {
+		env_time: 0.55461538,
+		env_loop: 0.98601460,
+		env_tilt: 0.07016045,
+		vol_atk: 0.04556489,
+		vol_dcy: 0.20369333,
+		vol_sus: 0.97287422,
+		mod_atk: 0.90389955,
+		mod_dcy: 0.17035282,
+		mod_sh: 0.52662671,
+		mod_vel: 0.85437906,
+		lfo_rate: 0.04951119,
+		lfo_amt: 0.55661082,
+		lfo_bal: 0.57992524,
+		a_form: 0.80501753,
+		a_noise: 0.81506473,
+		a_color: 0.63590431,
+		a_freq: 0.44274509,
+		a_mod: 0.46367919,
+		b_form: 0.03170395,
+		b_noise: 0.46003807,
+		b_freq: 0.39261025,
+		b_mod: 0.99069405,
+		b_sh: 0.99552816,
+		fm_amt: 0.53909820,
+		fm_mod: 0.98209989,
+		sub_am: 0.80563909,
+		balance: 0.75276369,
+		flt_freq: 0.03145045,
+		flt_mod: 0.62664241,
+		flt_sep: 0.95870268,
+		flt_q: 0.20516276,
+		flt_kf: 0.23173118,
+		fx_mix: 0.77317399,
+		fx_len: 0.07274884,
+		fx_damp: 0.08699346,
+		fx_chors: 0.78379786,
+		fx_size: 0.37259588
+	}
+}

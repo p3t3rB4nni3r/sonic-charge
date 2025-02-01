@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "R7 Hammers"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -64.42501545 ct 
+	Atonality: 74.85593557 %
+	Effect: -72.39142358 %
+	Release: 251.84763236 ms 
+	WheelScale: 26.12804770 %
+	VelSens: 50.00000000 %
+	Volume: -2.24949421 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x290fb784
+	Pitch: -0.12899399
+	Cloned: false
+	Genome: {
+		env_time: 0.98531872
+		env_loop: 0.25684267
+		env_tilt: 0.40274405
+		vol_atk: 0.03518045
+		vol_dcy: 0.87204260
+		vol_sus: 0.40140736
+		mod_atk: 0.79183149
+		mod_dcy: 0.71489906
+		mod_sh: 0.42570591
+		mod_vel: 0.00603127
+		lfo_rate: 0.56086683
+		lfo_amt: 0.69284403
+		lfo_bal: 0.87006903
+		a_form: 0.91605544
+		a_noise: 0.77209473
+		a_color: 0.24999660
+		a_freq: 0.52149898
+		a_mod: 0.59492385
+		b_form: 0.17771149
+		b_noise: 0.76244187
+		b_freq: 0.51075631
+		b_mod: 0.99716580
+		b_sh: 0.48575252
+		fm_amt: 0.67344511
+		fm_mod: 0.65462828
+		sub_am: 0.37630415
+		balance: 0.19807082
+		flt_freq: 0.33309484
+		flt_mod: 0.47089022
+		flt_sep: 0.73179638
+		flt_q: 0.40195775
+		flt_kf: 0.85047942
+		fx_mix: 0.18847179
+		fx_len: 0.34566981
+		fx_damp: 0.52015412
+		fx_chors: 0.74504232
+		fx_size: 0.31595382
+	}
+}

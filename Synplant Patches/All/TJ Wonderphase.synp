@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TJ Wonderphase"
+	ModWheel: 67.66771078 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 58.17303658 %
+	Effect: -43.93634796 %
+	Release: 226.58028367 ms 
+	WheelScale: 41.24999940 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x3f22f031
+	Pitch: 0.17852592
+	Cloned: true
+	Genome: {
+		env_time: 0.22474647
+		env_loop: 0.48082757
+		env_tilt: 0.02771711
+		vol_atk: 0.71009630
+		vol_dcy: 0.66168183
+		vol_sus: 0.35390747
+		mod_atk: 0.78278989
+		mod_dcy: 0.41462076
+		mod_sh: 0.88314706
+		mod_vel: 0.47316599
+		lfo_rate: 0.99483138
+		lfo_amt: 0.62504244
+		lfo_bal: 0.08574522
+		a_form: 0.80829883
+		a_noise: 0.32577658
+		a_color: 0.89341676
+		a_freq: 0.63691235
+		a_mod: 0.65606540
+		b_form: 0.50467187
+		b_noise: 0.19838238
+		b_freq: 0.22782028
+		b_mod: 0.52221507
+		b_sh: 0.57313877
+		fm_amt: 0.56051034
+		fm_mod: 0.43815726
+		sub_am: 0.06738424
+		balance: 0.18955302
+		flt_freq: 0.27778256
+		flt_mod: 0.01488000
+		flt_sep: 0.09168768
+		flt_q: 0.10321814
+		flt_kf: 0.13970280
+		fx_mix: 0.80518800
+		fx_len: 0.72971064
+		fx_damp: 0.01173913
+		fx_chors: 0.35953891
+		fx_size: 0.35494933
+	}
+}

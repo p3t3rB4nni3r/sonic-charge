@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "betterFieldDayV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 5.06516356 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -0.74929284 dB
+	Branch1: 32.79460073 %
+	Branch2: 32.79460073 %
+	Branch3: 32.79460073 %
+	Branch4: 32.79460073 %
+	Branch5: 32.79460073 %
+	Branch6: 32.79460073 %
+	Branch7: 32.79460073 %
+	Branch8: 32.79460073 %
+	Branch9: 32.79460073 %
+	Branch10: 32.79460073 %
+	Branch11: 32.79460073 %
+	Branch12: 32.79460073 %
+	Seed: 0x7334c750
+	Pitch: -0.00590992
+	Cloned: true
+	Genome: {
+		env_time: 0.22113043
+		env_loop: 0.01035517
+		env_tilt: 0.58612555
+		vol_atk: 0.70093280
+		vol_dcy: 0.04207641
+		vol_sus: 0.96300727
+		mod_atk: 0.46617210
+		mod_dcy: 0.30481601
+		mod_sh: 0.41281474
+		mod_vel: 0.00000000
+		lfo_rate: 0.56059331
+		lfo_amt: 0.86203408
+		lfo_bal: 0.25218010
+		a_form: 0.57523197
+		a_noise: 0.87260449
+		a_color: 0.95887470
+		a_freq: 0.50098497
+		a_mod: 0.41238928
+		b_form: 0.66237515
+		b_noise: 0.73017859
+		b_freq: 0.43597984
+		b_mod: 0.71162575
+		b_sh: 0.57697999
+		fm_amt: 0.44008100
+		fm_mod: 0.81931090
+		sub_am: 0.28810501
+		balance: 0.52824521
+		flt_freq: 0.85424894
+		flt_mod: 0.39874500
+		flt_sep: 0.18872941
+		flt_q: 0.03346860
+		flt_kf: 1.00000000
+		fx_mix: 0.63980412
+		fx_len: 0.76302677
+		fx_damp: 0.16669238
+		fx_chors: 0.64000726
+		fx_size: 0.09931441
+	}
+}

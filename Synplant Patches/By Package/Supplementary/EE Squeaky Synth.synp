@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "EE Squeaky Synth"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -33.78916383 %
+	Release: 277.04345216 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x15ae010a
+	Pitch: -0.10393262
+	Cloned: false
+	Genome: {
+		env_time: 0.63648850,
+		env_loop: 0.30802691,
+		env_tilt: 0.18533812,
+		vol_atk: 1.00000000,
+		vol_dcy: 0.61736864,
+		vol_sus: 0.80866951,
+		mod_atk: 0.90405297,
+		mod_dcy: 0.75095516,
+		mod_sh: 0.87826025,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.42412651,
+		lfo_amt: 0.87076002,
+		lfo_bal: 0.12212628,
+		a_form: 0.16697925,
+		a_noise: 0.74651903,
+		a_color: 0.70161092,
+		a_freq: 0.35065544,
+		a_mod: 0.50497168,
+		b_form: 0.40126276,
+		b_noise: 0.71082705,
+		b_freq: 0.84143060,
+		b_mod: 0.46336627,
+		b_sh: 0.25241208,
+		fm_amt: 0.71661437,
+		fm_mod: 0.43072543,
+		sub_am: 0.25240326,
+		balance: 0.36634707,
+		flt_freq: 0.71158826,
+		flt_mod: 0.85636449,
+		flt_sep: 0.28696287,
+		flt_q: 0.71964002,
+		flt_kf: 0.61534417,
+		fx_mix: 0.86481941,
+		fx_len: 0.77065629,
+		fx_damp: 0.64928776,
+		fx_chors: 0.84648842,
+		fx_size: 0.35125241
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ME Vinyly"
+	ModWheel: 0.78740157 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -100.00000000 %
+	Release: 4.36626091 s 
+	WheelScale: 85.36585569 %
+	VelSens: 100.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x7683cbf4
+	Pitch: -1.81979990
+	Cloned: true
+	Genome: {
+		env_time: 0.69070959,
+		env_loop: 0.99976528,
+		env_tilt: 0.91605210,
+		vol_atk: 0.43840480,
+		vol_dcy: 0.80610645,
+		vol_sus: 0.99996316,
+		mod_atk: 0.00006866,
+		mod_dcy: 0.00028300,
+		mod_sh: 0.00024736,
+		mod_vel: 0.00032043,
+		lfo_rate: 0.00023293,
+		lfo_amt: 0.00011903,
+		lfo_bal: 0.00021380,
+		a_form: 0.96795684,
+		a_noise: 0.88300294,
+		a_color: 0.45742881,
+		a_freq: 0.46996665,
+		a_mod: 0.08989567,
+		b_form: 0.00001007,
+		b_noise: 0.96267867,
+		b_freq: 1.00000000,
+		b_mod: 0.09312481,
+		b_sh: 0.01784104,
+		fm_amt: 0.89494812,
+		fm_mod: 0.80836540,
+		sub_am: 0.79559493,
+		balance: 0.60648990,
+		flt_freq: 0.74095273,
+		flt_mod: 0.33832061,
+		flt_sep: 0.45055366,
+		flt_q: 0.23034543,
+		flt_kf: 0.42714596,
+		fx_mix: 0.54862487,
+		fx_len: 0.26956522,
+		fx_damp: 0.22754955,
+		fx_chors: 0.07055485,
+		fx_size: 0.35494933
+	}
+}

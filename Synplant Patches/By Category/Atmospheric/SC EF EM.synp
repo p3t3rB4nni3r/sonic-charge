@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE EF EM"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 12.70632297 %
+	Effect: 0.00000000 %
+	Release: 2.64144695 s 
+	WheelScale: 44.99999881 %
+	VelSens: 50.00000000 %
+	Volume: -2.24949421 dB
+	Branch1: 14.66386914 %
+	Branch2: 13.21756095 %
+	Branch3: 23.43370020 %
+	Branch4: 31.90032244 %
+	Branch5: 27.67154276 %
+	Branch6: 17.30491966 %
+	Branch7: 38.56516778 %
+	Branch8: 17.44979471 %
+	Branch9: 33.68767500 %
+	Branch10: 39.20816481 %
+	Branch11: 18.63947958 %
+	Branch12: 26.29140913 %
+	Seed: 0x9075c926
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.67550766
+		env_loop: 0.49254516
+		env_tilt: 0.56024003
+		vol_atk: 0.01591527
+		vol_dcy: 0.77440274
+		vol_sus: 0.51858461
+		mod_atk: 0.36055171
+		mod_dcy: 0.35868812
+		mod_sh: 0.26190826
+		mod_vel: 0.22859791
+		lfo_rate: 0.67524838
+		lfo_amt: 0.45036978
+		lfo_bal: 0.78089941
+		a_form: 0.94525814
+		a_noise: 0.63763559
+		a_color: 0.66064525
+		a_freq: 0.50000000
+		a_mod: 0.54892832
+		b_form: 0.61085099
+		b_noise: 0.25431925
+		b_freq: 0.63990402
+		b_mod: 0.49501777
+		b_sh: 0.49209201
+		fm_amt: 0.45769358
+		fm_mod: 0.73933095
+		sub_am: 0.41205543
+		balance: 0.64707077
+		flt_freq: 0.07830814
+		flt_mod: 0.67118269
+		flt_sep: 0.51273984
+		flt_q: 0.43696153
+		flt_kf: 0.41984233
+		fx_mix: 0.46890050
+		fx_len: 0.98197514
+		fx_damp: 0.20760968
+		fx_chors: 1.00000000
+		fx_size: 0.03906423
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "SM Singing Saw"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 64.34062719 %
+	Effect: -70.36116421 %
+	Release: 387.05319213 ms 
+	WheelScale: 31.29268289 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x7c59258c
+	Pitch: 3.96802592
+	Cloned: false
+	Genome: {
+		env_time: 0.92192173,
+		env_loop: 0.96617764,
+		env_tilt: 0.69424307,
+		vol_atk: 0.66177547,
+		vol_dcy: 0.00000000,
+		vol_sus: 0.70134616,
+		mod_atk: 0.50960958,
+		mod_dcy: 0.52024317,
+		mod_sh: 0.41839311,
+		mod_vel: 0.23952419,
+		lfo_rate: 0.75295269,
+		lfo_amt: 0.81528461,
+		lfo_bal: 0.38767099,
+		a_form: 0.62881649,
+		a_noise: 0.69396389,
+		a_color: 0.31958723,
+		a_freq: 0.00532901,
+		a_mod: 0.54251254,
+		b_form: 0.16976428,
+		b_noise: 0.55647886,
+		b_freq: 0.56991386,
+		b_mod: 0.46945381,
+		b_sh: 0.43939227,
+		fm_amt: 0.30122405,
+		fm_mod: 0.80552936,
+		sub_am: 0.25427783,
+		balance: 0.92233002,
+		flt_freq: 0.44226024,
+		flt_mod: 0.52744281,
+		flt_sep: 0.73247677,
+		flt_q: 0.41999069,
+		flt_kf: 0.95034128,
+		fx_mix: 0.49583501,
+		fx_len: 0.67409009,
+		fx_damp: 0.54335797,
+		fx_chors: 0.91641414,
+		fx_size: 0.38677257
+	}
+}

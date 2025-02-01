@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "NE Lords Of Canada"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 50.00000000 ms 
+	WheelScale: 48.74999821 %
+	VelSens: 50.00000000 %
+	Volume: -2.09394735 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x6918efa8
+	Pitch: 0.36956549
+	Cloned: true
+	Genome: {
+		env_time: 0.49821720,
+		env_loop: 0.47412473,
+		env_tilt: 0.49133500,
+		vol_atk: 0.43346909,
+		vol_dcy: 0.70961708,
+		vol_sus: 1.00000000,
+		mod_atk: 0.49416631,
+		mod_dcy: 0.48973191,
+		mod_sh: 0.56172180,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.39130431,
+		lfo_amt: 0.85869563,
+		lfo_bal: 0.00000000,
+		a_form: 0.38588431,
+		a_noise: 0.00000000,
+		a_color: 0.00000000,
+		a_freq: 0.27173910,
+		a_mod: 0.49470273,
+		b_form: 0.71431571,
+		b_noise: 0.50654900,
+		b_freq: 0.57812297,
+		b_mod: 0.51419556,
+		b_sh: 0.49383539,
+		fm_amt: 0.82363778,
+		fm_mod: 0.16299930,
+		sub_am: 0.25000000,
+		balance: 0.56085151,
+		flt_freq: 0.75000000,
+		flt_mod: 0.50000000,
+		flt_sep: 0.84782612,
+		flt_q: 0.46739131,
+		flt_kf: 0.04600509,
+		fx_mix: 0.76748770,
+		fx_len: 0.56623197,
+		fx_damp: 0.54097885,
+		fx_chors: 0.44376010,
+		fx_size: 0.35494933
+	}
+}

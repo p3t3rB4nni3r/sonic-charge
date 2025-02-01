@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 4
+	Name: "NE Mr Arpoon"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 20.99999934 %
+	Effect: 0.00000000 %
+	Release: 6.40839143 s 
+	WheelScale: 53.74999642 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 34.25248563 %
+	Branch2: 34.25248563 %
+	Branch3: 34.25248563 %
+	Branch4: 34.25248563 %
+	Branch5: 34.25248563 %
+	Branch6: 34.25248563 %
+	Branch7: 34.25248563 %
+	Branch8: 34.25248563 %
+	Branch9: 34.25248563 %
+	Branch10: 34.25248563 %
+	Branch11: 34.25248563 %
+	Branch12: 34.25248563 %
+	Seed: 0x28ee7a57
+	Pitch: -0.20200908
+	Cloned: true
+	Genome: {
+		env_time: 0.56169236,
+		env_loop: 0.43055233,
+		env_tilt: 0.18221818,
+		vol_atk: 0.29491076,
+		vol_dcy: 0.83330643,
+		vol_sus: 0.30546373,
+		mod_atk: 0.77167362,
+		mod_dcy: 0.31933084,
+		mod_sh: 0.29533908,
+		mod_vel: 0.66792655,
+		lfo_rate: 0.81853098,
+		lfo_amt: 0.24593019,
+		lfo_bal: 0.93037891,
+		a_form: 0.46091291,
+		a_noise: 0.16365539,
+		a_color: 0.91335261,
+		a_freq: 0.20098071,
+		a_mod: 0.36937636,
+		b_form: 0.99929339,
+		b_noise: 0.27338374,
+		b_freq: 0.73735595,
+		b_mod: 0.58866864,
+		b_sh: 0.17038889,
+		fm_amt: 0.47636580,
+		fm_mod: 0.88025177,
+		sub_am: 1.00000000,
+		balance: 0.89258659,
+		flt_freq: 0.46323183,
+		flt_mod: 0.94187224,
+		flt_sep: 0.68041295,
+		flt_q: 0.00000000,
+		flt_kf: 0.27493027,
+		fx_mix: 0.36506882,
+		fx_len: 0.78770441,
+		fx_damp: 0.92477971,
+		fx_chors: 0.76910031,
+		fx_size: 0.52507192
+	}
+}

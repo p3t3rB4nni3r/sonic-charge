@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "reecy v1b"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 17.09925383 %
+	Effect: -31.10542893 %
+	Release: 50.00000000 ms 
+	WheelScale: 77.50000358 %
+	VelSens: 0.00000000 %
+	Volume: 2.75007110 dB
+	Branch1: 2.37791073 %
+	Branch2: 2.37791073 %
+	Branch3: 2.37791073 %
+	Branch4: 2.37791073 %
+	Branch5: 2.37791073 %
+	Branch6: 2.37791073 %
+	Branch7: 2.37791073 %
+	Branch8: 2.37791073 %
+	Branch9: 2.37791073 %
+	Branch10: 2.37791073 %
+	Branch11: 2.37791073 %
+	Branch12: 2.37791073 %
+	Seed: 0x5008999f
+	Pitch: -2.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.61653572
+		env_loop: 0.78810310
+		env_tilt: 0.39967763
+		vol_atk: 0.47772241
+		vol_dcy: 0.17664385
+		vol_sus: 0.72545588
+		mod_atk: 0.42369556
+		mod_dcy: 0.20629710
+		mod_sh: 0.37588704
+		mod_vel: 0.43829250
+		lfo_rate: 0.42036319
+		lfo_amt: 0.61156958
+		lfo_bal: 0.55083758
+		a_form: 0.51457024
+		a_noise: 0.48715013
+		a_color: 0.39914471
+		a_freq: 0.50000000
+		a_mod: 0.44672537
+		b_form: 0.61851609
+		b_noise: 0.34909278
+		b_freq: 0.60911828
+		b_mod: 0.51352799
+		b_sh: 0.33963621
+		fm_amt: 0.51377076
+		fm_mod: 0.64294815
+		sub_am: 0.03985572
+		balance: 0.72818989
+		flt_freq: 0.64164239
+		flt_mod: 0.68192297
+		flt_sep: 0.48875076
+		flt_q: 0.20141292
+		flt_kf: 0.63977695
+		fx_mix: 0.91010314
+		fx_len: 0.08138769
+		fx_damp: 0.76783353
+		fx_chors: 0.78086859
+		fx_size: 0.53875190
+	}
+}

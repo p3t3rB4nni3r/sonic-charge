@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "elv Strings"
+	ModWheel: 0.00000000 %
+	Rotation: 60.00000179 degrees
+	Tuning: +6.63560486 sm 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 5.48299910 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -9.27894105 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x86a62ab0
+	Pitch: 1.77947688
+	Cloned: true
+	Genome: {
+		env_time: 0.74393743
+		env_loop: 0.64099634
+		env_tilt: 0.72910780
+		vol_atk: 0.67733663
+		vol_dcy: 0.79503244
+		vol_sus: 0.96940511
+		mod_atk: 0.65575022
+		mod_dcy: 0.96581548
+		mod_sh: 0.16675787
+		mod_vel: 0.50000000
+		lfo_rate: 0.48571932
+		lfo_amt: 0.05841483
+		lfo_bal: 0.94110477
+		a_form: 0.77964205
+		a_noise: 0.41412684
+		a_color: 0.29059625
+		a_freq: 0.27756539
+		a_mod: 0.50477463
+		b_form: 0.46320775
+		b_noise: 0.74266827
+		b_freq: 0.50654566
+		b_mod: 0.46928361
+		b_sh: 0.00000000
+		fm_amt: 0.69725901
+		fm_mod: 0.50000000
+		sub_am: 0.25000000
+		balance: 0.74648041
+		flt_freq: 0.00955043
+		flt_mod: 1.00000000
+		flt_sep: 1.00000000
+		flt_q: 0.00516545
+		flt_kf: 0.75000000
+		fx_mix: 0.97464710
+		fx_len: 0.74419981
+		fx_damp: 0.86714554
+		fx_chors: 0.25000000
+		fx_size: 0.50000000
+	}
+}

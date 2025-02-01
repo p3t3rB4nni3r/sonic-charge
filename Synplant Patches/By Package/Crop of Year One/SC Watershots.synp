@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Watershots"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 18.86303723 %
+	Effect: -100.00000000 %
+	Release: 100.99999879 ms 
+	WheelScale: 62.50000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 31.90032244 %
+	Branch2: 25.54707527 %
+	Branch3: 20.67731470 %
+	Branch4: 15.54535627 %
+	Branch5: 14.92001414 %
+	Branch6: 19.95190531 %
+	Branch7: 28.10233533 %
+	Branch8: 25.79181492 %
+	Branch9: 22.63272852 %
+	Branch10: 35.69974601 %
+	Branch11: 43.00496578 %
+	Branch12: 43.57740879 %
+	Seed: 0x097977a6
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.32050037
+		env_loop: 0.17120421
+		env_tilt: 0.63271129
+		vol_atk: 0.86156768
+		vol_dcy: 0.49822092
+		vol_sus: 0.25905907
+		mod_atk: 0.95929897
+		mod_dcy: 0.92618346
+		mod_sh: 0.66393292
+		mod_vel: 0.11311781
+		lfo_rate: 0.94804204
+		lfo_amt: 0.12537253
+		lfo_bal: 0.69634604
+		a_form: 0.73559612
+		a_noise: 0.47021097
+		a_color: 0.18637788
+		a_freq: 0.66666669
+		a_mod: 0.38973790
+		b_form: 0.52829897
+		b_noise: 0.46259719
+		b_freq: 0.43392473
+		b_mod: 0.42270905
+		b_sh: 0.21759391
+		fm_amt: 0.66731715
+		fm_mod: 0.65558624
+		sub_am: 0.03980011
+		balance: 0.30022889
+		flt_freq: 0.37364614
+		flt_mod: 0.00061977
+		flt_sep: 0.69181472
+		flt_q: 0.94299597
+		flt_kf: 0.91156763
+		fx_mix: 0.55789649
+		fx_len: 0.22351104
+		fx_damp: 0.57540101
+		fx_chors: 0.77203900
+		fx_size: 0.69027984
+	}
+}

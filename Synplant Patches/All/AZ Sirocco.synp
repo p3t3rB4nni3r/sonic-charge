@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Sirocco"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 5.13149476 s 
+	WheelScale: 59.75610018 %
+	VelSens: 50.00000000 %
+	Volume: -4.68930426 dB
+	Branch1: 100.00000000 %
+	Branch2: 100.00000000 %
+	Branch3: 100.00000000 %
+	Branch4: 100.00000000 %
+	Branch5: 100.00000000 %
+	Branch6: 100.00000000 %
+	Branch7: 100.00000000 %
+	Branch8: 100.00000000 %
+	Branch9: 100.00000000 %
+	Branch10: 100.00000000 %
+	Branch11: 100.00000000 %
+	Branch12: 100.00000000 %
+	Seed: 0x4493d5a1
+	Pitch: 0.43047333
+	Cloned: true
+	Genome: {
+		env_time: 0.60720217,
+		env_loop: 0.80059570,
+		env_tilt: 0.97990853,
+		vol_atk: 0.41711473,
+		vol_dcy: 0.07226622,
+		vol_sus: 0.18333966,
+		mod_atk: 0.29352570,
+		mod_dcy: 0.13645965,
+		mod_sh: 0.61614442,
+		mod_vel: 0.82668900,
+		lfo_rate: 0.24770200,
+		lfo_amt: 0.19813991,
+		lfo_bal: 0.15495819,
+		a_form: 0.76769233,
+		a_noise: 0.99615777,
+		a_color: 0.43233395,
+		a_freq: 0.76158774,
+		a_mod: 0.49763650,
+		b_form: 0.54451132,
+		b_noise: 0.47712034,
+		b_freq: 0.57372844,
+		b_mod: 0.66212624,
+		b_sh: 0.61050135,
+		fm_amt: 0.35051835,
+		fm_mod: 0.88317251,
+		sub_am: 0.78821594,
+		balance: 0.77688879,
+		flt_freq: 0.83467191,
+		flt_mod: 0.21109080,
+		flt_sep: 0.07899106,
+		flt_q: 0.24014020,
+		flt_kf: 0.58824587,
+		fx_mix: 0.34641516,
+		fx_len: 0.63057828,
+		fx_damp: 0.34537953,
+		fx_chors: 0.60462630,
+		fx_size: 0.49304524
+	}
+}

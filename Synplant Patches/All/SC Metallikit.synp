@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Metallikit"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 1.28461133 s 
+	WheelScale: 73.10975194 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 25.76467693 %
+	Branch2: 29.37521935 %
+	Branch3: 32.53012002 %
+	Branch4: 38.33479583 %
+	Branch5: 41.30122066 %
+	Branch6: 36.68784499 %
+	Branch7: 29.94451225 %
+	Branch8: 34.21733677 %
+	Branch9: 26.17031336 %
+	Branch10: 45.21805346 %
+	Branch11: 49.89485741 %
+	Branch12: 31.61962628 %
+	Seed: 0x5e877c85
+	Pitch: 0.26229167
+	Cloned: false
+	Genome: {
+		env_time: 0.32425851,
+		env_loop: 0.63648862,
+		env_tilt: 0.14265460,
+		vol_atk: 0.98043418,
+		vol_dcy: 0.32420284,
+		vol_sus: 0.00154972,
+		mod_atk: 0.82488024,
+		mod_dcy: 0.01318526,
+		mod_sh: 0.28117532,
+		mod_vel: 0.82716560,
+		lfo_rate: 0.96925998,
+		lfo_amt: 0.58531702,
+		lfo_bal: 0.26585579,
+		a_form: 0.85979903,
+		a_noise: 0.03170067,
+		a_color: 0.71924621,
+		a_freq: 0.62295139,
+		a_mod: 0.39002258,
+		b_form: 0.74097741,
+		b_noise: 0.21307570,
+		b_freq: 0.78331888,
+		b_mod: 0.54378706,
+		b_sh: 0.03620511,
+		fm_amt: 0.61495900,
+		fm_mod: 0.64196366,
+		sub_am: 0.92000544,
+		balance: 0.80797088,
+		flt_freq: 0.27264065,
+		flt_mod: 0.68376708,
+		flt_sep: 0.69039094,
+		flt_q: 0.73917121,
+		flt_kf: 0.84171528,
+		fx_mix: 0.25022417,
+		fx_len: 0.31546035,
+		fx_damp: 0.57684129,
+		fx_chors: 0.96724194,
+		fx_size: 0.87292147
+	}
+}

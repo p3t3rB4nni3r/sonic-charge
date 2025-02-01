@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "mummy1 v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 21.33127153 %
+	Effect: -50.01944602 %
+	Release: 50.00000000 ms 
+	WheelScale: 55.00000119 %
+	VelSens: 0.00000000 %
+	Volume: -3.85290156 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x5c4b47b1
+	Pitch: 0.16898370
+	Cloned: true
+	Genome: {
+		env_time: 0.87336242
+		env_loop: 0.34826803
+		env_tilt: 0.91548991
+		vol_atk: 0.92185897
+		vol_dcy: 0.98284024
+		vol_sus: 0.30364740
+		mod_atk: 0.20054573
+		mod_dcy: 0.76166403
+		mod_sh: 0.59272724
+		mod_vel: 0.00000000
+		lfo_rate: 0.44468260
+		lfo_amt: 0.80916685
+		lfo_bal: 0.84001428
+		a_form: 0.82440299
+		a_noise: 0.70863372
+		a_color: 0.49300838
+		a_freq: 0.13850272
+		a_mod: 0.47196138
+		b_form: 0.55515015
+		b_noise: 0.21369386
+		b_freq: 0.76402843
+		b_mod: 0.55296826
+		b_sh: 0.53576285
+		fm_amt: 0.91121536
+		fm_mod: 0.48503357
+		sub_am: 0.61409283
+		balance: 0.02862424
+		flt_freq: 0.10782725
+		flt_mod: 0.98817909
+		flt_sep: 0.58266073
+		flt_q: 0.00000000
+		flt_kf: 0.41872165
+		fx_mix: 0.71735632
+		fx_len: 0.45671940
+		fx_damp: 0.22400856
+		fx_chors: 0.89788491
+		fx_size: 0.20424895
+	}
+}

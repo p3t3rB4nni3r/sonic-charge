@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "angrybasV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 57.79506564 %
+	Effect: 36.75364256 %
+	Release: 50.00000000 ms 
+	WheelScale: 48.75000119 %
+	VelSens: 30.00000119 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x9422fc48
+	Pitch: 0.16714287
+	Cloned: true
+	Genome: {
+		env_time: 0.12338716
+		env_loop: 0.17028815
+		env_tilt: 0.19577521
+		vol_atk: 0.63734615
+		vol_dcy: 0.48166418
+		vol_sus: 0.93167174
+		mod_atk: 0.22014141
+		mod_dcy: 0.41530740
+		mod_sh: 0.08065498
+		mod_vel: 0.00000000
+		lfo_rate: 0.31412703
+		lfo_amt: 0.36787128
+		lfo_bal: 0.96959490
+		a_form: 0.83662784
+		a_noise: 0.07371724
+		a_color: 0.68907177
+		a_freq: 0.13880950
+		a_mod: 0.83367592
+		b_form: 0.79985368
+		b_noise: 0.74671733
+		b_freq: 0.92328900
+		b_mod: 0.62703449
+		b_sh: 0.30604744
+		fm_amt: 0.40288746
+		fm_mod: 0.03439969
+		sub_am: 0.72673082
+		balance: 0.30331677
+		flt_freq: 0.83971530
+		flt_mod: 0.85660923
+		flt_sep: 0.37031221
+		flt_q: 0.32221663
+		flt_kf: 1.00000000
+		fx_mix: 0.08278167
+		fx_len: 0.40454447
+		fx_damp: 0.90919286
+		fx_chors: 0.05683768
+		fx_size: 0.23807615
+	}
+}

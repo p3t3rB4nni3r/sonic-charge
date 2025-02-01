@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "celesteEchoV1b"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 52.69027948 %
+	Release: 20.00000000 s 
+	WheelScale: 23.75000119 %
+	VelSens: 50.00000000 %
+	Volume: 1.33196421 dB
+	Branch1: 47.23046422 %
+	Branch2: 47.23046422 %
+	Branch3: 47.23046422 %
+	Branch4: 47.23046422 %
+	Branch5: 47.23046422 %
+	Branch6: 47.23046422 %
+	Branch7: 47.23046422 %
+	Branch8: 47.23046422 %
+	Branch9: 47.23046422 %
+	Branch10: 47.23046422 %
+	Branch11: 47.23046422 %
+	Branch12: 47.23046422 %
+	Seed: 0x0fcd8200
+	Pitch: 0.07928777
+	Cloned: true
+	Genome: {
+		env_time: 0.80471087
+		env_loop: 0.40565848
+		env_tilt: 0.24717396
+		vol_atk: 0.50491738
+		vol_dcy: 0.28133225
+		vol_sus: 0.49407566
+		mod_atk: 0.23010808
+		mod_dcy: 0.91650784
+		mod_sh: 0.90069437
+		mod_vel: 0.71638280
+		lfo_rate: 0.24550706
+		lfo_amt: 0.68868995
+		lfo_bal: 0.42359209
+		a_form: 0.04656541
+		a_noise: 0.30877316
+		a_color: 0.78622186
+		a_freq: 0.65345204
+		a_mod: 0.46874428
+		b_form: 0.07524258
+		b_noise: 0.70096850
+		b_freq: 0.83207083
+		b_mod: 0.62076849
+		b_sh: 0.35978884
+		fm_amt: 0.29277343
+		fm_mod: 0.79615057
+		sub_am: 0.10816038
+		balance: 0.28078341
+		flt_freq: 0.42964852
+		flt_mod: 0.89945287
+		flt_sep: 0.40942389
+		flt_q: 0.44384217
+		flt_kf: 0.98046875
+		fx_mix: 0.05059242
+		fx_len: 0.24527603
+		fx_damp: 0.23276675
+		fx_chors: 0.24347818
+		fx_size: 0.75629365
+	}
+}

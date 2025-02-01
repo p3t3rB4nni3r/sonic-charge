@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Dunder Clump"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +38.68117332 ct 
+	Atonality: 15.63314795 %
+	Effect: -39.58754539 %
+	Release: 221.63982583 ms 
+	WheelScale: 44.32926774 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xc59f3843
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.35609600,
+		env_loop: 0.54219300,
+		env_tilt: 0.58994544,
+		vol_atk: 0.60875255,
+		vol_dcy: 0.82824785,
+		vol_sus: 0.36773121,
+		mod_atk: 0.80092788,
+		mod_dcy: 0.37591189,
+		mod_sh: 0.33478820,
+		mod_vel: 0.41952628,
+		lfo_rate: 0.58355349,
+		lfo_amt: 0.25405499,
+		lfo_bal: 0.55501395,
+		a_form: 0.55880278,
+		a_noise: 0.68886620,
+		a_color: 0.52485359,
+		a_freq: 0.33333334,
+		a_mod: 0.47177705,
+		b_form: 0.62073785,
+		b_noise: 0.14277360,
+		b_freq: 0.47489411,
+		b_mod: 0.50382918,
+		b_sh: 0.01001206,
+		fm_amt: 0.97704107,
+		fm_mod: 0.94549096,
+		sub_am: 0.78317583,
+		balance: 0.93463171,
+		flt_freq: 0.13352570,
+		flt_mod: 0.85501230,
+		flt_sep: 0.18610051,
+		flt_q: 0.38699311,
+		flt_kf: 0.31199577,
+		fx_mix: 0.82056862,
+		fx_len: 0.71685797,
+		fx_damp: 0.64056677,
+		fx_chors: 0.49411827,
+		fx_size: 0.44648865
+	}
+}

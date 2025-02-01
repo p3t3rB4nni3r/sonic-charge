@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Ricin Treat"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +24.88059998 ct 
+	Atonality: 0.00000000 %
+	Effect: 35.71262360 %
+	Release: 223.60679775 ms 
+	WheelScale: 60.00000238 %
+	VelSens: 50.00000000 %
+	Volume: -3.04006263 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x41d5593f
+	Pitch: -1.08295894
+	Cloned: true
+	Genome: {
+		env_time: 0.72195023,
+		env_loop: 0.68826360,
+		env_tilt: 0.24911501,
+		vol_atk: 0.66279769,
+		vol_dcy: 0.77616942,
+		vol_sus: 0.44991678,
+		mod_atk: 0.07779743,
+		mod_dcy: 0.23976332,
+		mod_sh: 0.28113621,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.48571923,
+		lfo_amt: 0.40451294,
+		lfo_bal: 0.27704236,
+		a_form: 0.81649250,
+		a_noise: 0.79087216,
+		a_color: 0.40989694,
+		a_freq: 0.51382649,
+		a_mod: 0.42557260,
+		b_form: 0.78256780,
+		b_noise: 0.30073914,
+		b_freq: 0.48045701,
+		b_mod: 0.49982980,
+		b_sh: 0.38270676,
+		fm_amt: 0.81506026,
+		fm_mod: 0.72270864,
+		sub_am: 0.25000000,
+		balance: 0.67030108,
+		flt_freq: 0.11000000,
+		flt_mod: 1.00000000,
+		flt_sep: 0.50001460,
+		flt_q: 0.09524531,
+		flt_kf: 0.75000000,
+		fx_mix: 0.08183786,
+		fx_len: 0.72530478,
+		fx_damp: 0.19890159,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

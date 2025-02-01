@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Arx Procurator"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 12.22626790 %
+	Effect: 0.00000000 %
+	Release: 7.58603624 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 98.93853068 %
+	Branch2: 98.93853068 %
+	Branch3: 98.93853068 %
+	Branch4: 98.93853068 %
+	Branch5: 98.93853068 %
+	Branch6: 98.93853068 %
+	Branch7: 98.93853068 %
+	Branch8: 98.93853068 %
+	Branch9: 98.93853068 %
+	Branch10: 98.93853068 %
+	Branch11: 98.93853068 %
+	Branch12: 98.93853068 %
+	Seed: 0xc1654f47
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.33384871,
+		env_loop: 0.44569558,
+		env_tilt: 0.47414142,
+		vol_atk: 0.16464591,
+		vol_dcy: 0.24536049,
+		vol_sus: 0.97680211,
+		mod_atk: 0.46216917,
+		mod_dcy: 0.64249718,
+		mod_sh: 0.13778043,
+		mod_vel: 0.50262260,
+		lfo_rate: 0.30019939,
+		lfo_amt: 0.17755938,
+		lfo_bal: 0.26249981,
+		a_form: 0.10578132,
+		a_noise: 0.53890854,
+		a_color: 0.65855920,
+		a_freq: 0.83333331,
+		a_mod: 0.48631090,
+		b_form: 0.33077347,
+		b_noise: 0.62091428,
+		b_freq: 0.33692056,
+		b_mod: 0.47468120,
+		b_sh: 0.54866415,
+		fm_amt: 0.33090210,
+		fm_mod: 0.70941097,
+		sub_am: 0.26937950,
+		balance: 0.62249631,
+		flt_freq: 0.80915666,
+		flt_mod: 0.63997573,
+		flt_sep: 0.39578938,
+		flt_q: 0.72437030,
+		flt_kf: 0.52743077,
+		fx_mix: 0.62908292,
+		fx_len: 0.38281947,
+		fx_damp: 0.43734634,
+		fx_chors: 0.38418031,
+		fx_size: 0.64949954
+	}
+}

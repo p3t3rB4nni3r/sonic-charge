@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "RL Eden Machines"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 3.38672139 %
+	Effect: -16.48593545 %
+	Release: 8.96698849 s 
+	WheelScale: 37.80488074 %
+	VelSens: 50.00000000 %
+	Volume: 2.75007110 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xe16b686a
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.58862698,
+		env_loop: 0.41872087,
+		env_tilt: 0.07750403,
+		vol_atk: 0.91713029,
+		vol_dcy: 0.24542943,
+		vol_sus: 0.33876511,
+		mod_atk: 1.00000000,
+		mod_dcy: 0.00000000,
+		mod_sh: 0.00000000,
+		mod_vel: 0.91817015,
+		lfo_rate: 0.85876364,
+		lfo_amt: 0.06512696,
+		lfo_bal: 0.14471126,
+		a_form: 0.23607013,
+		a_noise: 0.51572651,
+		a_color: 0.62155324,
+		a_freq: 0.50000000,
+		a_mod: 0.48321909,
+		b_form: 0.63241869,
+		b_noise: 0.39256439,
+		b_freq: 0.58520371,
+		b_mod: 0.03875202,
+		b_sh: 0.12917303,
+		fm_amt: 0.80821663,
+		fm_mod: 0.16037384,
+		sub_am: 1.00000000,
+		balance: 0.20667771,
+		flt_freq: 0.66328275,
+		flt_mod: 0.42627174,
+		flt_sep: 0.29478908,
+		flt_q: 0.37287289,
+		flt_kf: 0.37851822,
+		fx_mix: 0.38305202,
+		fx_len: 0.76949620,
+		fx_damp: 0.12993234,
+		fx_chors: 0.69804311,
+		fx_size: 1.00000000
+	}
+}

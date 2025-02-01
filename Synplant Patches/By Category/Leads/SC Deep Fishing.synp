@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "deepPhasingBassV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 11.73533648 %
+	Effect: 0.00000000 %
+	Release: 933.96263113 ms 
+	WheelScale: 41.25000238 %
+	VelSens: 50.00000000 %
+	Volume: 0.71247752 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x3ae02d38
+	Pitch: -0.02401733
+	Cloned: true
+	Genome: {
+		env_time: 0.82805675
+		env_loop: 0.93477267
+		env_tilt: 0.15971810
+		vol_atk: 0.91504377
+		vol_dcy: 0.74619067
+		vol_sus: 1.00000000
+		mod_atk: 0.07442832
+		mod_dcy: 0.72130901
+		mod_sh: 0.50948882
+		mod_vel: 0.00000000
+		lfo_rate: 0.73000568
+		lfo_amt: 0.49945456
+		lfo_bal: 0.54982620
+		a_form: 0.58414906
+		a_noise: 0.24038655
+		a_color: 0.92004937
+		a_freq: 0.17066956
+		a_mod: 0.45669335
+		b_form: 0.55947661
+		b_noise: 0.64872122
+		b_freq: 0.47642493
+		b_mod: 0.55389708
+		b_sh: 0.77659035
+		fm_amt: 0.31135511
+		fm_mod: 0.80812603
+		sub_am: 0.20090079
+		balance: 0.80827963
+		flt_freq: 0.75108105
+		flt_mod: 0.84164417
+		flt_sep: 0.68691194
+		flt_q: 0.00000000
+		flt_kf: 0.29709879
+		fx_mix: 0.65737182
+		fx_len: 0.02255481
+		fx_damp: 0.19294763
+		fx_chors: 0.10899889
+		fx_size: 0.46167520
+	}
+}

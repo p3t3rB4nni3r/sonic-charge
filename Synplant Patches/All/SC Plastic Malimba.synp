@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Plastic Malimba"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 19.92781460 %
+	Effect: -55.06554544 %
+	Release: 4.69667432 s 
+	WheelScale: 25.60975254 %
+	VelSens: 50.00000000 %
+	Volume: 4.54820885 dB
+	Branch1: 33.58565271 %
+	Branch2: 34.03025568 %
+	Branch3: 33.66570473 %
+	Branch4: 27.70102322 %
+	Branch5: 17.30518639 %
+	Branch6: 31.91349506 %
+	Branch7: 29.39370573 %
+	Branch8: 28.28392684 %
+	Branch9: 23.54590446 %
+	Branch10: 23.25408757 %
+	Branch11: 31.94884062 %
+	Branch12: 25.76619089 %
+	Seed: 0xd33a9c10
+	Pitch: -1.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.41710413,
+		env_loop: 0.55278093,
+		env_tilt: 0.09865174,
+		vol_atk: 0.17330723,
+		vol_dcy: 0.25652254,
+		vol_sus: 0.00916968,
+		mod_atk: 0.02602811,
+		mod_dcy: 0.39365199,
+		mod_sh: 0.38820666,
+		mod_vel: 0.67761379,
+		lfo_rate: 0.14621231,
+		lfo_amt: 0.87413913,
+		lfo_bal: 0.85802937,
+		a_form: 0.10531389,
+		a_noise: 0.25721139,
+		a_color: 0.78201300,
+		a_freq: 0.83333331,
+		a_mod: 0.50168693,
+		b_form: 0.98774374,
+		b_noise: 0.83239925,
+		b_freq: 0.68121696,
+		b_mod: 0.59484923,
+		b_sh: 0.06582379,
+		fm_amt: 0.49339914,
+		fm_mod: 0.95117533,
+		sub_am: 0.81390512,
+		balance: 0.07067320,
+		flt_freq: 0.57241768,
+		flt_mod: 0.52319384,
+		flt_sep: 0.72936428,
+		flt_q: 0.97431505,
+		flt_kf: 0.13784982,
+		fx_mix: 0.23906571,
+		fx_len: 0.53871000,
+		fx_damp: 0.32667959,
+		fx_chors: 0.84371984,
+		fx_size: 0.43156010
+	}
+}

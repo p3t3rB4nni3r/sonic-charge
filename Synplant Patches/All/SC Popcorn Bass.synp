@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "bassShattererV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: -55.97969592 %
+	Release: 486.51999352 ms 
+	WheelScale: 73.75000119 %
+	VelSens: 50.00000000 %
+	Volume: 5.26068926 dB
+	Branch1: 14.66386914 %
+	Branch2: 14.66386914 %
+	Branch3: 14.66386914 %
+	Branch4: 14.66386914 %
+	Branch5: 14.66386914 %
+	Branch6: 14.66386914 %
+	Branch7: 14.66386914 %
+	Branch8: 14.66386914 %
+	Branch9: 14.66386914 %
+	Branch10: 14.66386914 %
+	Branch11: 14.66386914 %
+	Branch12: 14.66386914 %
+	Seed: 0xede9423a
+	Pitch: 0.45495439
+	Cloned: true
+	Genome: {
+		env_time: 0.16767371
+		env_loop: 0.60287333
+		env_tilt: 0.27150846
+		vol_atk: 0.65922749
+		vol_dcy: 0.47684896
+		vol_sus: 0.83848119
+		mod_atk: 0.61967748
+		mod_dcy: 0.21538877
+		mod_sh: 0.00141293
+		mod_vel: 0.00000000
+		lfo_rate: 0.40649486
+		lfo_amt: 0.54468256
+		lfo_bal: 0.64489722
+		a_form: 0.75482088
+		a_noise: 0.17440772
+		a_color: 0.40023375
+		a_freq: 0.09084094
+		a_mod: 0.47089314
+		b_form: 0.69237238
+		b_noise: 0.09629864
+		b_freq: 0.50850523
+		b_mod: 0.90161604
+		b_sh: 0.48033845
+		fm_amt: 0.57536960
+		fm_mod: 0.11672246
+		sub_am: 0.54490030
+		balance: 0.18642902
+		flt_freq: 0.27261305
+		flt_mod: 0.95862031
+		flt_sep: 0.74432987
+		flt_q: 0.23935032
+		flt_kf: 1.00000000
+		fx_mix: 0.56556582
+		fx_len: 0.48380566
+		fx_damp: 0.59397596
+		fx_chors: 0.43246776
+		fx_size: 0.64021075
+	}
+}

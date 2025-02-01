@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Evolution Theory"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: 54.49390411 %
+	Release: 735.27282088 ms 
+	WheelScale: 47.49999940 %
+	VelSens: 50.00000000 %
+	Volume: -4.68930426 dB
+	Branch1: 29.23519313 %
+	Branch2: 45.57545185 %
+	Branch3: 20.48192769 %
+	Branch4: 29.27341461 %
+	Branch5: 18.32523644 %
+	Branch6: 21.11036032 %
+	Branch7: 28.10233533 %
+	Branch8: 25.13665557 %
+	Branch9: 16.14523977 %
+	Branch10: 20.61727941 %
+	Branch11: 38.82747591 %
+	Branch12: 17.30491966 %
+	Seed: 0x13d0cb11
+	Pitch: -1.03471661
+	Cloned: false
+	Genome: {
+		env_time: 0.62208581
+		env_loop: 0.77586490
+		env_tilt: 0.85145211
+		vol_atk: 0.63119233
+		vol_dcy: 0.34699333
+		vol_sus: 0.70069158
+		mod_atk: 0.02898014
+		mod_dcy: 0.42985296
+		mod_sh: 0.04832846
+		mod_vel: 0.14437360
+		lfo_rate: 0.87661088
+		lfo_amt: 0.22613871
+		lfo_bal: 0.41524309
+		a_form: 0.29771745
+		a_noise: 0.45045257
+		a_color: 0.08338141
+		a_freq: 0.83911943
+		a_mod: 0.53659940
+		b_form: 0.91118467
+		b_noise: 0.16622996
+		b_freq: 0.65219235
+		b_mod: 0.57661349
+		b_sh: 0.02069819
+		fm_amt: 0.96375114
+		fm_mod: 0.30872530
+		sub_am: 0.41510081
+		balance: 0.39503413
+		flt_freq: 0.85729629
+		flt_mod: 0.31357050
+		flt_sep: 0.48321271
+		flt_q: 0.40165162
+		flt_kf: 0.62981308
+		fx_mix: 0.77252245
+		fx_len: 0.87522554
+		fx_damp: 0.86980927
+		fx_chors: 0.85316050
+		fx_size: 0.68618608
+	}
+}

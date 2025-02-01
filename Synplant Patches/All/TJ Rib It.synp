@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TJ Rib It"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 4.24176455 %
+	Release: 96.21716696 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 42.45889187 %
+	Branch3: 41.30122066 %
+	Branch4: 32.54216611 %
+	Branch5: 32.21604824 %
+	Branch6: 43.93286109 %
+	Branch7: 30.44587076 %
+	Branch8: 28.29705775 %
+	Branch9: 32.02195168 %
+	Branch10: 28.10233533 %
+	Branch11: 23.43370020 %
+	Branch12: 28.54273617 %
+	Seed: 0xa5ecf896
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.26064730
+		env_loop: 0.62326652
+		env_tilt: 0.29641628
+		vol_atk: 0.39330506
+		vol_dcy: 0.92415142
+		vol_sus: 0.24192047
+		mod_atk: 0.73154193
+		mod_dcy: 0.90065902
+		mod_sh: 0.92239058
+		mod_vel: 0.57625544
+		lfo_rate: 0.12987232
+		lfo_amt: 0.08895218
+		lfo_bal: 0.62242371
+		a_form: 0.89575964
+		a_noise: 0.13010457
+		a_color: 0.74405468
+		a_freq: 0.66666669
+		a_mod: 0.65842915
+		b_form: 0.46682864
+		b_noise: 0.96347886
+		b_freq: 0.12582684
+		b_mod: 0.34475511
+		b_sh: 0.67473716
+		fm_amt: 0.39138341
+		fm_mod: 0.05588332
+		sub_am: 0.41929275
+		balance: 0.77204585
+		flt_freq: 0.03783584
+		flt_mod: 0.66558707
+		flt_sep: 0.64554095
+		flt_q: 0.92517757
+		flt_kf: 0.25445032
+		fx_mix: 0.01432776
+		fx_len: 0.50358045
+		fx_damp: 0.27506256
+		fx_chors: 0.39278555
+		fx_size: 0.50611699
+	}
+}

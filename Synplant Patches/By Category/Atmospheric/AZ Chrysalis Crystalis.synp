@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Chrysalis Crystalis"
+	ModWheel: 99.21259880 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.25036931 %
+	Effect: 0.00000000 %
+	Release: 2.95129414 s 
+	WheelScale: 100.00000000 %
+	VelSens: 0.00000000 %
+	Volume: -10.29146395 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xe8a4f0eb
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.28891432
+		env_loop: 0.48210549
+		env_tilt: 0.48228666
+		vol_atk: 0.57504165
+		vol_dcy: 0.45858526
+		vol_sus: 0.16755944
+		mod_atk: 0.59446812
+		mod_dcy: 0.68032986
+		mod_sh: 0.64719987
+		mod_vel: 0.44283652
+		lfo_rate: 0.26308155
+		lfo_amt: 0.52991199
+		lfo_bal: 0.32827076
+		a_form: 0.47094843
+		a_noise: 0.36142266
+		a_color: 0.99752355
+		a_freq: 0.83333331
+		a_mod: 0.46400249
+		b_form: 0.32266283
+		b_noise: 0.24847057
+		b_freq: 0.84171093
+		b_mod: 0.48139310
+		b_sh: 0.69732237
+		fm_amt: 0.02767146
+		fm_mod: 0.84642297
+		sub_am: 0.67621303
+		balance: 0.85672385
+		flt_freq: 0.14826363
+		flt_mod: 0.71950996
+		flt_sep: 0.15919590
+		flt_q: 0.43381792
+		flt_kf: 0.84678829
+		fx_mix: 0.67756546
+		fx_len: 0.83250535
+		fx_damp: 0.61783814
+		fx_chors: 0.41254109
+		fx_size: 0.46155268
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "RL Wah Again"
+	ModWheel: 100.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 7.82678127 %
+	Release: 50.00000000 ms 
+	WheelScale: 31.70731664 %
+	VelSens: 0.00000000 %
+	Volume: -1.48001199 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x017cc3b6
+	Pitch: -0.00000012
+	Cloned: false
+	Genome: {
+		env_time: 0.28560162,
+		env_loop: 0.84263206,
+		env_tilt: 0.17478657,
+		vol_atk: 0.39802027,
+		vol_dcy: 0.49587870,
+		vol_sus: 0.68766212,
+		mod_atk: 0.14684665,
+		mod_dcy: 0.37767583,
+		mod_sh: 0.04069233,
+		mod_vel: 0.16093802,
+		lfo_rate: 0.55624199,
+		lfo_amt: 0.65379030,
+		lfo_bal: 0.44731373,
+		a_form: 0.59403932,
+		a_noise: 0.65519744,
+		a_color: 0.72616547,
+		a_freq: 0.50000000,
+		a_mod: 0.50000000,
+		b_form: 0.09785765,
+		b_noise: 0.07486486,
+		b_freq: 0.49545604,
+		b_mod: 0.50000000,
+		b_sh: 0.04656267,
+		fm_amt: 0.45727456,
+		fm_mod: 0.19419795,
+		sub_am: 0.30053014,
+		balance: 0.46450180,
+		flt_freq: 0.59824026,
+		flt_mod: 0.28916764,
+		flt_sep: 0.46864355,
+		flt_q: 0.76655763,
+		flt_kf: 0.03243756,
+		fx_mix: 0.99395239,
+		fx_len: 0.17701840,
+		fx_damp: 0.83853400,
+		fx_chors: 0.21057424,
+		fx_size: 0.38650256
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Absit Invidia"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 8.57048407 %
+	Effect: 52.48436928 %
+	Release: 1.23537318 s 
+	WheelScale: 50.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 2.75007110 dB
+	Branch1: 50.00000000 %
+	Branch2: 50.00000000 %
+	Branch3: 50.00000000 %
+	Branch4: 50.00000000 %
+	Branch5: 50.00000000 %
+	Branch6: 50.00000000 %
+	Branch7: 50.00000000 %
+	Branch8: 50.00000000 %
+	Branch9: 50.00000000 %
+	Branch10: 50.00000000 %
+	Branch11: 50.00000000 %
+	Branch12: 50.00000000 %
+	Seed: 0x857a5742
+	Pitch: -0.37241411
+	Cloned: true
+	Genome: {
+		env_time: 0.76951146,
+		env_loop: 0.10411346,
+		env_tilt: 0.93061078,
+		vol_atk: 0.27055031,
+		vol_dcy: 0.33179420,
+		vol_sus: 0.52646846,
+		mod_atk: 0.76698095,
+		mod_dcy: 0.30971354,
+		mod_sh: 0.60002500,
+		mod_vel: 0.59342837,
+		lfo_rate: 0.57344067,
+		lfo_amt: 0.33355123,
+		lfo_bal: 0.59002525,
+		a_form: 0.75226796,
+		a_noise: 0.90555084,
+		a_color: 0.23702651,
+		a_freq: 0.39540237,
+		a_mod: 0.49993795,
+		b_form: 0.86322510,
+		b_noise: 0.52428687,
+		b_freq: 0.57373357,
+		b_mod: 0.50652170,
+		b_sh: 0.70008349,
+		fm_amt: 0.08881634,
+		fm_mod: 0.93972743,
+		sub_am: 0.66946989,
+		balance: 0.98079288,
+		flt_freq: 0.55131465,
+		flt_mod: 0.37030011,
+		flt_sep: 0.33277440,
+		flt_q: 0.77732921,
+		flt_kf: 0.56849098,
+		fx_mix: 0.90443891,
+		fx_len: 0.85097426,
+		fx_damp: 0.80798495,
+		fx_chors: 0.73609102,
+		fx_size: 0.41807619
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "SM Needsnosplit"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -19.37087178 %
+	Release: 5.61334268 s 
+	WheelScale: 40.24390280 %
+	VelSens: 50.00000000 %
+	Volume: 3.67863692 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xbdd7332d
+	Pitch: 1.72680998
+	Cloned: false
+	Genome: {
+		env_time: 0.87081635,
+		env_loop: 0.68642020,
+		env_tilt: 0.07393432,
+		vol_atk: 0.08383554,
+		vol_dcy: 0.22378111,
+		vol_sus: 0.20073557,
+		mod_atk: 0.96191525,
+		mod_dcy: 0.77130830,
+		mod_sh: 0.37575054,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.89782941,
+		lfo_amt: 0.15011525,
+		lfo_bal: 0.65205133,
+		a_form: 0.23565388,
+		a_noise: 0.78989959,
+		a_color: 0.12301922,
+		a_freq: 0.04553169,
+		a_mod: 0.50202465,
+		b_form: 0.09357262,
+		b_noise: 0.09082282,
+		b_freq: 0.64826220,
+		b_mod: 0.52573681,
+		b_sh: 0.55706954,
+		fm_amt: 0.72353470,
+		fm_mod: 0.29008722,
+		sub_am: 0.07170773,
+		balance: 0.67357719,
+		flt_freq: 0.64649981,
+		flt_mod: 0.77882409,
+		flt_sep: 0.82447922,
+		flt_q: 0.76281977,
+		flt_kf: 0.98578143,
+		fx_mix: 0.23153740,
+		fx_len: 0.45826876,
+		fx_damp: 0.88648880,
+		fx_chors: 0.59935093,
+		fx_size: 0.35494933
+	}
+}

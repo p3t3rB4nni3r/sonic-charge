@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Red Reeses"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -23.30703735 ct 
+	Atonality: 0.00000000 %
+	Effect: 12.32876778 %
+	Release: 50.00000000 ms 
+	WheelScale: 92.13414192 %
+	VelSens: 50.00000000 %
+	Volume: 6.43856190 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x367d4fa7
+	Pitch: 1.96476507
+	Cloned: true
+	Genome: {
+		env_time: 0.23072594
+		env_loop: 0.66661721
+		env_tilt: 0.31749338
+		vol_atk: 0.43017840
+		vol_dcy: 0.34138560
+		vol_sus: 0.92865229
+		mod_atk: 0.44520235
+		mod_dcy: 0.27582330
+		mod_sh: 0.40656906
+		mod_vel: 0.50467336
+		lfo_rate: 0.59147286
+		lfo_amt: 0.03250957
+		lfo_bal: 0.61848480
+		a_form: 0.58943498
+		a_noise: 0.60746330
+		a_color: 0.85020459
+		a_freq: 0.00587249
+		a_mod: 0.58014631
+		b_form: 0.79647577
+		b_noise: 0.43854129
+		b_freq: 0.52559310
+		b_mod: 0.51252657
+		b_sh: 0.14070064
+		fm_amt: 0.33679652
+		fm_mod: 0.66873980
+		sub_am: 0.57053041
+		balance: 0.81708300
+		flt_freq: 0.58622962
+		flt_mod: 0.53540856
+		flt_sep: 0.90957850
+		flt_q: 0.46393341
+		flt_kf: 1.00000000
+		fx_mix: 0.72446293
+		fx_len: 0.22768849
+		fx_damp: 0.01431644
+		fx_chors: 0.76274902
+		fx_size: 0.35494938
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Raining Bells"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 29.31243181 %
+	Effect: -18.69630218 %
+	Release: 4.21107815 s 
+	WheelScale: 32.49999881 %
+	VelSens: 50.00000000 %
+	Volume: -5.55067993 dB
+	Branch1: 1.60367489 %
+	Branch2: 19.52360421 %
+	Branch3: 20.43672651 %
+	Branch4: 20.72229236 %
+	Branch5: 18.65513623 %
+	Branch6: 18.08813959 %
+	Branch7: 23.40530902 %
+	Branch8: 16.47499055 %
+	Branch9: 35.51634550 %
+	Branch10: 12.06644326 %
+	Branch11: 38.12566698 %
+	Branch12: 20.27062178 %
+	Seed: 0x2c5b39a1
+	Pitch: 3.33018684
+	Cloned: false
+	Genome: {
+		env_time: 0.88031828,
+		env_loop: 0.32950187,
+		env_tilt: 0.77485830,
+		vol_atk: 0.95346630,
+		vol_dcy: 0.67316294,
+		vol_sus: 0.09415758,
+		mod_atk: 0.17309195,
+		mod_dcy: 0.00132561,
+		mod_sh: 0.89425141,
+		mod_vel: 0.33544087,
+		lfo_rate: 0.05829448,
+		lfo_amt: 0.61801219,
+		lfo_bal: 0.82746875,
+		a_form: 0.24849856,
+		a_noise: 0.70852727,
+		a_color: 0.08896828,
+		a_freq: 0.27830219,
+		a_mod: 0.58411521,
+		b_form: 0.16572070,
+		b_noise: 0.52151865,
+		b_freq: 0.70268762,
+		b_mod: 0.82443875,
+		b_sh: 0.49160564,
+		fm_amt: 0.41615248,
+		fm_mod: 0.92207855,
+		sub_am: 0.65824497,
+		balance: 0.96965784,
+		flt_freq: 0.29243606,
+		flt_mod: 0.48330128,
+		flt_sep: 0.88040632,
+		flt_q: 0.53039670,
+		flt_kf: 0.72398686,
+		fx_mix: 0.59395272,
+		fx_len: 0.91543365,
+		fx_damp: 0.51445013,
+		fx_chors: 0.25202703,
+		fx_size: 0.35494933
+	}
+}

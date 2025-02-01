@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "ME Mercery Drops"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -82.61629492 %
+	Release: 1.21031052 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 6.43856190 dB
+	Branch1: 3.14960629 %
+	Branch2: 3.14960629 %
+	Branch3: 3.14960629 %
+	Branch4: 3.14960629 %
+	Branch5: 3.14960629 %
+	Branch6: 3.14960629 %
+	Branch7: 3.14960629 %
+	Branch8: 3.14960629 %
+	Branch9: 3.14960629 %
+	Branch10: 3.14960629 %
+	Branch11: 3.14960629 %
+	Branch12: 3.14960629 %
+	Seed: 0x4340eca7
+	Pitch: -0.34965467
+	Cloned: true
+	Genome: {
+		env_time: 0.31229830,
+		env_loop: 0.70071340,
+		env_tilt: 0.49186331,
+		vol_atk: 0.74781060,
+		vol_dcy: 0.54288459,
+		vol_sus: 0.06080711,
+		mod_atk: 0.68997657,
+		mod_dcy: 0.06555057,
+		mod_sh: 0.68264961,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.29337305,
+		lfo_amt: 0.03648973,
+		lfo_bal: 0.53646803,
+		a_form: 0.66980183,
+		a_noise: 0.15597582,
+		a_color: 0.96973944,
+		a_freq: 0.55827576,
+		a_mod: 0.50284714,
+		b_form: 0.16385776,
+		b_noise: 0.60948026,
+		b_freq: 0.93082243,
+		b_mod: 0.49907744,
+		b_sh: 0.20498639,
+		fm_amt: 0.07466674,
+		fm_mod: 0.62754226,
+		sub_am: 0.75069910,
+		balance: 0.17935055,
+		flt_freq: 0.60998547,
+		flt_mod: 0.59099144,
+		flt_sep: 0.57886183,
+		flt_q: 0.78348160,
+		flt_kf: 0.01286966,
+		fx_mix: 1.00000000,
+		fx_len: 0.80314469,
+		fx_damp: 0.36422348,
+		fx_chors: 0.28085741,
+		fx_size: 0.35494933
+	}
+}

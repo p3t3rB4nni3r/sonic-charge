@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "starbreeze v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 527.79716253 ms 
+	WheelScale: 29.99999821 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 10.86219400 %
+	Branch2: 25.13665557 %
+	Branch3: 7.04145804 %
+	Branch4: 19.62874532 %
+	Branch5: 29.52758372 %
+	Branch6: 0.00000000 %
+	Branch7: 27.82858014 %
+	Branch8: 27.72393823 %
+	Branch9: 1.40274027 %
+	Branch10: 30.73220551 %
+	Branch11: 19.15337443 %
+	Branch12: 13.60280067 %
+	Seed: 0xfbbfd462
+	Pitch: -0.34164000
+	Cloned: false
+	Genome: {
+		env_time: 0.38780582
+		env_loop: 0.06393570
+		env_tilt: 0.37995529
+		vol_atk: 0.62254632
+		vol_dcy: 0.70376617
+		vol_sus: 0.91111428
+		mod_atk: 0.83274138
+		mod_dcy: 0.41950762
+		mod_sh: 0.94113988
+		mod_vel: 0.00000000
+		lfo_rate: 0.35387361
+		lfo_amt: 0.63964951
+		lfo_bal: 0.34618253
+		a_form: 0.36025327
+		a_noise: 0.08343410
+		a_color: 0.60356688
+		a_freq: 0.55694002
+		a_mod: 0.70779145
+		b_form: 0.51670945
+		b_noise: 0.30804771
+		b_freq: 0.84875667
+		b_mod: 0.61395156
+		b_sh: 0.56063849
+		fm_amt: 0.37811154
+		fm_mod: 0.16372907
+		sub_am: 0.38172400
+		balance: 0.55450737
+		flt_freq: 0.94044536
+		flt_mod: 0.17145783
+		flt_sep: 0.79708129
+		flt_q: 0.16036707
+		flt_kf: 1.00000000
+		fx_mix: 0.94872391
+		fx_len: 0.90071142
+		fx_damp: 0.77332532
+		fx_chors: 0.47489643
+		fx_size: 0.69927216
+	}
+}

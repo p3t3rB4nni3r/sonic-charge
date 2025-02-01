@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "EE Coin"
+	ModWheel: 40.56225717 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 10.82292870 %
+	Effect: -39.09821510 %
+	Release: 621.02205212 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 4.65321396 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xf3652a90
+	Pitch: -0.13108790
+	Cloned: false
+	Genome: {
+		env_time: 0.51215881,
+		env_loop: 0.15278864,
+		env_tilt: 0.26903415,
+		vol_atk: 0.00716084,
+		vol_dcy: 0.31898957,
+		vol_sus: 0.26337802,
+		mod_atk: 0.03435302,
+		mod_dcy: 0.68180835,
+		mod_sh: 0.81981105,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.71434850,
+		lfo_amt: 0.38350135,
+		lfo_bal: 0.41427481,
+		a_form: 0.53076273,
+		a_noise: 0.68946350,
+		a_color: 0.45323777,
+		a_freq: 0.68851465,
+		a_mod: 0.52622819,
+		b_form: 0.95953709,
+		b_noise: 0.01789248,
+		b_freq: 0.78425205,
+		b_mod: 0.46048504,
+		b_sh: 0.08662999,
+		fm_amt: 0.07970500,
+		fm_mod: 0.05299556,
+		sub_am: 0.51597732,
+		balance: 0.77852440,
+		flt_freq: 0.04425704,
+		flt_mod: 0.91470277,
+		flt_sep: 0.60431087,
+		flt_q: 0.65585995,
+		flt_kf: 0.65680367,
+		fx_mix: 0.03805339,
+		fx_len: 0.63015282,
+		fx_damp: 0.19803393,
+		fx_chors: 0.69624156,
+		fx_size: 0.35494933
+	}
+}

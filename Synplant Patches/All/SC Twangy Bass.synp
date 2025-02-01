@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "picky v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 37.38169372 %
+	Effect: -38.23176622 %
+	Release: 307.56820778 ms 
+	WheelScale: 61.25000119 %
+	VelSens: 31.25000000 %
+	Volume: 0.73564645 dB
+	Branch1: 81.87474012 %
+	Branch2: 70.29511333 %
+	Branch3: 65.30245543 %
+	Branch4: 53.23651433 %
+	Branch5: 88.16496134 %
+	Branch6: 85.98988652 %
+	Branch7: 80.11879921 %
+	Branch8: 87.32889295 %
+	Branch9: 64.96630907 %
+	Branch10: 80.40784001 %
+	Branch11: 72.94746041 %
+	Branch12: 75.88259578 %
+	Seed: 0x1b8fea07
+	Pitch: 0.40380740
+	Cloned: true
+	Genome: {
+		env_time: 0.15942466
+		env_loop: 0.83261263
+		env_tilt: 0.27710444
+		vol_atk: 0.31242126
+		vol_dcy: 0.38035929
+		vol_sus: 0.71630251
+		mod_atk: 0.79623532
+		mod_dcy: 0.17427099
+		mod_sh: 0.02014810
+		mod_vel: 0.10217714
+		lfo_rate: 0.05859506
+		lfo_amt: 0.04957390
+		lfo_bal: 0.02092701
+		a_form: 0.61355126
+		a_noise: 0.26680154
+		a_color: 0.48131543
+		a_freq: 0.26603210
+		a_mod: 0.50252676
+		b_form: 0.48295343
+		b_noise: 0.14257246
+		b_freq: 0.71099204
+		b_mod: 0.44634879
+		b_sh: 0.08380681
+		fm_amt: 0.50743413
+		fm_mod: 0.25585419
+		sub_am: 0.16371572
+		balance: 0.47867453
+		flt_freq: 0.32256240
+		flt_mod: 0.76316929
+		flt_sep: 0.60887384
+		flt_q: 0.14483869
+		flt_kf: 0.44348329
+		fx_mix: 0.36616164
+		fx_len: 0.67340398
+		fx_damp: 0.31522644
+		fx_chors: 0.49704754
+		fx_size: 0.20329922
+	}
+}

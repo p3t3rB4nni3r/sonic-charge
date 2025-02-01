@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Woodlocks"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +6.33473396 ct 
+	Atonality: 30.52022159 %
+	Effect: -51.35279894 %
+	Release: 6.32752709 s 
+	WheelScale: 31.70731664 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 21.96512818 %
+	Branch2: 21.73080593 %
+	Branch3: 21.45109773 %
+	Branch4: 25.76467693 %
+	Branch5: 20.85697502 %
+	Branch6: 13.50031644 %
+	Branch7: 14.66386914 %
+	Branch8: 22.61831015 %
+	Branch9: 24.91645664 %
+	Branch10: 25.47889054 %
+	Branch11: 22.56059349 %
+	Branch12: 20.78219652 %
+	Seed: 0x61b34d20
+	Pitch: -0.00734568
+	Cloned: false
+	Genome: {
+		env_time: 0.70543516
+		env_loop: 0.32228848
+		env_tilt: 0.07293577
+		vol_atk: 0.57374245
+		vol_dcy: 0.29888135
+		vol_sus: 0.17763233
+		mod_atk: 0.48197484
+		mod_dcy: 0.16540807
+		mod_sh: 0.35284656
+		mod_vel: 0.30980039
+		lfo_rate: 0.76149094
+		lfo_amt: 0.92751378
+		lfo_bal: 0.58886731
+		a_form: 0.75850463
+		a_noise: 0.56861109
+		a_color: 0.46187663
+		a_freq: 0.83455759
+		a_mod: 0.48721945
+		b_form: 0.65935266
+		b_noise: 0.56158537
+		b_freq: 0.70683044
+		b_mod: 0.52049518
+		b_sh: 0.50932574
+		fm_amt: 0.26854199
+		fm_mod: 0.36876631
+		sub_am: 0.54135966
+		balance: 0.20848501
+		flt_freq: 0.52614087
+		flt_mod: 0.69983560
+		flt_sep: 0.44921589
+		flt_q: 0.51058376
+		flt_kf: 0.92291135
+		fx_mix: 0.38195229
+		fx_len: 0.77701509
+		fx_damp: 0.94936335
+		fx_chors: 0.60181922
+		fx_size: 0.38262883
+	}
+}

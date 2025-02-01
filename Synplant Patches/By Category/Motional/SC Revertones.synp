@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Revertones"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 19.86449063 %
+	Effect: 0.00000000 %
+	Release: 928.70312602 ms 
+	WheelScale: 45.12194991 %
+	VelSens: 50.00000000 %
+	Volume: -2.24949421 dB
+	Branch1: 71.12840414 %
+	Branch2: 71.12840414 %
+	Branch3: 71.12840414 %
+	Branch4: 71.12840414 %
+	Branch5: 71.12840414 %
+	Branch6: 71.12840414 %
+	Branch7: 71.12840414 %
+	Branch8: 71.12840414 %
+	Branch9: 71.12840414 %
+	Branch10: 71.12840414 %
+	Branch11: 71.12840414 %
+	Branch12: 71.12840414 %
+	Seed: 0x42682720
+	Pitch: 0.50000000
+	Cloned: true
+	Genome: {
+		env_time: 0.96233201
+		env_loop: 0.62156820
+		env_tilt: 0.29421312
+		vol_atk: 0.10034430
+		vol_dcy: 0.10465747
+		vol_sus: 0.08319449
+		mod_atk: 0.48431700
+		mod_dcy: 0.53453052
+		mod_sh: 0.80248928
+		mod_vel: 0.36030805
+		lfo_rate: 0.01502192
+		lfo_amt: 0.58053613
+		lfo_bal: 0.22627616
+		a_form: 0.71839011
+		a_noise: 0.58790445
+		a_color: 0.07647306
+		a_freq: 0.75000000
+		a_mod: 0.56637013
+		b_form: 0.62122869
+		b_noise: 0.99401623
+		b_freq: 0.88877320
+		b_mod: 0.41297334
+		b_sh: 0.66728520
+		fm_amt: 0.74802399
+		fm_mod: 0.27215010
+		sub_am: 0.44596499
+		balance: 0.26424330
+		flt_freq: 0.59630942
+		flt_mod: 0.34403706
+		flt_sep: 0.86463666
+		flt_q: 0.61180556
+		flt_kf: 0.20764273
+		fx_mix: 0.71186072
+		fx_len: 0.97245711
+		fx_damp: 0.99076796
+		fx_chors: 0.11412901
+		fx_size: 0.77743244
+	}
+}

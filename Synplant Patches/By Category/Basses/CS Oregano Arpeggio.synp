@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "CS Oregano Arpeggio"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 25.36455095 %
+	Effect: -86.70017868 %
+	Release: 439.24913451 ms 
+	WheelScale: 38.74999881 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xd3df605e
+	Pitch: 0.99999976
+	Cloned: false
+	Genome: {
+		env_time: 0.19117898,
+		env_loop: 0.52456486,
+		env_tilt: 0.58938026,
+		vol_atk: 0.74270099,
+		vol_dcy: 0.87933648,
+		vol_sus: 0.65671301,
+		mod_atk: 0.10027766,
+		mod_dcy: 0.19563270,
+		mod_sh: 0.18718749,
+		mod_vel: 0.21616882,
+		lfo_rate: 0.47379434,
+		lfo_amt: 0.34725636,
+		lfo_bal: 0.52120191,
+		a_form: 0.81263870,
+		a_noise: 0.30331635,
+		a_color: 0.39957631,
+		a_freq: 0.33333337,
+		a_mod: 0.45063758,
+		b_form: 0.76879317,
+		b_noise: 0.52787328,
+		b_freq: 0.46403360,
+		b_mod: 0.54264277,
+		b_sh: 0.61428672,
+		fm_amt: 0.51640421,
+		fm_mod: 0.84394163,
+		sub_am: 0.54600680,
+		balance: 0.56889522,
+		flt_freq: 0.20233834,
+		flt_mod: 0.91501302,
+		flt_sep: 0.42077672,
+		flt_q: 0.38471729,
+		flt_kf: 0.29400527,
+		fx_mix: 0.66434574,
+		fx_len: 0.71623212,
+		fx_damp: 0.08905458,
+		fx_chors: 0.70905268,
+		fx_size: 0.15034777
+	}
+}

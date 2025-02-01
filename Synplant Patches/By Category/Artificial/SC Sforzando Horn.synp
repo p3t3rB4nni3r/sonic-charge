@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Sforzando Horn"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 15.99999964 %
+	Effect: 0.00000000 %
+	Release: 190.00000083 ms 
+	WheelScale: 18.29268187 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x46aea862
+	Pitch: 0.84012973
+	Cloned: false
+	Genome: {
+		env_time: 0.53827757,
+		env_loop: 0.49733162,
+		env_tilt: 0.23482788,
+		vol_atk: 0.92853349,
+		vol_dcy: 0.85777271,
+		vol_sus: 0.71323109,
+		mod_atk: 0.68554580,
+		mod_dcy: 0.17821164,
+		mod_sh: 0.51882219,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.48571914,
+		lfo_amt: 0.01927019,
+		lfo_bal: 0.99649239,
+		a_form: 0.72047961,
+		a_noise: 0.77995604,
+		a_color: 0.81578207,
+		a_freq: 0.35605848,
+		a_mod: 0.59024525,
+		b_form: 0.18436377,
+		b_noise: 0.12104982,
+		b_freq: 0.52020943,
+		b_mod: 0.57715410,
+		b_sh: 0.81374717,
+		fm_amt: 0.68044412,
+		fm_mod: 0.49884915,
+		sub_am: 0.25000000,
+		balance: 0.00000004,
+		flt_freq: 0.00000001,
+		flt_mod: 0.14410329,
+		flt_sep: 0.50002962,
+		flt_q: 0.28784066,
+		flt_kf: 0.75000000,
+		fx_mix: 0.97982436,
+		fx_len: 0.70508713,
+		fx_damp: 0.25069404,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

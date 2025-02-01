@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Plenum Light"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +1.99739742 sm 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 697.27393743 ms 
+	WheelScale: 50.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 8.45380947 %
+	Branch2: 8.45380947 %
+	Branch3: 8.45380947 %
+	Branch4: 8.45380947 %
+	Branch5: 8.45380947 %
+	Branch6: 8.45380947 %
+	Branch7: 8.45380947 %
+	Branch8: 8.45380947 %
+	Branch9: 8.45380947 %
+	Branch10: 8.45380947 %
+	Branch11: 8.45380947 %
+	Branch12: 8.45380947 %
+	Seed: 0x2e4cd145
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.33238792,
+		env_loop: 0.34087235,
+		env_tilt: 0.77509725,
+		vol_atk: 0.53658235,
+		vol_dcy: 0.44226444,
+		vol_sus: 0.56573874,
+		mod_atk: 0.49345005,
+		mod_dcy: 0.47521514,
+		mod_sh: 0.54376215,
+		mod_vel: 0.46384686,
+		lfo_rate: 0.30910599,
+		lfo_amt: 0.49493098,
+		lfo_bal: 0.52137148,
+		a_form: 0.87219143,
+		a_noise: 0.54990315,
+		a_color: 0.41427231,
+		a_freq: 0.83333331,
+		a_mod: 0.43789959,
+		b_form: 0.70166206,
+		b_noise: 0.67073071,
+		b_freq: 0.54951519,
+		b_mod: 0.52535999,
+		b_sh: 0.62934148,
+		fm_amt: 0.54458678,
+		fm_mod: 0.13951564,
+		sub_am: 0.21216398,
+		balance: 0.96794176,
+		flt_freq: 0.61548996,
+		flt_mod: 0.46158135,
+		flt_sep: 0.67358541,
+		flt_q: 0.11265254,
+		flt_kf: 0.37244558,
+		fx_mix: 0.91140848,
+		fx_len: 0.88452280,
+		fx_damp: 0.31681299,
+		fx_chors: 0.56057525,
+		fx_size: 0.62744141
+	}
+}

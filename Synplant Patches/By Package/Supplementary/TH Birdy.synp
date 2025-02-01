@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TH Birdy"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -0.71153641 ct 
+	Atonality: 47.99999893 %
+	Effect: -67.94082224 %
+	Release: 269.66706869 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 0.00000000 %
+	Volume: -3.04006263 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x74ed2672
+	Pitch: -0.99940705
+	Cloned: false
+	Genome: {
+		env_time: 0.46858799,
+		env_loop: 0.21843660,
+		env_tilt: 0.65268373,
+		vol_atk: 0.00311983,
+		vol_dcy: 0.82867348,
+		vol_sus: 0.42049789,
+		mod_atk: 0.57199484,
+		mod_dcy: 0.54157621,
+		mod_sh: 0.14185637,
+		mod_vel: 0.47685510,
+		lfo_rate: 0.02321184,
+		lfo_amt: 0.66394842,
+		lfo_bal: 0.59201533,
+		a_form: 0.00873417,
+		a_noise: 0.32940710,
+		a_color: 0.61903250,
+		a_freq: 0.49990118,
+		a_mod: 0.77484393,
+		b_form: 0.24936461,
+		b_noise: 0.56851023,
+		b_freq: 0.39279544,
+		b_mod: 0.36653250,
+		b_sh: 0.99555600,
+		fm_amt: 0.76256621,
+		fm_mod: 0.25368553,
+		sub_am: 0.85227156,
+		balance: 0.74495184,
+		flt_freq: 0.70443666,
+		flt_mod: 0.61710775,
+		flt_sep: 0.21016395,
+		flt_q: 0.95512706,
+		flt_kf: 0.49081993,
+		fx_mix: 0.38940096,
+		fx_len: 0.61127084,
+		fx_damp: 0.08040303,
+		fx_chors: 0.98981303,
+		fx_size: 0.69107759
+	}
+}

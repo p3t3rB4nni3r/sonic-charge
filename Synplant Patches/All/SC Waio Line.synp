@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Waio Line"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -24.46956635 %
+	Release: 391.99999318 ms 
+	WheelScale: 42.92683005 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xd95afc56
+	Pitch: 2.46468997
+	Cloned: false
+	Genome: {
+		env_time: 0.67231286,
+		env_loop: 0.69183367,
+		env_tilt: 0.41626108,
+		vol_atk: 0.34771031,
+		vol_dcy: 0.77191746,
+		vol_sus: 0.13519990,
+		mod_atk: 0.87630337,
+		mod_dcy: 0.87444365,
+		mod_sh: 0.04334372,
+		mod_vel: 0.53047347,
+		lfo_rate: 0.63231641,
+		lfo_amt: 0.74355119,
+		lfo_bal: 0.47477674,
+		a_form: 0.82542062,
+		a_noise: 0.63928157,
+		a_color: 0.94877207,
+		a_freq: 0.25588500,
+		a_mod: 0.50147325,
+		b_form: 0.41251010,
+		b_noise: 0.46898073,
+		b_freq: 0.49146211,
+		b_mod: 0.49720138,
+		b_sh: 0.00802803,
+		fm_amt: 0.26868451,
+		fm_mod: 0.82767963,
+		sub_am: 0.07889009,
+		balance: 0.81834352,
+		flt_freq: 0.73646343,
+		flt_mod: 0.38431191,
+		flt_sep: 0.09409249,
+		flt_q: 0.18939281,
+		flt_kf: 0.52337658,
+		fx_mix: 0.66610926,
+		fx_len: 0.61182332,
+		fx_damp: 0.19059235,
+		fx_chors: 0.37426817,
+		fx_size: 0.63704735
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Garb Piano"
+	ModWheel: 15.84292352 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 70.07933259 %
+	Effect: 0.75740814 %
+	Release: 1.74541982 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xaa2d02f7
+	Pitch: 0.99999976
+	Cloned: false
+	Genome: {
+		env_time: 0.58802879
+		env_loop: 0.47205555
+		env_tilt: 0.37114310
+		vol_atk: 0.54312730
+		vol_dcy: 0.89326870
+		vol_sus: 0.75663114
+		mod_atk: 0.01144904
+		mod_dcy: 0.55866408
+		mod_sh: 0.62499899
+		mod_vel: 0.82459021
+		lfo_rate: 0.07329619
+		lfo_amt: 0.34232569
+		lfo_bal: 0.29079890
+		a_form: 0.21850723
+		a_noise: 0.75365382
+		a_color: 0.41318035
+		a_freq: 0.33333337
+		a_mod: 0.47871113
+		b_form: 0.24222243
+		b_noise: 0.79517877
+		b_freq: 0.88826180
+		b_mod: 0.43733066
+		b_sh: 0.98338211
+		fm_amt: 0.54919291
+		fm_mod: 0.77078807
+		sub_am: 0.38232601
+		balance: 0.87521791
+		flt_freq: 0.50309825
+		flt_mod: 0.88976860
+		flt_sep: 0.34799653
+		flt_q: 0.59435028
+		flt_kf: 0.14534897
+		fx_mix: 0.22178680
+		fx_len: 0.60385716
+		fx_damp: 0.37757838
+		fx_chors: 0.24251592
+		fx_size: 0.58006191
+	}
+}

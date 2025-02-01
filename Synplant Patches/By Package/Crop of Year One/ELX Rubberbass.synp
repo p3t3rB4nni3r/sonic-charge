@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Rubberbass"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: -47.04211950 %
+	Release: 3.15527756 s 
+	WheelScale: 48.78048897 %
+	VelSens: 50.00000596 %
+	Volume: 5.85563555 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x443fc595
+	Pitch: -0.83709240
+	Cloned: false
+	Genome: {
+		env_time: 0.39826161
+		env_loop: 0.67166376
+		env_tilt: 0.26851481
+		vol_atk: 0.44666475
+		vol_dcy: 0.54812622
+		vol_sus: 0.40445393
+		mod_atk: 0.43555576
+		mod_dcy: 0.33410716
+		mod_sh: 0.99296194
+		mod_vel: 0.99712110
+		lfo_rate: 0.01286817
+		lfo_amt: 0.66867030
+		lfo_bal: 0.77571464
+		a_form: 0.79479223
+		a_noise: 0.84375650
+		a_color: 0.07985711
+		a_freq: 0.97284877
+		a_mod: 0.48902428
+		b_form: 0.06655532
+		b_noise: 0.69536555
+		b_freq: 0.35637373
+		b_mod: 0.49996674
+		b_sh: 0.05019605
+		fm_amt: 0.24416459
+		fm_mod: 0.31596833
+		sub_am: 0.24462086
+		balance: 0.99006760
+		flt_freq: 0.39763957
+		flt_mod: 0.32026768
+		flt_sep: 0.87799704
+		flt_q: 0.98555887
+		flt_kf: 0.35622430
+		fx_mix: 0.58541965
+		fx_len: 0.74458629
+		fx_damp: 0.32288373
+		fx_chors: 0.43233085
+		fx_size: 0.70838511
+	}
+}

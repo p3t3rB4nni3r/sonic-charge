@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "CS The Botanic Pacman"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 100.00000000 %
+	Effect: -100.00000000 %
+	Release: 50.00000000 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -3.85290156 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x44a28bee
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.67184424,
+		env_loop: 0.83917558,
+		env_tilt: 0.45337585,
+		vol_atk: 0.58074903,
+		vol_dcy: 0.45073867,
+		vol_sus: 0.67782307,
+		mod_atk: 0.26968706,
+		mod_dcy: 0.77829278,
+		mod_sh: 0.08407804,
+		mod_vel: 0.00167593,
+		lfo_rate: 0.86247146,
+		lfo_amt: 0.42895943,
+		lfo_bal: 0.47050816,
+		a_form: 0.81764758,
+		a_noise: 0.17248553,
+		a_color: 0.22673571,
+		a_freq: 0.66666669,
+		a_mod: 0.28695381,
+		b_form: 0.64906973,
+		b_noise: 0.11310342,
+		b_freq: 0.54010844,
+		b_mod: 0.48946798,
+		b_sh: 0.94015622,
+		fm_amt: 0.22879058,
+		fm_mod: 0.50066531,
+		sub_am: 0.45661628,
+		balance: 0.30449015,
+		flt_freq: 0.86528146,
+		flt_mod: 0.41986072,
+		flt_sep: 0.84639013,
+		flt_q: 0.35935551,
+		flt_kf: 0.42556536,
+		fx_mix: 0.56435210,
+		fx_len: 0.43520144,
+		fx_damp: 0.18334621,
+		fx_chors: 0.44473144,
+		fx_size: 0.29146206
+	}
+}

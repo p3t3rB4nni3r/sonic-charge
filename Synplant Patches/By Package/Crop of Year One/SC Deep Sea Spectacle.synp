@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Deep Sea Spectacle"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 22.01860100 %
+	Effect: 0.00000000 %
+	Release: 16.32275952 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -2.24949607 dB
+	Branch1: 26.98583007 %
+	Branch2: 41.30122066 %
+	Branch3: 44.77883875 %
+	Branch4: 37.27126122 %
+	Branch5: 30.32093644 %
+	Branch6: 26.43904686 %
+	Branch7: 24.59829748 %
+	Branch8: 32.78260231 %
+	Branch9: 39.41392004 %
+	Branch10: 36.08772159 %
+	Branch11: 39.59748447 %
+	Branch12: 46.49076760 %
+	Seed: 0xdea9ee97
+	Pitch: 1.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.40195823
+		env_loop: 0.83171123
+		env_tilt: 0.03195453
+		vol_atk: 0.84595585
+		vol_dcy: 0.97938073
+		vol_sus: 0.72219408
+		mod_atk: 0.02524149
+		mod_dcy: 0.04089886
+		mod_sh: 0.36664188
+		mod_vel: 0.10889077
+		lfo_rate: 0.08955109
+		lfo_amt: 0.28675020
+		lfo_bal: 0.02875292
+		a_form: 0.85245436
+		a_noise: 0.53971767
+		a_color: 0.73912477
+		a_freq: 0.50000000
+		a_mod: 0.47137415
+		b_form: 0.78322393
+		b_noise: 0.54711729
+		b_freq: 0.48327667
+		b_mod: 0.46162188
+		b_sh: 0.86246908
+		fm_amt: 0.03409958
+		fm_mod: 0.50117564
+		sub_am: 0.42599887
+		balance: 0.53509021
+		flt_freq: 0.36771321
+		flt_mod: 0.71890187
+		flt_sep: 0.79439425
+		flt_q: 0.82476985
+		flt_kf: 0.94681382
+		fx_mix: 0.82482445
+		fx_len: 0.64739603
+		fx_damp: 0.08720154
+		fx_chors: 0.65204668
+		fx_size: 0.50000000
+	}
+}

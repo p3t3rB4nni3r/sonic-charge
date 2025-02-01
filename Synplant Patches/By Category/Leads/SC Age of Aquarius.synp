@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "agy v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.49999999 %
+	Effect: 69.32711601 %
+	Release: 595.72490966 ms 
+	WheelScale: 40.00000060 %
+	VelSens: 0.49999999 %
+	Volume: -1.62540068 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x00000008
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.26164901
+		env_loop: 0.62162900
+		env_tilt: 0.72978276
+		vol_atk: 0.44920570
+		vol_dcy: 0.83395696
+		vol_sus: 0.53956872
+		mod_atk: 0.07237119
+		mod_dcy: 0.18770242
+		mod_sh: 0.87537831
+		mod_vel: 0.53879017
+		lfo_rate: 0.40846363
+		lfo_amt: 0.33127886
+		lfo_bal: 0.45516574
+		a_form: 0.67643279
+		a_noise: 0.66673923
+		a_color: 0.60029751
+		a_freq: 0.50000000
+		a_mod: 0.59016019
+		b_form: 0.46639794
+		b_noise: 0.65270323
+		b_freq: 0.95671690
+		b_mod: 0.86140180
+		b_sh: 0.60882193
+		fm_amt: 0.50793236
+		fm_mod: 0.44480693
+		sub_am: 0.21894021
+		balance: 0.56540453
+		flt_freq: 0.69189656
+		flt_mod: 0.60277319
+		flt_sep: 0.22707582
+		flt_q: 0.55297869
+		flt_kf: 0.59690529
+		fx_mix: 0.65256381
+		fx_len: 0.86452234
+		fx_damp: 0.45698416
+		fx_chors: 0.35917014
+		fx_size: 0.50219488
+	}
+}

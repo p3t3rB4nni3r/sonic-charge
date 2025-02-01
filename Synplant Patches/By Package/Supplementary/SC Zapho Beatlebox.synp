@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Zapho Beatlebox"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 60.00000238 %
+	Effect: -55.57301044 %
+	Release: 606.15314418 ms 
+	WheelScale: 55.00000119 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 7.22891539 %
+	Branch2: 33.72312784 %
+	Branch3: 41.30122066 %
+	Branch4: 43.00496578 %
+	Branch5: 55.93520403 %
+	Branch6: 59.18661356 %
+	Branch7: 59.97649431 %
+	Branch8: 62.65863180 %
+	Branch9: 46.20656073 %
+	Branch10: 33.97072554 %
+	Branch11: 36.23544276 %
+	Branch12: 45.07859051 %
+	Seed: 0x0787d996
+	Pitch: 0.38817525
+	Cloned: false
+	Genome: {
+		env_time: 0.12917338,
+		env_loop: 0.93344176,
+		env_tilt: 0.83344585,
+		vol_atk: 0.70244980,
+		vol_dcy: 0.46821338,
+		vol_sus: 0.34248018,
+		mod_atk: 0.83226353,
+		mod_dcy: 0.39260617,
+		mod_sh: 0.40934661,
+		mod_vel: 0.34371620,
+		lfo_rate: 0.63123983,
+		lfo_amt: 0.82229048,
+		lfo_bal: 0.16735458,
+		a_form: 0.90697098,
+		a_noise: 0.00314881,
+		a_color: 0.45094123,
+		a_freq: 0.00000000,
+		a_mod: 0.98301774,
+		b_form: 0.25536904,
+		b_noise: 0.69828355,
+		b_freq: 0.18985935,
+		b_mod: 0.71670812,
+		b_sh: 0.01969581,
+		fm_amt: 0.62025404,
+		fm_mod: 0.10945370,
+		sub_am: 0.01431191,
+		balance: 0.10761664,
+		flt_freq: 0.04367947,
+		flt_mod: 0.53446358,
+		flt_sep: 0.80191678,
+		flt_q: 0.57658064,
+		flt_kf: 0.86061704,
+		fx_mix: 0.75174391,
+		fx_len: 0.71485174,
+		fx_damp: 0.77263272,
+		fx_chors: 0.27877074,
+		fx_size: 0.25836018
+	}
+}

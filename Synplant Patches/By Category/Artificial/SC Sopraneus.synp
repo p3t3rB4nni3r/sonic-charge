@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Sopraneus"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +11.84363365 ct 
+	Atonality: 7.00000003 %
+	Effect: 0.00000000 %
+	Release: 447.71821875 ms 
+	WheelScale: 42.68292785 %
+	VelSens: 50.00000000 %
+	Volume: -4.56537907 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x93e70aed
+	Pitch: -0.39838743
+	Cloned: false
+	Genome: {
+		env_time: 0.65197545,
+		env_loop: 0.60840994,
+		env_tilt: 0.43684649,
+		vol_atk: 0.29709876,
+		vol_dcy: 0.56738859,
+		vol_sus: 0.64351076,
+		mod_atk: 0.75566423,
+		mod_dcy: 0.11958645,
+		mod_sh: 0.63192666,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.51801234,
+		lfo_amt: 0.81339818,
+		lfo_bal: 0.20555668,
+		a_form: 0.85788292,
+		a_noise: 0.79687834,
+		a_color: 0.37405819,
+		a_freq: 0.73306459,
+		a_mod: 0.39996916,
+		b_form: 0.09758820,
+		b_noise: 0.25121894,
+		b_freq: 0.47298405,
+		b_mod: 0.60146523,
+		b_sh: 0.16771542,
+		fm_amt: 0.41399682,
+		fm_mod: 0.49994764,
+		sub_am: 0.25000000,
+		balance: 0.00000002,
+		flt_freq: 0.07142389,
+		flt_mod: 0.31648755,
+		flt_sep: 0.50001234,
+		flt_q: 0.40963337,
+		flt_kf: 0.51102924,
+		fx_mix: 0.91587669,
+		fx_len: 0.86807686,
+		fx_damp: 0.24698646,
+		fx_chors: 0.77961087,
+		fx_size: 0.69725877
+	}
+}

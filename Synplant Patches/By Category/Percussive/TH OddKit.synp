@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TH OddKit"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -62.01805770 %
+	Release: 877.00004179 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 3.07634046 dB
+	Branch1: 86.30263805 %
+	Branch2: 36.43361926 %
+	Branch3: 54.71298099 %
+	Branch4: 0.00000000 %
+	Branch5: 97.90159464 %
+	Branch6: 73.13632369 %
+	Branch7: 66.67394042 %
+	Branch8: 0.00000000 %
+	Branch9: 35.19958258 %
+	Branch10: 26.64533854 %
+	Branch11: 9.27457884 %
+	Branch12: 0.00000000 %
+	Seed: 0xbc2164bf
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.37531352,
+		env_loop: 0.22887909,
+		env_tilt: 0.47124696,
+		vol_atk: 0.40338433,
+		vol_dcy: 0.59128875,
+		vol_sus: 0.68177164,
+		mod_atk: 0.47079551,
+		mod_dcy: 0.49118674,
+		mod_sh: 0.51546174,
+		mod_vel: 0.75731808,
+		lfo_rate: 0.98119044,
+		lfo_amt: 0.83090854,
+		lfo_bal: 0.08193684,
+		a_form: 0.15599895,
+		a_noise: 0.69211125,
+		a_color: 0.53284681,
+		a_freq: 0.66666669,
+		a_mod: 0.50000000,
+		b_form: 0.42531192,
+		b_noise: 0.74287635,
+		b_freq: 0.87931120,
+		b_mod: 0.50000000,
+		b_sh: 0.65703690,
+		fm_amt: 0.18934333,
+		fm_mod: 0.25475001,
+		sub_am: 0.52999240,
+		balance: 0.85947722,
+		flt_freq: 0.63626677,
+		flt_mod: 0.26886165,
+		flt_sep: 0.86819059,
+		flt_q: 0.57366967,
+		flt_kf: 0.12310296,
+		fx_mix: 0.08224154,
+		fx_len: 0.67886198,
+		fx_damp: 0.46385229,
+		fx_chors: 0.67475057,
+		fx_size: 0.56301117
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Sanctum Complex"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -73.22795391 ct 
+	Atonality: 66.30584002 %
+	Effect: 0.00000000 %
+	Release: 549.28029127 ms 
+	WheelScale: 27.50000060 %
+	VelSens: 50.00000000 %
+	Volume: -4.68930426 dB
+	Branch1: 58.04318190 %
+	Branch2: 58.04318190 %
+	Branch3: 58.04318190 %
+	Branch4: 58.04318190 %
+	Branch5: 58.04318190 %
+	Branch6: 58.04318190 %
+	Branch7: 58.04318190 %
+	Branch8: 58.04318190 %
+	Branch9: 58.04318190 %
+	Branch10: 58.04318190 %
+	Branch11: 58.04318190 %
+	Branch12: 58.04318190 %
+	Seed: 0x47ebc2ec
+	Pitch: -0.14215219
+	Cloned: true
+	Genome: {
+		env_time: 0.59006304,
+		env_loop: 0.81170326,
+		env_tilt: 0.00774682,
+		vol_atk: 0.74988931,
+		vol_dcy: 0.38879740,
+		vol_sus: 0.97256345,
+		mod_atk: 0.82834589,
+		mod_dcy: 0.59851032,
+		mod_sh: 0.71132064,
+		mod_vel: 0.17706573,
+		lfo_rate: 0.37644577,
+		lfo_amt: 0.82380629,
+		lfo_bal: 0.54798931,
+		a_form: 0.41628551,
+		a_noise: 0.65699875,
+		a_color: 0.72019917,
+		a_freq: 0.19035870,
+		a_mod: 0.70789534,
+		b_form: 0.95575500,
+		b_noise: 0.64574945,
+		b_freq: 0.85420460,
+		b_mod: 0.33650768,
+		b_sh: 0.63899028,
+		fm_amt: 0.13117373,
+		fm_mod: 0.98105365,
+		sub_am: 0.70174402,
+		balance: 0.47761786,
+		flt_freq: 0.45654124,
+		flt_mod: 0.71559173,
+		flt_sep: 0.42123932,
+		flt_q: 0.76119810,
+		flt_kf: 0.65668744,
+		fx_mix: 0.97303230,
+		fx_len: 0.80913973,
+		fx_damp: 0.40693259,
+		fx_chors: 0.86144578,
+		fx_size: 0.58222407
+	}
+}

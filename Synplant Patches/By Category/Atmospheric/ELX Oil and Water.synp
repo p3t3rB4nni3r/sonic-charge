@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Oil and Water"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 18.25986356 %
+	Effect: 36.74820662 %
+	Release: 723.27034000 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -2.24949421 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x28d37f21
+	Pitch: 0.14745474
+	Cloned: false
+	Genome: {
+		env_time: 0.92107034
+		env_loop: 0.81236446
+		env_tilt: 0.53705996
+		vol_atk: 0.53862077
+		vol_dcy: 0.59590518
+		vol_sus: 0.66268110
+		mod_atk: 0.53056931
+		mod_dcy: 0.38850296
+		mod_sh: 0.47503597
+		mod_vel: 0.44193512
+		lfo_rate: 0.88837999
+		lfo_amt: 0.79392761
+		lfo_bal: 0.18828672
+		a_form: 0.60146004
+		a_noise: 0.50723273
+		a_color: 0.46032721
+		a_freq: 0.64209104
+		a_mod: 0.49109226
+		b_form: 0.85170096
+		b_noise: 0.37685239
+		b_freq: 0.46339601
+		b_mod: 0.55017126
+		b_sh: 0.41309559
+		fm_amt: 0.56882888
+		fm_mod: 0.50114590
+		sub_am: 0.61207634
+		balance: 0.63462681
+		flt_freq: 0.50741392
+		flt_mod: 0.01229435
+		flt_sep: 0.46369195
+		flt_q: 0.54586530
+		flt_kf: 0.19354135
+		fx_mix: 0.49886891
+		fx_len: 0.63853383
+		fx_damp: 0.33326632
+		fx_chors: 0.89251119
+		fx_size: 0.71377039
+	}
+}

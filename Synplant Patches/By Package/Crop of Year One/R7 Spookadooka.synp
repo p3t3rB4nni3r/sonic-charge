@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "R7 Spookadooka"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 100.00000000 %
+	Effect: -54.17088866 %
+	Release: 6.79676823 s 
+	WheelScale: 19.87804770 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xd1fcb03f
+	Pitch: 0.35135865
+	Cloned: false
+	Genome: {
+		env_time: 0.58185238
+		env_loop: 0.47238195
+		env_tilt: 0.73820335
+		vol_atk: 0.49846381
+		vol_dcy: 0.58893734
+		vol_sus: 0.79062724
+		mod_atk: 0.54119945
+		mod_dcy: 0.71455503
+		mod_sh: 0.10200572
+		mod_vel: 0.06587791
+		lfo_rate: 0.30328369
+		lfo_amt: 0.95380348
+		lfo_bal: 0.97311187
+		a_form: 0.17209482
+		a_noise: 0.48018658
+		a_color: 0.39083397
+		a_freq: 0.44144022
+		a_mod: 0.84390509
+		b_form: 0.85962319
+		b_noise: 0.47836578
+		b_freq: 0.99181497
+		b_mod: 0.88079202
+		b_sh: 0.86148965
+		fm_amt: 0.59816223
+		fm_mod: 0.70807004
+		sub_am: 0.87007904
+		balance: 0.33838439
+		flt_freq: 0.41592741
+		flt_mod: 0.31172967
+		flt_sep: 0.66477609
+		flt_q: 0.74615765
+		flt_kf: 0.88356853
+		fx_mix: 0.92230618
+		fx_len: 0.58492994
+		fx_damp: 0.64171422
+		fx_chors: 0.56685770
+		fx_size: 0.31595382
+	}
+}

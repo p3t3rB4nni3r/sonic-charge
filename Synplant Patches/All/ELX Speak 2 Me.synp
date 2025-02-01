@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Speak 2 Me"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +10.99864054 sm 
+	Atonality: 0.00000000 %
+	Effect: -20.76029778 %
+	Release: 741.47961048 ms 
+	WheelScale: 48.78048897 %
+	VelSens: 50.00000596 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x775b3331
+	Pitch: -1.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.62336099
+		env_loop: 0.15321100
+		env_tilt: 0.92249608
+		vol_atk: 0.76818919
+		vol_dcy: 0.61196125
+		vol_sus: 0.48525044
+		mod_atk: 0.93702853
+		mod_dcy: 0.66638827
+		mod_sh: 0.56481785
+		mod_vel: 0.65123254
+		lfo_rate: 0.67978245
+		lfo_amt: 0.80448580
+		lfo_bal: 0.28248018
+		a_form: 0.80550843
+		a_noise: 0.31954169
+		a_color: 0.45951328
+		a_freq: 0.52063477
+		a_mod: 0.50000000
+		b_form: 0.30595979
+		b_noise: 0.70816368
+		b_freq: 0.55653417
+		b_mod: 0.50645876
+		b_sh: 0.75457120
+		fm_amt: 0.12751561
+		fm_mod: 0.37047654
+		sub_am: 0.22939202
+		balance: 0.63147342
+		flt_freq: 0.70877266
+		flt_mod: 1.00000000
+		flt_sep: 0.14705816
+		flt_q: 0.64705336
+		flt_kf: 0.78641546
+		fx_mix: 0.67771369
+		fx_len: 0.59504926
+		fx_damp: 0.55940437
+		fx_chors: 0.89547575
+		fx_size: 0.21383774
+	}
+}

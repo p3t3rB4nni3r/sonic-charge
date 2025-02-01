@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 3
+	Name: "NE Moccatron"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 35.82276404 %
+	Effect: 0.00000000 %
+	Release: 91.02821503 ms 
+	WheelScale: 66.06706977 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 4.62068096 %
+	Branch2: 4.62068096 %
+	Branch3: 4.62068096 %
+	Branch4: 4.62068096 %
+	Branch5: 4.62068096 %
+	Branch6: 4.62068096 %
+	Branch7: 4.62068096 %
+	Branch8: 4.62068096 %
+	Branch9: 4.62068096 %
+	Branch10: 4.62068096 %
+	Branch11: 4.62068096 %
+	Branch12: 4.62068096 %
+	Seed: 0x8cac5ba4
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.42093429,
+		env_loop: 0.38618708,
+		env_tilt: 0.64974129,
+		vol_atk: 0.41848978,
+		vol_dcy: 0.91806948,
+		vol_sus: 0.51135308,
+		mod_atk: 0.75025302,
+		mod_dcy: 0.63038719,
+		mod_sh: 0.04014852,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.79135162,
+		lfo_amt: 0.74724257,
+		lfo_bal: 0.03156662,
+		a_form: 0.20624651,
+		a_noise: 0.26201761,
+		a_color: 0.03718550,
+		a_freq: 0.50000000,
+		a_mod: 0.47556296,
+		b_form: 0.53290659,
+		b_noise: 0.55796772,
+		b_freq: 0.48445019,
+		b_mod: 0.49742836,
+		b_sh: 0.53163755,
+		fm_amt: 0.22451502,
+		fm_mod: 0.83650005,
+		sub_am: 0.72679377,
+		balance: 0.65367764,
+		flt_freq: 0.93441343,
+		flt_mod: 0.33390355,
+		flt_sep: 0.53611898,
+		flt_q: 0.71248198,
+		flt_kf: 0.75000000,
+		fx_mix: 0.99848348,
+		fx_len: 0.57791811,
+		fx_damp: 0.89356852,
+		fx_chors: 0.68857694,
+		fx_size: 0.35494933
+	}
+}

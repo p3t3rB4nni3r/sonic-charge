@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Random Vous"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 1.93006520 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -3.04006263 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x5abca88b
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.55558568,
+		env_loop: 0.58015376,
+		env_tilt: 0.38622475,
+		vol_atk: 0.68068540,
+		vol_dcy: 0.80613261,
+		vol_sus: 0.61827850,
+		mod_atk: 0.12510890,
+		mod_dcy: 0.69752216,
+		mod_sh: 0.28457880,
+		mod_vel: 0.50000018,
+		lfo_rate: 0.65530628,
+		lfo_amt: 0.79332292,
+		lfo_bal: 0.00645887,
+		a_form: 0.51529825,
+		a_noise: 0.82609540,
+		a_color: 0.96457243,
+		a_freq: 0.50000000,
+		a_mod: 0.49879014,
+		b_form: 0.56751841,
+		b_noise: 0.52119792,
+		b_freq: 0.60404253,
+		b_mod: 0.53588462,
+		b_sh: 0.56166536,
+		fm_amt: 0.34379542,
+		fm_mod: 0.73332042,
+		sub_am: 0.19704670,
+		balance: 0.89472508,
+		flt_freq: 0.76298368,
+		flt_mod: 0.52209896,
+		flt_sep: 0.46580267,
+		flt_q: 0.00406677,
+		flt_kf: 0.40043807,
+		fx_mix: 1.00000000,
+		fx_len: 0.48568156,
+		fx_damp: 0.46776259,
+		fx_chors: 0.79533267,
+		fx_size: 0.40661865
+	}
+}

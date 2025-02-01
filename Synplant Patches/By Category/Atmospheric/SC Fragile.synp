@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Fragile"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -1.78740764 sm 
+	Atonality: 30.00000119 %
+	Effect: 0.00000000 %
+	Release: 427.99996947 ms 
+	WheelScale: 50.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 2.75007110 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x3a12baea
+	Pitch: 0.86880064
+	Cloned: true
+	Genome: {
+		env_time: 0.27576533,
+		env_loop: 0.27857614,
+		env_tilt: 0.19870456,
+		vol_atk: 0.95176631,
+		vol_dcy: 0.34211141,
+		vol_sus: 0.00000000,
+		mod_atk: 0.43942952,
+		mod_dcy: 0.31994650,
+		mod_sh: 0.55750453,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.48571959,
+		lfo_amt: 0.33505675,
+		lfo_bal: 0.33813390,
+		a_form: 0.92196351,
+		a_noise: 0.18550611,
+		a_color: 0.76337361,
+		a_freq: 0.85519987,
+		a_mod: 0.38492209,
+		b_form: 0.80141407,
+		b_noise: 0.53949344,
+		b_freq: 0.54189730,
+		b_mod: 0.50277209,
+		b_sh: 0.61179405,
+		fm_amt: 0.20313522,
+		fm_mod: 0.39055237,
+		sub_am: 0.25000000,
+		balance: 0.00000038,
+		flt_freq: 0.00000001,
+		flt_mod: 0.00000000,
+		flt_sep: 0.50003821,
+		flt_q: 0.06615594,
+		flt_kf: 0.75000000,
+		fx_mix: 0.95076001,
+		fx_len: 0.89585781,
+		fx_damp: 0.64747554,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

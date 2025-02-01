@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "newarapeg v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 41.38364494 %
+	Effect: 0.00000000 %
+	Release: 7.85159686 s 
+	WheelScale: 64.99999762 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 49.48225915 %
+	Branch2: 49.48225915 %
+	Branch3: 49.48225915 %
+	Branch4: 49.48225915 %
+	Branch5: 49.48225915 %
+	Branch6: 49.48225915 %
+	Branch7: 49.48225915 %
+	Branch8: 49.48225915 %
+	Branch9: 49.48225915 %
+	Branch10: 49.48225915 %
+	Branch11: 49.48225915 %
+	Branch12: 49.48225915 %
+	Seed: 0xb8c44983
+	Pitch: -0.38479567
+	Cloned: true
+	Genome: {
+		env_time: 0.44243979
+		env_loop: 0.45117855
+		env_tilt: 0.14137863
+		vol_atk: 0.48438799
+		vol_dcy: 0.49310797
+		vol_sus: 0.74444383
+		mod_atk: 0.86788690
+		mod_dcy: 0.53094578
+		mod_sh: 0.84672350
+		mod_vel: 0.06818700
+		lfo_rate: 0.33001745
+		lfo_amt: 0.11760736
+		lfo_bal: 0.13143910
+		a_form: 0.18128479
+		a_noise: 0.43130410
+		a_color: 0.13873816
+		a_freq: 0.56413263
+		a_mod: 0.56811142
+		b_form: 0.46728140
+		b_noise: 0.40984815
+		b_freq: 0.73369843
+		b_mod: 0.49828136
+		b_sh: 0.36387646
+		fm_amt: 0.58613610
+		fm_mod: 0.22373343
+		sub_am: 0.37714231
+		balance: 0.66026527
+		flt_freq: 0.40432936
+		flt_mod: 0.87763667
+		flt_sep: 0.52015007
+		flt_q: 0.13271761
+		flt_kf: 0.21879506
+		fx_mix: 0.56398082
+		fx_len: 0.86600107
+		fx_damp: 0.33184212
+		fx_chors: 0.65234488
+		fx_size: 0.72404861
+	}
+}

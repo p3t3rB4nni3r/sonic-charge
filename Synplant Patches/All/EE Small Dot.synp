@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "EE Small Dot"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 58.17303658 %
+	Effect: -43.93634796 %
+	Release: 3.01573661 s 
+	WheelScale: 48.78048897 %
+	VelSens: 50.00000000 %
+	Volume: 5.26068926 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x7557c651
+	Pitch: 0.17902088
+	Cloned: false
+	Genome: {
+		env_time: 0.11717570,
+		env_loop: 0.49767387,
+		env_tilt: 0.07809740,
+		vol_atk: 0.59364712,
+		vol_dcy: 0.59715885,
+		vol_sus: 0.45023113,
+		mod_atk: 0.74026269,
+		mod_dcy: 0.47846711,
+		mod_sh: 0.85802007,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.98698723,
+		lfo_amt: 0.52219278,
+		lfo_bal: 0.00751746,
+		a_form: 0.64996505,
+		a_noise: 0.39422882,
+		a_color: 0.89035988,
+		a_freq: 0.63682985,
+		a_mod: 0.64376283,
+		b_form: 0.61071849,
+		b_noise: 0.27587950,
+		b_freq: 0.21849394,
+		b_mod: 0.53051168,
+		b_sh: 0.62606591,
+		fm_amt: 0.53389555,
+		fm_mod: 0.39941406,
+		sub_am: 0.08808100,
+		balance: 0.42702377,
+		flt_freq: 0.28305987,
+		flt_mod: 0.21741784,
+		flt_sep: 0.21126032,
+		flt_q: 0.14062330,
+		flt_kf: 0.22490531,
+		fx_mix: 0.74300122,
+		fx_len: 0.84858239,
+		fx_damp: 0.07569623,
+		fx_chors: 0.44175994,
+		fx_size: 0.35494933
+	}
+}

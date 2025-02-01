@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Kasper Keys"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 42.82960594 %
+	Effect: 0.00000000 %
+	Release: 7.58603624 s 
+	WheelScale: 51.24999881 %
+	VelSens: 50.00000000 %
+	Volume: 3.39850003 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x717f50ec
+	Pitch: 2.25000000
+	Cloned: true
+	Genome: {
+		env_time: 0.48866189
+		env_loop: 0.90250951
+		env_tilt: 0.13821065
+		vol_atk: 0.58042806
+		vol_dcy: 0.57447034
+		vol_sus: 0.33055431
+		mod_atk: 0.00573695
+		mod_dcy: 0.47620428
+		mod_sh: 0.33666527
+		mod_vel: 0.30007052
+		lfo_rate: 0.31577295
+		lfo_amt: 0.43925422
+		lfo_bal: 0.71181744
+		a_form: 0.71219450
+		a_noise: 0.54111987
+		a_color: 0.13813412
+		a_freq: 0.12500000
+		a_mod: 0.51243931
+		b_form: 0.46368009
+		b_noise: 0.68124104
+		b_freq: 0.54700941
+		b_mod: 0.49745798
+		b_sh: 0.78472698
+		fm_amt: 0.41442835
+		fm_mod: 0.84220171
+		sub_am: 0.86532700
+		balance: 0.24453610
+		flt_freq: 0.74280679
+		flt_mod: 0.53450251
+		flt_sep: 0.71332508
+		flt_q: 0.49578577
+		flt_kf: 0.20346546
+		fx_mix: 0.45445734
+		fx_len: 0.97831541
+		fx_damp: 0.20993966
+		fx_chors: 0.47315419
+		fx_size: 0.83624041
+	}
+}

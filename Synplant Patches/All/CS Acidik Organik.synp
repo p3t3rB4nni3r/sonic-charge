@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "CS Acidik Organik"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 51.19179487 %
+	Effect: -97.40179591 %
+	Release: 53.00000015 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x012b6b8e
+	Pitch: -1.08295894
+	Cloned: false
+	Genome: {
+		env_time: 0.37606859,
+		env_loop: 0.74718785,
+		env_tilt: 0.39100337,
+		vol_atk: 0.17088008,
+		vol_dcy: 0.95641017,
+		vol_sus: 0.57657528,
+		mod_atk: 0.10159397,
+		mod_dcy: 0.29685092,
+		mod_sh: 0.55127704,
+		mod_vel: 0.24454504,
+		lfo_rate: 0.22273374,
+		lfo_amt: 0.14332509,
+		lfo_bal: 0.07689089,
+		a_form: 0.27168381,
+		a_noise: 0.03015971,
+		a_color: 0.16628438,
+		a_freq: 0.51382649,
+		a_mod: 0.51635015,
+		b_form: 0.93485808,
+		b_noise: 0.44652414,
+		b_freq: 0.50154519,
+		b_mod: 0.48806667,
+		b_sh: 0.06563890,
+		fm_amt: 0.45689338,
+		fm_mod: 0.70812947,
+		sub_am: 0.18543071,
+		balance: 0.94510877,
+		flt_freq: 0.53428197,
+		flt_mod: 0.74397069,
+		flt_sep: 0.86483067,
+		flt_q: 0.53113735,
+		flt_kf: 0.23561901,
+		fx_mix: 0.04922891,
+		fx_len: 0.55898738,
+		fx_damp: 0.67620695,
+		fx_chors: 0.81817204,
+		fx_size: 0.35494933
+	}
+}

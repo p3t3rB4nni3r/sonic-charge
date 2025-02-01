@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Squiggly Noodles"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 39.08433914 %
+	Effect: 0.00000000 %
+	Release: 2.94145707 s 
+	WheelScale: 96.34146094 %
+	VelSens: 50.00000000 %
+	Volume: -4.07493316 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x4bf3037a
+	Pitch: 0.81348515
+	Cloned: true
+	Genome: {
+		env_time: 0.84077412,
+		env_loop: 0.25722867,
+		env_tilt: 0.73626339,
+		vol_atk: 0.43851811,
+		vol_dcy: 0.93827879,
+		vol_sus: 0.95080161,
+		mod_atk: 0.83568364,
+		mod_dcy: 0.08743334,
+		mod_sh: 0.86728197,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.26494318,
+		lfo_amt: 0.06788874,
+		lfo_bal: 0.32455760,
+		a_form: 0.32440227,
+		a_noise: 0.53718638,
+		a_color: 0.97229898,
+		a_freq: 0.36441916,
+		a_mod: 0.59473568,
+		b_form: 0.86935365,
+		b_noise: 0.02265072,
+		b_freq: 0.56152588,
+		b_mod: 0.52374405,
+		b_sh: 0.09600550,
+		fm_amt: 0.38236660,
+		fm_mod: 0.57157612,
+		sub_am: 0.25000000,
+		balance: 0.69979441,
+		flt_freq: 0.71882379,
+		flt_mod: 0.46510470,
+		flt_sep: 0.38680446,
+		flt_q: 0.50432688,
+		flt_kf: 0.75000000,
+		fx_mix: 0.14530039,
+		fx_len: 0.35436594,
+		fx_damp: 0.54071665,
+		fx_chors: 0.44473928,
+		fx_size: 0.46506578
+	}
+}

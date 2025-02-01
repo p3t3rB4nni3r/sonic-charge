@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "bottlyV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +10.47408772 sm 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 4.64599255 s 
+	WheelScale: 56.25000000 %
+	VelSens: 50.00000000 %
+	Volume: -0.32380638 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xfbc25571
+	Pitch: -0.65968132
+	Cloned: true
+	Genome: {
+		env_time: 0.39161849
+		env_loop: 0.42204088
+		env_tilt: 0.51951182
+		vol_atk: 0.58774197
+		vol_dcy: 0.46032393
+		vol_sus: 0.30222094
+		mod_atk: 0.36747456
+		mod_dcy: 0.13969523
+		mod_sh: 0.13605589
+		mod_vel: 0.00000000
+		lfo_rate: 0.22956824
+		lfo_amt: 0.31620950
+		lfo_bal: 0.28015733
+		a_form: 0.16349143
+		a_noise: 0.72103649
+		a_color: 0.19481122
+		a_freq: 0.77661353
+		a_mod: 0.63684380
+		b_form: 0.58644992
+		b_noise: 0.30276841
+		b_freq: 0.62204641
+		b_mod: 0.41721547
+		b_sh: 0.03112096
+		fm_amt: 0.80309844
+		fm_mod: 0.76470000
+		sub_am: 0.49856222
+		balance: 0.02165610
+		flt_freq: 0.63084853
+		flt_mod: 0.12533402
+		flt_sep: 0.46511996
+		flt_q: 0.54660350
+		flt_kf: 1.00000000
+		fx_mix: 0.74830770
+		fx_len: 0.40084267
+		fx_damp: 0.06274319
+		fx_chors: 0.47138840
+		fx_size: 0.36416006
+	}
+}

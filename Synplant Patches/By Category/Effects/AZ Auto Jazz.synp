@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Auto Jazz"
+	ModWheel: 21.25984281 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 18.74059737 %
+	Effect: 64.76613283 %
+	Release: 3.26833692 s 
+	WheelScale: 42.49999821 %
+	VelSens: 0.00000000 %
+	Volume: 2.08673448 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x3dcf3383
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.17890263
+		env_loop: 0.18550581
+		env_tilt: 0.86301041
+		vol_atk: 0.63882279
+		vol_dcy: 0.19741592
+		vol_sus: 0.82362336
+		mod_atk: 0.91057491
+		mod_dcy: 0.66985053
+		mod_sh: 0.80640608
+		mod_vel: 0.90187991
+		lfo_rate: 0.56269348
+		lfo_amt: 0.41235262
+		lfo_bal: 0.78649908
+		a_form: 0.36654899
+		a_noise: 0.27125201
+		a_color: 0.55937189
+		a_freq: 0.24811217
+		a_mod: 0.64830625
+		b_form: 0.20385492
+		b_noise: 0.47161785
+		b_freq: 0.21559384
+		b_mod: 0.85177779
+		b_sh: 0.96124792
+		fm_amt: 0.79526091
+		fm_mod: 0.77015579
+		sub_am: 0.22243378
+		balance: 0.50019962
+		flt_freq: 0.68111765
+		flt_mod: 0.26278457
+		flt_sep: 0.64043081
+		flt_q: 0.18942609
+		flt_kf: 0.18508092
+		fx_mix: 0.23652655
+		fx_len: 0.38642687
+		fx_damp: 0.25266722
+		fx_chors: 0.22508919
+		fx_size: 0.19982678
+	}
+}

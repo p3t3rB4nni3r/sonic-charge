@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Kohongas"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 38.06983531 %
+	Effect: -77.65142024 %
+	Release: 400.69793471 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 6.19828824 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xedab32c0
+	Pitch: 0.05103827
+	Cloned: false
+	Genome: {
+		env_time: 0.18663061,
+		env_loop: 0.56981570,
+		env_tilt: 0.28220737,
+		vol_atk: 0.48696834,
+		vol_dcy: 0.62026048,
+		vol_sus: 0.30873740,
+		mod_atk: 0.65060198,
+		mod_dcy: 0.04357243,
+		mod_sh: 0.00226581,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.53456467,
+		lfo_amt: 0.76234287,
+		lfo_bal: 0.66593564,
+		a_form: 0.00687331,
+		a_noise: 0.58179355,
+		a_color: 0.04612482,
+		a_freq: 0.49149364,
+		a_mod: 0.60234553,
+		b_form: 0.98578465,
+		b_noise: 0.24931651,
+		b_freq: 0.71686268,
+		b_mod: 0.53776985,
+		b_sh: 0.43322361,
+		fm_amt: 0.20622957,
+		fm_mod: 0.73849219,
+		sub_am: 0.27594221,
+		balance: 0.11672240,
+		flt_freq: 0.63078451,
+		flt_mod: 0.85699022,
+		flt_sep: 0.47665608,
+		flt_q: 0.40643209,
+		flt_kf: 0.85266185,
+		fx_mix: 0.20799828,
+		fx_len: 0.64734870,
+		fx_damp: 0.00866210,
+		fx_chors: 0.04661882,
+		fx_size: 0.50000000
+	}
+}

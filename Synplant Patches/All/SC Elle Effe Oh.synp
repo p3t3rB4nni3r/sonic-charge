@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "SC Elle Effe Oh"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 13.64430785 %
+	Effect: 0.00000000 %
+	Release: 708.30817727 ms 
+	WheelScale: 41.24999940 %
+	VelSens: 50.00000000 %
+	Volume: 1.40778525 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x6ccf3d24
+	Pitch: -0.09774590
+	Cloned: true
+	Genome: {
+		env_time: 0.91841108
+		env_loop: 0.33697802
+		env_tilt: 0.89047700
+		vol_atk: 0.15277046
+		vol_dcy: 0.83249396
+		vol_sus: 0.96221662
+		mod_atk: 0.80939305
+		mod_dcy: 0.50077009
+		mod_sh: 0.47635329
+		mod_vel: 0.00000000
+		lfo_rate: 0.70581478
+		lfo_amt: 0.71295768
+		lfo_bal: 0.63649338
+		a_form: 0.75110906
+		a_noise: 0.41718668
+		a_color: 0.81097102
+		a_freq: 0.18295765
+		a_mod: 0.50295407
+		b_form: 0.18664443
+		b_noise: 0.64783704
+		b_freq: 0.66920030
+		b_mod: 0.57756466
+		b_sh: 0.34948218
+		fm_amt: 0.62557697
+		fm_mod: 0.65145040
+		sub_am: 0.51597095
+		balance: 0.46872771
+		flt_freq: 0.64414412
+		flt_mod: 0.17427951
+		flt_sep: 0.42445672
+		flt_q: 0.67660248
+		flt_kf: 1.00000000
+		fx_mix: 0.20942283
+		fx_len: 0.08028519
+		fx_damp: 0.46088111
+		fx_chors: 0.55776221
+		fx_size: 0.80345857
+	}
+}

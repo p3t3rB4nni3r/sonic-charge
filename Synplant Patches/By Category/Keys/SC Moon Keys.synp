@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "monimpaV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 26.39384866 %
+	Effect: 0.00000000 %
+	Release: 4.84176032 s 
+	WheelScale: 81.25000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xb48c1229
+	Pitch: -0.38606739
+	Cloned: true
+	Genome: {
+		env_time: 0.13546300
+		env_loop: 0.67328703
+		env_tilt: 0.09467024
+		vol_atk: 0.64042205
+		vol_dcy: 0.52240050
+		vol_sus: 0.97347713
+		mod_atk: 0.24330235
+		mod_dcy: 0.53533137
+		mod_sh: 0.43017966
+		mod_vel: 0.00000000
+		lfo_rate: 0.38218856
+		lfo_amt: 0.82845348
+		lfo_bal: 0.18295813
+		a_form: 0.02970564
+		a_noise: 0.30481803
+		a_color: 0.52835339
+		a_freq: 0.39767790
+		a_mod: 0.42625141
+		b_form: 0.79489869
+		b_noise: 0.58271235
+		b_freq: 0.73132712
+		b_mod: 0.60467571
+		b_sh: 0.05374372
+		fm_amt: 0.33348870
+		fm_mod: 0.45488858
+		sub_am: 0.15779936
+		balance: 0.46681571
+		flt_freq: 0.61094892
+		flt_mod: 0.77163780
+		flt_sep: 0.53117460
+		flt_q: 0.46354544
+		flt_kf: 1.00000000
+		fx_mix: 0.56656575
+		fx_len: 0.69836134
+		fx_damp: 0.43114150
+		fx_chors: 0.37051380
+		fx_size: 0.62638807
+	}
+}

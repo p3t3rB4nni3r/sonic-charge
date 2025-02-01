@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Percussion Kit"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 100.00000000 %
+	Effect: -35.85137725 %
+	Release: 65.57103114 ms 
+	WheelScale: 69.51219440 %
+	VelSens: 50.00000000 %
+	Volume: 4.00206243 dB
+	Branch1: 36.14457846 %
+	Branch2: 60.84132195 %
+	Branch3: 78.09396982 %
+	Branch4: 80.72958589 %
+	Branch5: 96.92245722 %
+	Branch6: 55.56125641 %
+	Branch7: 86.84840202 %
+	Branch8: 84.40858126 %
+	Branch9: 64.65252042 %
+	Branch10: 86.74699068 %
+	Branch11: 41.42730832 %
+	Branch12: 100.00000000 %
+	Seed: 0xb669b2dc
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.27491030
+		env_loop: 0.88865125
+		env_tilt: 0.22520199
+		vol_atk: 0.40415615
+		vol_dcy: 0.28378129
+		vol_sus: 0.09163368
+		mod_atk: 0.53360754
+		mod_dcy: 0.60579449
+		mod_sh: 0.62163168
+		mod_vel: 0.44209862
+		lfo_rate: 0.80196786
+		lfo_amt: 0.42209294
+		lfo_bal: 0.52958375
+		a_form: 0.53329182
+		a_noise: 0.67999613
+		a_color: 0.09907028
+		a_freq: 0.50000000
+		a_mod: 0.50000000
+		b_form: 0.46681520
+		b_noise: 0.37498513
+		b_freq: 0.50170439
+		b_mod: 0.50000000
+		b_sh: 0.87480104
+		fm_amt: 0.60830647
+		fm_mod: 0.52403951
+		sub_am: 0.65911174
+		balance: 0.50022721
+		flt_freq: 0.40384519
+		flt_mod: 0.32369611
+		flt_sep: 0.96144593
+		flt_q: 0.40173146
+		flt_kf: 0.03975403
+		fx_mix: 0.65486228
+		fx_len: 0.16199771
+		fx_damp: 0.85594296
+		fx_chors: 0.68199766
+		fx_size: 0.74955755
+	}
+}

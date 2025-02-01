@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Vox2"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +4.51755667 sm 
+	Atonality: 11.31681353 %
+	Effect: 45.64374685 %
+	Release: 226.13245135 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -1.48001199 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x87fa2ac7
+	Pitch: -0.26975822
+	Cloned: false
+	Genome: {
+		env_time: 0.68349254
+		env_loop: 0.95150590
+		env_tilt: 0.28540570
+		vol_atk: 0.79030287
+		vol_dcy: 0.84896457
+		vol_sus: 0.85130042
+		mod_atk: 0.72989762
+		mod_dcy: 0.52356350
+		mod_sh: 0.00677592
+		mod_vel: 0.89460814
+		lfo_rate: 0.67159009
+		lfo_amt: 0.86901802
+		lfo_bal: 0.42240006
+		a_form: 0.79682726
+		a_noise: 0.25564396
+		a_color: 0.01510751
+		a_freq: 0.48037302
+		a_mod: 0.49510586
+		b_form: 0.35527107
+		b_noise: 0.70108730
+		b_freq: 0.76658773
+		b_mod: 0.45210695
+		b_sh: 0.73086298
+		fm_amt: 0.65071654
+		fm_mod: 0.29530728
+		sub_am: 0.99353755
+		balance: 0.50648576
+		flt_freq: 0.67080194
+		flt_mod: 0.36803386
+		flt_sep: 0.75382608
+		flt_q: 0.61262298
+		flt_kf: 0.35650325
+		fx_mix: 0.25775021
+		fx_len: 0.52441037
+		fx_damp: 0.53818488
+		fx_chors: 0.67568970
+		fx_size: 0.39083773
+	}
+}

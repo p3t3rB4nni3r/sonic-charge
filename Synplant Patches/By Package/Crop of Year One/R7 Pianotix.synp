@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "R7 Pianotix"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -83.85413736 %
+	Release: 1.05849983 s 
+	WheelScale: 17.37804860 %
+	VelSens: 50.00000000 %
+	Volume: 5.68277109 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x9120412e
+	Pitch: 1.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.07285291
+		env_loop: 0.21226203
+		env_tilt: 0.22593474
+		vol_atk: 0.13192630
+		vol_dcy: 0.78950340
+		vol_sus: 0.61219424
+		mod_atk: 0.22273552
+		mod_dcy: 0.10372961
+		mod_sh: 0.02437115
+		mod_vel: 0.26928318
+		lfo_rate: 0.03979015
+		lfo_amt: 0.56396025
+		lfo_bal: 0.18683076
+		a_form: 0.61075372
+		a_noise: 0.17983079
+		a_color: 0.10521781
+		a_freq: 0.50000000
+		a_mod: 0.49974167
+		b_form: 0.77908528
+		b_noise: 0.50099528
+		b_freq: 0.09463459
+		b_mod: 0.49857116
+		b_sh: 0.82958239
+		fm_amt: 0.46758616
+		fm_mod: 0.02978635
+		sub_am: 0.69163162
+		balance: 0.54689026
+		flt_freq: 0.31446528
+		flt_mod: 0.49363613
+		flt_sep: 0.26698381
+		flt_q: 0.93921232
+		flt_kf: 0.56333101
+		fx_mix: 0.91613227
+		fx_len: 0.66123104
+		fx_damp: 0.91139829
+		fx_chors: 0.32092732
+		fx_size: 0.84751928
+	}
+}

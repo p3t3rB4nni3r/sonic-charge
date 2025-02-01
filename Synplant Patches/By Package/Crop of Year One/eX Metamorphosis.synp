@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "eX Metamorphosis"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 10.51363572 %
+	Effect: 51.70336962 %
+	Release: 1.01032115 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -3.04006263 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x717a68a2
+	Pitch: -0.00000024
+	Cloned: true
+	Genome: {
+		env_time: 0.70980209
+		env_loop: 0.92500770
+		env_tilt: 0.25535929
+		vol_atk: 0.38147086
+		vol_dcy: 0.86439705
+		vol_sus: 0.50797749
+		mod_atk: 0.82607228
+		mod_dcy: 0.31107235
+		mod_sh: 0.91609371
+		mod_vel: 0.78581458
+		lfo_rate: 0.71941924
+		lfo_amt: 0.17969036
+		lfo_bal: 0.84106499
+		a_form: 0.56263959
+		a_noise: 0.88012171
+		a_color: 0.14792633
+		a_freq: 0.33333337
+		a_mod: 0.55192673
+		b_form: 0.57804000
+		b_noise: 0.12960744
+		b_freq: 0.65511215
+		b_mod: 0.50063443
+		b_sh: 0.35136211
+		fm_amt: 0.45603669
+		fm_mod: 0.87297827
+		sub_am: 0.03764540
+		balance: 0.10095358
+		flt_freq: 0.85912597
+		flt_mod: 0.49172324
+		flt_sep: 0.81770623
+		flt_q: 0.48102093
+		flt_kf: 0.47180760
+		fx_mix: 0.90279520
+		fx_len: 0.87051094
+		fx_damp: 0.54419541
+		fx_chors: 0.36577481
+		fx_size: 0.50000000
+	}
+}

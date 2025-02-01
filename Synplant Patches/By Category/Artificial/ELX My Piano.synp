@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX My Piano"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: 25.64362288 %
+	Release: 3.49601066 s 
+	WheelScale: 69.51219440 %
+	VelSens: 50.00000000 %
+	Volume: 3.36720821 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x8cacc5bf
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.51560497
+		env_loop: 0.25963148
+		env_tilt: 0.80655384
+		vol_atk: 1.00000000
+		vol_dcy: 0.48702139
+		vol_sus: 0.55634117
+		mod_atk: 0.11793166
+		mod_dcy: 0.66422224
+		mod_sh: 0.41943377
+		mod_vel: 0.50345606
+		lfo_rate: 0.04029095
+		lfo_amt: 0.65461761
+		lfo_bal: 0.42431962
+		a_form: 0.45650852
+		a_noise: 0.52700043
+		a_color: 0.43055844
+		a_freq: 0.50000000
+		a_mod: 0.50000000
+		b_form: 0.54022384
+		b_noise: 0.72332233
+		b_freq: 0.62269115
+		b_mod: 0.50000000
+		b_sh: 0.03122205
+		fm_amt: 0.58256829
+		fm_mod: 0.53352892
+		sub_am: 0.54316407
+		balance: 0.10348791
+		flt_freq: 0.54253078
+		flt_mod: 0.33235231
+		flt_sep: 0.00000000
+		flt_q: 0.28717270
+		flt_kf: 0.79235607
+		fx_mix: 0.81410372
+		fx_len: 0.67406642
+		fx_damp: 0.41226202
+		fx_chors: 0.29709879
+		fx_size: 0.17280746
+	}
+}

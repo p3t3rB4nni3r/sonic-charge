@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 3
+	Name: "NE Big Pipes"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 23.45351428 %
+	Effect: 11.10242605 %
+	Release: 225.53572479 ms 
+	WheelScale: 41.46341383 %
+	VelSens: 0.00000000 %
+	Volume: -3.75254016 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xebfe9ced
+	Pitch: 0.63465118
+	Cloned: true
+	Genome: {
+		env_time: 0.04521066,
+		env_loop: 0.26342067,
+		env_tilt: 0.07156259,
+		vol_atk: 0.22180992,
+		vol_dcy: 0.27388856,
+		vol_sus: 0.85803485,
+		mod_atk: 0.50503182,
+		mod_dcy: 0.63694835,
+		mod_sh: 0.44480127,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.94765282,
+		lfo_amt: 0.39197803,
+		lfo_bal: 0.45375717,
+		a_form: 0.76610291,
+		a_noise: 0.54334092,
+		a_color: 0.02346355,
+		a_freq: 0.39422482,
+		a_mod: 0.43810487,
+		b_form: 0.90545309,
+		b_noise: 0.71363699,
+		b_freq: 0.75234157,
+		b_mod: 0.40137720,
+		b_sh: 0.20865744,
+		fm_amt: 0.57337159,
+		fm_mod: 0.18880379,
+		sub_am: 0.89763403,
+		balance: 0.73954993,
+		flt_freq: 0.11625606,
+		flt_mod: 0.17438412,
+		flt_sep: 0.68535209,
+		flt_q: 0.23897076,
+		flt_kf: 0.52394664,
+		fx_mix: 0.99692535,
+		fx_len: 0.81471926,
+		fx_damp: 0.22449917,
+		fx_chors: 0.24236482,
+		fx_size: 0.57454389
+	}
+}

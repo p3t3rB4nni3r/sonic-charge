@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE BitDrums"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -1.39507055 sm 
+	Atonality: 20.99999934 %
+	Effect: -100.00000000 %
+	Release: 100.99999879 ms 
+	WheelScale: 62.50000000 %
+	VelSens: 50.00000000 %
+	Volume: 6.43856190 dB
+	Branch1: 33.97072554 %
+	Branch2: 37.83841133 %
+	Branch3: 55.37801981 %
+	Branch4: 53.83504033 %
+	Branch5: 40.52916765 %
+	Branch6: 36.33751273 %
+	Branch7: 40.66729546 %
+	Branch8: 40.46532214 %
+	Branch9: 29.88153398 %
+	Branch10: 39.43554163 %
+	Branch11: 45.22800446 %
+	Branch12: 40.46532214 %
+	Seed: 0xd178431a
+	Pitch: -0.08575320
+	Cloned: false
+	Genome: {
+		env_time: 0.29263055
+		env_loop: 0.75291240
+		env_tilt: 0.30189323
+		vol_atk: 0.11928982
+		vol_dcy: 0.06555796
+		vol_sus: 0.38248777
+		mod_atk: 0.36790299
+		mod_dcy: 0.00921756
+		mod_sh: 0.90855253
+		mod_vel: 0.36408335
+		lfo_rate: 0.19605219
+		lfo_amt: 0.96707463
+		lfo_bal: 0.17524785
+		a_form: 0.53804111
+		a_noise: 0.73467183
+		a_color: 0.64516342
+		a_freq: 0.18095887
+		a_mod: 0.57072765
+		b_form: 0.14375466
+		b_noise: 0.37927067
+		b_freq: 0.87455225
+		b_mod: 0.46482813
+		b_sh: 0.94141573
+		fm_amt: 0.73190147
+		fm_mod: 0.64586723
+		sub_am: 0.40617537
+		balance: 0.63968152
+		flt_freq: 0.75866860
+		flt_mod: 0.04650062
+		flt_sep: 0.04336023
+		flt_q: 0.33910197
+		flt_kf: 0.87892580
+		fx_mix: 0.90388829
+		fx_len: 0.74231124
+		fx_damp: 0.40823853
+		fx_chors: 0.93360162
+		fx_size: 0.31839460
+	}
+}

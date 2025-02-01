@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Starcraft Egg Boiler"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +4.22297144 sm 
+	Atonality: 15.74803144 %
+	Effect: 63.27576637 %
+	Release: 1.39379775 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 3.39850003 dB
+	Branch1: 0.00000000 %
+	Branch2: 45.13839185 %
+	Branch3: 13.18207830 %
+	Branch4: 49.43523109 %
+	Branch5: 61.74647808 %
+	Branch6: 49.64193106 %
+	Branch7: 39.50036466 %
+	Branch8: 37.49426007 %
+	Branch9: 32.83057511 %
+	Branch10: 47.10445702 %
+	Branch11: 36.00803912 %
+	Branch12: 36.23544276 %
+	Seed: 0x4a4b734d
+	Pitch: -0.36321354
+	Cloned: false
+	Genome: {
+		env_time: 0.88756520,
+		env_loop: 0.93380874,
+		env_tilt: 0.85830927,
+		vol_atk: 0.48176783,
+		vol_dcy: 0.10806364,
+		vol_sus: 0.92021126,
+		mod_atk: 0.71674007,
+		mod_dcy: 0.41297293,
+		mod_sh: 0.05384153,
+		mod_vel: 0.63582778,
+		lfo_rate: 0.68028939,
+		lfo_amt: 0.63658333,
+		lfo_bal: 0.03708363,
+		a_form: 0.00154054,
+		a_noise: 0.91060585,
+		a_color: 0.28973377,
+		a_freq: 0.72720230,
+		a_mod: 0.52003229,
+		b_form: 0.46679121,
+		b_noise: 0.82677013,
+		b_freq: 0.29912257,
+		b_mod: 0.44513172,
+		b_sh: 0.87992001,
+		fm_amt: 0.02179182,
+		fm_mod: 0.47516614,
+		sub_am: 0.25343996,
+		balance: 0.86896515,
+		flt_freq: 0.52209246,
+		flt_mod: 0.68869460,
+		flt_sep: 0.05488193,
+		flt_q: 0.91193116,
+		flt_kf: 0.28456885,
+		fx_mix: 0.39945406,
+		fx_len: 0.91048390,
+		fx_damp: 0.72598219,
+		fx_chors: 0.39606023,
+		fx_size: 0.50414133
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "EE Bill"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -90.52664936 %
+	Release: 318.60020274 ms 
+	WheelScale: 40.24390280 %
+	VelSens: 50.00000000 %
+	Volume: 3.39850003 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x616b03d5
+	Pitch: -0.27319002
+	Cloned: false
+	Genome: {
+		env_time: 0.33918458,
+		env_loop: 0.90100807,
+		env_tilt: 0.06178248,
+		vol_atk: 0.85428375,
+		vol_dcy: 0.95992488,
+		vol_sus: 0.79841435,
+		mod_atk: 0.25446498,
+		mod_dcy: 0.55491143,
+		mod_sh: 0.27318102,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.86418504,
+		lfo_amt: 0.26625127,
+		lfo_bal: 0.32645404,
+		a_form: 0.52279121,
+		a_noise: 0.13578069,
+		a_color: 0.93588006,
+		a_freq: 0.04553169,
+		a_mod: 0.50000000,
+		b_form: 0.37466615,
+		b_noise: 0.11592937,
+		b_freq: 0.67409682,
+		b_mod: 0.50000000,
+		b_sh: 0.37967443,
+		fm_amt: 0.57246965,
+		fm_mod: 0.44931555,
+		sub_am: 0.24116218,
+		balance: 0.83392203,
+		flt_freq: 0.40503216,
+		flt_mod: 0.90001553,
+		flt_sep: 0.66337103,
+		flt_q: 0.57787126,
+		flt_kf: 0.41111153,
+		fx_mix: 0.02030402,
+		fx_len: 0.10494870,
+		fx_damp: 0.72200745,
+		fx_chors: 0.13734180,
+		fx_size: 0.35494933
+	}
+}

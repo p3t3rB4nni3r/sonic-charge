@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Sequfilther"
+	ModWheel: 0.31647740 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 223.60679775 ms 
+	WheelScale: 14.63414580 %
+	VelSens: 50.00000000 %
+	Volume: 1.97194200 dB
+	Branch1: 61.51902080 %
+	Branch2: 61.51902080 %
+	Branch3: 61.51902080 %
+	Branch4: 61.51902080 %
+	Branch5: 61.51902080 %
+	Branch6: 61.51902080 %
+	Branch7: 61.51902080 %
+	Branch8: 61.51902080 %
+	Branch9: 61.51902080 %
+	Branch10: 61.51902080 %
+	Branch11: 61.51902080 %
+	Branch12: 61.51902080 %
+	Seed: 0x416b64d2
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.70895565,
+		env_loop: 0.72218776,
+		env_tilt: 0.18625140,
+		vol_atk: 0.95079076,
+		vol_dcy: 0.06076699,
+		vol_sus: 0.92989242,
+		mod_atk: 0.67154229,
+		mod_dcy: 0.18557942,
+		mod_sh: 0.72247839,
+		mod_vel: 0.33311278,
+		lfo_rate: 0.25712121,
+		lfo_amt: 0.10998547,
+		lfo_bal: 0.53940952,
+		a_form: 0.45085514,
+		a_noise: 0.58641857,
+		a_color: 0.34901851,
+		a_freq: 0.50000000,
+		a_mod: 0.50000000,
+		b_form: 0.01399237,
+		b_noise: 0.13509578,
+		b_freq: 0.60333848,
+		b_mod: 0.50000000,
+		b_sh: 0.60925800,
+		fm_amt: 0.72920358,
+		fm_mod: 0.44098628,
+		sub_am: 0.85609138,
+		balance: 0.71657765,
+		flt_freq: 0.33300948,
+		flt_mod: 0.81315815,
+		flt_sep: 0.80601722,
+		flt_q: 0.89713752,
+		flt_kf: 0.81152415,
+		fx_mix: 0.09735453,
+		fx_len: 0.34442389,
+		fx_damp: 0.48475337,
+		fx_chors: 0.38190031,
+		fx_size: 0.50000000
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "flatteringbassV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 339.01214789 ms 
+	WheelScale: 57.49999881 %
+	VelSens: 13.75000030 %
+	Volume: -1.48001199 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x88d8c18f
+	Pitch: -0.21664667
+	Cloned: true
+	Genome: {
+		env_time: 0.52837908
+		env_loop: 0.81352365
+		env_tilt: 0.34214222
+		vol_atk: 0.88417095
+		vol_dcy: 0.61236817
+		vol_sus: 0.88642484
+		mod_atk: 0.02418858
+		mod_dcy: 0.06639117
+		mod_sh: 0.39614379
+		mod_vel: 0.84608412
+		lfo_rate: 0.00125939
+		lfo_amt: 0.23606664
+		lfo_bal: 0.68898833
+		a_form: 0.85721654
+		a_noise: 0.28248012
+		a_color: 0.58767825
+		a_freq: 0.53610778
+		a_mod: 0.50879663
+		b_form: 0.43987322
+		b_noise: 0.14934266
+		b_freq: 0.51760638
+		b_mod: 0.45363438
+		b_sh: 0.31275022
+		fm_amt: 0.63248020
+		fm_mod: 0.91792345
+		sub_am: 0.72874850
+		balance: 0.84132606
+		flt_freq: 0.21543974
+		flt_mod: 0.91277158
+		flt_sep: 0.36873734
+		flt_q: 0.22224522
+		flt_kf: 0.56836855
+		fx_mix: 0.23664939
+		fx_len: 0.51229930
+		fx_damp: 0.85829735
+		fx_chors: 0.86745214
+		fx_size: 0.35747194
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "ME Dry Claw"
+	ModWheel: 0.78740157 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -100.00000000 %
+	Release: 50.00000000 ms 
+	WheelScale: 56.09756112 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x02c7447f
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.79290247,
+		env_loop: 0.77680713,
+		env_tilt: 0.08823323,
+		vol_atk: 0.06550008,
+		vol_dcy: 0.89171004,
+		vol_sus: 0.94753951,
+		mod_atk: 0.82173681,
+		mod_dcy: 0.21512806,
+		mod_sh: 0.03644508,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.54153293,
+		lfo_amt: 0.40783215,
+		lfo_bal: 0.15496433,
+		a_form: 0.88441670,
+		a_noise: 0.73263800,
+		a_color: 0.55455852,
+		a_freq: 0.50000000,
+		a_mod: 0.50000000,
+		b_form: 0.55102837,
+		b_noise: 0.25843167,
+		b_freq: 0.50000000,
+		b_mod: 0.50000000,
+		b_sh: 0.38297313,
+		fm_amt: 0.17533320,
+		fm_mod: 0.43232083,
+		sub_am: 0.16392601,
+		balance: 0.45043689,
+		flt_freq: 0.54279721,
+		flt_mod: 0.54298317,
+		flt_sep: 0.57404333,
+		flt_q: 0.05213255,
+		flt_kf: 0.65072632,
+		fx_mix: 0.41073227,
+		fx_len: 0.55403781,
+		fx_damp: 0.62424177,
+		fx_chors: 0.65391111,
+		fx_size: 0.35494933
+	}
+}

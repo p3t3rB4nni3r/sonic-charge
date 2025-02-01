@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Oboy"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -24.46956635 %
+	Release: 391.99999318 ms 
+	WheelScale: 42.92683005 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x07e0314b
+	Pitch: 2.46468997
+	Cloned: false
+	Genome: {
+		env_time: 0.76655847,
+		env_loop: 0.56834882,
+		env_tilt: 0.31108290,
+		vol_atk: 0.56656402,
+		vol_dcy: 0.96418369,
+		vol_sus: 0.06908989,
+		mod_atk: 0.75936723,
+		mod_dcy: 0.93955493,
+		mod_sh: 0.02523184,
+		mod_vel: 0.70780492,
+		lfo_rate: 0.98397863,
+		lfo_amt: 0.60499793,
+		lfo_bal: 0.41854197,
+		a_form: 0.66143650,
+		a_noise: 0.64577085,
+		a_color: 0.94121528,
+		a_freq: 0.25588500,
+		a_mod: 0.50051063,
+		b_form: 0.35521686,
+		b_noise: 0.26702344,
+		b_freq: 0.49146211,
+		b_mod: 0.49903005,
+		b_sh: 0.10897833,
+		fm_amt: 0.22095513,
+		fm_mod: 0.74055672,
+		sub_am: 0.34530962,
+		balance: 0.67377257,
+		flt_freq: 0.63118571,
+		flt_mod: 0.32643604,
+		flt_sep: 0.31500262,
+		flt_q: 0.30702645,
+		flt_kf: 0.64320290,
+		fx_mix: 0.69506729,
+		fx_len: 0.46359348,
+		fx_damp: 0.00528473,
+		fx_chors: 0.24093932,
+		fx_size: 0.63704735
+	}
+}

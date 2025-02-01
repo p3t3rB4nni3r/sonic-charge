@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "R7 Return Of The ---"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +16.61896706 ct 
+	Atonality: 67.83705950 %
+	Effect: 93.61842871 %
+	Release: 11.37450079 s 
+	WheelScale: 61.12805009 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x4e7d846a
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.51892763
+		env_loop: 0.37386164
+		env_tilt: 0.12814865
+		vol_atk: 0.53967166
+		vol_dcy: 0.69149864
+		vol_sus: 0.95162797
+		mod_atk: 0.94802940
+		mod_dcy: 0.22305453
+		mod_sh: 0.33811578
+		mod_vel: 0.45979860
+		lfo_rate: 0.56037134
+		lfo_amt: 0.62783080
+		lfo_bal: 0.26358837
+		a_form: 0.26806653
+		a_noise: 0.57046485
+		a_color: 0.70317280
+		a_freq: 0.66666669
+		a_mod: 0.24871439
+		b_form: 0.32687110
+		b_noise: 0.18816876
+		b_freq: 0.47111481
+		b_mod: 0.54560655
+		b_sh: 0.53031039
+		fm_amt: 0.52364284
+		fm_mod: 0.88147855
+		sub_am: 0.09823900
+		balance: 0.44495723
+		flt_freq: 0.78266275
+		flt_mod: 0.74167699
+		flt_sep: 0.59677684
+		flt_q: 0.51806855
+		flt_kf: 0.71382993
+		fx_mix: 0.52484846
+		fx_len: 0.22241172
+		fx_damp: 0.79297018
+		fx_chors: 0.59341460
+		fx_size: 0.24857324
+	}
+}

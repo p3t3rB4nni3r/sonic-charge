@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 3
+	Name: "NE Heightlifter"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: 19.64718103 %
+	Release: 5.86077013 s 
+	WheelScale: 65.85366130 %
+	VelSens: 50.00000000 %
+	Volume: -6.21947254 dB
+	Branch1: 2.07299832 %
+	Branch2: 2.07299832 %
+	Branch3: 2.07299832 %
+	Branch4: 2.07299832 %
+	Branch5: 2.07299832 %
+	Branch6: 2.07299832 %
+	Branch7: 2.07299832 %
+	Branch8: 2.07299832 %
+	Branch9: 2.07299832 %
+	Branch10: 2.07299832 %
+	Branch11: 2.07299832 %
+	Branch12: 2.07299832 %
+	Seed: 0xb1c673e1
+	Pitch: -2.14071226
+	Cloned: true
+	Genome: {
+		env_time: 0.89233226,
+		env_loop: 0.65554094,
+		env_tilt: 0.95669866,
+		vol_atk: 0.60333693,
+		vol_dcy: 0.77876705,
+		vol_sus: 0.81647480,
+		mod_atk: 0.93498766,
+		mod_dcy: 0.93232691,
+		mod_sh: 0.25050116,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.33329600,
+		lfo_amt: 0.22518343,
+		lfo_bal: 0.41582811,
+		a_form: 0.73895991,
+		a_noise: 0.83988774,
+		a_color: 0.73052186,
+		a_freq: 0.85678536,
+		a_mod: 0.50005406,
+		b_form: 0.15613049,
+		b_noise: 0.19900668,
+		b_freq: 0.50655079,
+		b_mod: 0.50000000,
+		b_sh: 0.00812757,
+		fm_amt: 0.71429241,
+		fm_mod: 0.63453859,
+		sub_am: 0.50000000,
+		balance: 0.01394606,
+		flt_freq: 0.60822737,
+		flt_mod: 0.44103998,
+		flt_sep: 0.64055413,
+		flt_q: 0.27062458,
+		flt_kf: 0.75000000,
+		fx_mix: 0.91516566,
+		fx_len: 0.53785753,
+		fx_damp: 0.19704902,
+		fx_chors: 0.68546224,
+		fx_size: 0.35494933
+	}
+}

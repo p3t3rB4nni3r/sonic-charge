@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "celestialV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 3.89291493 s 
+	WheelScale: 43.75000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x4e99749d
+	Pitch: 1.02675486
+	Cloned: false
+	Genome: {
+		env_time: 0.07759064
+		env_loop: 0.89545029
+		env_tilt: 0.43553883
+		vol_atk: 0.67882365
+		vol_dcy: 0.92060703
+		vol_sus: 0.76353395
+		mod_atk: 0.16840756
+		mod_dcy: 0.18428838
+		mod_sh: 0.23615050
+		mod_vel: 0.51669401
+		lfo_rate: 0.27101231
+		lfo_amt: 0.53762156
+		lfo_bal: 0.59262198
+		a_form: 0.05776417
+		a_noise: 0.02184224
+		a_color: 0.79570699
+		a_freq: 0.49554086
+		a_mod: 0.54867482
+		b_form: 0.72038293
+		b_noise: 0.02865022
+		b_freq: 0.79297638
+		b_mod: 0.50673413
+		b_sh: 0.31149161
+		fm_amt: 0.45342731
+		fm_mod: 0.05425334
+		sub_am: 0.52578753
+		balance: 0.18803036
+		flt_freq: 0.52770555
+		flt_mod: 0.69195062
+		flt_sep: 0.87728459
+		flt_q: 0.80085212
+		flt_kf: 0.84499103
+		fx_mix: 0.41468453
+		fx_len: 0.17295957
+		fx_damp: 0.62223715
+		fx_chors: 0.60207093
+		fx_size: 0.32379711
+	}
+}

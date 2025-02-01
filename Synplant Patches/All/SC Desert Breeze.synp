@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "autechre2V1b"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 4.78903061 s 
+	WheelScale: 67.50000119 %
+	VelSens: 28.74999940 %
+	Volume: -3.85290352 dB
+	Branch1: 73.95191789 %
+	Branch2: 73.95191789 %
+	Branch3: 73.95191789 %
+	Branch4: 73.95191789 %
+	Branch5: 73.95191789 %
+	Branch6: 73.95191789 %
+	Branch7: 73.95191789 %
+	Branch8: 73.95191789 %
+	Branch9: 73.95191789 %
+	Branch10: 73.95191789 %
+	Branch11: 73.95191789 %
+	Branch12: 73.95191789 %
+	Seed: 0xf46f67e5
+	Pitch: 0.08914113
+	Cloned: true
+	Genome: {
+		env_time: 0.02043045
+		env_loop: 0.77390671
+		env_tilt: 0.56112993
+		vol_atk: 0.02001129
+		vol_dcy: 0.27490866
+		vol_sus: 0.81534970
+		mod_atk: 0.39747977
+		mod_dcy: 0.46990633
+		mod_sh: 0.39820415
+		mod_vel: 0.62178820
+		lfo_rate: 0.31052333
+		lfo_amt: 0.59681535
+		lfo_bal: 0.63430947
+		a_form: 0.79763097
+		a_noise: 0.41830814
+		a_color: 0.30786395
+		a_freq: 0.65180981
+		a_mod: 0.22448349
+		b_form: 0.61985004
+		b_noise: 0.41293228
+		b_freq: 0.94516188
+		b_mod: 0.50555092
+		b_sh: 0.10582483
+		fm_amt: 0.56135058
+		fm_mod: 0.63175398
+		sub_am: 0.48313421
+		balance: 0.34839630
+		flt_freq: 0.56649822
+		flt_mod: 0.06300128
+		flt_sep: 0.69364679
+		flt_q: 0.28482103
+		flt_kf: 0.73262590
+		fx_mix: 0.63351393
+		fx_len: 0.96246964
+		fx_damp: 0.27772284
+		fx_chors: 0.41868216
+		fx_size: 0.67596000
+	}
+}

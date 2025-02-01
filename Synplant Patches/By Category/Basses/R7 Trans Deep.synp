@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "R7 Trans Deep"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -98.85627786 %
+	Release: 229.77959024 ms 
+	WheelScale: 29.87805009 %
+	VelSens: 50.00000000 %
+	Volume: 5.68277391 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x1096d173
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.82032311
+		env_loop: 0.66626292
+		env_tilt: 0.00000000
+		vol_atk: 0.71367818
+		vol_dcy: 0.34121588
+		vol_sus: 0.18924148
+		mod_atk: 0.73628879
+		mod_dcy: 0.00000000
+		mod_sh: 0.35383457
+		mod_vel: 0.70843792
+		lfo_rate: 0.55394918
+		lfo_amt: 0.64483756
+		lfo_bal: 0.25442451
+		a_form: 0.44681820
+		a_noise: 0.62997675
+		a_color: 0.49286625
+		a_freq: 0.33333334
+		a_mod: 0.65234661
+		b_form: 0.73262072
+		b_noise: 0.47001204
+		b_freq: 0.43576890
+		b_mod: 0.53256381
+		b_sh: 0.45111045
+		fm_amt: 0.46933874
+		fm_mod: 0.69883645
+		sub_am: 0.31163490
+		balance: 0.90361869
+		flt_freq: 0.61527902
+		flt_mod: 0.74056703
+		flt_sep: 0.80214268
+		flt_q: 0.63279057
+		flt_kf: 0.39095303
+		fx_mix: 0.35024405
+		fx_len: 0.29057574
+		fx_damp: 0.97099066
+		fx_chors: 0.55862874
+		fx_size: 0.27628422
+	}
+}

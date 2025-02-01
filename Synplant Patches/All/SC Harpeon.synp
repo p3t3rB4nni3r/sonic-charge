@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Harpeon"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 20.99999934 %
+	Effect: -9.00967121 %
+	Release: 2.10342205 s 
+	WheelScale: 39.02438879 %
+	VelSens: 50.00000000 %
+	Volume: 3.39850003 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x3ecc131f
+	Pitch: 2.79799080
+	Cloned: false
+	Genome: {
+		env_time: 0.38221896,
+		env_loop: 0.96457279,
+		env_tilt: 0.02429134,
+		vol_atk: 0.15734708,
+		vol_dcy: 0.79995668,
+		vol_sus: 0.03905523,
+		mod_atk: 0.93652928,
+		mod_dcy: 0.16377604,
+		mod_sh: 0.17922908,
+		mod_vel: 0.29201883,
+		lfo_rate: 0.68189192,
+		lfo_amt: 0.01716721,
+		lfo_bal: 0.34828007,
+		a_form: 0.82047188,
+		a_noise: 0.32233852,
+		a_color: 0.84200585,
+		a_freq: 0.20033485,
+		a_mod: 0.51571900,
+		b_form: 0.91932261,
+		b_noise: 0.01758146,
+		b_freq: 0.74281001,
+		b_mod: 0.50583744,
+		b_sh: 0.49140155,
+		fm_amt: 0.29201579,
+		fm_mod: 0.61351836,
+		sub_am: 0.53867412,
+		balance: 0.47164232,
+		flt_freq: 0.02265716,
+		flt_mod: 0.82574749,
+		flt_sep: 0.20451200,
+		flt_q: 0.19115734,
+		flt_kf: 0.95504308,
+		fx_mix: 0.58507949,
+		fx_len: 0.71829492,
+		fx_damp: 0.40484637,
+		fx_chors: 0.18228334,
+		fx_size: 0.60257590
+	}
+}

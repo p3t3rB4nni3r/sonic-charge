@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Say Hello Waver Goodbye"
+	ModWheel: 68.50393414 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 11.46566123 %
+	Effect: 0.00000000 %
+	Release: 1.10710827 s 
+	WheelScale: 100.00000000 %
+	VelSens: 0.00000000 %
+	Volume: -7.35463658 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xdfb47bdd
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.60200369
+		env_loop: 0.83860385
+		env_tilt: 0.66322827
+		vol_atk: 0.80612075
+		vol_dcy: 0.62640810
+		vol_sus: 0.43257833
+		mod_atk: 0.48212552
+		mod_dcy: 0.35688472
+		mod_sh: 0.45833993
+		mod_vel: 0.95251215
+		lfo_rate: 0.42057657
+		lfo_amt: 0.82802534
+		lfo_bal: 0.80981821
+		a_form: 0.37397158
+		a_noise: 0.19220448
+		a_color: 0.54044354
+		a_freq: 0.66666669
+		a_mod: 0.55092192
+		b_form: 0.55220431
+		b_noise: 0.39741743
+		b_freq: 0.58994526
+		b_mod: 0.53974068
+		b_sh: 0.50134826
+		fm_amt: 0.99999732
+		fm_mod: 0.88071179
+		sub_am: 0.70390213
+		balance: 0.27930814
+		flt_freq: 0.37535644
+		flt_mod: 0.53909564
+		flt_sep: 0.06739378
+		flt_q: 0.22823703
+		flt_kf: 0.99380898
+		fx_mix: 0.49773765
+		fx_len: 0.79146475
+		fx_damp: 0.04494548
+		fx_chors: 0.90756702
+		fx_size: 0.24189821
+	}
+}

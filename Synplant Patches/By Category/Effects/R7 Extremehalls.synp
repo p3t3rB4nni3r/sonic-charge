@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "R7 Extremehalls"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 100.00000000 %
+	Effect: 93.61842871 %
+	Release: 11.37450079 s 
+	WheelScale: 19.87805218 %
+	VelSens: 50.00000000 %
+	Volume: 7.40737075 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xb64b1972
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.23032737
+		env_loop: 0.11583114
+		env_tilt: 0.40432316
+		vol_atk: 0.48648334
+		vol_dcy: 0.48575824
+		vol_sus: 0.57817066
+		mod_atk: 0.46345821
+		mod_dcy: 0.42430732
+		mod_sh: 0.03574038
+		mod_vel: 0.29477632
+		lfo_rate: 0.65694487
+		lfo_amt: 0.79978877
+		lfo_bal: 0.61560744
+		a_form: 0.52897906
+		a_noise: 0.05478340
+		a_color: 0.15440509
+		a_freq: 0.66666669
+		a_mod: 0.50705880
+		b_form: 0.92859685
+		b_noise: 0.87886786
+		b_freq: 0.45177612
+		b_mod: 0.48884478
+		b_sh: 0.73296547
+		fm_amt: 0.70534164
+		fm_mod: 0.60245669
+		sub_am: 0.37560433
+		balance: 0.36268741
+		flt_freq: 0.39338765
+		flt_mod: 0.65621781
+		flt_sep: 0.34624884
+		flt_q: 0.67198676
+		flt_kf: 0.50262123
+		fx_mix: 0.42730680
+		fx_len: 0.94910121
+		fx_damp: 0.61563039
+		fx_chors: 0.25680041
+		fx_size: 0.57154191
+	}
+}

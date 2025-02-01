@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Dawn Under"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 24.89364445 %
+	Effect: 0.00000000 %
+	Release: 1.36522995 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -4.52418866 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x20a64d8e
+	Pitch: -2.00083017
+	Cloned: true
+	Genome: {
+		env_time: 0.71921903,
+		env_loop: 0.76358134,
+		env_tilt: 0.79408938,
+		vol_atk: 0.76524103,
+		vol_dcy: 0.34651235,
+		vol_sus: 0.89258391,
+		mod_atk: 0.11615268,
+		mod_dcy: 0.91972893,
+		mod_sh: 0.11046457,
+		mod_vel: 0.50234652,
+		lfo_rate: 0.90226638,
+		lfo_amt: 0.89484197,
+		lfo_bal: 0.40833396,
+		a_form: 0.01014873,
+		a_noise: 0.58057493,
+		a_color: 0.24309543,
+		a_freq: 0.83347172,
+		a_mod: 0.50865525,
+		b_form: 0.33334079,
+		b_noise: 0.70316195,
+		b_freq: 0.67082202,
+		b_mod: 0.47448412,
+		b_sh: 0.11765187,
+		fm_amt: 0.25132015,
+		fm_mod: 0.85492027,
+		sub_am: 0.81699014,
+		balance: 0.35983464,
+		flt_freq: 0.04858901,
+		flt_mod: 0.98110980,
+		flt_sep: 0.97334594,
+		flt_q: 0.86207736,
+		flt_kf: 0.69308829,
+		fx_mix: 0.98851216,
+		fx_len: 0.79991210,
+		fx_damp: 0.25240088,
+		fx_chors: 0.63337958,
+		fx_size: 0.36609709
+	}
+}

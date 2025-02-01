@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "eX Morphing Pad"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -7.58949745 sm 
+	Atonality: 9.66442451 %
+	Effect: 48.47525358 %
+	Release: 4.24236877 s 
+	WheelScale: 73.17072749 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x09f1ea8a
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.75566417
+		env_loop: 1.00000000
+		env_tilt: 0.74920559
+		vol_atk: 0.73960340
+		vol_dcy: 0.77392519
+		vol_sus: 0.71246040
+		mod_atk: 0.00000000
+		mod_dcy: 0.00000000
+		mod_sh: 0.44564825
+		mod_vel: 0.00000000
+		lfo_rate: 0.88417411
+		lfo_amt: 0.19376008
+		lfo_bal: 0.47901186
+		a_form: 0.37581971
+		a_noise: 0.00000000
+		a_color: 0.24803159
+		a_freq: 0.43996695
+		a_mod: 0.23897064
+		b_form: 0.49158186
+		b_noise: 0.18084249
+		b_freq: 0.87996870
+		b_mod: 0.24542943
+		b_sh: 0.54898685
+		fm_amt: 0.47794169
+		fm_mod: 0.45210686
+		sub_am: 0.45989755
+		balance: 0.23251185
+		flt_freq: 0.53031695
+		flt_mod: 0.77394646
+		flt_sep: 0.76748782
+		flt_q: 0.54252815
+		flt_kf: 0.57372791
+		fx_mix: 0.49650881
+		fx_len: 0.50072181
+		fx_damp: 0.51326084
+		fx_chors: 0.80914867
+		fx_size: 0.50000000
+	}
+}

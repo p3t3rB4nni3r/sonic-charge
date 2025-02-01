@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "CS The Faboulous Fungus Marching Band"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 40.81859291 %
+	Effect: 62.63179779 %
+	Release: 439.24913451 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x8162d687
+	Pitch: 3.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.05262148,
+		env_loop: 0.46883291,
+		env_tilt: 0.33045638,
+		vol_atk: 0.90179056,
+		vol_dcy: 0.99848074,
+		vol_sus: 0.91803777,
+		mod_atk: 0.70565224,
+		mod_dcy: 0.41561043,
+		mod_sh: 0.60577416,
+		mod_vel: 0.83628929,
+		lfo_rate: 0.79444742,
+		lfo_amt: 0.68825102,
+		lfo_bal: 0.59949982,
+		a_form: 0.03533089,
+		a_noise: 0.12041855,
+		a_color: 0.41758835,
+		a_freq: 0.16666669,
+		a_mod: 0.29634488,
+		b_form: 0.23377168,
+		b_noise: 0.24034190,
+		b_freq: 0.51845080,
+		b_mod: 0.46036386,
+		b_sh: 0.22769171,
+		fm_amt: 0.18174016,
+		fm_mod: 0.88815135,
+		sub_am: 0.30820507,
+		balance: 0.36972558,
+		flt_freq: 0.63815308,
+		flt_mod: 0.56271553,
+		flt_sep: 0.29926801,
+		flt_q: 0.54582393,
+		flt_kf: 0.95383835,
+		fx_mix: 0.20823628,
+		fx_len: 0.52988482,
+		fx_damp: 0.82898039,
+		fx_chors: 0.52064657,
+		fx_size: 0.25584063
+	}
+}

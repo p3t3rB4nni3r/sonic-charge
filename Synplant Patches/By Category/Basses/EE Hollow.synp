@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "EE Hollow"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -86.87313795 %
+	Release: 318.60020274 ms 
+	WheelScale: 35.36585271 %
+	VelSens: 50.00000000 %
+	Volume: 2.08673128 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x3055d5af
+	Pitch: -0.27319002
+	Cloned: false
+	Genome: {
+		env_time: 0.13181075,
+		env_loop: 0.29480246,
+		env_tilt: 0.00000000,
+		vol_atk: 0.92217445,
+		vol_dcy: 0.98528707,
+		vol_sus: 0.91913396,
+		mod_atk: 0.97853458,
+		mod_dcy: 0.44177222,
+		mod_sh: 0.04685950,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.22952503,
+		lfo_amt: 0.79276508,
+		lfo_bal: 0.36222637,
+		a_form: 0.96037251,
+		a_noise: 0.09411699,
+		a_color: 0.44096160,
+		a_freq: 0.04553169,
+		a_mod: 0.51836264,
+		b_form: 0.39169744,
+		b_noise: 0.09755927,
+		b_freq: 0.67409682,
+		b_mod: 0.62226266,
+		b_sh: 0.07456166,
+		fm_amt: 0.51569366,
+		fm_mod: 0.62753767,
+		sub_am: 0.51575232,
+		balance: 0.54702920,
+		flt_freq: 0.25185546,
+		flt_mod: 0.70128268,
+		flt_sep: 0.87562257,
+		flt_q: 0.74224734,
+		flt_kf: 0.72974622,
+		fx_mix: 0.17577052,
+		fx_len: 0.55893898,
+		fx_damp: 0.85314739,
+		fx_chors: 0.22726834,
+		fx_size: 0.35494933
+	}
+}

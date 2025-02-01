@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Fading Topaz"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 1.54409985 s 
+	WheelScale: 69.51219440 %
+	VelSens: 50.00000000 %
+	Volume: 3.36720515 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xf0d3985c
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.69885826
+		env_loop: 0.19737411
+		env_tilt: 0.13510638
+		vol_atk: 0.03205311
+		vol_dcy: 0.69064975
+		vol_sus: 0.56845665
+		mod_atk: 0.04880792
+		mod_dcy: 0.05338007
+		mod_sh: 0.07263565
+		mod_vel: 0.45032108
+		lfo_rate: 0.81096786
+		lfo_amt: 0.84425920
+		lfo_bal: 0.65427345
+		a_form: 0.65385491
+		a_noise: 0.83899587
+		a_color: 0.43361348
+		a_freq: 0.50000000
+		a_mod: 0.50000036
+		b_form: 0.78778106
+		b_noise: 0.54012275
+		b_freq: 0.75170064
+		b_mod: 0.50000000
+		b_sh: 0.43169117
+		fm_amt: 0.74040991
+		fm_mod: 0.74260759
+		sub_am: 0.51627243
+		balance: 0.86775982
+		flt_freq: 0.69626474
+		flt_mod: 0.38203216
+		flt_sep: 0.81901407
+		flt_q: 0.61855650
+		flt_kf: 0.61984152
+		fx_mix: 0.38272724
+		fx_len: 0.72031927
+		fx_damp: 0.58018744
+		fx_chors: 0.42119938
+		fx_size: 0.37125999
+	}
+}

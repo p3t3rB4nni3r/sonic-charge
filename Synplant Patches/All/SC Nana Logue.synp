@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Nana Logue"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -9.31810141 %
+	Release: 338.45218839 ms 
+	WheelScale: 64.99999762 %
+	VelSens: 67.50000119 %
+	Volume: 0.00000000 dB
+	Branch1: 1.42984726 %
+	Branch2: 1.42984726 %
+	Branch3: 1.42984726 %
+	Branch4: 1.42984726 %
+	Branch5: 1.42984726 %
+	Branch6: 1.42984726 %
+	Branch7: 1.42984726 %
+	Branch8: 1.42984726 %
+	Branch9: 1.42984726 %
+	Branch10: 1.42984726 %
+	Branch11: 1.42984726 %
+	Branch12: 1.42984726 %
+	Seed: 0x8247af78
+	Pitch: 1.17458224
+	Cloned: true
+	Genome: {
+		env_time: 0.97215426
+		env_loop: 0.94239694
+		env_tilt: 0.28903973
+		vol_atk: 0.28461289
+		vol_dcy: 0.73109114
+		vol_sus: 0.22988105
+		mod_atk: 0.99989992
+		mod_dcy: 0.04026151
+		mod_sh: 0.47141755
+		mod_vel: 0.50000000
+		lfo_rate: 0.86508906
+		lfo_amt: 0.10042870
+		lfo_bal: 0.23032832
+		a_form: 0.58481133
+		a_noise: 0.34380257
+		a_color: 0.19920790
+		a_freq: 0.30423629
+		a_mod: 0.49523628
+		b_form: 0.64657533
+		b_noise: 0.58771813
+		b_freq: 0.73880339
+		b_mod: 0.50019407
+		b_sh: 0.56057131
+		fm_amt: 0.59011459
+		fm_mod: 0.93036067
+		sub_am: 0.83127975
+		balance: 0.37321758
+		flt_freq: 0.08540177
+		flt_mod: 0.88032615
+		flt_sep: 0.37470895
+		flt_q: 0.16522747
+		flt_kf: 0.46581823
+		fx_mix: 0.83151948
+		fx_len: 0.83372420
+		fx_damp: 0.52447522
+		fx_chors: 0.86903757
+		fx_size: 0.40661868
+	}
+}

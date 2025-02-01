@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Ratatoskr"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 41.95671976 %
+	Effect: 0.00000000 %
+	Release: 1.23579898 s 
+	WheelScale: 42.49999821 %
+	VelSens: 50.00000000 %
+	Volume: 7.00994440 dB
+	Branch1: 35.41294932 %
+	Branch2: 32.20393658 %
+	Branch3: 34.48631167 %
+	Branch4: 33.97072554 %
+	Branch5: 40.14519453 %
+	Branch6: 49.82000291 %
+	Branch7: 49.14302826 %
+	Branch8: 47.33692408 %
+	Branch9: 48.96338582 %
+	Branch10: 47.10445702 %
+	Branch11: 41.42730832 %
+	Branch12: 43.87205243 %
+	Seed: 0x0be5165c
+	Pitch: -0.00000024
+	Cloned: true
+	Genome: {
+		env_time: 0.30227131
+		env_loop: 0.08485234
+		env_tilt: 0.60217535
+		vol_atk: 0.80681145
+		vol_dcy: 0.96362388
+		vol_sus: 0.78234106
+		mod_atk: 0.92004240
+		mod_dcy: 0.03998208
+		mod_sh: 0.65837348
+		mod_vel: 0.27908933
+		lfo_rate: 0.43392301
+		lfo_amt: 0.38107604
+		lfo_bal: 0.26916295
+		a_form: 0.91365802
+		a_noise: 0.43781304
+		a_color: 0.22963762
+		a_freq: 0.33333337
+		a_mod: 0.47974408
+		b_form: 0.21129692
+		b_noise: 0.25203240
+		b_freq: 0.28200704
+		b_mod: 0.55182594
+		b_sh: 0.26364702
+		fm_amt: 0.56414068
+		fm_mod: 0.93340665
+		sub_am: 0.65587163
+		balance: 0.99649906
+		flt_freq: 0.56344634
+		flt_mod: 0.79718959
+		flt_sep: 0.45395124
+		flt_q: 0.83573639
+		flt_kf: 0.52903211
+		fx_mix: 0.50506669
+		fx_len: 0.95126587
+		fx_damp: 0.22585487
+		fx_chors: 0.71601343
+		fx_size: 0.51377708
+	}
+}

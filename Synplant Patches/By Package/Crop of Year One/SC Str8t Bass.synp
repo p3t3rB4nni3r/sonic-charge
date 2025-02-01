@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Str8t Bass"
+	ModWheel: 0.00000000 %
+	Rotation: 30.00000089 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -80.24122715 %
+	Release: 50.00000000 ms 
+	WheelScale: 52.05479264 %
+	VelSens: 0.00000000 %
+	Volume: -1.48001199 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x8342aef9
+	Pitch: 1.96481228
+	Cloned: false
+	Genome: {
+		env_time: 0.08705032
+		env_loop: 0.12842166
+		env_tilt: 0.28190172
+		vol_atk: 0.41728413
+		vol_dcy: 0.42741776
+		vol_sus: 0.95140934
+		mod_atk: 0.93025863
+		mod_dcy: 0.43199116
+		mod_sh: 0.41544354
+		mod_vel: 0.52267194
+		lfo_rate: 0.66488934
+		lfo_amt: 0.16953892
+		lfo_bal: 0.76815599
+		a_form: 0.75650162
+		a_noise: 0.79148817
+		a_color: 0.24467874
+		a_freq: 0.00586462
+		a_mod: 0.64153594
+		b_form: 0.75937867
+		b_noise: 0.51159096
+		b_freq: 0.52197725
+		b_mod: 0.50871557
+		b_sh: 0.12249196
+		fm_amt: 0.31863451
+		fm_mod: 0.63372242
+		sub_am: 0.06698257
+		balance: 0.99811780
+		flt_freq: 0.88155669
+		flt_mod: 0.02567452
+		flt_sep: 0.46176434
+		flt_q: 0.08272803
+		flt_kf: 0.68284678
+		fx_mix: 0.70524120
+		fx_len: 0.28295255
+		fx_damp: 0.52733713
+		fx_chors: 0.40093631
+		fx_size: 0.43245342
+	}
+}

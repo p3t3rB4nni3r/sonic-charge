@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Disambiguation"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 74.87462759 %
+	Effect: 0.00000000 %
+	Release: 7.40732765 s 
+	WheelScale: 21.25000060 %
+	VelSens: 0.00000000 %
+	Volume: -4.68930426 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xa7fb73ea
+	Pitch: -0.35979652
+	Cloned: true
+	Genome: {
+		env_time: 0.68123716
+		env_loop: 0.31086349
+		env_tilt: 0.30777353
+		vol_atk: 0.79972029
+		vol_dcy: 0.52126551
+		vol_sus: 0.98250973
+		mod_atk: 0.07809514
+		mod_dcy: 0.08997113
+		mod_sh: 0.93904150
+		mod_vel: 0.56705695
+		lfo_rate: 0.87732059
+		lfo_amt: 0.06702787
+		lfo_bal: 0.99397266
+		a_form: 0.55800831
+		a_noise: 0.42556930
+		a_color: 0.17371291
+		a_freq: 0.55996609
+		a_mod: 0.36082411
+		b_form: 0.32490331
+		b_noise: 0.25131297
+		b_freq: 0.62712556
+		b_mod: 0.60038888
+		b_sh: 0.31109285
+		fm_amt: 0.37813085
+		fm_mod: 0.32436430
+		sub_am: 0.83644766
+		balance: 0.37265360
+		flt_freq: 0.35593545
+		flt_mod: 0.92804354
+		flt_sep: 0.44981295
+		flt_q: 0.73753512
+		flt_kf: 0.00618529
+		fx_mix: 0.96748281
+		fx_len: 0.20749652
+		fx_damp: 0.14459652
+		fx_chors: 0.67941266
+		fx_size: 0.26525933
+	}
+}

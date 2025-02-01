@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Vibe Five"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 1.62588101 s 
+	WheelScale: 52.49999762 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x200b3b14
+	Pitch: -1.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.50742710,
+		env_loop: 1.00000000,
+		env_tilt: 0.27406836,
+		vol_atk: 0.13550299,
+		vol_dcy: 0.48817289,
+		vol_sus: 0.78196120,
+		mod_atk: 0.65779245,
+		mod_dcy: 0.04346049,
+		mod_sh: 0.63573790,
+		mod_vel: 0.45813382,
+		lfo_rate: 0.95668077,
+		lfo_amt: 0.86940879,
+		lfo_bal: 0.23865122,
+		a_form: 0.79795080,
+		a_noise: 0.02008951,
+		a_color: 0.31672668,
+		a_freq: 0.50000000,
+		a_mod: 0.50000000,
+		b_form: 0.79621118,
+		b_noise: 0.19986778,
+		b_freq: 0.62658983,
+		b_mod: 0.50000000,
+		b_sh: 0.58002752,
+		fm_amt: 0.74041766,
+		fm_mod: 0.11966383,
+		sub_am: 0.25779653,
+		balance: 0.60409909,
+		flt_freq: 0.25788611,
+		flt_mod: 0.93443644,
+		flt_sep: 0.40581858,
+		flt_q: 0.18580484,
+		flt_kf: 0.64376110,
+		fx_mix: 0.22353029,
+		fx_len: 0.63112104,
+		fx_damp: 0.74403226,
+		fx_chors: 0.37209100,
+		fx_size: 0.50000000
+	}
+}

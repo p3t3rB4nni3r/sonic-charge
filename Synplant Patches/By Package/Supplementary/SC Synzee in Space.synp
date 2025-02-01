@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Synzee In Space"
+	ModWheel: 100.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 12.22626790 %
+	Effect: 0.00000000 %
+	Release: 7.58603624 s 
+	WheelScale: 51.24999881 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x6b81da98
+	Pitch: 1.77353907
+	Cloned: true
+	Genome: {
+		env_time: 1.00000000,
+		env_loop: 0.36368662,
+		env_tilt: 0.07062054,
+		vol_atk: 0.44642353,
+		vol_dcy: 0.85022122,
+		vol_sus: 0.77394706,
+		mod_atk: 0.06758773,
+		mod_dcy: 0.55710399,
+		mod_sh: 0.51376915,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.50955904,
+		lfo_amt: 0.91343904,
+		lfo_bal: 0.18396676,
+		a_form: 0.51961809,
+		a_noise: 0.23112065,
+		a_color: 0.82531989,
+		a_freq: 0.37107682,
+		a_mod: 0.47221726,
+		b_form: 0.59892792,
+		b_noise: 0.39522213,
+		b_freq: 0.70957118,
+		b_mod: 0.52277374,
+		b_sh: 0.53814387,
+		fm_amt: 0.44549203,
+		fm_mod: 0.30128145,
+		sub_am: 0.25000000,
+		balance: 0.28930032,
+		flt_freq: 0.39321446,
+		flt_mod: 0.89324498,
+		flt_sep: 0.07777691,
+		flt_q: 0.22271657,
+		flt_kf: 0.75000000,
+		fx_mix: 0.65481144,
+		fx_len: 0.86901212,
+		fx_damp: 0.52856135,
+		fx_chors: 0.81190401,
+		fx_size: 0.26114181
+	}
+}

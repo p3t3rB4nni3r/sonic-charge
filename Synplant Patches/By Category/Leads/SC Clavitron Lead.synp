@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Clavitron Lead"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 16.03213847 %
+	Effect: 0.00000000 %
+	Release: 50.00000000 ms 
+	WheelScale: 59.99999642 %
+	VelSens: 50.00000000 %
+	Volume: -3.04006263 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xfd5bede8
+	Pitch: 1.99999988
+	Cloned: true
+	Genome: {
+		env_time: 1.00000000
+		env_loop: 0.72873628
+		env_tilt: 0.00000000
+		vol_atk: 0.99745083
+		vol_dcy: 0.45453703
+		vol_sus: 0.99594402
+		mod_atk: 0.15880835
+		mod_dcy: 0.26331514
+		mod_sh: 0.76436770
+		mod_vel: 0.96957785
+		lfo_rate: 0.28553665
+		lfo_amt: 0.81121087
+		lfo_bal: 0.85203993
+		a_form: 0.09411871
+		a_noise: 0.63394362
+		a_color: 0.59221435
+		a_freq: 0.16666669
+		a_mod: 0.52401370
+		b_form: 0.56093788
+		b_noise: 0.49065048
+		b_freq: 0.51430076
+		b_mod: 0.44768763
+		b_sh: 0.02116668
+		fm_amt: 0.90814674
+		fm_mod: 0.60138512
+		sub_am: 0.92110842
+		balance: 0.65882909
+		flt_freq: 0.45597523
+		flt_mod: 0.92764145
+		flt_sep: 0.83532894
+		flt_q: 0.67443031
+		flt_kf: 0.50671268
+		fx_mix: 0.14166033
+		fx_len: 0.03012514
+		fx_damp: 0.70650148
+		fx_chors: 0.95547092
+		fx_size: 0.29284871
+	}
+}

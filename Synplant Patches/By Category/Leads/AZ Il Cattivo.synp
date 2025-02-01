@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Il Cattivo"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 8.57048407 %
+	Effect: 25.80398321 %
+	Release: 1.69023687 s 
+	WheelScale: 63.41463327 %
+	VelSens: 50.00000000 %
+	Volume: -3.41389916 dB
+	Branch1: 50.00000000 %
+	Branch2: 50.00000000 %
+	Branch3: 50.00000000 %
+	Branch4: 50.00000000 %
+	Branch5: 50.00000000 %
+	Branch6: 50.00000000 %
+	Branch7: 50.00000000 %
+	Branch8: 50.00000000 %
+	Branch9: 50.00000000 %
+	Branch10: 50.00000000 %
+	Branch11: 50.00000000 %
+	Branch12: 50.00000000 %
+	Seed: 0x18195b1f
+	Pitch: -0.37241411
+	Cloned: true
+	Genome: {
+		env_time: 0.90282315,
+		env_loop: 0.00122976,
+		env_tilt: 0.06851447,
+		vol_atk: 0.57038128,
+		vol_dcy: 0.86034471,
+		vol_sus: 0.76668125,
+		mod_atk: 0.42594475,
+		mod_dcy: 0.72480536,
+		mod_sh: 0.81090605,
+		mod_vel: 0.88106465,
+		lfo_rate: 0.73234355,
+		lfo_amt: 0.71966261,
+		lfo_bal: 0.86267400,
+		a_form: 0.77403867,
+		a_noise: 0.75170362,
+		a_color: 0.51260662,
+		a_freq: 0.39540237,
+		a_mod: 0.48052883,
+		b_form: 0.93653309,
+		b_noise: 0.59832740,
+		b_freq: 0.57062608,
+		b_mod: 0.50013041,
+		b_sh: 0.41974425,
+		fm_amt: 0.79257506,
+		fm_mod: 0.75355893,
+		sub_am: 0.92957681,
+		balance: 0.57083869,
+		flt_freq: 0.25969696,
+		flt_mod: 0.06182492,
+		flt_sep: 0.22595787,
+		flt_q: 0.73820323,
+		flt_kf: 0.37089658,
+		fx_mix: 0.63823336,
+		fx_len: 0.35388303,
+		fx_damp: 0.74533236,
+		fx_chors: 0.77445447,
+		fx_size: 0.41807619
+	}
+}

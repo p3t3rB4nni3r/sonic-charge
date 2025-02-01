@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "SM Key Pia No"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -11.05384818 sm 
+	Atonality: 13.02824020 %
+	Effect: -45.22294998 %
+	Release: 217.14225671 ms 
+	WheelScale: 0.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 7.28461448 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x08de1b2d
+	Pitch: 0.17981339
+	Cloned: false
+	Genome: {
+		env_time: 0.41729537,
+		env_loop: 0.44564822,
+		env_tilt: 0.16899997,
+		vol_atk: 0.03103438,
+		vol_dcy: 0.38900486,
+		vol_sus: 0.19797823,
+		mod_atk: 0.45865726,
+		mod_dcy: 0.92665583,
+		mod_sh: 0.27096659,
+		mod_vel: 0.39020264,
+		lfo_rate: 0.24588403,
+		lfo_amt: 0.33088121,
+		lfo_bal: 0.45851910,
+		a_form: 0.20534146,
+		a_noise: 0.00000000,
+		a_color: 0.88217700,
+		a_freq: 0.13023910,
+		a_mod: 0.28388762,
+		b_form: 0.37219954,
+		b_noise: 0.49080729,
+		b_freq: 0.84804797,
+		b_mod: 0.70939690,
+		b_sh: 0.00000000,
+		fm_amt: 0.70396274,
+		fm_mod: 0.50907034,
+		sub_am: 0.00000000,
+		balance: 1.00000000,
+		flt_freq: 0.98976994,
+		flt_mod: 0.89036334,
+		flt_sep: 0.41792512,
+		flt_q: 0.86482424,
+		flt_kf: 0.73062396,
+		fx_mix: 0.40043750,
+		fx_len: 0.17438406,
+		fx_damp: 0.48569626,
+		fx_chors: 0.51977986,
+		fx_size: 0.16690971
+	}
+}

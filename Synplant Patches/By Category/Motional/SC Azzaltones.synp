@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "NE Azzaltones"
+	ModWheel: 32.19727278 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 38.02183867 %
+	Release: 725.97623676 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 3.25740501 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x95a96fa4
+	Pitch: 0.28946590
+	Cloned: false
+	Genome: {
+		env_time: 0.68536127,
+		env_loop: 0.33235264,
+		env_tilt: 0.16773367,
+		vol_atk: 0.05501604,
+		vol_dcy: 0.24937093,
+		vol_sus: 0.37957454,
+		mod_atk: 0.48680663,
+		mod_dcy: 0.11362010,
+		mod_sh: 0.02535522,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.67257661,
+		lfo_amt: 0.51561600,
+		lfo_bal: 0.50122023,
+		a_form: 0.83743858,
+		a_noise: 0.31942230,
+		a_color: 0.39877933,
+		a_freq: 0.61842233,
+		a_mod: 0.50000000,
+		b_form: 0.76426268,
+		b_noise: 0.33069551,
+		b_freq: 0.40005505,
+		b_mod: 0.50000000,
+		b_sh: 0.38328385,
+		fm_amt: 0.26587451,
+		fm_mod: 0.15941393,
+		sub_am: 0.25000000,
+		balance: 0.70372057,
+		flt_freq: 0.81799150,
+		flt_mod: 0.54387689,
+		flt_sep: 0.55301082,
+		flt_q: 1.00000000,
+		flt_kf: 0.31081054,
+		fx_mix: 0.38350591,
+		fx_len: 0.88239944,
+		fx_damp: 0.99273670,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

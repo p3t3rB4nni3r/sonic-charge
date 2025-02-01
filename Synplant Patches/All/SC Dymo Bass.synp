@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Dymo Bass"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -9.13589001 ct 
+	Atonality: 25.26961863 %
+	Effect: -42.49403477 %
+	Release: 405.16987002 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 8.07567005 dB
+	Branch1: 4.81927693 %
+	Branch2: 4.81927693 %
+	Branch3: 4.81927693 %
+	Branch4: 4.81927693 %
+	Branch5: 4.81927693 %
+	Branch6: 4.81927693 %
+	Branch7: 4.81927693 %
+	Branch8: 4.81927693 %
+	Branch9: 4.81927693 %
+	Branch10: 4.81927693 %
+	Branch11: 4.81927693 %
+	Branch12: 4.81927693 %
+	Seed: 0xd6a34719
+	Pitch: -2.06527376
+	Cloned: true
+	Genome: {
+		env_time: 0.12046129
+		env_loop: 0.39954472
+		env_tilt: 0.27381623
+		vol_atk: 0.06485397
+		vol_dcy: 0.41952652
+		vol_sus: 0.74560523
+		mod_atk: 0.47737241
+		mod_dcy: 0.11585683
+		mod_sh: 0.40417969
+		mod_vel: 0.37453938
+		lfo_rate: 0.59021473
+		lfo_amt: 0.60980380
+		lfo_bal: 0.42078662
+		a_form: 0.65045750
+		a_noise: 0.07368374
+		a_color: 0.27607030
+		a_freq: 0.67754561
+		a_mod: 0.50888753
+		b_form: 0.71326703
+		b_noise: 0.23215741
+		b_freq: 0.60433704
+		b_mod: 0.44339716
+		b_sh: 0.54518461
+		fm_amt: 0.82042348
+		fm_mod: 0.42126620
+		sub_am: 0.62147248
+		balance: 0.55028349
+		flt_freq: 0.54152471
+		flt_mod: 0.89349735
+		flt_sep: 0.22564125
+		flt_q: 0.33947164
+		flt_kf: 0.36086786
+		fx_mix: 0.45636123
+		fx_len: 0.33968908
+		fx_damp: 0.31182349
+		fx_chors: 0.47249669
+		fx_size: 0.53057718
+	}
+}

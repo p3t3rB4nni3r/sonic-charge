@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "EE Acid Blip"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -32.73481727 %
+	Release: 834.99732147 ms 
+	WheelScale: 24.39024448 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x4107ed62
+	Pitch: 0.27374172
+	Cloned: false
+	Genome: {
+		env_time: 0.22868425,
+		env_loop: 0.32624260,
+		env_tilt: 0.00000000,
+		vol_atk: 0.97115344,
+		vol_dcy: 0.99721718,
+		vol_sus: 0.76339161,
+		mod_atk: 0.99041080,
+		mod_dcy: 0.34249032,
+		mod_sh: 0.09491593,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.30582809,
+		lfo_amt: 0.83742154,
+		lfo_bal: 0.26150906,
+		a_form: 0.97483486,
+		a_noise: 0.08809698,
+		a_color: 0.28939614,
+		a_freq: 0.12104303,
+		a_mod: 0.52383453,
+		b_form: 0.75584370,
+		b_noise: 0.00000000,
+		b_freq: 0.56140697,
+		b_mod: 0.60490781,
+		b_sh: 0.09076160,
+		fm_amt: 0.46255660,
+		fm_mod: 0.59990120,
+		sub_am: 0.51425624,
+		balance: 0.59321702,
+		flt_freq: 0.15421551,
+		flt_mod: 0.87831259,
+		flt_sep: 0.87574196,
+		flt_q: 0.82193673,
+		flt_kf: 0.60135150,
+		fx_mix: 0.22237171,
+		fx_len: 0.76102942,
+		fx_damp: 0.74250287,
+		fx_chors: 0.50920844,
+		fx_size: 0.35494933
+	}
+}

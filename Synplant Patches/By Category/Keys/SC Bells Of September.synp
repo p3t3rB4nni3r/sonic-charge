@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Bells Of September"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -5.01588178 sm 
+	Atonality: 16.61874950 %
+	Effect: 74.42648411 %
+	Release: 7.67068274 s 
+	WheelScale: 65.75342417 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x3e29ba40
+	Pitch: 1.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.55092645
+		env_loop: 0.78674799
+		env_tilt: 0.01062489
+		vol_atk: 0.21674681
+		vol_dcy: 0.30522072
+		vol_sus: 0.00922954
+		mod_atk: 0.18444920
+		mod_dcy: 0.20244563
+		mod_sh: 0.64470363
+		mod_vel: 0.69012457
+		lfo_rate: 0.69808650
+		lfo_amt: 0.83277529
+		lfo_bal: 0.57438314
+		a_form: 0.00323284
+		a_noise: 0.66635984
+		a_color: 0.14123523
+		a_freq: 0.66666669
+		a_mod: 0.48694873
+		b_form: 0.87648118
+		b_noise: 0.49077886
+		b_freq: 0.62352103
+		b_mod: 0.47756714
+		b_sh: 0.23136497
+		fm_amt: 0.81387436
+		fm_mod: 0.24104196
+		sub_am: 0.53563917
+		balance: 0.08583707
+		flt_freq: 0.68221098
+		flt_mod: 0.12893999
+		flt_sep: 0.54240036
+		flt_q: 0.30203509
+		flt_kf: 0.73250169
+		fx_mix: 0.30437011
+		fx_len: 0.71546775
+		fx_damp: 0.86542070
+		fx_chors: 0.07713091
+		fx_size: 0.06458669
+	}
+}

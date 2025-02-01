@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "NE Vocal Subtract"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 47.99999893 %
+	Effect: -33.69615674 %
+	Release: 223.44884195 ms 
+	WheelScale: 16.00000113 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 79.88311648 %
+	Branch2: 79.88311648 %
+	Branch3: 79.88311648 %
+	Branch4: 79.88311648 %
+	Branch5: 79.88311648 %
+	Branch6: 79.88311648 %
+	Branch7: 79.88311648 %
+	Branch8: 79.88311648 %
+	Branch9: 79.88311648 %
+	Branch10: 79.88311648 %
+	Branch11: 79.88311648 %
+	Branch12: 79.88311648 %
+	Seed: 0x72cb7328
+	Pitch: 0.79799098
+	Cloned: true
+	Genome: {
+		env_time: 0.29064012,
+		env_loop: 0.63831413,
+		env_tilt: 0.27126405,
+		vol_atk: 0.46393046,
+		vol_dcy: 0.59956264,
+		vol_sus: 0.01937601,
+		mod_atk: 0.00000000,
+		mod_dcy: 0.00000000,
+		mod_sh: 0.26884556,
+		mod_vel: 0.00000000,
+		lfo_rate: 0.56286407,
+		lfo_amt: 0.83607912,
+		lfo_bal: 0.16289428,
+		a_form: 0.08397242,
+		a_noise: 0.09801566,
+		a_color: 0.16832767,
+		a_freq: 0.20033485,
+		a_mod: 0.49488333,
+		b_form: 0.32039881,
+		b_noise: 0.11430719,
+		b_freq: 0.79556310,
+		b_mod: 0.53482401,
+		b_sh: 0.36201194,
+		fm_amt: 0.05132863,
+		fm_mod: 0.96876401,
+		sub_am: 0.00000000,
+		balance: 0.10739136,
+		flt_freq: 0.55839741,
+		flt_mod: 0.27130634,
+		flt_sep: 0.72332394,
+		flt_q: 0.85837400,
+		flt_kf: 0.31647480,
+		fx_mix: 0.64816767,
+		fx_len: 0.86514544,
+		fx_damp: 0.24453534,
+		fx_chors: 0.20478913,
+		fx_size: 0.56458694
+	}
+}

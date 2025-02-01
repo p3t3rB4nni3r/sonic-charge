@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ The Voices Of Unreason"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 19.86449063 %
+	Effect: 0.00000000 %
+	Release: 928.70312602 ms 
+	WheelScale: 45.12194991 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x3b662be7
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.56907582,
+		env_loop: 0.40573496,
+		env_tilt: 0.72618067,
+		vol_atk: 0.24165833,
+		vol_dcy: 0.45275015,
+		vol_sus: 0.73676425,
+		mod_atk: 0.72318912,
+		mod_dcy: 0.00003612,
+		mod_sh: 0.95184648,
+		mod_vel: 0.30818594,
+		lfo_rate: 0.62713730,
+		lfo_amt: 0.08527493,
+		lfo_bal: 0.71071291,
+		a_form: 0.43225330,
+		a_noise: 0.32820559,
+		a_color: 0.06113750,
+		a_freq: 0.66666669,
+		a_mod: 0.50703049,
+		b_form: 0.40658605,
+		b_noise: 0.33810496,
+		b_freq: 0.75173348,
+		b_mod: 0.50583553,
+		b_sh: 0.57160771,
+		fm_amt: 0.52693391,
+		fm_mod: 0.61399710,
+		sub_am: 0.15691191,
+		balance: 0.57470512,
+		flt_freq: 0.35574478,
+		flt_mod: 0.90680754,
+		flt_sep: 0.78621513,
+		flt_q: 0.99371117,
+		flt_kf: 0.38143575,
+		fx_mix: 0.99226326,
+		fx_len: 0.91642547,
+		fx_damp: 0.05173582,
+		fx_chors: 0.95826656,
+		fx_size: 0.63121223
+	}
+}

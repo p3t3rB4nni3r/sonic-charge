@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Square Swarm"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +2.97918177 sm 
+	Atonality: 15.01198709 %
+	Effect: 0.00000000 %
+	Release: 7.58603624 s 
+	WheelScale: 52.49999762 %
+	VelSens: 50.00000000 %
+	Volume: 5.85563555 dB
+	Branch1: 0.00000000 %
+	Branch2: 4.09729816 %
+	Branch3: 23.34848195 %
+	Branch4: 2.62573082 %
+	Branch5: 14.45783079 %
+	Branch6: 9.24785957 %
+	Branch7: 19.63104308 %
+	Branch8: 3.82229462 %
+	Branch9: 8.87283459 %
+	Branch10: 28.18030715 %
+	Branch11: 15.81299305 %
+	Branch12: 21.33284956 %
+	Seed: 0x6d94ae35
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.43673134
+		env_loop: 0.88963342
+		env_tilt: 0.25491238
+		vol_atk: 0.70059204
+		vol_dcy: 0.63080978
+		vol_sus: 0.51236749
+		mod_atk: 0.00405550
+		mod_dcy: 0.47803497
+		mod_sh: 0.38916206
+		mod_vel: 0.36841583
+		lfo_rate: 0.41908836
+		lfo_amt: 0.22049332
+		lfo_bal: 0.61535645
+		a_form: 0.80583763
+		a_noise: 0.49588966
+		a_color: 0.23029900
+		a_freq: 0.12500000
+		a_mod: 0.49977279
+		b_form: 0.61301708
+		b_noise: 0.61721754
+		b_freq: 0.54723740
+		b_mod: 0.47283992
+		b_sh: 0.41800904
+		fm_amt: 0.59248924
+		fm_mod: 0.79321527
+		sub_am: 0.73621941
+		balance: 0.18865395
+		flt_freq: 0.88760471
+		flt_mod: 0.18164825
+		flt_sep: 0.49717331
+		flt_q: 0.36005592
+		flt_kf: 0.04877567
+		fx_mix: 0.40982819
+		fx_len: 0.96699750
+		fx_damp: 0.14996910
+		fx_chors: 0.60729212
+		fx_size: 0.83624041
+	}
+}

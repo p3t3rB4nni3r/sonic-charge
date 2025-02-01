@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Jovian"
+	ModWheel: 45.66929042 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -17.93441772 %
+	Release: 1.47700000 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -3.21653755 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x1f6acca9
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.70526481
+		env_loop: 0.53859168
+		env_tilt: 0.97907883
+		vol_atk: 0.94946027
+		vol_dcy: 0.83302575
+		vol_sus: 0.25175548
+		mod_atk: 0.35452342
+		mod_dcy: 0.47429579
+		mod_sh: 0.97778213
+		mod_vel: 0.24347627
+		lfo_rate: 0.39089864
+		lfo_amt: 0.15867013
+		lfo_bal: 0.10874665
+		a_form: 0.81453663
+		a_noise: 0.34446752
+		a_color: 0.59704244
+		a_freq: 0.50000000
+		a_mod: 0.49692422
+		b_form: 0.20883381
+		b_noise: 0.05324829
+		b_freq: 0.59173125
+		b_mod: 0.49809623
+		b_sh: 0.11199093
+		fm_amt: 0.53099865
+		fm_mod: 0.43552792
+		sub_am: 0.01502812
+		balance: 0.40071356
+		flt_freq: 0.58850265
+		flt_mod: 0.93222320
+		flt_sep: 0.15983689
+		flt_q: 0.90724123
+		flt_kf: 0.61355203
+		fx_mix: 0.83478427
+		fx_len: 0.73202008
+		fx_damp: 0.83571821
+		fx_chors: 0.45814449
+		fx_size: 0.35494933
+	}
+}

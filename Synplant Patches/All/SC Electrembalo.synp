@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Electrembalo"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 30.52022159 %
+	Effect: 54.49390411 %
+	Release: 735.27282088 ms 
+	WheelScale: 68.75000000 %
+	VelSens: 50.00000000 %
+	Volume: -3.04006263 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x61a9409b
+	Pitch: -1.00734568
+	Cloned: true
+	Genome: {
+		env_time: 0.46822569
+		env_loop: 0.47184372
+		env_tilt: 0.47982562
+		vol_atk: 0.91826892
+		vol_dcy: 0.23494858
+		vol_sus: 0.31156504
+		mod_atk: 0.03591990
+		mod_dcy: 0.96170795
+		mod_sh: 0.36513287
+		mod_vel: 0.12796843
+		lfo_rate: 0.64275575
+		lfo_amt: 0.36583394
+		lfo_bal: 0.25662732
+		a_form: 0.53484535
+		a_noise: 0.36806631
+		a_color: 0.07374346
+		a_freq: 0.83455759
+		a_mod: 0.51805305
+		b_form: 0.17550880
+		b_noise: 0.20438015
+		b_freq: 0.82526016
+		b_mod: 0.52851945
+		b_sh: 0.14260584
+		fm_amt: 0.00268519
+		fm_mod: 0.35330784
+		sub_am: 0.94737256
+		balance: 0.46196455
+		flt_freq: 0.93533325
+		flt_mod: 0.10447490
+		flt_sep: 0.86643714
+		flt_q: 0.88225406
+		flt_kf: 0.57644069
+		fx_mix: 0.43132669
+		fx_len: 0.70104790
+		fx_damp: 0.88462883
+		fx_chors: 0.02719414
+		fx_size: 0.68618608
+	}
+}

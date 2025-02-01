@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Detuned Keys"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -2.63428974 sm 
+	Atonality: 0.25577459 %
+	Effect: -15.07124901 %
+	Release: 4.37586880 s 
+	WheelScale: 69.51219440 %
+	VelSens: 50.00000000 %
+	Volume: 1.37425700 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xb38a2a12
+	Pitch: -1.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.71950346
+		env_loop: 0.49928644
+		env_tilt: 0.22709084
+		vol_atk: 0.46658456
+		vol_dcy: 0.10020268
+		vol_sus: 0.46528801
+		mod_atk: 0.55886877
+		mod_dcy: 0.71267319
+		mod_sh: 0.50166398
+		mod_vel: 0.86276889
+		lfo_rate: 0.44438931
+		lfo_amt: 0.39174762
+		lfo_bal: 0.25251448
+		a_form: 0.48776576
+		a_noise: 0.42500120
+		a_color: 0.78837633
+		a_freq: 0.66666669
+		a_mod: 0.49883294
+		b_form: 0.72908443
+		b_noise: 0.45430285
+		b_freq: 0.70196003
+		b_mod: 0.50009602
+		b_sh: 0.55808306
+		fm_amt: 0.51243943
+		fm_mod: 0.54074734
+		sub_am: 0.63511455
+		balance: 0.56619602
+		flt_freq: 0.41888192
+		flt_mod: 0.12334508
+		flt_sep: 0.31996453
+		flt_q: 0.25400299
+		flt_kf: 0.60308653
+		fx_mix: 0.16037378
+		fx_len: 0.50256950
+		fx_damp: 0.40061998
+		fx_chors: 0.82165557
+		fx_size: 0.16068277
+	}
+}

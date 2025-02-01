@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TH ABoy"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -73.05922210 %
+	Release: 201.80704799 ms 
+	WheelScale: 52.87804604 %
+	VelSens: 0.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xc6121b44
+	Pitch: 1.96481228
+	Cloned: false
+	Genome: {
+		env_time: 0.15002465,
+		env_loop: 0.22315294,
+		env_tilt: 0.27430135,
+		vol_atk: 0.61919832,
+		vol_dcy: 0.50995350,
+		vol_sus: 0.70736384,
+		mod_atk: 0.16755080,
+		mod_dcy: 0.50319999,
+		mod_sh: 0.73928738,
+		mod_vel: 0.19214368,
+		lfo_rate: 0.15313309,
+		lfo_amt: 0.37786168,
+		lfo_bal: 0.78298831,
+		a_form: 0.82971919,
+		a_noise: 0.88942349,
+		a_color: 0.74312389,
+		a_freq: 0.00586462,
+		a_mod: 0.50008172,
+		b_form: 0.41418195,
+		b_noise: 0.48796082,
+		b_freq: 0.52197725,
+		b_mod: 0.50000507,
+		b_sh: 0.32146794,
+		fm_amt: 0.55523300,
+		fm_mod: 0.91417158,
+		sub_am: 0.38481832,
+		balance: 0.59152174,
+		flt_freq: 0.60451120,
+		flt_mod: 0.82843500,
+		flt_sep: 0.24450350,
+		flt_q: 0.43423659,
+		flt_kf: 0.91843432,
+		fx_mix: 0.96949720,
+		fx_len: 0.62365711,
+		fx_damp: 0.61791557,
+		fx_chors: 0.03587693,
+		fx_size: 0.35494933
+	}
+}

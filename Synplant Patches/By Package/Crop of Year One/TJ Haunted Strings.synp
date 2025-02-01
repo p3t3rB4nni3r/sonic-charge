@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TJ Haunted Strings"
+	ModWheel: 100.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 33.89887810 %
+	Effect: 17.62185097 %
+	Release: 4.51537874 s 
+	WheelScale: 34.45121944 %
+	VelSens: 9.75609720 %
+	Volume: -4.68930629 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x4fc7977b
+	Pitch: -0.17308402
+	Cloned: false
+	Genome: {
+		env_time: 0.67220044
+		env_loop: 0.57537389
+		env_tilt: 0.36206722
+		vol_atk: 0.68784714
+		vol_dcy: 0.03602219
+		vol_sus: 0.68195188
+		mod_atk: 0.77426988
+		mod_dcy: 0.95236123
+		mod_sh: 0.11429584
+		mod_vel: 0.78966188
+		lfo_rate: 0.92639369
+		lfo_amt: 0.52645397
+		lfo_bal: 0.73620540
+		a_form: 0.23180175
+		a_noise: 0.03231990
+		a_color: 0.61934590
+		a_freq: 0.52884734
+		a_mod: 0.50000000
+		b_form: 0.69883662
+		b_noise: 0.06649947
+		b_freq: 0.82620287
+		b_mod: 0.50000000
+		b_sh: 0.23310184
+		fm_amt: 0.24234772
+		fm_mod: 0.30436516
+		sub_am: 0.58611518
+		balance: 0.44963825
+		flt_freq: 0.97850585
+		flt_mod: 0.51661640
+		flt_sep: 0.74300313
+		flt_q: 0.60604417
+		flt_kf: 0.97317362
+		fx_mix: 0.35572863
+		fx_len: 0.78032255
+		fx_damp: 0.31276631
+		fx_chors: 0.79869550
+		fx_size: 0.26976934
+	}
+}

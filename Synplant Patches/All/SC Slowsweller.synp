@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Slowsweller"
+	ModWheel: 0.00000000 %
+	Rotation: 149.99999642 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 20.99999934 %
+	Effect: 63.76314163 %
+	Release: 5.34578204 s 
+	WheelScale: 100.00000000 %
+	VelSens: 35.66780686 %
+	Volume: 0.00000000 dB
+	Branch1: 83.19144845 %
+	Branch2: 83.19144845 %
+	Branch3: 83.19144845 %
+	Branch4: 83.19144845 %
+	Branch5: 83.19144845 %
+	Branch6: 83.19144845 %
+	Branch7: 83.19144845 %
+	Branch8: 83.19144845 %
+	Branch9: 83.19144845 %
+	Branch10: 83.19144845 %
+	Branch11: 83.19144845 %
+	Branch12: 83.19144845 %
+	Seed: 0x1e2c9edf
+	Pitch: 0.79799092
+	Cloned: true
+	Genome: {
+		env_time: 0.50128406
+		env_loop: 0.60226810
+		env_tilt: 0.26487648
+		vol_atk: 0.00000000
+		vol_dcy: 0.00715709
+		vol_sus: 0.58730197
+		mod_atk: 0.93328482
+		mod_dcy: 0.57242054
+		mod_sh: 0.34864849
+		mod_vel: 0.35457283
+		lfo_rate: 0.71464992
+		lfo_amt: 0.79339093
+		lfo_bal: 0.39586210
+		a_form: 0.36115032
+		a_noise: 0.59761697
+		a_color: 0.42806560
+		a_freq: 0.20033485
+		a_mod: 0.49747419
+		b_form: 0.21236861
+		b_noise: 0.00290263
+		b_freq: 0.75412917
+		b_mod: 0.54639804
+		b_sh: 0.50743639
+		fm_amt: 0.63663805
+		fm_mod: 0.17972147
+		sub_am: 0.95446020
+		balance: 0.60145855
+		flt_freq: 0.62702698
+		flt_mod: 0.56630230
+		flt_sep: 0.81527001
+		flt_q: 0.79550558
+		flt_kf: 0.02129978
+		fx_mix: 0.84793270
+		fx_len: 0.71301049
+		fx_damp: 0.33151579
+		fx_chors: 0.51879936
+		fx_size: 0.86310059
+	}
+}

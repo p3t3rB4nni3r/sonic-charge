@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "elv Lost"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.78740120 %
+	Release: 2.54291618 s 
+	WheelScale: 17.00000018 %
+	VelSens: 50.00000000 %
+	Volume: 3.84000041 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xb3cec3f1
+	Pitch: -0.00000024
+	Cloned: false
+	Genome: {
+		env_time: 0.55336404
+		env_loop: 0.53064489
+		env_tilt: 0.88835818
+		vol_atk: 0.12466192
+		vol_dcy: 0.68233454
+		vol_sus: 0.40396714
+		mod_atk: 0.57066894
+		mod_dcy: 0.33486724
+		mod_sh: 0.07398981
+		mod_vel: 0.03980911
+		lfo_rate: 0.88723993
+		lfo_amt: 0.62274373
+		lfo_bal: 0.65331089
+		a_form: 0.76376092
+		a_noise: 0.60112405
+		a_color: 0.26993418
+		a_freq: 0.33333337
+		a_mod: 0.50000000
+		b_form: 0.19473982
+		b_noise: 0.77083337
+		b_freq: 0.67297786
+		b_mod: 0.50000000
+		b_sh: 0.68032110
+		fm_amt: 0.70165080
+		fm_mod: 0.37168097
+		sub_am: 0.45751655
+		balance: 0.43615335
+		flt_freq: 0.16392666
+		flt_mod: 0.13710153
+		flt_sep: 0.37673140
+		flt_q: 0.17053223
+		flt_kf: 0.95898151
+		fx_mix: 0.38079441
+		fx_len: 0.81029058
+		fx_damp: 0.70470405
+		fx_chors: 0.61809051
+		fx_size: 0.50000000
+	}
+}

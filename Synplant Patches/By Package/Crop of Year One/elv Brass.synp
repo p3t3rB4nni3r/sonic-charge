@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "elv Brass"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 67.08698273 %
+	Effect: 0.00000000 %
+	Release: 779.24355419 ms 
+	WheelScale: 17.00000018 %
+	VelSens: 50.00000000 %
+	Volume: -2.48923468 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x89e82894
+	Pitch: 2.44801021
+	Cloned: false
+	Genome: {
+		env_time: 0.71430814
+		env_loop: 0.81306940
+		env_tilt: 0.31705832
+		vol_atk: 0.90387380
+		vol_dcy: 0.98430228
+		vol_sus: 0.08110291
+		mod_atk: 0.13593954
+		mod_dcy: 0.05164009
+		mod_sh: 0.51322430
+		mod_vel: 0.41295874
+		lfo_rate: 0.68492657
+		lfo_amt: 0.03425860
+		lfo_bal: 0.47636020
+		a_form: 0.50243783
+		a_noise: 0.26159728
+		a_color: 0.83645302
+		a_freq: 0.25866497
+		a_mod: 0.47768641
+		b_form: 0.88065690
+		b_noise: 0.25323933
+		b_freq: 0.65010118
+		b_mod: 0.32464290
+		b_sh: 0.79967844
+		fm_amt: 0.44485676
+		fm_mod: 0.63027453
+		sub_am: 0.15862823
+		balance: 0.24590468
+		flt_freq: 0.01279533
+		flt_mod: 0.90750778
+		flt_sep: 0.62729597
+		flt_q: 0.19716156
+		flt_kf: 0.77483273
+		fx_mix: 0.73426324
+		fx_len: 0.31385916
+		fx_damp: 0.40716553
+		fx_chors: 0.08218849
+		fx_size: 0.50000000
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "chorubasV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: -50.41335821 %
+	Release: 312.73531618 ms 
+	WheelScale: 67.50000119 %
+	VelSens: 32.49999881 %
+	Volume: 2.08673448 dB
+	Branch1: 3.70699950 %
+	Branch2: 3.70699950 %
+	Branch3: 3.70699950 %
+	Branch4: 3.70699950 %
+	Branch5: 3.70699950 %
+	Branch6: 3.70699950 %
+	Branch7: 3.70699950 %
+	Branch8: 3.70699950 %
+	Branch9: 3.70699950 %
+	Branch10: 3.70699950 %
+	Branch11: 3.70699950 %
+	Branch12: 3.70699950 %
+	Seed: 0x7e3df5de
+	Pitch: 0.01241636
+	Cloned: true
+	Genome: {
+		env_time: 0.36830264
+		env_loop: 0.58171910
+		env_tilt: 0.32496566
+		vol_atk: 0.80699050
+		vol_dcy: 0.62393314
+		vol_sus: 0.65687996
+		mod_atk: 0.51842225
+		mod_dcy: 0.46148658
+		mod_sh: 0.25817132
+		mod_vel: 0.65878493
+		lfo_rate: 0.27407241
+		lfo_amt: 0.24794275
+		lfo_bal: 0.53067231
+		a_form: 0.66914535
+		a_noise: 0.72334427
+		a_color: 0.32886267
+		a_freq: 0.16459727
+		a_mod: 0.51782441
+		b_form: 0.84726757
+		b_noise: 0.57334244
+		b_freq: 0.60047102
+		b_mod: 0.49668497
+		b_sh: 0.36729497
+		fm_amt: 0.46928889
+		fm_mod: 0.45179492
+		sub_am: 0.32674575
+		balance: 0.46075964
+		flt_freq: 0.56915963
+		flt_mod: 0.90649664
+		flt_sep: 0.47789568
+		flt_q: 0.51185238
+		flt_kf: 0.15391541
+		fx_mix: 0.75968850
+		fx_len: 0.43652123
+		fx_damp: 0.35070229
+		fx_chors: 1.00000000
+		fx_size: 0.14969078
+	}
+}

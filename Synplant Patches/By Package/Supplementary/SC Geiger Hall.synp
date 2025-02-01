@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Geiger Hall"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 81.99172020 %
+	Release: 223.60679775 ms 
+	WheelScale: 57.49999881 %
+	VelSens: 50.00000000 %
+	Volume: 8.94448770 dB
+	Branch1: 9.27457884 %
+	Branch2: 41.82145596 %
+	Branch3: 38.02674711 %
+	Branch4: 27.07280219 %
+	Branch5: 34.22299922 %
+	Branch6: 30.86660206 %
+	Branch7: 34.47148800 %
+	Branch8: 40.92400670 %
+	Branch9: 47.87335694 %
+	Branch10: 29.99499738 %
+	Branch11: 36.59698665 %
+	Branch12: 0.00000000 %
+	Seed: 0x8d524dfb
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.02106339,
+		env_loop: 0.01113904,
+		env_tilt: 0.46031952,
+		vol_atk: 0.89717299,
+		vol_dcy: 0.55838370,
+		vol_sus: 0.14950287,
+		mod_atk: 0.54370439,
+		mod_dcy: 0.32526505,
+		mod_sh: 0.42966294,
+		mod_vel: 0.72751015,
+		lfo_rate: 0.94583565,
+		lfo_amt: 0.59092915,
+		lfo_bal: 0.02640891,
+		a_form: 0.42917979,
+		a_noise: 0.07718909,
+		a_color: 0.68317252,
+		a_freq: 0.50000000,
+		a_mod: 0.80493695,
+		b_form: 0.57173014,
+		b_noise: 0.58650744,
+		b_freq: 0.43120629,
+		b_mod: 0.34551871,
+		b_sh: 0.24464840,
+		fm_amt: 0.38060182,
+		fm_mod: 0.88925922,
+		sub_am: 0.61037976,
+		balance: 0.17811167,
+		flt_freq: 0.50083584,
+		flt_mod: 0.88489920,
+		flt_sep: 0.15199399,
+		flt_q: 0.21615207,
+		flt_kf: 0.13098359,
+		fx_mix: 0.49062037,
+		fx_len: 0.86055291,
+		fx_damp: 0.89371544,
+		fx_chors: 0.99015105,
+		fx_size: 0.18367346
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Alidiophone"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 17.70689189 %
+	Effect: 9.58904028 %
+	Release: 586.55637273 ms 
+	WheelScale: 97.50000238 %
+	VelSens: 50.00000000 %
+	Volume: 5.14315805 dB
+	Branch1: 14.37168419 %
+	Branch2: 18.65513623 %
+	Branch3: 26.81305408 %
+	Branch4: 16.47499055 %
+	Branch5: 20.02798319 %
+	Branch6: 23.43370020 %
+	Branch7: 26.65308118 %
+	Branch8: 20.02798319 %
+	Branch9: 14.98806030 %
+	Branch10: 20.79716176 %
+	Branch11: 27.67154276 %
+	Branch12: 17.64224172 %
+	Seed: 0x0a8190f7
+	Pitch: -0.80479574
+	Cloned: false
+	Genome: {
+		env_time: 0.30054545
+		env_loop: 0.94166315
+		env_tilt: 0.27980888
+		vol_atk: 0.60520095
+		vol_dcy: 0.64596879
+		vol_sus: 0.36787391
+		mod_atk: 0.41249120
+		mod_dcy: 0.85356504
+		mod_sh: 0.06157714
+		mod_vel: 0.89717329
+		lfo_rate: 0.66447139
+		lfo_amt: 0.37292117
+		lfo_bal: 0.60255075
+		a_form: 0.27398580
+		a_noise: 0.05009198
+		a_color: 0.53248048
+		a_freq: 0.63413262
+		a_mod: 0.48010230
+		b_form: 0.49383146
+		b_noise: 0.61730492
+		b_freq: 0.89043933
+		b_mod: 0.49722809
+		b_sh: 0.74151665
+		fm_amt: 0.40116417
+		fm_mod: 0.16186631
+		sub_am: 0.36876488
+		balance: 0.64566630
+		flt_freq: 0.64492524
+		flt_mod: 0.71063417
+		flt_sep: 0.61083579
+		flt_q: 0.78507483
+		flt_kf: 0.06548071
+		fx_mix: 0.31739804
+		fx_len: 0.84949481
+		fx_damp: 0.79445994
+		fx_chors: 0.42384893
+		fx_size: 0.51047194
+	}
+}

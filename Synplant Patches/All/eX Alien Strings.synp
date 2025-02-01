@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "eX Alien Strings"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 4.46691215 %
+	Effect: 75.43038130 %
+	Release: 4.09816407 s 
+	WheelScale: 67.07316637 %
+	VelSens: 50.00000000 %
+	Volume: -3.04006072 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x0619f51a
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.73869002
+		env_loop: 0.95670396
+		env_tilt: 0.57841879
+		vol_atk: 0.74422467
+		vol_dcy: 0.40730464
+		vol_sus: 0.16589916
+		mod_atk: 0.25809944
+		mod_dcy: 0.55890954
+		mod_sh: 0.22429854
+		mod_vel: 0.31853938
+		lfo_rate: 0.90048444
+		lfo_amt: 0.07674801
+		lfo_bal: 0.47632080
+		a_form: 0.36893088
+		a_noise: 0.77596003
+		a_color: 0.44708830
+		a_freq: 0.66666669
+		a_mod: 0.53031409
+		b_form: 0.32235324
+		b_noise: 0.25216579
+		b_freq: 0.25504470
+		b_mod: 0.50344670
+		b_sh: 0.72899365
+		fm_amt: 0.44372690
+		fm_mod: 0.59100258
+		sub_am: 0.45584023
+		balance: 0.53520387
+		flt_freq: 0.72829729
+		flt_mod: 0.82797873
+		flt_sep: 0.19310671
+		flt_q: 0.78917128
+		flt_kf: 0.37691075
+		fx_mix: 0.57291216
+		fx_len: 0.58739656
+		fx_damp: 0.61586571
+		fx_chors: 0.60765743
+		fx_size: 0.50000000
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "hvymutl v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 20.17797977 %
+	Effect: -53.48598957 %
+	Release: 295.99602739 ms 
+	WheelScale: 67.50000119 %
+	VelSens: 0.00000000 %
+	Volume: -1.72854970 dB
+	Branch1: 0.14125635 %
+	Branch2: 0.14125635 %
+	Branch3: 0.14125635 %
+	Branch4: 0.14125635 %
+	Branch5: 0.14125635 %
+	Branch6: 0.14125635 %
+	Branch7: 0.14125635 %
+	Branch8: 0.14125635 %
+	Branch9: 0.14125635 %
+	Branch10: 0.14125635 %
+	Branch11: 0.14125635 %
+	Branch12: 0.14125635 %
+	Seed: 0x00000006
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.39549389
+		env_loop: 0.88893574
+		env_tilt: 0.45543995
+		vol_atk: 0.97041875
+		vol_dcy: 0.89802766
+		vol_sus: 0.79077172
+		mod_atk: 0.89652741
+		mod_dcy: 0.44606605
+		mod_sh: 0.12832195
+		mod_vel: 0.00000000
+		lfo_rate: 0.01422517
+		lfo_amt: 0.00000000
+		lfo_bal: 0.05073640
+		a_form: 0.52168679
+		a_noise: 0.09709026
+		a_color: 0.48839957
+		a_freq: 0.49968261
+		a_mod: 0.49637851
+		b_form: 0.85230798
+		b_noise: 0.53071529
+		b_freq: 0.49367800
+		b_mod: 0.49562192
+		b_sh: 0.14207113
+		fm_amt: 0.09301793
+		fm_mod: 0.79725796
+		sub_am: 0.94440347
+		balance: 0.62369388
+		flt_freq: 0.10949238
+		flt_mod: 0.86361486
+		flt_sep: 0.07119173
+		flt_q: 0.57163274
+		flt_kf: 0.43163830
+		fx_mix: 0.93795884
+		fx_len: 0.48924300
+		fx_damp: 0.69095838
+		fx_chors: 0.24650374
+		fx_size: 0.00262283
+	}
+}

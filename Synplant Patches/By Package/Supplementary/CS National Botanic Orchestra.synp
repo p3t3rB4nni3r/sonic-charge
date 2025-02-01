@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "CS National Botanic Orchestra"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 53.27101350 %
+	Effect: 12.86544800 %
+	Release: 416.12760612 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 0.00000000 %
+	Volume: -4.58599432 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x9a96f121
+	Pitch: 4.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.87508839,
+		env_loop: 0.87240052,
+		env_tilt: 0.46258843,
+		vol_atk: 0.54777491,
+		vol_dcy: 0.27317321,
+		vol_sus: 0.18410021,
+		mod_atk: 0.17393291,
+		mod_dcy: 0.49614835,
+		mod_sh: 0.50437737,
+		mod_vel: 0.45078367,
+		lfo_rate: 0.55302477,
+		lfo_amt: 0.87273371,
+		lfo_bal: 0.82048750,
+		a_form: 0.99871987,
+		a_noise: 0.70047200,
+		a_color: 0.98513585,
+		a_freq: 0.00000000,
+		a_mod: 0.49225187,
+		b_form: 0.68419707,
+		b_noise: 0.46774089,
+		b_freq: 0.81024063,
+		b_mod: 0.50066632,
+		b_sh: 0.49372804,
+		fm_amt: 0.39037085,
+		fm_mod: 0.26446038,
+		sub_am: 0.60875416,
+		balance: 0.29311395,
+		flt_freq: 0.05798823,
+		flt_mod: 0.54390788,
+		flt_sep: 0.55415797,
+		flt_q: 0.03772074,
+		flt_kf: 0.83877385,
+		fx_mix: 0.89708060,
+		fx_len: 0.96813005,
+		fx_damp: 0.85712481,
+		fx_chors: 0.58119839,
+		fx_size: 0.35494933
+	}
+}

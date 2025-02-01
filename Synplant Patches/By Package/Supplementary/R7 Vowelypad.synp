@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "SM Vowelypad"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -9.60545540 ct 
+	Atonality: 45.23556232 %
+	Effect: 15.54371119 %
+	Release: 1.65443058 s 
+	WheelScale: 32.92682767 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x05867ef0
+	Pitch: 0.00922155
+	Cloned: false
+	Genome: {
+		env_time: 0.83019286,
+		env_loop: 0.76892054,
+		env_tilt: 0.81641591,
+		vol_atk: 0.66813296,
+		vol_dcy: 0.47688216,
+		vol_sus: 0.67527282,
+		mod_atk: 0.61302507,
+		mod_dcy: 0.12734419,
+		mod_sh: 0.97424209,
+		mod_vel: 0.23327982,
+		lfo_rate: 0.31762874,
+		lfo_amt: 0.29418170,
+		lfo_bal: 0.45858657,
+		a_form: 0.81520718,
+		a_noise: 0.75526291,
+		a_color: 0.39363325,
+		a_freq: 0.49846309,
+		a_mod: 0.47558558,
+		b_form: 0.33867818,
+		b_noise: 0.50014848,
+		b_freq: 0.48212546,
+		b_mod: 0.50845498,
+		b_sh: 0.54337591,
+		fm_amt: 0.73398960,
+		fm_mod: 0.69646132,
+		sub_am: 0.22771728,
+		balance: 0.32290936,
+		flt_freq: 0.68333870,
+		flt_mod: 0.38641769,
+		flt_sep: 0.22808599,
+		flt_q: 0.69913411,
+		flt_kf: 0.68665004,
+		fx_mix: 0.30404031,
+		fx_len: 0.15530777,
+		fx_damp: 0.78720272,
+		fx_chors: 0.40432477,
+		fx_size: 0.35494933
+	}
+}

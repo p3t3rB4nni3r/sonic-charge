@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Enlitement"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 30.55785298 %
+	Effect: 23.28766584 %
+	Release: 180.39404498 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x044775e4
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.44810629
+		env_loop: 0.38195109
+		env_tilt: 0.54581195
+		vol_atk: 0.32400668
+		vol_dcy: 0.59288216
+		vol_sus: 0.41133964
+		mod_atk: 0.48369640
+		mod_dcy: 0.01273435
+		mod_sh: 0.19366825
+		mod_vel: 0.37814403
+		lfo_rate: 0.96125442
+		lfo_amt: 0.49004710
+		lfo_bal: 0.76140511
+		a_form: 0.79809082
+		a_noise: 0.31787533
+		a_color: 0.32010776
+		a_freq: 0.66666669
+		a_mod: 0.50000000
+		b_form: 0.16575354
+		b_noise: 0.23747540
+		b_freq: 0.00393438
+		b_mod: 0.50000000
+		b_sh: 0.25921339
+		fm_amt: 0.56962907
+		fm_mod: 0.35353875
+		sub_am: 0.44189841
+		balance: 0.57636029
+		flt_freq: 0.78917956
+		flt_mod: 0.29234809
+		flt_sep: 0.59014827
+		flt_q: 0.07546067
+		flt_kf: 0.91113687
+		fx_mix: 0.72312582
+		fx_len: 0.92984653
+		fx_damp: 0.78197086
+		fx_chors: 0.41931701
+		fx_size: 0.66017658
+	}
+}

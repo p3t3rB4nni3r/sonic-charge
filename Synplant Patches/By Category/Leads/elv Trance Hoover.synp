@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "elv Trance Hoover"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 61.86504364 %
+	Effect: -36.48910522 %
+	Release: 779.24355419 ms 
+	WheelScale: 17.00000018 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x908e2be3
+	Pitch: 2.53889465
+	Cloned: false
+	Genome: {
+		env_time: 0.31103218
+		env_loop: 0.06792450
+		env_tilt: 0.41773129
+		vol_atk: 0.06876814
+		vol_dcy: 0.81840646
+		vol_sus: 0.92604977
+		mod_atk: 0.28550792
+		mod_dcy: 0.87653822
+		mod_sh: 0.38218498
+		mod_vel: 0.74908233
+		lfo_rate: 0.48501968
+		lfo_amt: 0.76118165
+		lfo_bal: 0.58240795
+		a_form: 0.55542338
+		a_noise: 0.20741081
+		a_color: 0.81311619
+		a_freq: 0.24351758
+		a_mod: 0.58672827
+		b_form: 0.91028374
+		b_noise: 0.33729750
+		b_freq: 0.51207680
+		b_mod: 0.57938439
+		b_sh: 0.30062407
+		fm_amt: 0.53437328
+		fm_mod: 0.37165391
+		sub_am: 0.79161286
+		balance: 0.49076182
+		flt_freq: 0.84761286
+		flt_mod: 0.96631128
+		flt_sep: 0.71928060
+		flt_q: 0.24685979
+		flt_kf: 0.75439334
+		fx_mix: 0.95269662
+		fx_len: 0.46604955
+		fx_damp: 0.06803811
+		fx_chors: 0.83801025
+		fx_size: 0.50000000
+	}
+}

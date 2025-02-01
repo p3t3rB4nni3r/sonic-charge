@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Klear Ceys"
+	ModWheel: 0.00000000 %
+	Rotation: 147.40539908 degrees
+	Tuning: -5.34524775 sm 
+	Atonality: 6.90704212 %
+	Effect: 0.00000000 %
+	Release: 3.57896171 s 
+	WheelScale: 61.25000119 %
+	VelSens: 50.00000000 %
+	Volume: 3.39850003 dB
+	Branch1: 30.58299124 %
+	Branch2: 26.39882267 %
+	Branch3: 26.29140913 %
+	Branch4: 23.34848195 %
+	Branch5: 29.03090119 %
+	Branch6: 27.72393823 %
+	Branch7: 27.15806067 %
+	Branch8: 28.76164615 %
+	Branch9: 19.21528280 %
+	Branch10: 27.91998386 %
+	Branch11: 27.82858014 %
+	Branch12: 34.62618589 %
+	Seed: 0xb9e88193
+	Pitch: -0.18483616
+	Cloned: false
+	Genome: {
+		env_time: 0.39610001
+		env_loop: 0.39944243
+		env_tilt: 0.21226224
+		vol_atk: 0.36359945
+		vol_dcy: 0.26077303
+		vol_sus: 0.72985482
+		mod_atk: 0.50864577
+		mod_dcy: 0.10773358
+		mod_sh: 0.29064509
+		mod_vel: 0.44562772
+		lfo_rate: 0.81261510
+		lfo_amt: 0.47610343
+		lfo_bal: 0.37999007
+		a_form: 0.67002392
+		a_noise: 0.17782079
+		a_color: 0.18791996
+		a_freq: 0.60648173
+		a_mod: 0.55120659
+		b_form: 0.29766181
+		b_noise: 0.20691919
+		b_freq: 0.59531188
+		b_mod: 0.45708960
+		b_sh: 0.60579175
+		fm_amt: 0.34832498
+		fm_mod: 0.61180311
+		sub_am: 0.67416251
+		balance: 0.47179663
+		flt_freq: 0.50858819
+		flt_mod: 0.96347958
+		flt_sep: 0.39633885
+		flt_q: 0.20158243
+		flt_kf: 0.46591970
+		fx_mix: 0.23133785
+		fx_len: 0.67569709
+		fx_damp: 0.54199702
+		fx_chors: 0.66699553
+		fx_size: 0.25510672
+	}
+}

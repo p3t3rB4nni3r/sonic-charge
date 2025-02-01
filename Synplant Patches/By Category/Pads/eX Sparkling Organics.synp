@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "eX Sparkling Organics"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 9.99529436 %
+	Effect: 73.26769829 %
+	Release: 4.30059191 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 6.29746688 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x96706173
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.20373487
+		env_loop: 0.69623077
+		env_tilt: 0.86648852
+		vol_atk: 0.48878697
+		vol_dcy: 0.20737770
+		vol_sus: 0.65828156
+		mod_atk: 0.44899967
+		mod_dcy: 0.81573063
+		mod_sh: 0.26676643
+		mod_vel: 0.38509408
+		lfo_rate: 0.87989795
+		lfo_amt: 0.47435489
+		lfo_bal: 0.29682851
+		a_form: 0.39409682
+		a_noise: 0.41857240
+		a_color: 0.65529102
+		a_freq: 0.83333331
+		a_mod: 0.50000000
+		b_form: 0.84494346
+		b_noise: 0.54192597
+		b_freq: 0.82564312
+		b_mod: 0.50000000
+		b_sh: 0.66702873
+		fm_amt: 0.90826690
+		fm_mod: 0.46846125
+		sub_am: 0.74365014
+		balance: 0.69385552
+		flt_freq: 0.49109301
+		flt_mod: 0.43187132
+		flt_sep: 0.22205013
+		flt_q: 0.52760512
+		flt_kf: 0.67281651
+		fx_mix: 0.74247259
+		fx_len: 0.47967255
+		fx_damp: 0.35543478
+		fx_chors: 0.50969392
+		fx_size: 0.50000000
+	}
+}

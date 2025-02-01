@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Swet Bass"
+	ModWheel: 0.00000000 %
+	Rotation: 209.99999285 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: -12.35429645 %
+	Release: 315.56684417 ms 
+	WheelScale: 66.25000238 %
+	VelSens: 50.00000000 %
+	Volume: 4.03267962 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xe0b46990
+	Pitch: -1.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.22870263
+		env_loop: 0.57804328
+		env_tilt: 0.11835164
+		vol_atk: 0.17650032
+		vol_dcy: 0.27000493
+		vol_sus: 0.75348520
+		mod_atk: 0.70370102
+		mod_dcy: 0.08562914
+		mod_sh: 0.46090162
+		mod_vel: 0.51349741
+		lfo_rate: 0.64436769
+		lfo_amt: 0.78159821
+		lfo_bal: 0.48752886
+		a_form: 0.52251190
+		a_noise: 0.32730997
+		a_color: 0.25343952
+		a_freq: 0.66666669
+		a_mod: 0.50000000
+		b_form: 0.50455511
+		b_noise: 0.23069790
+		b_freq: 0.56125027
+		b_mod: 0.50000000
+		b_sh: 0.56203604
+		fm_amt: 0.70660073
+		fm_mod: 0.43705609
+		sub_am: 0.95335412
+		balance: 0.63421178
+		flt_freq: 0.49382105
+		flt_mod: 1.00000000
+		flt_sep: 0.42890769
+		flt_q: 0.20416811
+		flt_kf: 0.00000000
+		fx_mix: 0.16665044
+		fx_len: 0.70832837
+		fx_damp: 0.77591467
+		fx_chors: 0.75384241
+		fx_size: 0.18078062
+	}
+}

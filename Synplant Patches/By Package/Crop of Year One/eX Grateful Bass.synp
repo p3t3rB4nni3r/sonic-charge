@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "eX Grateful Bass"
+	ModWheel: 0.00000000 %
+	Rotation: 270.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -52.12826431 %
+	Release: 223.60679775 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 9.70853605 dB
+	Branch1: 23.04454148 %
+	Branch2: 23.04454148 %
+	Branch3: 23.04454148 %
+	Branch4: 23.04454148 %
+	Branch5: 23.04454148 %
+	Branch6: 23.04454148 %
+	Branch7: 23.04454148 %
+	Branch8: 23.04454148 %
+	Branch9: 23.04454148 %
+	Branch10: 23.04454148 %
+	Branch11: 23.04454148 %
+	Branch12: 23.04454148 %
+	Seed: 0xa7a9a6cf
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.48466635
+		env_loop: 0.33478528
+		env_tilt: 0.54108727
+		vol_atk: 0.19715609
+		vol_dcy: 0.25727803
+		vol_sus: 0.66078281
+		mod_atk: 0.00000000
+		mod_dcy: 1.00000000
+		mod_sh: 0.42515647
+		mod_vel: 0.49530429
+		lfo_rate: 0.33365279
+		lfo_amt: 0.31081510
+		lfo_bal: 0.32772478
+		a_form: 0.65234333
+		a_noise: 0.46525240
+		a_color: 0.31708762
+		a_freq: 0.16666667
+		a_mod: 0.50561816
+		b_form: 0.13894893
+		b_noise: 0.31459028
+		b_freq: 0.76653647
+		b_mod: 0.47749031
+		b_sh: 0.00000000
+		fm_amt: 0.76294190
+		fm_mod: 0.20597422
+		sub_am: 0.50914115
+		balance: 0.50405908
+		flt_freq: 0.22442761
+		flt_mod: 0.25766391
+		flt_sep: 0.79935741
+		flt_q: 0.28028575
+		flt_kf: 1.00000000
+		fx_mix: 1.00000000
+		fx_len: 0.38299552
+		fx_damp: 0.51195711
+		fx_chors: 1.00000000
+		fx_size: 0.50000000
+	}
+}

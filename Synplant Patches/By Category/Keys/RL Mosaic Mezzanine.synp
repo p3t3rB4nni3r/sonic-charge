@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "RL Mosaic Mezzanine"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 31.00578785 %
+	Release: 6.02464878 s 
+	WheelScale: 45.12195289 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x30900b50
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.20356414,
+		env_loop: 0.50132126,
+		env_tilt: 0.34903863,
+		vol_atk: 0.07970604,
+		vol_dcy: 0.76220864,
+		vol_sus: 0.57857603,
+		mod_atk: 0.09962147,
+		mod_dcy: 0.93430078,
+		mod_sh: 0.55909628,
+		mod_vel: 0.56507522,
+		lfo_rate: 0.88373661,
+		lfo_amt: 0.61596864,
+		lfo_bal: 0.33809158,
+		a_form: 0.86462104,
+		a_noise: 0.60510194,
+		a_color: 0.37006921,
+		a_freq: 0.50000000,
+		a_mod: 0.50000000,
+		b_form: 0.32585406,
+		b_noise: 0.31810731,
+		b_freq: 0.83089256,
+		b_mod: 0.50000000,
+		b_sh: 0.20296869,
+		fm_amt: 0.65847611,
+		fm_mod: 0.49119589,
+		sub_am: 0.59361488,
+		balance: 0.59822917,
+		flt_freq: 0.51239300,
+		flt_mod: 0.37355781,
+		flt_sep: 0.98061919,
+		flt_q: 0.34375328,
+		flt_kf: 0.43973881,
+		fx_mix: 0.46869370,
+		fx_len: 0.44107997,
+		fx_damp: 0.74214184,
+		fx_chors: 0.96261692,
+		fx_size: 0.24558118
+	}
+}

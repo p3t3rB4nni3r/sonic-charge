@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "JJ SomethingNotRightBass"
+	ModWheel: 28.02607417 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: -58.67111981 %
+	Release: 691.73207725 ms 
+	WheelScale: 46.85976207 %
+	VelSens: 50.00000000 %
+	Volume: 2.08673448 dB
+	Branch1: 96.81175947 %
+	Branch2: 96.81175947 %
+	Branch3: 96.81175947 %
+	Branch4: 96.81175947 %
+	Branch5: 96.81175947 %
+	Branch6: 96.81175947 %
+	Branch7: 96.81175947 %
+	Branch8: 96.81175947 %
+	Branch9: 96.81175947 %
+	Branch10: 96.81175947 %
+	Branch11: 96.81175947 %
+	Branch12: 96.81175947 %
+	Seed: 0xf5b2b256
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.34587896
+		env_loop: 0.57375497
+		env_tilt: 0.28810063
+		vol_atk: 0.06786998
+		vol_dcy: 0.50469589
+		vol_sus: 0.68334556
+		mod_atk: 0.23870444
+		mod_dcy: 0.77129441
+		mod_sh: 0.50435024
+		mod_vel: 0.52558893
+		lfo_rate: 0.19638065
+		lfo_amt: 0.65026248
+		lfo_bal: 0.49846548
+		a_form: 0.42893955
+		a_noise: 0.42088977
+		a_color: 0.56179637
+		a_freq: 0.50000018
+		a_mod: 0.51937592
+		b_form: 0.43104339
+		b_noise: 0.31185007
+		b_freq: 0.50000000
+		b_mod: 0.50000000
+		b_sh: 0.42338777
+		fm_amt: 0.66839230
+		fm_mod: 0.62854803
+		sub_am: 0.55472016
+		balance: 0.85001582
+		flt_freq: 0.62249559
+		flt_mod: 0.49925315
+		flt_sep: 0.45806938
+		flt_q: 0.48517439
+		flt_kf: 0.24236381
+		fx_mix: 0.31851828
+		fx_len: 0.17721415
+		fx_damp: 0.30799407
+		fx_chors: 0.07582235
+		fx_size: 0.85037875
+	}
+}

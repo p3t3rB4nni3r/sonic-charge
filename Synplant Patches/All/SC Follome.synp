@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Follome"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 50.41506290 %
+	Effect: -39.67427611 %
+	Release: 3.50275277 s 
+	WheelScale: 61.25000119 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x7555b322
+	Pitch: -2.05404282
+	Cloned: true
+	Genome: {
+		env_time: 0.69751793
+		env_loop: 0.37233555
+		env_tilt: 0.04956746
+		vol_atk: 0.10774887
+		vol_dcy: 0.75410408
+		vol_sus: 0.21490842
+		mod_atk: 0.11547589
+		mod_dcy: 0.79370993
+		mod_sh: 0.76620436
+		mod_vel: 0.00000000
+		lfo_rate: 0.14989167
+		lfo_amt: 0.70029628
+		lfo_bal: 0.21922523
+		a_form: 0.28787363
+		a_noise: 0.25205648
+		a_color: 0.95782244
+		a_freq: 0.67567384
+		a_mod: 0.48726833
+		b_form: 0.41625351
+		b_noise: 0.67129344
+		b_freq: 0.56260389
+		b_mod: 0.85554296
+		b_sh: 0.34636867
+		fm_amt: 0.02273905
+		fm_mod: 0.76822203
+		sub_am: 0.47873145
+		balance: 0.20503509
+		flt_freq: 0.21861374
+		flt_mod: 0.14404011
+		flt_sep: 0.76173264
+		flt_q: 0.23965514
+		flt_kf: 0.89472747
+		fx_mix: 0.44026399
+		fx_len: 0.75187534
+		fx_damp: 0.83162814
+		fx_chors: 0.03715444
+		fx_size: 0.53057718
+	}
+}

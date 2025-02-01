@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "R7 Metal Pluck"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 16.30386114 %
+	Effect: -52.60875821 %
+	Release: 174.56179718 ms 
+	WheelScale: 26.12804770 %
+	VelSens: 50.00000000 %
+	Volume: 4.47297643 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x56db7ff0
+	Pitch: -0.42781663
+	Cloned: false
+	Genome: {
+		env_time: 0.22934267
+		env_loop: 0.46795872
+		env_tilt: 0.07703578
+		vol_atk: 0.09465969
+		vol_dcy: 0.28071722
+		vol_sus: 0.00778093
+		mod_atk: 0.26588550
+		mod_dcy: 0.96004587
+		mod_sh: 0.21930127
+		mod_vel: 0.81475002
+		lfo_rate: 0.60746646
+		lfo_amt: 0.45329070
+		lfo_bal: 0.70821738
+		a_form: 0.21180409
+		a_noise: 0.81247801
+		a_color: 0.98744345
+		a_freq: 0.57130277
+		a_mod: 0.55375540
+		b_form: 0.67148805
+		b_noise: 0.49184859
+		b_freq: 0.64750147
+		b_mod: 0.85404360
+		b_sh: 0.09980732
+		fm_amt: 0.19580990
+		fm_mod: 0.47577286
+		sub_am: 0.69665438
+		balance: 0.25158185
+		flt_freq: 0.81703770
+		flt_mod: 0.36811250
+		flt_sep: 0.99949872
+		flt_q: 0.41871464
+		flt_kf: 0.99207532
+		fx_mix: 0.52326661
+		fx_len: 0.34721082
+		fx_damp: 0.42713895
+		fx_chors: 0.48611608
+		fx_size: 0.55492461
+	}
+}

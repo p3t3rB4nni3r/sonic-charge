@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Chime Scene"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 16.61874950 %
+	Effect: 74.42648411 %
+	Release: 7.67068274 s 
+	WheelScale: 65.75342417 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 29.56561148 %
+	Branch2: 20.91671377 %
+	Branch3: 16.14523977 %
+	Branch4: 22.86287248 %
+	Branch5: 31.07890487 %
+	Branch6: 32.87850916 %
+	Branch7: 34.53297019 %
+	Branch8: 31.07890487 %
+	Branch9: 17.30491966 %
+	Branch10: 18.16730797 %
+	Branch11: 34.48631167 %
+	Branch12: 36.64274812 %
+	Seed: 0x1b2c59e0
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.58018678
+		env_loop: 0.80620778
+		env_tilt: 0.00000000
+		vol_atk: 0.44148988
+		vol_dcy: 0.25228578
+		vol_sus: 0.08216082
+		mod_atk: 0.21441673
+		mod_dcy: 0.23881042
+		mod_sh: 0.73247039
+		mod_vel: 0.70754540
+		lfo_rate: 0.54064375
+		lfo_amt: 0.67356527
+		lfo_bal: 0.44613397
+		a_form: 0.19797456
+		a_noise: 0.64783716
+		a_color: 0.00036049
+		a_freq: 0.66666669
+		a_mod: 0.50396168
+		b_form: 0.94201070
+		b_noise: 0.55635476
+		b_freq: 0.62385648
+		b_mod: 0.50150466
+		b_sh: 0.49462670
+		fm_amt: 0.96263212
+		fm_mod: 0.22225755
+		sub_am: 0.41596556
+		balance: 0.09855902
+		flt_freq: 0.68660539
+		flt_mod: 0.41455877
+		flt_sep: 0.34420443
+		flt_q: 0.26529759
+		flt_kf: 0.61863148
+		fx_mix: 0.49396783
+		fx_len: 0.80811733
+		fx_damp: 0.87082660
+		fx_chors: 0.04521069
+		fx_size: 0.06458669
+	}
+}

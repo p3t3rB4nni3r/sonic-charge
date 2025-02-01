@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TH Zoom"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.24261475 ct 
+	Atonality: 50.00000000 %
+	Effect: -48.53994250 %
+	Release: 1.64439401 s 
+	WheelScale: 100.00000000 %
+	VelSens: 0.00000000 %
+	Volume: -4.68930426 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x4b4b961d
+	Pitch: -0.00020218
+	Cloned: false
+	Genome: {
+		env_time: 0.60602146,
+		env_loop: 1.00000000,
+		env_tilt: 0.96798158,
+		vol_atk: 0.53745836,
+		vol_dcy: 0.07045323,
+		vol_sus: 0.05602333,
+		mod_atk: 0.09683521,
+		mod_dcy: 0.57646745,
+		mod_sh: 0.60561144,
+		mod_vel: 0.06881773,
+		lfo_rate: 0.85617030,
+		lfo_amt: 0.43608803,
+		lfo_bal: 1.00000000,
+		a_form: 0.89321542,
+		a_noise: 0.53330529,
+		a_color: 0.16015679,
+		a_freq: 0.50003368,
+		a_mod: 0.35111666,
+		b_form: 0.84631515,
+		b_noise: 0.85050786,
+		b_freq: 0.74952400,
+		b_mod: 0.10532236,
+		b_sh: 0.03166473,
+		fm_amt: 0.75487781,
+		fm_mod: 0.28247249,
+		sub_am: 0.37961364,
+		balance: 0.48073143,
+		flt_freq: 0.64857638,
+		flt_mod: 0.79682511,
+		flt_sep: 0.16091883,
+		flt_q: 0.23992455,
+		flt_kf: 0.69331264,
+		fx_mix: 0.77743381,
+		fx_len: 0.08841920,
+		fx_damp: 0.98809934,
+		fx_chors: 0.60081965,
+		fx_size: 0.67227513
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Durowheel"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +18.70880127 ct 
+	Atonality: 15.00000060 %
+	Effect: 0.00000000 %
+	Release: 20.00000000 s 
+	WheelScale: 69.51219440 %
+	VelSens: 50.00000000 %
+	Volume: 1.37425700 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x698627b9
+	Pitch: 1.69253349
+	Cloned: true
+	Genome: {
+		env_time: 0.64985037,
+		env_loop: 0.46949160,
+		env_tilt: 0.60511923,
+		vol_atk: 0.15125412,
+		vol_dcy: 0.24475104,
+		vol_sus: 0.08722925,
+		mod_atk: 0.38890338,
+		mod_dcy: 0.83998865,
+		mod_sh: 0.30785942,
+		mod_vel: 0.79064018,
+		lfo_rate: 0.75489581,
+		lfo_amt: 0.04765290,
+		lfo_bal: 0.08498597,
+		a_form: 0.13701487,
+		a_noise: 0.11417127,
+		a_color: 0.35674202,
+		a_freq: 0.38457775,
+		a_mod: 0.41327131,
+		b_form: 0.72403300,
+		b_noise: 0.13784087,
+		b_freq: 0.49528962,
+		b_mod: 0.47669041,
+		b_sh: 0.20318317,
+		fm_amt: 0.00092989,
+		fm_mod: 0.44015932,
+		sub_am: 0.25000000,
+		balance: 0.80452794,
+		flt_freq: 0.90189308,
+		flt_mod: 0.66415143,
+		flt_sep: 0.33102340,
+		flt_q: 0.09510207,
+		flt_kf: 0.75000000,
+		fx_mix: 0.75111151,
+		fx_len: 0.67651516,
+		fx_damp: 0.69660878,
+		fx_chors: 0.51253021,
+		fx_size: 0.35494933
+	}
+}

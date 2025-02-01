@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Cowshells"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 74.99971390 %
+	Effect: -53.42465639 %
+	Release: 2.61799999 s 
+	WheelScale: 36.58536673 %
+	VelSens: 50.00000000 %
+	Volume: -2.24949421 dB
+	Branch1: 60.24921536 %
+	Branch2: 29.42605019 %
+	Branch3: 35.53929925 %
+	Branch4: 34.24077034 %
+	Branch5: 31.94900453 %
+	Branch6: 27.56659985 %
+	Branch7: 39.80205059 %
+	Branch8: 41.30122066 %
+	Branch9: 44.70871687 %
+	Branch10: 38.93646598 %
+	Branch11: 27.91998386 %
+	Branch12: 34.62618589 %
+	Seed: 0xc5fda5fb
+	Pitch: 1.30615807
+	Cloned: false
+	Genome: {
+		env_time: 0.16824108,
+		env_loop: 0.75049937,
+		env_tilt: 0.26578659,
+		vol_atk: 0.32808989,
+		vol_dcy: 0.77617031,
+		vol_sus: 0.00000000,
+		mod_atk: 0.21206367,
+		mod_dcy: 0.93025357,
+		mod_sh: 0.77032405,
+		mod_vel: 0.43403351,
+		lfo_rate: 0.43158257,
+		lfo_amt: 0.17780757,
+		lfo_bal: 0.35375309,
+		a_form: 0.08497840,
+		a_noise: 0.35723913,
+		a_color: 0.19602674,
+		a_freq: 0.61564034,
+		a_mod: 0.49828708,
+		b_form: 0.35518306,
+		b_noise: 0.63264525,
+		b_freq: 0.51237905,
+		b_mod: 0.56079006,
+		b_sh: 0.43488038,
+		fm_amt: 0.46603334,
+		fm_mod: 0.32711327,
+		sub_am: 0.37718087,
+		balance: 0.50947219,
+		flt_freq: 0.03726602,
+		flt_mod: 0.74026597,
+		flt_sep: 0.67105120,
+		flt_q: 0.89589739,
+		flt_kf: 0.72396123,
+		fx_mix: 0.99014115,
+		fx_len: 0.34650302,
+		fx_damp: 0.09335935,
+		fx_chors: 0.19039595,
+		fx_size: 0.47277755
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "RL Fading Into Me"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -50.10645092 %
+	Release: 195.09135647 ms 
+	WheelScale: 34.14634168 %
+	VelSens: 50.00000000 %
+	Volume: 3.39849697 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xa1b606fa
+	Pitch: 0.27881646
+	Cloned: false
+	Genome: {
+		env_time: 0.82749182,
+		env_loop: 0.29513448,
+		env_tilt: 0.55777240,
+		vol_atk: 0.10910487,
+		vol_dcy: 0.36437714,
+		vol_sus: 0.80447930,
+		mod_atk: 0.69487047,
+		mod_dcy: 0.56985068,
+		mod_sh: 0.87173277,
+		mod_vel: 0.33504289,
+		lfo_rate: 0.18234229,
+		lfo_amt: 0.42128485,
+		lfo_bal: 0.85490608,
+		a_form: 0.55805516,
+		a_noise: 0.35681540,
+		a_color: 0.94415897,
+		a_freq: 0.28686392,
+		a_mod: 0.49740613,
+		b_form: 0.92207563,
+		b_noise: 0.34353113,
+		b_freq: 0.58861297,
+		b_mod: 0.50000000,
+		b_sh: 0.43022126,
+		fm_amt: 0.20307857,
+		fm_mod: 0.16038591,
+		sub_am: 0.58416861,
+		balance: 0.00173020,
+		flt_freq: 0.65351212,
+		flt_mod: 0.16947794,
+		flt_sep: 0.98908305,
+		flt_q: 0.67605424,
+		flt_kf: 0.50375068,
+		fx_mix: 0.93392605,
+		fx_len: 0.43924120,
+		fx_damp: 0.24274683,
+		fx_chors: 0.84627730,
+		fx_size: 0.28689325
+	}
+}

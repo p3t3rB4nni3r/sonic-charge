@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "spacyTrumps v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -0.02202988 ct 
+	Atonality: 19.93000656 %
+	Effect: 0.00000000 %
+	Release: 15.07412955 s 
+	WheelScale: 26.24999583 %
+	VelSens: 50.00000000 %
+	Volume: -3.68250408 dB
+	Branch1: 41.29070342 %
+	Branch2: 41.29070342 %
+	Branch3: 41.29070342 %
+	Branch4: 41.29070342 %
+	Branch5: 41.29070342 %
+	Branch6: 41.29070342 %
+	Branch7: 41.29070342 %
+	Branch8: 41.29070342 %
+	Branch9: 41.29070342 %
+	Branch10: 41.29070342 %
+	Branch11: 41.29070342 %
+	Branch12: 41.29070342 %
+	Seed: 0xb1e348b3
+	Pitch: -0.59315681
+	Cloned: true
+	Genome: {
+		env_time: 0.76074433
+		env_loop: 0.43548554
+		env_tilt: 0.82605702
+		vol_atk: 0.28606963
+		vol_dcy: 0.26124644
+		vol_sus: 0.92077672
+		mod_atk: 0.38864481
+		mod_dcy: 0.24853539
+		mod_sh: 0.98529756
+		mod_vel: 0.05998743
+		lfo_rate: 0.25644517
+		lfo_amt: 0.01305616
+		lfo_bal: 0.61000645
+		a_form: 0.29064274
+		a_noise: 0.68033206
+		a_color: 0.01398498
+		a_freq: 0.59885949
+		a_mod: 0.57128626
+		b_form: 0.60920984
+		b_noise: 0.26262003
+		b_freq: 0.56566036
+		b_mod: 0.42070889
+		b_sh: 0.48249209
+		fm_amt: 0.79526520
+		fm_mod: 0.33450323
+		sub_am: 0.11556399
+		balance: 0.17835063
+		flt_freq: 0.60276479
+		flt_mod: 0.50864881
+		flt_sep: 0.74043167
+		flt_q: 0.38894856
+		flt_kf: 0.93022287
+		fx_mix: 0.86984932
+		fx_len: 0.46841192
+		fx_damp: 0.61306918
+		fx_chors: 0.70117533
+		fx_size: 0.51660436
+	}
+}

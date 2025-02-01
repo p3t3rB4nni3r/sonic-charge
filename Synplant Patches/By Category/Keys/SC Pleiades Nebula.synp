@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Pleiades Nebula"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 23.00000042 %
+	Effect: 0.00000000 %
+	Release: 748.89821004 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 3.32019910 dB
+	Branch1: 38.99999857 %
+	Branch2: 37.00000048 %
+	Branch3: 31.99999928 %
+	Branch4: 37.99999952 %
+	Branch5: 38.99999857 %
+	Branch6: 46.00000083 %
+	Branch7: 52.99999714 %
+	Branch8: 54.00000215 %
+	Branch9: 41.99999869 %
+	Branch10: 12.99999952 %
+	Branch11: 31.99999928 %
+	Branch12: 31.99999928 %
+	Seed: 0x4e1e7c43
+	Pitch: 0.41378689
+	Cloned: false
+	Genome: {
+		env_time: 0.52134395,
+		env_loop: 0.27060670,
+		env_tilt: 0.64571911,
+		vol_atk: 0.92278236,
+		vol_dcy: 0.63469630,
+		vol_sus: 0.13456655,
+		mod_atk: 0.65570319,
+		mod_dcy: 0.22378278,
+		mod_sh: 0.73967361,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.27369028,
+		lfo_amt: 0.51543254,
+		lfo_bal: 0.37686396,
+		a_form: 0.03939080,
+		a_noise: 0.60529214,
+		a_color: 0.32861733,
+		a_freq: 0.59770221,
+		a_mod: 0.57919574,
+		b_form: 0.31902683,
+		b_noise: 0.89855379,
+		b_freq: 0.86567748,
+		b_mod: 0.62860900,
+		b_sh: 0.60114920,
+		fm_amt: 0.43650854,
+		fm_mod: 0.20484126,
+		sub_am: 0.25000000,
+		balance: 0.00737852,
+		flt_freq: 0.98130512,
+		flt_mod: 0.34093082,
+		flt_sep: 0.95973325,
+		flt_q: 0.06243831,
+		flt_kf: 0.75000000,
+		fx_mix: 0.87434906,
+		fx_len: 0.87410057,
+		fx_damp: 0.33378464,
+		fx_chors: 0.25000000,
+		fx_size: 0.32952967
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TJ Aggro Lead"
+	ModWheel: 100.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 11.83295324 %
+	Effect: -34.60044861 %
+	Release: 165.99536085 ms 
+	WheelScale: 60.00000238 %
+	VelSens: 0.00000000 %
+	Volume: -6.43856362 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x20c237e7
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.38712221
+		env_loop: 0.43153864
+		env_tilt: 0.32986516
+		vol_atk: 0.35228401
+		vol_dcy: 0.59501600
+		vol_sus: 0.50814527
+		mod_atk: 0.70418704
+		mod_dcy: 0.90519601
+		mod_sh: 0.52196980
+		mod_vel: 0.79392004
+		lfo_rate: 0.07148206
+		lfo_amt: 0.70438576
+		lfo_bal: 0.60994238
+		a_form: 0.87300360
+		a_noise: 0.65266299
+		a_color: 0.75340736
+		a_freq: 0.66666669
+		a_mod: 0.50000000
+		b_form: 0.91829252
+		b_noise: 0.36528498
+		b_freq: 0.40797502
+		b_mod: 0.50000000
+		b_sh: 0.10417390
+		fm_amt: 0.84713721
+		fm_mod: 0.85512912
+		sub_am: 0.51416081
+		balance: 0.87618846
+		flt_freq: 0.87090427
+		flt_mod: 0.21539450
+		flt_sep: 0.12438351
+		flt_q: 0.48042595
+		flt_kf: 0.33102429
+		fx_mix: 0.86487031
+		fx_len: 0.34475344
+		fx_damp: 0.70356703
+		fx_chors: 0.20134652
+		fx_size: 0.18983167
+	}
+}

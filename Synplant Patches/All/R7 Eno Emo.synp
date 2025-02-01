@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "SM Eno Emo"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +17.34452248 ct 
+	Atonality: 28.66339386 %
+	Effect: 8.90525579 %
+	Release: 3.10167599 s 
+	WheelScale: 14.63414878 %
+	VelSens: 50.00000000 %
+	Volume: -4.68930426 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xa476635a
+	Pitch: 0.00059438
+	Cloned: false
+	Genome: {
+		env_time: 0.86679500,
+		env_loop: 0.86662281,
+		env_tilt: 0.57539451,
+		vol_atk: 0.17216945,
+		vol_dcy: 0.40605476,
+		vol_sus: 0.58670020,
+		mod_atk: 0.79455036,
+		mod_dcy: 0.59468669,
+		mod_sh: 0.60732085,
+		mod_vel: 0.62554526,
+		lfo_rate: 0.39142510,
+		lfo_amt: 0.36769241,
+		lfo_bal: 0.63716942,
+		a_form: 0.84767437,
+		a_noise: 0.21255362,
+		a_color: 0.19489259,
+		a_freq: 0.49990094,
+		a_mod: 0.47249168,
+		b_form: 0.64354056,
+		b_noise: 0.32554460,
+		b_freq: 0.51154959,
+		b_mod: 0.50536871,
+		b_sh: 0.28922188,
+		fm_amt: 0.72828341,
+		fm_mod: 0.11832631,
+		sub_am: 0.16552007,
+		balance: 0.83350676,
+		flt_freq: 0.34606850,
+		flt_mod: 0.77604413,
+		flt_sep: 0.49297875,
+		flt_q: 0.15295279,
+		flt_kf: 0.51061195,
+		fx_mix: 0.67478681,
+		fx_len: 0.51668972,
+		fx_damp: 0.81807554,
+		fx_chors: 0.06071514,
+		fx_size: 0.71780187
+	}
+}

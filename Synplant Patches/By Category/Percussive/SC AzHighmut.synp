@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE AzHighmut"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -6.48585606 sm 
+	Atonality: 60.00000238 %
+	Effect: -75.88561326 %
+	Release: 606.15314418 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -4.68930426 dB
+	Branch1: 10.86219400 %
+	Branch2: 0.00000000 %
+	Branch3: 36.68784499 %
+	Branch4: 26.39882267 %
+	Branch5: 21.73080593 %
+	Branch6: 29.88153398 %
+	Branch7: 39.64060247 %
+	Branch8: 35.35543382 %
+	Branch9: 29.88153398 %
+	Branch10: 33.97072554 %
+	Branch11: 35.42444706 %
+	Branch12: 35.33241153 %
+	Seed: 0x1aa2af6b
+	Pitch: 0.92675161
+	Cloned: false
+	Genome: {
+		env_time: 0.10739076
+		env_loop: 0.55799955
+		env_tilt: 0.30420321
+		vol_atk: 0.67238498
+		vol_dcy: 0.67661595
+		vol_sus: 0.12029713
+		mod_atk: 0.19055462
+		mod_dcy: 0.77187240
+		mod_sh: 0.36740446
+		mod_vel: 0.06038511
+		lfo_rate: 0.73925030
+		lfo_amt: 0.33541858
+		lfo_bal: 0.98223448
+		a_form: 0.22319293
+		a_noise: 0.50604153
+		a_color: 0.92080128
+		a_freq: 0.67887473
+		a_mod: 0.87684548
+		b_form: 0.08893776
+		b_noise: 0.65311205
+		b_freq: 0.64941251
+		b_mod: 0.81197762
+		b_sh: 0.79425240
+		fm_amt: 0.65574789
+		fm_mod: 0.23448563
+		sub_am: 0.00300467
+		balance: 0.49211764
+		flt_freq: 0.48087633
+		flt_mod: 0.60258484
+		flt_sep: 0.57250601
+		flt_q: 0.66593522
+		flt_kf: 0.32721168
+		fx_mix: 0.79366016
+		fx_len: 0.71484303
+		fx_damp: 0.41918856
+		fx_chors: 0.17890477
+		fx_size: 0.25836018
+	}
+}

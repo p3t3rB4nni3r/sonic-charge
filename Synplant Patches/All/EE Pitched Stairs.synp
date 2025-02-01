@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "EE Pitched Stairs"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 100.00000000 %
+	Release: 223.60679775 ms 
+	WheelScale: 87.80487776 %
+	VelSens: 50.00000000 %
+	Volume: 5.72608157 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xd92fe340
+	Pitch: -0.28566980
+	Cloned: false
+	Genome: {
+		env_time: 0.40758365,
+		env_loop: 0.23354435,
+		env_tilt: 0.45731568,
+		vol_atk: 0.12484723,
+		vol_dcy: 0.05531108,
+		vol_sus: 0.15962780,
+		mod_atk: 0.99753416,
+		mod_dcy: 0.51532459,
+		mod_sh: 0.82842660,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.80449134,
+		lfo_amt: 0.24250448,
+		lfo_bal: 0.36786014,
+		a_form: 0.88774985,
+		a_noise: 0.14356953,
+		a_color: 0.39899457,
+		a_freq: 0.38094497,
+		a_mod: 0.33666575,
+		b_form: 0.11521393,
+		b_noise: 0.39925694,
+		b_freq: 0.74518144,
+		b_mod: 0.45726573,
+		b_sh: 0.87775403,
+		fm_amt: 0.83164787,
+		fm_mod: 0.93340015,
+		sub_am: 0.13155174,
+		balance: 0.68417120,
+		flt_freq: 0.06560278,
+		flt_mod: 0.29119742,
+		flt_sep: 0.83890402,
+		flt_q: 0.81695634,
+		flt_kf: 0.66596419,
+		fx_mix: 0.61614048,
+		fx_len: 0.75767159,
+		fx_damp: 0.72360671,
+		fx_chors: 0.03352118,
+		fx_size: 0.35494933
+	}
+}

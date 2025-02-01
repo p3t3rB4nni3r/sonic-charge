@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "anotherbasV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 19.93000656 %
+	Effect: 0.00000000 %
+	Release: 362.20581981 ms 
+	WheelScale: 73.75000119 %
+	VelSens: 50.00000000 %
+	Volume: 2.75007110 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xef1fb8ea
+	Pitch: 0.01009536
+	Cloned: true
+	Genome: {
+		env_time: 0.72491032
+		env_loop: 0.50828677
+		env_tilt: 0.04780555
+		vol_atk: 0.21850872
+		vol_dcy: 0.28716975
+		vol_sus: 0.68034595
+		mod_atk: 0.48424780
+		mod_dcy: 0.16774160
+		mod_sh: 0.40884805
+		mod_vel: 0.00000000
+		lfo_rate: 0.26138079
+		lfo_amt: 0.26178229
+		lfo_bal: 0.68417841
+		a_form: 0.83956873
+		a_noise: 0.32477856
+		a_color: 0.27653527
+		a_freq: 0.16498411
+		a_mod: 0.44808567
+		b_form: 0.50757939
+		b_noise: 0.62780160
+		b_freq: 0.82958531
+		b_mod: 0.40537113
+		b_sh: 0.32767189
+		fm_amt: 0.65704018
+		fm_mod: 0.73708266
+		sub_am: 0.85667199
+		balance: 0.30972219
+		flt_freq: 0.32401460
+		flt_mod: 0.92428398
+		flt_sep: 0.36685658
+		flt_q: 0.11397278
+		flt_kf: 1.00000000
+		fx_mix: 0.54659259
+		fx_len: 0.44366604
+		fx_damp: 0.85588384
+		fx_chors: 0.49389446
+		fx_size: 0.45531967
+	}
+}

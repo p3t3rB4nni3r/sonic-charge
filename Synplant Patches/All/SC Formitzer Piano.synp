@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Formitzer Piano"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: -25.21165013 %
+	Release: 902.60928060 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 36.22047305 %
+	Branch2: 36.22047305 %
+	Branch3: 36.22047305 %
+	Branch4: 36.22047305 %
+	Branch5: 36.22047305 %
+	Branch6: 36.22047305 %
+	Branch7: 36.22047305 %
+	Branch8: 36.22047305 %
+	Branch9: 36.22047305 %
+	Branch10: 36.22047305 %
+	Branch11: 36.22047305 %
+	Branch12: 36.22047305 %
+	Seed: 0x71bf7f6f
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.64675909,
+		env_loop: 0.83100450,
+		env_tilt: 0.05641865,
+		vol_atk: 0.67357785,
+		vol_dcy: 0.18068108,
+		vol_sus: 0.18099739,
+		mod_atk: 0.98647702,
+		mod_dcy: 0.38169187,
+		mod_sh: 0.54557753,
+		mod_vel: 0.48604518,
+		lfo_rate: 0.43202806,
+		lfo_amt: 0.50612444,
+		lfo_bal: 0.17941236,
+		a_form: 0.42180496,
+		a_noise: 0.05779910,
+		a_color: 0.55466968,
+		a_freq: 0.33333334,
+		a_mod: 0.56744593,
+		b_form: 0.64946395,
+		b_noise: 0.01065779,
+		b_freq: 0.21526846,
+		b_mod: 0.48617101,
+		b_sh: 0.50978458,
+		fm_amt: 0.49787232,
+		fm_mod: 0.21468079,
+		sub_am: 0.82877177,
+		balance: 0.03911722,
+		flt_freq: 0.65108865,
+		flt_mod: 0.63287443,
+		flt_sep: 0.71035641,
+		flt_q: 0.88640624,
+		flt_kf: 0.33214515,
+		fx_mix: 0.50427938,
+		fx_len: 0.75132805,
+		fx_damp: 0.46746442,
+		fx_chors: 0.29431438,
+		fx_size: 0.24029085
+	}
+}

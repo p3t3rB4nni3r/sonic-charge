@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "NE Phazorsharp"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 5.02100019 s 
+	WheelScale: 65.85365534 %
+	VelSens: 50.00000000 %
+	Volume: -7.01031944 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x433ce05d
+	Pitch: 2.46468997
+	Cloned: false
+	Genome: {
+		env_time: 0.80557299,
+		env_loop: 0.82343072,
+		env_tilt: 0.43606353,
+		vol_atk: 0.51299131,
+		vol_dcy: 0.55339354,
+		vol_sus: 0.04313129,
+		mod_atk: 0.75772685,
+		mod_dcy: 0.85706407,
+		mod_sh: 0.04532576,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.44209981,
+		lfo_amt: 0.77719337,
+		lfo_bal: 0.34498501,
+		a_form: 0.98101163,
+		a_noise: 0.35806203,
+		a_color: 0.79010469,
+		a_freq: 0.25588500,
+		a_mod: 0.47888404,
+		b_form: 0.45363283,
+		b_noise: 0.57091868,
+		b_freq: 0.48775220,
+		b_mod: 0.51353741,
+		b_sh: 0.02532035,
+		fm_amt: 0.11920220,
+		fm_mod: 0.62952501,
+		sub_am: 0.25000000,
+		balance: 0.72921425,
+		flt_freq: 0.49386412,
+		flt_mod: 0.41611785,
+		flt_sep: 0.62674433,
+		flt_q: 0.56997567,
+		flt_kf: 0.75000000,
+		fx_mix: 0.72355109,
+		fx_len: 0.51189560,
+		fx_damp: 0.74116319,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

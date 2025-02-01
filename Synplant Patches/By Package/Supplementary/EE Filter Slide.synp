@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "EE Filter Slide"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: -19.37087178 %
+	Release: 5.61334268 s 
+	WheelScale: 56.09756112 %
+	VelSens: 50.00000000 %
+	Volume: 4.03267663 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x2449e605
+	Pitch: -0.27319002
+	Cloned: false
+	Genome: {
+		env_time: 0.56523198,
+		env_loop: 0.27980804,
+		env_tilt: 0.23896766,
+		vol_atk: 1.00000000,
+		vol_dcy: 0.63429588,
+		vol_sus: 0.78346109,
+		mod_atk: 1.00000000,
+		mod_dcy: 1.00000000,
+		mod_sh: 0.35496223,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.43241522,
+		lfo_amt: 0.88662684,
+		lfo_bal: 0.36675632,
+		a_form: 0.60946792,
+		a_noise: 0.87310326,
+		a_color: 0.54519325,
+		a_freq: 0.04553168,
+		a_mod: 0.50676668,
+		b_form: 0.21779346,
+		b_noise: 0.01229411,
+		b_freq: 0.64826220,
+		b_mod: 0.58601522,
+		b_sh: 0.54775584,
+		fm_amt: 0.86388355,
+		fm_mod: 0.84745681,
+		sub_am: 0.16477633,
+		balance: 0.93289357,
+		flt_freq: 0.33975375,
+		flt_mod: 0.99043888,
+		flt_sep: 0.89302099,
+		flt_q: 0.91255867,
+		flt_kf: 0.62161082,
+		fx_mix: 0.65764654,
+		fx_len: 0.62117136,
+		fx_damp: 0.56551337,
+		fx_chors: 0.93608207,
+		fx_size: 0.35494933
+	}
+}

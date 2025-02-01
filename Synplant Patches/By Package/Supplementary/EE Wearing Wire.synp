@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "EE Wearing Wire"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +2.22956944 sm 
+	Atonality: 0.00000000 %
+	Effect: 100.00000000 %
+	Release: 159.80617156 ms 
+	WheelScale: 0.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xa108c117
+	Pitch: -0.06272054
+	Cloned: false
+	Genome: {
+		env_time: 0.78419983,
+		env_loop: 0.60586947,
+		env_tilt: 0.30469167,
+		vol_atk: 0.01574540,
+		vol_dcy: 0.04616702,
+		vol_sus: 0.94145155,
+		mod_atk: 0.91372871,
+		mod_dcy: 0.32733285,
+		mod_sh: 0.32165504,
+		mod_vel: 0.98068988,
+		lfo_rate: 0.45369065,
+		lfo_amt: 0.87655723,
+		lfo_bal: 0.08480871,
+		a_form: 0.84243357,
+		a_noise: 0.32385707,
+		a_color: 0.38274431,
+		a_freq: 0.17712009,
+		a_mod: 0.50000000,
+		b_form: 0.60405028,
+		b_noise: 0.42584038,
+		b_freq: 0.79896218,
+		b_mod: 0.50000000,
+		b_sh: 0.37527633,
+		fm_amt: 0.68722790,
+		fm_mod: 0.60574323,
+		sub_am: 0.66314399,
+		balance: 0.81800187,
+		flt_freq: 0.71347976,
+		flt_mod: 0.02657044,
+		flt_sep: 0.30891061,
+		flt_q: 0.53754652,
+		flt_kf: 0.56298506,
+		fx_mix: 0.74836934,
+		fx_len: 0.82510370,
+		fx_damp: 0.61593944,
+		fx_chors: 0.68100262,
+		fx_size: 0.35494933
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Wheebler"
+	ModWheel: 50.39370060 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 3.97297293 %
+	Effect: -49.66251850 %
+	Release: 227.57168671 ms 
+	WheelScale: 83.00675750 %
+	VelSens: 50.00000000 %
+	Volume: 2.08673448 dB
+	Branch1: 27.82858014 %
+	Branch2: 27.82858014 %
+	Branch3: 27.82858014 %
+	Branch4: 27.82858014 %
+	Branch5: 27.82858014 %
+	Branch6: 27.82858014 %
+	Branch7: 27.82858014 %
+	Branch8: 27.82858014 %
+	Branch9: 27.82858014 %
+	Branch10: 27.82858014 %
+	Branch11: 27.82858014 %
+	Branch12: 27.82858014 %
+	Seed: 0x07ba53f8
+	Pitch: -0.47065043
+	Cloned: true
+	Genome: {
+		env_time: 0.27569538
+		env_loop: 0.53343648
+		env_tilt: 0.14123631
+		vol_atk: 0.32226264
+		vol_dcy: 0.35726941
+		vol_sus: 0.83907837
+		mod_atk: 0.80931884
+		mod_dcy: 0.14378512
+		mod_sh: 0.43189716
+		mod_vel: 0.70508277
+		lfo_rate: 0.52045226
+		lfo_amt: 0.69499713
+		lfo_bal: 0.41521484
+		a_form: 0.55537093
+		a_noise: 0.39839107
+		a_color: 0.29358327
+		a_freq: 0.57844174
+		a_mod: 0.49796247
+		b_form: 0.39295995
+		b_noise: 0.21972769
+		b_freq: 0.59777486
+		b_mod: 0.50807160
+		b_sh: 0.49758589
+		fm_amt: 0.67723769
+		fm_mod: 0.31705415
+		sub_am: 0.82768619
+		balance: 0.54546529
+		flt_freq: 0.47300434
+		flt_mod: 0.97652978
+		flt_sep: 0.38890576
+		flt_q: 0.30095565
+		flt_kf: 0.12955630
+		fx_mix: 0.21402323
+		fx_len: 0.88342065
+		fx_damp: 0.52828932
+		fx_chors: 0.63496220
+		fx_size: 0.28909576
+	}
+}

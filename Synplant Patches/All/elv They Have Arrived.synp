@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "elv They Have Arrived"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 5.48299910 s 
+	WheelScale: 17.00000018 %
+	VelSens: 50.00000000 %
+	Volume: 3.84000041 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x5e875d61
+	Pitch: -0.00000012
+	Cloned: false
+	Genome: {
+		env_time: 0.64509428
+		env_loop: 0.62087297
+		env_tilt: 0.13398582
+		vol_atk: 0.09265661
+		vol_dcy: 0.84313208
+		vol_sus: 0.23788118
+		mod_atk: 0.67422843
+		mod_dcy: 0.42722589
+		mod_sh: 0.16714579
+		mod_vel: 0.72347009
+		lfo_rate: 0.98053491
+		lfo_amt: 0.32969844
+		lfo_bal: 0.26326948
+		a_form: 0.42706656
+		a_noise: 0.24548149
+		a_color: 0.09027767
+		a_freq: 0.16666669
+		a_mod: 0.34415942
+		b_form: 0.25513291
+		b_noise: 0.69405460
+		b_freq: 0.61500001
+		b_mod: 0.37862229
+		b_sh: 0.80274367
+		fm_amt: 0.57075703
+		fm_mod: 0.27103233
+		sub_am: 0.60758340
+		balance: 0.12482679
+		flt_freq: 0.96794343
+		flt_mod: 0.10326469
+		flt_sep: 0.29911661
+		flt_q: 0.03647196
+		flt_kf: 0.84898031
+		fx_mix: 0.60961431
+		fx_len: 0.85264868
+		fx_damp: 0.88598090
+		fx_chors: 0.80250674
+		fx_size: 0.50000000
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Dirty Organ"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 50.00000000 ms 
+	WheelScale: 71.95121646 %
+	VelSens: 0.00000000 %
+	Volume: 6.29746688 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x1c45b279
+	Pitch: 0.16193390
+	Cloned: true
+	Genome: {
+		env_time: 0.15530789,
+		env_loop: 0.09299565,
+		env_tilt: 0.54592246,
+		vol_atk: 0.89810818,
+		vol_dcy: 0.58167940,
+		vol_sus: 0.81981039,
+		mod_atk: 0.19097972,
+		mod_dcy: 0.02925831,
+		mod_sh: 0.92931956,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.69519067,
+		lfo_amt: 0.70744574,
+		lfo_bal: 0.37197435,
+		a_form: 0.20959115,
+		a_noise: 0.46772408,
+		a_color: 0.01722634,
+		a_freq: 0.47301102,
+		a_mod: 0.51639205,
+		b_form: 0.22923350,
+		b_noise: 0.83114022,
+		b_freq: 0.68872136,
+		b_mod: 0.52500969,
+		b_sh: 0.44054747,
+		fm_amt: 0.47706985,
+		fm_mod: 0.78981030,
+		sub_am: 0.25000000,
+		balance: 0.91487122,
+		flt_freq: 0.20289505,
+		flt_mod: 0.18683815,
+		flt_sep: 0.36082453,
+		flt_q: 0.96180636,
+		flt_kf: 0.75000000,
+		fx_mix: 0.02406090,
+		fx_len: 0.42843214,
+		fx_damp: 0.35727876,
+		fx_chors: 0.25000000,
+		fx_size: 0.47277755
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Stringverb"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: 100.00000000 %
+	Release: 772.29207499 ms 
+	WheelScale: 42.92683005 %
+	VelSens: 50.00000000 %
+	Volume: 2.75007110 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x3491be8a
+	Pitch: 1.46468997
+	Cloned: false
+	Genome: {
+		env_time: 0.67380464
+		env_loop: 0.82790285
+		env_tilt: 0.48790371
+		vol_atk: 0.41901863
+		vol_dcy: 0.66108006
+		vol_sus: 1.00000000
+		mod_atk: 0.99919820
+		mod_dcy: 0.51840687
+		mod_sh: 0.05032158
+		mod_vel: 0.76427829
+		lfo_rate: 0.54622608
+		lfo_amt: 0.80225170
+		lfo_bal: 0.60075665
+		a_form: 0.87210703
+		a_noise: 0.84859121
+		a_color: 0.75807261
+		a_freq: 0.25588500
+		a_mod: 0.50017852
+		b_form: 0.11159782
+		b_noise: 0.39606690
+		b_freq: 0.49146211
+		b_mod: 0.49966085
+		b_sh: 0.24138331
+		fm_amt: 0.21939766
+		fm_mod: 0.57220691
+		sub_am: 0.15755463
+		balance: 0.71293414
+		flt_freq: 0.62684727
+		flt_mod: 0.66636080
+		flt_sep: 0.00000000
+		flt_q: 0.12215889
+		flt_kf: 0.54581046
+		fx_mix: 0.67162895
+		fx_len: 0.63843948
+		fx_damp: 0.33248532
+		fx_chors: 0.28701246
+		fx_size: 0.63704735
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Saxtion"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 24.60301220 %
+	Effect: -57.07987547 %
+	Release: 256.77694865 ms 
+	WheelScale: 36.25000119 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xdfafcfcb
+	Pitch: 0.46306610
+	Cloned: true
+	Genome: {
+		env_time: 0.41671431,
+		env_loop: 0.33351451,
+		env_tilt: 0.50510907,
+		vol_atk: 0.81059122,
+		vol_dcy: 0.45612121,
+		vol_sus: 0.96736014,
+		mod_atk: 0.36591417,
+		mod_dcy: 0.22994065,
+		mod_sh: 0.71055740,
+		mod_vel: 0.06683803,
+		lfo_rate: 0.07698065,
+		lfo_amt: 0.18242419,
+		lfo_bal: 0.13712621,
+		a_form: 0.12471569,
+		a_noise: 0.80422181,
+		a_color: 0.29745531,
+		a_freq: 0.42282230,
+		a_mod: 0.52815092,
+		b_form: 0.67200661,
+		b_noise: 0.42301941,
+		b_freq: 0.67245495,
+		b_mod: 0.42970753,
+		b_sh: 0.03796369,
+		fm_amt: 0.84374392,
+		fm_mod: 0.72395688,
+		sub_am: 0.67566842,
+		balance: 0.18546665,
+		flt_freq: 0.67537522,
+		flt_mod: 0.88389921,
+		flt_sep: 0.86663103,
+		flt_q: 0.08208585,
+		flt_kf: 0.09212387,
+		fx_mix: 0.81731176,
+		fx_len: 0.58359945,
+		fx_damp: 0.21112645,
+		fx_chors: 0.56230748,
+		fx_size: 0.23519453
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Vocodoodoo"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -75.17774105 ct 
+	Atonality: 0.00000000 %
+	Effect: 46.98538780 %
+	Release: 3.12863123 s 
+	WheelScale: 85.74999571 %
+	VelSens: 50.00000000 %
+	Volume: -1.48001199 dB
+	Branch1: 1.45474318 %
+	Branch2: 1.45474318 %
+	Branch3: 1.45474318 %
+	Branch4: 1.45474318 %
+	Branch5: 1.45474318 %
+	Branch6: 1.45474318 %
+	Branch7: 1.45474318 %
+	Branch8: 1.45474318 %
+	Branch9: 1.45474318 %
+	Branch10: 1.45474318 %
+	Branch11: 1.45474318 %
+	Branch12: 1.45474318 %
+	Seed: 0x04c1767c
+	Pitch: -1.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.72167695,
+		env_loop: 0.29079503,
+		env_tilt: 0.75407732,
+		vol_atk: 0.72990412,
+		vol_dcy: 0.11647910,
+		vol_sus: 0.63795251,
+		mod_atk: 0.47403145,
+		mod_dcy: 0.98051655,
+		mod_sh: 0.87911350,
+		mod_vel: 0.46240997,
+		lfo_rate: 0.15196604,
+		lfo_amt: 0.47611767,
+		lfo_bal: 0.43773365,
+		a_form: 0.07314610,
+		a_noise: 0.85087383,
+		a_color: 0.37406296,
+		a_freq: 0.50000000,
+		a_mod: 0.50000000,
+		b_form: 0.21735477,
+		b_noise: 0.60316253,
+		b_freq: 0.61074173,
+		b_mod: 0.50000000,
+		b_sh: 0.45927685,
+		fm_amt: 0.09852642,
+		fm_mod: 0.02237213,
+		sub_am: 0.36410451,
+		balance: 0.49709630,
+		flt_freq: 0.35273385,
+		flt_mod: 0.86187047,
+		flt_sep: 0.76765406,
+		flt_q: 0.94130343,
+		flt_kf: 0.50593519,
+		fx_mix: 0.06620663,
+		fx_len: 0.72522151,
+		fx_damp: 0.03765875,
+		fx_chors: 0.10619062,
+		fx_size: 0.33909833
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "NE Velocityraptor"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 20.63766122 %
+	Effect: -45.03289461 %
+	Release: 50.00000000 ms 
+	WheelScale: 58.53658319 %
+	VelSens: 20.73170692 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xcae2a8b9
+	Pitch: 1.50115919
+	Cloned: true
+	Genome: {
+		env_time: 1.00000000,
+		env_loop: 1.00000000,
+		env_tilt: 0.00000000,
+		vol_atk: 1.00000000,
+		vol_dcy: 0.61142910,
+		vol_sus: 0.82199067,
+		mod_atk: 1.00000000,
+		mod_dcy: 0.56605417,
+		mod_sh: 0.35260367,
+		mod_vel: 0.90311992,
+		lfo_rate: 0.29078305,
+		lfo_amt: 0.40792274,
+		lfo_bal: 0.69070363,
+		a_form: 0.85948622,
+		a_noise: 0.50902927,
+		a_color: 0.66174126,
+		a_freq: 0.08314013,
+		a_mod: 0.49923187,
+		b_form: 0.56531239,
+		b_noise: 0.05955255,
+		b_freq: 0.52153409,
+		b_mod: 0.48319471,
+		b_sh: 0.37994802,
+		fm_amt: 0.63008988,
+		fm_mod: 0.92165273,
+		sub_am: 0.65044475,
+		balance: 0.84113443,
+		flt_freq: 0.21358687,
+		flt_mod: 0.85900301,
+		flt_sep: 0.13855439,
+		flt_q: 0.68328750,
+		flt_kf: 0.80541492,
+		fx_mix: 0.65769082,
+		fx_len: 0.26657462,
+		fx_damp: 0.43031883,
+		fx_chors: 0.79523224,
+		fx_size: 0.71663475
+	}
+}

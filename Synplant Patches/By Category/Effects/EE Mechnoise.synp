@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 4
+	Name: "EE Mechnoise"
+	ModWheel: 56.55494928 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00214577 ct 
+	Atonality: 0.00000000 %
+	Effect: 85.73048115 %
+	Release: 3.57301065 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xfa299cf1
+	Pitch: -0.00000179
+	Cloned: false
+	Genome: {
+		env_time: 0.30201668,
+		env_loop: 0.65633655,
+		env_tilt: 0.52939838,
+		vol_atk: 0.88877547,
+		vol_dcy: 0.69652116,
+		vol_sus: 0.84938359,
+		mod_atk: 0.50888318,
+		mod_dcy: 0.95721549,
+		mod_sh: 0.58518231,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.20409933,
+		lfo_amt: 0.52221692,
+		lfo_bal: 0.12534165,
+		a_form: 0.94422603,
+		a_noise: 0.85790932,
+		a_color: 0.51913202,
+		a_freq: 0.50000030,
+		a_mod: 0.50188786,
+		b_form: 0.24260616,
+		b_noise: 0.65469372,
+		b_freq: 0.67438394,
+		b_mod: 0.50188786,
+		b_sh: 0.86478448,
+		fm_amt: 0.20798379,
+		fm_mod: 0.92883146,
+		sub_am: 0.11495745,
+		balance: 0.93626857,
+		flt_freq: 0.10374755,
+		flt_mod: 0.20309669,
+		flt_sep: 0.55168402,
+		flt_q: 0.25678921,
+		flt_kf: 0.55361634,
+		fx_mix: 0.23221135,
+		fx_len: 0.43529603,
+		fx_damp: 0.96771276,
+		fx_chors: 0.00159603,
+		fx_size: 0.35494933
+	}
+}

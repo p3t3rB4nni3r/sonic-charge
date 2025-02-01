@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Klavi Lectron"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 114.99999654 ms 
+	WheelScale: 37.80488074 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xfadf25ad
+	Pitch: -1.06828737
+	Cloned: false
+	Genome: {
+		env_time: 0.73345107,
+		env_loop: 0.74754018,
+		env_tilt: 0.08358490,
+		vol_atk: 0.08413971,
+		vol_dcy: 0.53607678,
+		vol_sus: 0.00000000,
+		mod_atk: 0.93028742,
+		mod_dcy: 0.09611598,
+		mod_sh: 0.61179072,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.48571989,
+		lfo_amt: 0.20997354,
+		lfo_bal: 0.84362417,
+		a_form: 0.37563518,
+		a_noise: 0.52596396,
+		a_color: 0.54434025,
+		a_freq: 0.67804790,
+		a_mod: 0.49755213,
+		b_form: 0.35577619,
+		b_noise: 0.40430847,
+		b_freq: 0.50653893,
+		b_mod: 0.49559015,
+		b_sh: 0.32928041,
+		fm_amt: 0.62866431,
+		fm_mod: 0.36953744,
+		sub_am: 0.25000000,
+		balance: 0.00000008,
+		flt_freq: 0.64866495,
+		flt_mod: 0.62542933,
+		flt_sep: 0.49998808,
+		flt_q: 0.35241610,
+		flt_kf: 0.13642649,
+		fx_mix: 0.56822091,
+		fx_len: 0.65583402,
+		fx_damp: 0.97940969,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TH EdLibs"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 47.99999893 %
+	Effect: -67.94082224 %
+	Release: 269.66706869 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 0.00000000 %
+	Volume: -3.85290156 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xd4626c3b
+	Pitch: -1.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.26655734,
+		env_loop: 1.00000000,
+		env_tilt: 0.16006246,
+		vol_atk: 0.16928588,
+		vol_dcy: 0.93373144,
+		vol_sus: 0.81465483,
+		mod_atk: 0.45833683,
+		mod_dcy: 0.07721066,
+		mod_sh: 0.11899161,
+		mod_vel: 0.76106369,
+		lfo_rate: 0.20823361,
+		lfo_amt: 0.38184592,
+		lfo_bal: 0.23765922,
+		a_form: 0.79226822,
+		a_noise: 0.83853269,
+		a_color: 0.32193100,
+		a_freq: 0.49990115,
+		a_mod: 0.71886110,
+		b_form: 0.75768626,
+		b_noise: 0.47091252,
+		b_freq: 0.24986602,
+		b_mod: 0.46268940,
+		b_sh: 0.16408944,
+		fm_amt: 0.44965273,
+		fm_mod: 0.14431596,
+		sub_am: 0.67717576,
+		balance: 0.48246399,
+		flt_freq: 0.34764418,
+		flt_mod: 0.91444701,
+		flt_sep: 0.67778921,
+		flt_q: 0.44934464,
+		flt_kf: 0.63345391,
+		fx_mix: 0.12296248,
+		fx_len: 0.11002049,
+		fx_damp: 0.76818866,
+		fx_chors: 1.00000000,
+		fx_size: 0.69107759
+	}
+}

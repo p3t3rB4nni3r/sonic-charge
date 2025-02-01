@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Need Love Arped"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 4.57542501 %
+	Effect: -30.50034046 %
+	Release: 271.81466327 ms 
+	WheelScale: 69.51219440 %
+	VelSens: 50.00000000 %
+	Volume: -3.85290156 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xacbcb56a
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.77507180
+		env_loop: 0.31776100
+		env_tilt: 0.16376376
+		vol_atk: 0.24989295
+		vol_dcy: 0.72078627
+		vol_sus: 0.09179187
+		mod_atk: 0.21447289
+		mod_dcy: 0.90908790
+		mod_sh: 0.59394026
+		mod_vel: 0.02838194
+		lfo_rate: 0.59148699
+		lfo_amt: 0.79954273
+		lfo_bal: 0.36062175
+		a_form: 0.54128420
+		a_noise: 0.77827090
+		a_color: 0.30031741
+		a_freq: 0.66666669
+		a_mod: 0.50783992
+		b_form: 0.98156261
+		b_noise: 0.53546357
+		b_freq: 0.86294341
+		b_mod: 0.51626086
+		b_sh: 0.69603348
+		fm_amt: 0.68300223
+		fm_mod: 0.75714153
+		sub_am: 0.63654393
+		balance: 0.43396854
+		flt_freq: 0.16899198
+		flt_mod: 0.66016132
+		flt_sep: 0.43972486
+		flt_q: 0.55187249
+		flt_kf: 0.48012757
+		fx_mix: 0.98647594
+		fx_len: 0.47441334
+		fx_damp: 0.35272586
+		fx_chors: 0.82380909
+		fx_size: 0.38030118
+	}
+}

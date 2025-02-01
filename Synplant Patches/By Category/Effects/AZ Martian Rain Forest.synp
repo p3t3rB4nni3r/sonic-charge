@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Martian Rain Forest"
+	ModWheel: 96.06299400 %
+	Rotation: 0.00000000 degrees
+	Tuning: -54.68480587 ct 
+	Atonality: 74.87462759 %
+	Effect: 0.00000000 %
+	Release: 2.95129414 s 
+	WheelScale: 100.00000000 %
+	VelSens: 0.00000000 %
+	Volume: -6.43856147 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x6d0e86b7
+	Pitch: 0.04977512
+	Cloned: true
+	Genome: {
+		env_time: 0.63558245
+		env_loop: 0.81048441
+		env_tilt: 0.79268289
+		vol_atk: 0.63432604
+		vol_dcy: 0.60208690
+		vol_sus: 0.72075355
+		mod_atk: 0.56367415
+		mod_dcy: 0.07320035
+		mod_sh: 0.57172012
+		mod_vel: 0.98640859
+		lfo_rate: 0.93762380
+		lfo_amt: 0.50059962
+		lfo_bal: 0.90954989
+		a_form: 0.86203629
+		a_noise: 0.10398602
+		a_color: 0.52719688
+		a_freq: 0.99170411
+		a_mod: 0.16502303
+		b_form: 0.08617455
+		b_noise: 0.31822175
+		b_freq: 0.00269580
+		b_mod: 0.60740423
+		b_sh: 0.65413284
+		fm_amt: 0.39636028
+		fm_mod: 0.91182625
+		sub_am: 0.59327126
+		balance: 0.45835936
+		flt_freq: 0.24398863
+		flt_mod: 0.60751390
+		flt_sep: 0.33001864
+		flt_q: 0.58790475
+		flt_kf: 0.11857343
+		fx_mix: 0.86064249
+		fx_len: 0.73086441
+		fx_damp: 0.24760407
+		fx_chors: 0.47762263
+		fx_size: 0.48290378
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Cheese"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 18.25986356 %
+	Effect: 16.37502909 %
+	Release: 17.50703692 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x75c2cee5
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.77759504
+		env_loop: 0.38478327
+		env_tilt: 0.07908326
+		vol_atk: 0.91464329
+		vol_dcy: 0.80750382
+		vol_sus: 0.41391045
+		mod_atk: 0.43366763
+		mod_dcy: 0.86251253
+		mod_sh: 0.58304864
+		mod_vel: 0.62858611
+		lfo_rate: 0.43646738
+		lfo_amt: 1.00000000
+		lfo_bal: 0.67616892
+		a_form: 0.41904223
+		a_noise: 0.78216767
+		a_color: 1.00000000
+		a_freq: 0.50000006
+		a_mod: 0.50595307
+		b_form: 0.87011421
+		b_noise: 0.62790978
+		b_freq: 0.57904708
+		b_mod: 0.43273017
+		b_sh: 0.62134516
+		fm_amt: 0.35907894
+		fm_mod: 1.00000000
+		sub_am: 1.00000000
+		balance: 0.30835903
+		flt_freq: 0.22705111
+		flt_mod: 0.81247616
+		flt_sep: 0.44921792
+		flt_q: 0.77704161
+		flt_kf: 0.17104253
+		fx_mix: 0.22012666
+		fx_len: 0.32698810
+		fx_damp: 0.30019659
+		fx_chors: 0.02770180
+		fx_size: 0.54592532
+	}
+}

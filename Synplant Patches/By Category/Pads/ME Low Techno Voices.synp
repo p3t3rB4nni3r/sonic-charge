@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 3
+	Name: "ME Low Techno Voices"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: -12.47818470 %
+	Release: 173.89239045 ms 
+	WheelScale: 76.82926655 %
+	VelSens: 50.00000000 %
+	Volume: -3.85290156 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xbde5ca28
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.91882640,
+		env_loop: 0.81328648,
+		env_tilt: 0.20191693,
+		vol_atk: 0.38247401,
+		vol_dcy: 0.83864892,
+		vol_sus: 0.38295734,
+		mod_atk: 0.90333426,
+		mod_dcy: 0.54052848,
+		mod_sh: 0.25713986,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.03411102,
+		lfo_amt: 0.41260600,
+		lfo_bal: 0.36237288,
+		a_form: 0.29614723,
+		a_noise: 0.42653000,
+		a_color: 0.93260479,
+		a_freq: 0.50000000,
+		a_mod: 0.50000000,
+		b_form: 0.29623711,
+		b_noise: 0.03236830,
+		b_freq: 0.50000000,
+		b_mod: 0.50000000,
+		b_sh: 0.77359504,
+		fm_amt: 0.73608035,
+		fm_mod: 0.29069042,
+		sub_am: 0.92652661,
+		balance: 0.52532005,
+		flt_freq: 0.51666307,
+		flt_mod: 0.66005588,
+		flt_sep: 0.15967429,
+		flt_q: 0.58833802,
+		flt_kf: 0.75000000,
+		fx_mix: 0.97691023,
+		fx_len: 0.80725467,
+		fx_damp: 0.11204958,
+		fx_chors: 0.79221654,
+		fx_size: 0.35494933
+	}
+}

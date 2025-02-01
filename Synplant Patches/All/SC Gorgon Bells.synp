@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "gorgusfmbellsV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 52.54328251 %
+	Effect: 0.00000000 %
+	Release: 4.29266975 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00939216 dB
+	Branch1: 10.86219400 %
+	Branch2: 2.40963846 %
+	Branch3: 2.95884833 %
+	Branch4: 6.78993016 %
+	Branch5: 13.05764914 %
+	Branch6: 7.88743794 %
+	Branch7: 5.89476079 %
+	Branch8: 6.21717535 %
+	Branch9: 15.74623734 %
+	Branch10: 16.99753106 %
+	Branch11: 17.30491966 %
+	Branch12: 19.99756545 %
+	Seed: 0xd1252d7e
+	Pitch: -0.75795078
+	Cloned: true
+	Genome: {
+		env_time: 0.45849609
+		env_loop: 0.59619141
+		env_tilt: 0.11004639
+		vol_atk: 0.95361328
+		vol_dcy: 0.58300781
+		vol_sus: 0.76171875
+		mod_atk: 0.37207031
+		mod_dcy: 0.35009766
+		mod_sh: 0.64257812
+		mod_vel: 0.00000000
+		lfo_rate: 0.46142578
+		lfo_amt: 0.83374023
+		lfo_bal: 0.95361328
+		a_form: 0.02114868
+		a_noise: 0.27197266
+		a_color: 0.48754883
+		a_freq: 0.79299176
+		a_mod: 0.53173828
+		b_form: 0.21533203
+		b_noise: 0.34570312
+		b_freq: 0.71435547
+		b_mod: 0.48193359
+		b_sh: 0.66601562
+		fm_amt: 0.28613281
+		fm_mod: 0.00000000
+		sub_am: 0.12719727
+		balance: 0.00144863
+		flt_freq: 0.16247559
+		flt_mod: 0.88281250
+		flt_sep: 0.75097656
+		flt_q: 0.34770107
+		flt_kf: 1.00000000
+		fx_mix: 0.52539062
+		fx_len: 0.66845781
+		fx_damp: 0.62792969
+		fx_chors: 0.48217773
+		fx_size: 0.34985352
+	}
+}

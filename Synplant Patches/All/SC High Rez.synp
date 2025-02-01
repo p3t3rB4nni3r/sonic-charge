@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "myskotones v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 29.08779979 %
+	Effect: 0.00000000 %
+	Release: 20.00000000 s 
+	WheelScale: 27.50000060 %
+	VelSens: 50.00000000 %
+	Volume: -2.71391899 dB
+	Branch1: 26.93272531 %
+	Branch2: 24.26422834 %
+	Branch3: 24.11039323 %
+	Branch4: 22.86287248 %
+	Branch5: 27.67154276 %
+	Branch6: 24.91645664 %
+	Branch7: 29.00531292 %
+	Branch8: 38.76199722 %
+	Branch9: 29.88153398 %
+	Branch10: 25.76467693 %
+	Branch11: 25.21899343 %
+	Branch12: 27.23737061 %
+	Seed: 0x8bec07e1
+	Pitch: -0.09166265
+	Cloned: false
+	Genome: {
+		env_time: 0.70384824
+		env_loop: 0.98268896
+		env_tilt: 0.89018744
+		vol_atk: 0.87390238
+		vol_dcy: 0.62258953
+		vol_sus: 0.94053179
+		mod_atk: 0.27685720
+		mod_dcy: 0.50258052
+		mod_sh: 0.30321842
+		mod_vel: 0.00000000
+		lfo_rate: 0.04176128
+		lfo_amt: 0.51885074
+		lfo_bal: 0.43666470
+		a_form: 0.80840313
+		a_noise: 0.12075716
+		a_color: 0.41287363
+		a_freq: 0.18194377
+		a_mod: 0.52234834
+		b_form: 0.13612753
+		b_noise: 0.78154802
+		b_freq: 0.15474921
+		b_mod: 0.48882902
+		b_sh: 0.86580223
+		fm_amt: 0.42597175
+		fm_mod: 0.51072830
+		sub_am: 0.13617694
+		balance: 0.63312227
+		flt_freq: 0.38547611
+		flt_mod: 0.99434918
+		flt_sep: 0.39780033
+		flt_q: 0.74904633
+		flt_kf: 1.00000000
+		fx_mix: 0.58134848
+		fx_len: 0.14836097
+		fx_damp: 0.30307472
+		fx_chors: 0.19899648
+		fx_size: 0.64151615
+	}
+}

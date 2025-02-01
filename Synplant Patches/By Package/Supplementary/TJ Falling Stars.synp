@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 4
+	Name: "TJ Falling Stars"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 50.00000000 %
+	Effect: 29.91838455 %
+	Release: 50.00000000 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 58.89163613 %
+	Branch2: 58.89163613 %
+	Branch3: 58.89163613 %
+	Branch4: 58.89163613 %
+	Branch5: 58.89163613 %
+	Branch6: 58.89163613 %
+	Branch7: 58.89163613 %
+	Branch8: 58.89163613 %
+	Branch9: 58.89163613 %
+	Branch10: 58.89163613 %
+	Branch11: 58.89163613 %
+	Branch12: 58.89163613 %
+	Seed: 0xe567e273
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.81443703,
+		env_loop: 0.63703221,
+		env_tilt: 0.26395607,
+		vol_atk: 0.15495950,
+		vol_dcy: 0.44670719,
+		vol_sus: 0.70720434,
+		mod_atk: 0.12690127,
+		mod_dcy: 0.88255030,
+		mod_sh: 0.19837546,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.72157222,
+		lfo_amt: 0.84959483,
+		lfo_bal: 0.32431704,
+		a_form: 0.78685105,
+		a_noise: 0.73057222,
+		a_color: 0.83801967,
+		a_freq: 0.50000000,
+		a_mod: 0.79697883,
+		b_form: 0.54691619,
+		b_noise: 0.40730745,
+		b_freq: 0.50573415,
+		b_mod: 0.68165559,
+		b_sh: 0.69640541,
+		fm_amt: 0.57450390,
+		fm_mod: 0.75498623,
+		sub_am: 0.81549823,
+		balance: 0.31133628,
+		flt_freq: 0.22958755,
+		flt_mod: 0.99421573,
+		flt_sep: 0.48299861,
+		flt_q: 0.96849042,
+		flt_kf: 0.28910589,
+		fx_mix: 0.67240101,
+		fx_len: 0.63111961,
+		fx_damp: 0.08527499,
+		fx_chors: 0.50453079,
+		fx_size: 0.35494933
+	}
+}

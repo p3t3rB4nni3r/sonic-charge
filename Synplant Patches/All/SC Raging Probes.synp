@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Raging Probes"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -4.61741495 sm 
+	Atonality: 63.21026087 %
+	Effect: -100.00000000 %
+	Release: 100.99999879 ms 
+	WheelScale: 62.50000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 48.43144715 %
+	Branch2: 69.46961284 %
+	Branch3: 83.55081081 %
+	Branch4: 86.54388785 %
+	Branch5: 86.49941683 %
+	Branch6: 40.97442329 %
+	Branch7: 89.15662766 %
+	Branch8: 48.11623693 %
+	Branch9: 40.53980112 %
+	Branch10: 44.59839165 %
+	Branch11: 53.29029560 %
+	Branch12: 48.15451205 %
+	Seed: 0x4edbb97d
+	Pitch: 0.18951249
+	Cloned: false
+	Genome: {
+		env_time: 0.99870801
+		env_loop: 0.08958602
+		env_tilt: 0.38503486
+		vol_atk: 0.62517643
+		vol_dcy: 0.53140855
+		vol_sus: 0.34233201
+		mod_atk: 0.74463630
+		mod_dcy: 0.31601822
+		mod_sh: 0.71359491
+		mod_vel: 0.61602044
+		lfo_rate: 0.85655546
+		lfo_amt: 0.62236929
+		lfo_bal: 0.69089890
+		a_form: 0.32850879
+		a_noise: 0.03999424
+		a_color: 0.79744506
+		a_freq: 0.30174792
+		a_mod: 0.82887435
+		b_form: 0.95343727
+		b_noise: 0.18285173
+		b_freq: 0.88966495
+		b_mod: 0.32301068
+		b_sh: 0.74429822
+		fm_amt: 0.20561677
+		fm_mod: 0.35281348
+		sub_am: 0.59498370
+		balance: 0.24878860
+		flt_freq: 0.95307267
+		flt_mod: 0.19706416
+		flt_sep: 0.61784720
+		flt_q: 0.53713715
+		flt_kf: 0.56542325
+		fx_mix: 0.86598408
+		fx_len: 0.87945235
+		fx_damp: 0.97178972
+		fx_chors: 0.60244691
+		fx_size: 0.31839460
+	}
+}

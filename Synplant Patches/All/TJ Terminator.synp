@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TJ Terminator"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +10.17808914 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 1.12599985 s 
+	WheelScale: 35.00000238 %
+	VelSens: 50.00000000 %
+	Volume: -3.11784622 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xc7ed21c5
+	Pitch: 0.75922155
+	Cloned: false
+	Genome: {
+		env_time: 0.08859098,
+		env_loop: 0.15673465,
+		env_tilt: 0.98014390,
+		vol_atk: 0.86982965,
+		vol_dcy: 0.84551251,
+		vol_sus: 0.94212520,
+		mod_atk: 0.03480858,
+		mod_dcy: 0.50836831,
+		mod_sh: 0.95725965,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.17321885,
+		lfo_amt: 0.49495125,
+		lfo_bal: 0.20398855,
+		a_form: 0.33648014,
+		a_noise: 0.62054592,
+		a_color: 0.65904045,
+		a_freq: 0.20679641,
+		a_mod: 0.68193948,
+		b_form: 0.66039324,
+		b_noise: 0.60737592,
+		b_freq: 0.47743535,
+		b_mod: 0.54420120,
+		b_sh: 0.13130558,
+		fm_amt: 0.14596510,
+		fm_mod: 0.80905408,
+		sub_am: 0.25000000,
+		balance: 0.55961436,
+		flt_freq: 0.15331012,
+		flt_mod: 0.12667608,
+		flt_sep: 0.68731606,
+		flt_q: 0.82584065,
+		flt_kf: 0.75000000,
+		fx_mix: 0.88813752,
+		fx_len: 0.40403342,
+		fx_damp: 0.46215522,
+		fx_chors: 0.18753099,
+		fx_size: 0.35494933
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Octavation"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 100.00000000 %
+	Release: 271.81466327 ms 
+	WheelScale: 69.51219440 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x17bebc56
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.75305486
+		env_loop: 0.25888091
+		env_tilt: 0.75048923
+		vol_atk: 0.44267347
+		vol_dcy: 0.35252845
+		vol_sus: 0.52624226
+		mod_atk: 0.29674554
+		mod_dcy: 0.25442755
+		mod_sh: 0.66632801
+		mod_vel: 0.40014824
+		lfo_rate: 0.44581047
+		lfo_amt: 0.95491374
+		lfo_bal: 0.32857123
+		a_form: 0.68233085
+		a_noise: 0.59310484
+		a_color: 0.34820911
+		a_freq: 0.66666549
+		a_mod: 0.50000095
+		b_form: 0.24049987
+		b_noise: 0.47040632
+		b_freq: 0.51675063
+		b_mod: 0.50000060
+		b_sh: 0.70547885
+		fm_amt: 0.26000261
+		fm_mod: 0.56617022
+		sub_am: 0.00000000
+		balance: 0.32713947
+		flt_freq: 0.69421852
+		flt_mod: 0.78611326
+		flt_sep: 0.99846911
+		flt_q: 0.74260676
+		flt_kf: 0.69157809
+		fx_mix: 0.88138008
+		fx_len: 0.56325400
+		fx_damp: 0.76490206
+		fx_chors: 0.74123716
+		fx_size: 0.72277790
+	}
+}

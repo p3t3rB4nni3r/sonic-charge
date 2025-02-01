@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "JJ MetallicWubberBass"
+	ModWheel: 52.98653245 %
+	Rotation: 0.00000000 degrees
+	Tuning: -2.00378108 sm 
+	Atonality: 0.00000000 %
+	Effect: -49.71584082 %
+	Release: 114.48636116 ms 
+	WheelScale: 9.75609720 %
+	VelSens: 50.00000000 %
+	Volume: 4.03267663 dB
+	Branch1: 12.78600991 %
+	Branch2: 12.78600991 %
+	Branch3: 12.78600991 %
+	Branch4: 12.78600991 %
+	Branch5: 12.78600991 %
+	Branch6: 12.78600991 %
+	Branch7: 12.78600991 %
+	Branch8: 12.78600991 %
+	Branch9: 12.78600991 %
+	Branch10: 13.94952089 %
+	Branch11: 26.50158107 %
+	Branch12: 12.78600991 %
+	Seed: 0x9f267180
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.49592313
+		env_loop: 0.35864806
+		env_tilt: 0.81735426
+		vol_atk: 0.76266783
+		vol_dcy: 0.47531837
+		vol_sus: 0.39882866
+		mod_atk: 0.28381371
+		mod_dcy: 0.38890240
+		mod_sh: 0.32009190
+		mod_vel: 0.42686418
+		lfo_rate: 0.56672066
+		lfo_amt: 0.32642651
+		lfo_bal: 0.54321039
+		a_form: 0.53795034
+		a_noise: 0.00449920
+		a_color: 0.24445516
+		a_freq: 0.66414934
+		a_mod: 0.49999967
+		b_form: 0.26404417
+		b_noise: 0.16619699
+		b_freq: 0.53433484
+		b_mod: 0.48708263
+		b_sh: 0.53520262
+		fm_amt: 0.19285783
+		fm_mod: 0.67582649
+		sub_am: 0.80987114
+		balance: 0.62131321
+		flt_freq: 0.45271522
+		flt_mod: 0.69567764
+		flt_sep: 0.54160523
+		flt_q: 0.34610701
+		flt_kf: 0.88026106
+		fx_mix: 0.61701071
+		fx_len: 0.16814467
+		fx_damp: 1.00000000
+		fx_chors: 0.00000000
+		fx_size: 0.33395013
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "WetBassE v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 12.94002831 %
+	Effect: -51.61908865 %
+	Release: 508.99464469 ms 
+	WheelScale: 67.50000119 %
+	VelSens: 17.49999970 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x07400f99
+	Pitch: 0.23489285
+	Cloned: true
+	Genome: {
+		env_time: 0.35951018
+		env_loop: 0.33934426
+		env_tilt: 0.25560588
+		vol_atk: 0.19258541
+		vol_dcy: 0.93036407
+		vol_sus: 0.90806699
+		mod_atk: 0.57767040
+		mod_dcy: 0.01347166
+		mod_sh: 0.31671727
+		mod_vel: 0.00000000
+		lfo_rate: 0.64085233
+		lfo_amt: 0.00000000
+		lfo_bal: 0.64169288
+		a_form: 0.49190855
+		a_noise: 0.91945595
+		a_color: 0.76163155
+		a_freq: 0.46085119
+		a_mod: 0.42908716
+		b_form: 0.46700436
+		b_noise: 0.06494713
+		b_freq: 0.40049267
+		b_mod: 0.63350904
+		b_sh: 0.16840631
+		fm_amt: 0.73632073
+		fm_mod: 0.55522799
+		sub_am: 0.23874909
+		balance: 0.73365110
+		flt_freq: 0.09535193
+		flt_mod: 0.94704044
+		flt_sep: 0.58797389
+		flt_q: 0.64866513
+		flt_kf: 1.00000000
+		fx_mix: 0.35038835
+		fx_len: 0.56804395
+		fx_damp: 0.57907391
+		fx_chors: 0.29337478
+		fx_size: 0.44353354
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Bent Power"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 50.00000000 ms 
+	WheelScale: 51.24999881 %
+	VelSens: 50.00000000 %
+	Volume: -3.04006263 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xe1b0a482
+	Pitch: 0.17666054
+	Cloned: false
+	Genome: {
+		env_time: 0.52483284,
+		env_loop: 0.85744250,
+		env_tilt: 0.61064017,
+		vol_atk: 0.95356727,
+		vol_dcy: 0.49424770,
+		vol_sus: 1.00000000,
+		mod_atk: 0.99828082,
+		mod_dcy: 0.37622848,
+		mod_sh: 0.61450934,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.48571923,
+		lfo_amt: 0.22242473,
+		lfo_bal: 0.31042281,
+		a_form: 0.75491643,
+		a_noise: 0.58691394,
+		a_color: 0.28827107,
+		a_freq: 0.13722324,
+		a_mod: 0.84424424,
+		b_form: 0.46589574,
+		b_noise: 0.51384801,
+		b_freq: 0.52197713,
+		b_mod: 0.52120668,
+		b_sh: 0.61628407,
+		fm_amt: 0.79557180,
+		fm_mod: 0.71893507,
+		sub_am: 0.25000000,
+		balance: 0.61441326,
+		flt_freq: 0.20000000,
+		flt_mod: 0.00000001,
+		flt_sep: 0.50000191,
+		flt_q: 0.27700597,
+		flt_kf: 0.75000000,
+		fx_mix: 0.44577104,
+		fx_len: 0.77791315,
+		fx_damp: 0.76586771,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

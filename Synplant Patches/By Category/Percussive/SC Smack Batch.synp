@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Smack Batch"
+	ModWheel: 0.00000000 %
+	Rotation: 90.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 38.99999857 %
+	Effect: -47.32977748 %
+	Release: 525.70863480 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 4.65321396 dB
+	Branch1: 88.17749023 %
+	Branch2: 39.64060247 %
+	Branch3: 55.37801981 %
+	Branch4: 66.88857079 %
+	Branch5: 84.15583372 %
+	Branch6: 0.00000000 %
+	Branch7: 62.72286177 %
+	Branch8: 85.47165394 %
+	Branch9: 41.47977829 %
+	Branch10: 62.72286177 %
+	Branch11: 60.14187932 %
+	Branch12: 40.79454839 %
+	Seed: 0xfb7aa55e
+	Pitch: -0.56618369
+	Cloned: false
+	Genome: {
+		env_time: 0.16261816,
+		env_loop: 0.50614822,
+		env_tilt: 0.03236210,
+		vol_atk: 0.49499023,
+		vol_dcy: 0.88961595,
+		vol_sus: 0.05134785,
+		mod_atk: 0.91991818,
+		mod_dcy: 0.02264476,
+		mod_sh: 0.02671564,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.49380624,
+		lfo_amt: 0.45743644,
+		lfo_bal: 0.74792594,
+		a_form: 0.11955291,
+		a_noise: 0.88518697,
+		a_color: 0.81592649,
+		a_freq: 0.26103061,
+		a_mod: 0.96888953,
+		b_form: 0.47910178,
+		b_noise: 0.67806578,
+		b_freq: 0.12347883,
+		b_mod: 0.24449110,
+		b_sh: 0.40274560,
+		fm_amt: 0.76766098,
+		fm_mod: 0.30569220,
+		sub_am: 0.00000000,
+		balance: 0.77945209,
+		flt_freq: 0.86256337,
+		flt_mod: 0.66083300,
+		flt_sep: 0.15603322,
+		flt_q: 0.35580558,
+		flt_kf: 0.75000000,
+		fx_mix: 0.35915828,
+		fx_len: 0.23711097,
+		fx_damp: 0.05642426,
+		fx_chors: 0.47527802,
+		fx_size: 0.37432539
+	}
+}

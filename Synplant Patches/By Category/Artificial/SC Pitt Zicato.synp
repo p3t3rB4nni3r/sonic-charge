@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "NE Pitt Zicato"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 75.00000000 %
+	Effect: -7.99999833 %
+	Release: 391.99999318 ms 
+	WheelScale: 37.80487776 %
+	VelSens: 50.00000000 %
+	Volume: -4.56538108 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xa1b1081b
+	Pitch: 2.47303963
+	Cloned: false
+	Genome: {
+		env_time: 0.03688419,
+		env_loop: 0.54153794,
+		env_tilt: 0.68428308,
+		vol_atk: 0.96335274,
+		vol_dcy: 0.92990869,
+		vol_sus: 0.22481120,
+		mod_atk: 0.63802624,
+		mod_dcy: 0.09989172,
+		mod_sh: 0.79665768,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.17615777,
+		lfo_amt: 0.82056099,
+		lfo_bal: 0.25272614,
+		a_form: 0.33773142,
+		a_noise: 0.55739915,
+		a_color: 0.04582715,
+		a_freq: 0.25449342,
+		a_mod: 0.49135923,
+		b_form: 0.28958356,
+		b_noise: 0.05197120,
+		b_freq: 0.51671892,
+		b_mod: 0.51097935,
+		b_sh: 0.59304339,
+		fm_amt: 0.44077206,
+		fm_mod: 0.81426477,
+		sub_am: 0.25000000,
+		balance: 0.89650404,
+		flt_freq: 0.05166934,
+		flt_mod: 0.30917466,
+		flt_sep: 0.92737764,
+		flt_q: 0.58162123,
+		flt_kf: 0.75000000,
+		fx_mix: 0.73594409,
+		fx_len: 0.63439614,
+		fx_damp: 0.63194430,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

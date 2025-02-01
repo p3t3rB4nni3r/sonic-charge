@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Freekfrenzy Factory"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +3.59999943 sm 
+	Atonality: 93.99999976 %
+	Effect: 0.00000000 %
+	Release: 9.96829224 s 
+	WheelScale: 40.00000060 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 18.00000072 %
+	Branch2: 31.99999928 %
+	Branch3: 34.99999940 %
+	Branch4: 37.00000048 %
+	Branch5: 28.99999917 %
+	Branch6: 34.99999940 %
+	Branch7: 37.00000048 %
+	Branch8: 33.00000131 %
+	Branch9: 37.00000048 %
+	Branch10: 7.00000003 %
+	Branch11: 12.99999952 %
+	Branch12: 10.99999994 %
+	Seed: 0x7d55dc49
+	Pitch: 1.60490787
+	Cloned: false
+	Genome: {
+		env_time: 0.43717894,
+		env_loop: 0.40887794,
+		env_tilt: 0.31928441,
+		vol_atk: 0.36474267,
+		vol_dcy: 0.32551321,
+		vol_sus: 0.84399951,
+		mod_atk: 0.91429389,
+		mod_dcy: 0.29430568,
+		mod_sh: 0.95042062,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.48571914,
+		lfo_amt: 0.23451158,
+		lfo_bal: 0.47353652,
+		a_form: 0.94427031,
+		a_noise: 0.13387284,
+		a_color: 0.50592726,
+		a_freq: 0.54352891,
+		a_mod: 0.11221272,
+		b_form: 0.32678515,
+		b_noise: 0.66802251,
+		b_freq: 0.47013342,
+		b_mod: 0.47085708,
+		b_sh: 0.81787252,
+		fm_amt: 0.28715697,
+		fm_mod: 0.42861983,
+		sub_am: 0.25000000,
+		balance: 0.69894314,
+		flt_freq: 0.01345687,
+		flt_mod: 0.90060860,
+		flt_sep: 0.50005776,
+		flt_q: 0.10733511,
+		flt_kf: 0.75000000,
+		fx_mix: 0.88968301,
+		fx_len: 0.77853501,
+		fx_damp: 0.86402434,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

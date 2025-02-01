@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Thillectrik"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +9.83576775 ct 
+	Atonality: 13.45243901 %
+	Effect: -12.76841760 %
+	Release: 649.44646155 ms 
+	WheelScale: 53.65853906 %
+	VelSens: 50.00000000 %
+	Volume: 2.68602252 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xb66cd50d
+	Pitch: -0.91017222
+	Cloned: true
+	Genome: {
+		env_time: 0.65388387,
+		env_loop: 0.58123606,
+		env_tilt: 0.06282365,
+		vol_atk: 0.96913111,
+		vol_dcy: 0.66700000,
+		vol_sus: 0.28753924,
+		mod_atk: 0.57138640,
+		mod_dcy: 0.11170000,
+		mod_sh: 0.35769641,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.98885965,
+		lfo_amt: 0.44456196,
+		lfo_bal: 0.74231201,
+		a_form: 0.92023498,
+		a_noise: 0.41236424,
+		a_color: 0.93499142,
+		a_freq: 0.65169537,
+		a_mod: 0.51327580,
+		b_form: 0.04981083,
+		b_noise: 0.58172435,
+		b_freq: 0.72729576,
+		b_mod: 0.50333965,
+		b_sh: 0.31226110,
+		fm_amt: 0.46177876,
+		fm_mod: 0.01440012,
+		sub_am: 0.25000000,
+		balance: 0.88747871,
+		flt_freq: 0.62951934,
+		flt_mod: 0.52046543,
+		flt_sep: 0.01334679,
+		flt_q: 0.97411716,
+		flt_kf: 0.75000000,
+		fx_mix: 0.40318459,
+		fx_len: 0.87271547,
+		fx_damp: 0.40354007,
+		fx_chors: 0.25000000,
+		fx_size: 0.47946656
+	}
+}

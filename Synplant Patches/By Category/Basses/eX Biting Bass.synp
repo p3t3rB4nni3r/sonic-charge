@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "eX Biting Bass"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 4.92651314 %
+	Effect: 75.43038130 %
+	Release: 223.60679775 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 5.56695007 dB
+	Branch1: 91.97677970 %
+	Branch2: 91.97677970 %
+	Branch3: 91.97677970 %
+	Branch4: 91.97677970 %
+	Branch5: 91.97677970 %
+	Branch6: 91.97677970 %
+	Branch7: 91.97677970 %
+	Branch8: 91.97677970 %
+	Branch9: 91.97677970 %
+	Branch10: 91.97677970 %
+	Branch11: 91.97677970 %
+	Branch12: 91.97677970 %
+	Seed: 0x8a0c4053
+	Pitch: -0.63920856
+	Cloned: true
+	Genome: {
+		env_time: 0.22605342
+		env_loop: 0.00000000
+		env_tilt: 0.00000000
+		vol_atk: 0.95206904
+		vol_dcy: 0.98288321
+		vol_sus: 1.00000000
+		mod_atk: 0.00000000
+		mod_dcy: 0.00000000
+		mod_sh: 0.00000000
+		mod_vel: 0.00000000
+		lfo_rate: 0.60427928
+		lfo_amt: 0.64586699
+		lfo_bal: 0.43568504
+		a_form: 0.43901682
+		a_noise: 0.48762578
+		a_color: 0.26187521
+		a_freq: 0.43986809
+		a_mod: 0.00000000
+		b_form: 0.75150126
+		b_noise: 0.27128100
+		b_freq: 0.76808941
+		b_mod: 0.00000000
+		b_sh: 0.32274282
+		fm_amt: 0.41342193
+		fm_mod: 0.01731300
+		sub_am: 0.99474925
+		balance: 0.80489707
+		flt_freq: 0.75903118
+		flt_mod: 0.08596885
+		flt_sep: 0.68185067
+		flt_q: 0.75887799
+		flt_kf: 0.60929978
+		fx_mix: 0.48378301
+		fx_len: 0.55938828
+		fx_damp: 0.12822056
+		fx_chors: 0.32339472
+		fx_size: 0.50000000
+	}
+}

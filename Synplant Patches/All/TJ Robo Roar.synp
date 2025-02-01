@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TJ Robo Roar"
+	ModWheel: 28.44322920 %
+	Rotation: 0.00000000 degrees
+	Tuning: +88.41590881 ct 
+	Atonality: 62.22011447 %
+	Effect: 0.00000000 %
+	Release: 86.69177858 ms 
+	WheelScale: 89.99999762 %
+	VelSens: 50.00000000 %
+	Volume: -0.73051681 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x036250a3
+	Pitch: -0.07618189
+	Cloned: false
+	Genome: {
+		env_time: 0.62995344
+		env_loop: 0.49843061
+		env_tilt: 0.44277799
+		vol_atk: 0.71351945
+		vol_dcy: 0.55776519
+		vol_sus: 0.11982298
+		mod_atk: 0.72656316
+		mod_dcy: 0.13892269
+		mod_sh: 0.85437882
+		mod_vel: 0.41423708
+		lfo_rate: 0.99619603
+		lfo_amt: 0.07501477
+		lfo_bal: 0.99352688
+		a_form: 0.23652351
+		a_noise: 0.61434877
+		a_color: 0.33447647
+		a_freq: 0.84603029
+		a_mod: 0.42504495
+		b_form: 0.13122690
+		b_noise: 0.44354117
+		b_freq: 0.76304269
+		b_mod: 0.25111008
+		b_sh: 0.83082443
+		fm_amt: 0.75269645
+		fm_mod: 0.58408475
+		sub_am: 0.42934376
+		balance: 0.81997418
+		flt_freq: 0.32680565
+		flt_mod: 0.93025482
+		flt_sep: 0.28645098
+		flt_q: 0.19663405
+		flt_kf: 0.49795592
+		fx_mix: 0.69655079
+		fx_len: 0.41721743
+		fx_damp: 0.30686092
+		fx_chors: 0.88049918
+		fx_size: 0.56318718
+	}
+}

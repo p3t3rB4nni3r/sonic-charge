@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "JJ DetunedShivverBass"
+	ModWheel: 29.65940535 %
+	Rotation: 0.00000000 degrees
+	Tuning: -34.37962532 ct 
+	Atonality: 0.00000000 %
+	Effect: 11.23970747 %
+	Release: 238.96823092 ms 
+	WheelScale: 21.95122093 %
+	VelSens: 50.00000000 %
+	Volume: 5.99196687 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x2dead682
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.57119095
+		env_loop: 0.19731978
+		env_tilt: 0.36909947
+		vol_atk: 0.36705047
+		vol_dcy: 0.76515329
+		vol_sus: 0.33585072
+		mod_atk: 0.53606904
+		mod_dcy: 0.70249331
+		mod_sh: 0.24013750
+		mod_vel: 0.83853346
+		lfo_rate: 0.23618722
+		lfo_amt: 0.47420841
+		lfo_bal: 0.67412543
+		a_form: 0.81098205
+		a_noise: 0.85985237
+		a_color: 0.66060597
+		a_freq: 0.33853322
+		a_mod: 0.49999997
+		b_form: 0.60397440
+		b_noise: 0.95379561
+		b_freq: 0.50268275
+		b_mod: 0.28040504
+		b_sh: 0.56647253
+		fm_amt: 0.47724098
+		fm_mod: 0.47828358
+		sub_am: 0.83207428
+		balance: 0.39650697
+		flt_freq: 0.19756445
+		flt_mod: 0.36814407
+		flt_sep: 0.96348327
+		flt_q: 0.27662936
+		flt_kf: 0.76341182
+		fx_mix: 0.24482790
+		fx_len: 0.00000000
+		fx_damp: 0.29694661
+		fx_chors: 0.00000000
+		fx_size: 0.32430938
+	}
+}

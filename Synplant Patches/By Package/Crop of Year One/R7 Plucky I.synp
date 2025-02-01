@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "R7 Plucky I"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 2.80360747 %
+	Effect: 11.76825762 %
+	Release: 155.26671381 ms 
+	WheelScale: 54.87805009 %
+	VelSens: 50.00000000 %
+	Volume: 2.55749412 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xd368df1a
+	Pitch: -0.25069809
+	Cloned: false
+	Genome: {
+		env_time: 0.00591755
+		env_loop: 0.22415197
+		env_tilt: 0.09035605
+		vol_atk: 0.30046523
+		vol_dcy: 0.63882244
+		vol_sus: 0.60813951
+		mod_atk: 0.21683955
+		mod_dcy: 0.13720977
+		mod_sh: 0.27014399
+		mod_vel: 0.04820144
+		lfo_rate: 0.85797429
+		lfo_amt: 0.55089748
+		lfo_bal: 0.67310125
+		a_form: 0.47412324
+		a_noise: 0.38892359
+		a_color: 0.06484413
+		a_freq: 0.70844966
+		a_mod: 0.33928633
+		b_form: 0.60075188
+		b_noise: 0.80745482
+		b_freq: 0.07464230
+		b_mod: 0.62203491
+		b_sh: 0.03989881
+		fm_amt: 0.37382102
+		fm_mod: 0.09289896
+		sub_am: 0.03410816
+		balance: 0.13133037
+		flt_freq: 0.45888418
+		flt_mod: 0.92621875
+		flt_sep: 0.80608523
+		flt_q: 0.06248045
+		flt_kf: 0.55688298
+		fx_mix: 0.55081260
+		fx_len: 0.49265850
+		fx_damp: 0.58427066
+		fx_chors: 0.72043192
+		fx_size: 0.62261575
+	}
+}

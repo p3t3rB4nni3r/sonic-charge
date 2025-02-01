@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Climb N Dive"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +5.84418869 sm 
+	Atonality: 100.00000000 %
+	Effect: 0.00000000 %
+	Release: 878.39642925 ms 
+	WheelScale: 75.60975552 %
+	VelSens: 0.00000000 %
+	Volume: -13.42102694 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x9db3a329
+	Pitch: -1.25022912
+	Cloned: false
+	Genome: {
+		env_time: 0.73743308,
+		env_loop: 0.97269696,
+		env_tilt: 0.71023804,
+		vol_atk: 0.31026593,
+		vol_dcy: 0.44619823,
+		vol_sus: 1.00000000,
+		mod_atk: 0.29777008,
+		mod_dcy: 0.08014786,
+		mod_sh: 0.38781291,
+		mod_vel: 0.00000000,
+		lfo_rate: 0.15680826,
+		lfo_amt: 0.72788244,
+		lfo_bal: 0.45684969,
+		a_form: 0.28615034,
+		a_noise: 0.95786172,
+		a_color: 0.77104855,
+		a_freq: 0.10503280,
+		a_mod: 1.00000000,
+		b_form: 0.88247722,
+		b_noise: 0.73854405,
+		b_freq: 0.59089214,
+		b_mod: 0.62644911,
+		b_sh: 0.26194686,
+		fm_amt: 0.50393367,
+		fm_mod: 0.91791761,
+		sub_am: 0.66461313,
+		balance: 0.50490361,
+		flt_freq: 0.16855186,
+		flt_mod: 0.45133412,
+		flt_sep: 0.55830002,
+		flt_q: 0.71893156,
+		flt_kf: 0.37583160,
+		fx_mix: 0.51287591,
+		fx_len: 0.68573892,
+		fx_damp: 0.49181610,
+		fx_chors: 0.90818995,
+		fx_size: 0.49243313
+	}
+}

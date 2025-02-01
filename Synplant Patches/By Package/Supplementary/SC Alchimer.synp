@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Alchimer"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -6.49883831 sm 
+	Atonality: 19.49307770 %
+	Effect: -21.72876000 %
+	Release: 4.19495916 s 
+	WheelScale: 34.14634466 %
+	VelSens: 50.00000000 %
+	Volume: -2.96197362 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x8a047f66
+	Pitch: 3.96251416
+	Cloned: false
+	Genome: {
+		env_time: 0.77357823,
+		env_loop: 0.16807646,
+		env_tilt: 0.32160097,
+		vol_atk: 0.77780563,
+		vol_dcy: 0.95221633,
+		vol_sus: 0.00000000,
+		mod_atk: 0.27743763,
+		mod_dcy: 0.04312068,
+		mod_sh: 0.97101170,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.68033648,
+		lfo_amt: 0.20557559,
+		lfo_bal: 0.37003434,
+		a_form: 0.74443692,
+		a_noise: 0.21794474,
+		a_color: 0.49349213,
+		a_freq: 0.50624764,
+		a_mod: 0.48162878,
+		b_form: 0.53567266,
+		b_noise: 0.04954916,
+		b_freq: 0.44824070,
+		b_mod: 0.52330196,
+		b_sh: 0.17473000,
+		fm_amt: 0.80647272,
+		fm_mod: 0.64404291,
+		sub_am: 0.21535689,
+		balance: 0.34084827,
+		flt_freq: 0.16924250,
+		flt_mod: 0.38996243,
+		flt_sep: 0.40902048,
+		flt_q: 0.27916586,
+		flt_kf: 0.62811422,
+		fx_mix: 0.93840063,
+		fx_len: 0.56656516,
+		fx_damp: 0.83245492,
+		fx_chors: 0.40584105,
+		fx_size: 0.35494933
+	}
+}

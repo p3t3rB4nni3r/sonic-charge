@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "R7 Birdies"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -4.00862217 sm 
+	Atonality: 82.15577602 %
+	Effect: -83.12226385 %
+	Release: 251.84763236 ms 
+	WheelScale: 26.12804770 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x9dc34315
+	Pitch: 0.33903074
+	Cloned: false
+	Genome: {
+		env_time: 0.74278104
+		env_loop: 0.11910355
+		env_tilt: 0.60880357
+		vol_atk: 0.17164075
+		vol_dcy: 0.97363281
+		vol_sus: 0.07445884
+		mod_atk: 0.48946857
+		mod_dcy: 0.47068310
+		mod_sh: 0.05531514
+		mod_vel: 0.55041116
+		lfo_rate: 0.79410207
+		lfo_amt: 0.32471979
+		lfo_bal: 0.81449574
+		a_form: 0.19050205
+		a_noise: 0.62357837
+		a_color: 0.15024412
+		a_freq: 0.77682823
+		a_mod: 0.83012885
+		b_form: 0.42205358
+		b_noise: 0.16466880
+		b_freq: 0.83473575
+		b_mod: 0.90522754
+		b_sh: 0.50396979
+		fm_amt: 0.40699911
+		fm_mod: 0.60481483
+		sub_am: 0.77441812
+		balance: 0.32620656
+		flt_freq: 0.73231995
+		flt_mod: 0.35421973
+		flt_sep: 0.72581410
+		flt_q: 0.35845309
+		flt_kf: 0.63006806
+		fx_mix: 0.28987062
+		fx_len: 0.36728048
+		fx_damp: 0.20848370
+		fx_chors: 0.57224715
+		fx_size: 0.31595382
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TJ Ziodarra Keys"
+	ModWheel: 100.00000000 %
+	Rotation: 60.00000179 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 92.27220344 ms 
+	WheelScale: 29.99999821 %
+	VelSens: 50.00000000 %
+	Volume: 5.72608439 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xee53373d
+	Pitch: 0.73897231
+	Cloned: false
+	Genome: {
+		env_time: 0.09426123
+		env_loop: 0.67413354
+		env_tilt: 0.41765708
+		vol_atk: 0.45012128
+		vol_dcy: 0.66237742
+		vol_sus: 0.68789572
+		mod_atk: 0.72670460
+		mod_dcy: 0.17784095
+		mod_sh: 0.13705713
+		mod_vel: 0.66146684
+		lfo_rate: 0.48144603
+		lfo_amt: 0.26058656
+		lfo_bal: 0.66505307
+		a_form: 0.45848155
+		a_noise: 0.82160264
+		a_color: 0.43433011
+		a_freq: 0.21017128
+		a_mod: 0.56543547
+		b_form: 0.51516563
+		b_noise: 0.44191837
+		b_freq: 0.84362304
+		b_mod: 0.81877601
+		b_sh: 0.69179791
+		fm_amt: 0.16020536
+		fm_mod: 0.23045772
+		sub_am: 0.25000000
+		balance: 0.14593130
+		flt_freq: 0.63610733
+		flt_mod: 0.05328780
+		flt_sep: 0.65950906
+		flt_q: 0.52501619
+		flt_kf: 0.75000000
+		fx_mix: 0.32241350
+		fx_len: 0.55620694
+		fx_damp: 0.48725724
+		fx_chors: 0.25000000
+		fx_size: 0.79011756
+	}
+}

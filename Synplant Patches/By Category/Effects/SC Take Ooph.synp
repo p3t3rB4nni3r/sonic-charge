@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Take Ooph"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -1.71841908 sm 
+	Atonality: 89.76581693 %
+	Effect: 48.77064228 %
+	Release: 7.65587991 s 
+	WheelScale: 25.60975552 %
+	VelSens: 50.00000000 %
+	Volume: -3.85290156 dB
+	Branch1: 0.00000000 %
+	Branch2: 32.78260231 %
+	Branch3: 41.30122066 %
+	Branch4: 13.27072680 %
+	Branch5: 10.12124941 %
+	Branch6: 24.32005554 %
+	Branch7: 88.10858130 %
+	Branch8: 18.79580468 %
+	Branch9: 27.67154276 %
+	Branch10: 26.93272531 %
+	Branch11: 11.18075252 %
+	Branch12: 13.18207830 %
+	Seed: 0x17db436f
+	Pitch: 1.99810219
+	Cloned: false
+	Genome: {
+		env_time: 0.92068714,
+		env_loop: 0.76780283,
+		env_tilt: 0.70631111,
+		vol_atk: 0.76800299,
+		vol_dcy: 0.66766393,
+		vol_sus: 0.36257368,
+		mod_atk: 0.76562107,
+		mod_dcy: 0.99286115,
+		mod_sh: 0.75569981,
+		mod_vel: 0.77671945,
+		lfo_rate: 0.35224915,
+		lfo_amt: 0.68596190,
+		lfo_bal: 0.71779847,
+		a_form: 0.45870960,
+		a_noise: 0.51596558,
+		a_color: 0.86698240,
+		a_freq: 0.00031632,
+		a_mod: 0.77703053,
+		b_form: 0.27890831,
+		b_noise: 0.98744965,
+		b_freq: 0.57302809,
+		b_mod: 0.31435400,
+		b_sh: 0.84324086,
+		fm_amt: 0.18952507,
+		fm_mod: 0.53622729,
+		sub_am: 0.38233542,
+		balance: 0.16007721,
+		flt_freq: 0.47368252,
+		flt_mod: 0.10916555,
+		flt_sep: 0.96953166,
+		flt_q: 0.06055319,
+		flt_kf: 0.88018996,
+		fx_mix: 0.17515814,
+		fx_len: 0.91055936,
+		fx_damp: 0.03461278,
+		fx_chors: 0.85790968,
+		fx_size: 0.48412272
+	}
+}

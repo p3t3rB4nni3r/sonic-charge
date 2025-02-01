@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "R7 Bass I"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 14.64893669 %
+	Effect: -80.10634929 %
+	Release: 224.95053411 ms 
+	WheelScale: 33.62804949 %
+	VelSens: 50.00000000 %
+	Volume: 4.65321689 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xe89e9ad4
+	Pitch: 0.12426543
+	Cloned: false
+	Genome: {
+		env_time: 0.78851408
+		env_loop: 0.51800585
+		env_tilt: 0.08827639
+		vol_atk: 0.26710731
+		vol_dcy: 0.40297323
+		vol_sus: 0.21428072
+		mod_atk: 0.32330471
+		mod_dcy: 0.42177725
+		mod_sh: 0.80287737
+		mod_vel: 0.48466426
+		lfo_rate: 0.44804132
+		lfo_amt: 0.40621400
+		lfo_bal: 0.07585871
+		a_form: 0.32155651
+		a_noise: 0.18710786
+		a_color: 0.56373554
+		a_freq: 0.31262243
+		a_mod: 0.46200562
+		b_form: 0.86016524
+		b_noise: 0.41255242
+		b_freq: 0.11447090
+		b_mod: 0.43383831
+		b_sh: 0.50391537
+		fm_amt: 0.46899879
+		fm_mod: 0.61035675
+		sub_am: 0.78964913
+		balance: 0.63529456
+		flt_freq: 0.29946750
+		flt_mod: 0.25441378
+		flt_sep: 0.61075145
+		flt_q: 0.34444797
+		flt_kf: 0.98726547
+		fx_mix: 0.48598832
+		fx_len: 0.37238139
+		fx_damp: 0.73748529
+		fx_chors: 0.34536642
+		fx_size: 0.00574529
+	}
+}

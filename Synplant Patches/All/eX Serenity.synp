@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "eX Serenity"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -7.53882551 sm 
+	Atonality: 4.28651571 %
+	Effect: 75.43038130 %
+	Release: 4.09816407 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -3.85290156 dB
+	Branch1: 19.91670728 %
+	Branch2: 19.91670728 %
+	Branch3: 19.91670728 %
+	Branch4: 19.91670728 %
+	Branch5: 19.91670728 %
+	Branch6: 19.91670728 %
+	Branch7: 19.91670728 %
+	Branch8: 19.91670728 %
+	Branch9: 19.91670728 %
+	Branch10: 19.91670728 %
+	Branch11: 19.91670728 %
+	Branch12: 19.91670728 %
+	Seed: 0x1ad433b5
+	Pitch: -0.00000012
+	Cloned: true
+	Genome: {
+		env_time: 0.80853194
+		env_loop: 1.00000000
+		env_tilt: 0.66756153
+		vol_atk: 0.39397889
+		vol_dcy: 0.49809197
+		vol_sus: 0.46060532
+		mod_atk: 0.34168062
+		mod_dcy: 0.79781103
+		mod_sh: 0.00000000
+		mod_vel: 0.52156842
+		lfo_rate: 0.76895511
+		lfo_amt: 0.57502663
+		lfo_bal: 0.62410486
+		a_form: 0.39908659
+		a_noise: 0.72389162
+		a_color: 0.62080759
+		a_freq: 0.43986812
+		a_mod: 0.50000000
+		b_form: 0.67179012
+		b_noise: 0.29551703
+		b_freq: 0.76976693
+		b_mod: 0.50000000
+		b_sh: 0.00000000
+		fm_amt: 0.70616281
+		fm_mod: 0.35384417
+		sub_am: 0.68992406
+		balance: 0.75972128
+		flt_freq: 0.71566761
+		flt_mod: 0.58914202
+		flt_sep: 0.32951957
+		flt_q: 0.77608889
+		flt_kf: 0.89426744
+		fx_mix: 0.73709619
+		fx_len: 0.78524774
+		fx_damp: 0.48710939
+		fx_chors: 0.83223361
+		fx_size: 0.50000000
+	}
+}

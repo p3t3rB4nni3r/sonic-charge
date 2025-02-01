@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "crystal192837v1c"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 7.66967472 s 
+	WheelScale: 0.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 71.44365907 %
+	Branch2: 71.44365907 %
+	Branch3: 71.44365907 %
+	Branch4: 71.44365907 %
+	Branch5: 71.44365907 %
+	Branch6: 71.44365907 %
+	Branch7: 71.44365907 %
+	Branch8: 71.44365907 %
+	Branch9: 71.44365907 %
+	Branch10: 71.44365907 %
+	Branch11: 71.44365907 %
+	Branch12: 71.44365907 %
+	Seed: 0xa932f3ca
+	Pitch: -0.58237696
+	Cloned: true
+	Genome: {
+		env_time: 0.46880156
+		env_loop: 0.45067537
+		env_tilt: 0.36684358
+		vol_atk: 0.40558380
+		vol_dcy: 0.54129851
+		vol_sus: 0.47972059
+		mod_atk: 0.86421180
+		mod_dcy: 0.03823608
+		mod_sh: 0.82688940
+		mod_vel: 0.07392806
+		lfo_rate: 0.92977774
+		lfo_amt: 0.51713121
+		lfo_bal: 0.06418228
+		a_form: 0.05080450
+		a_noise: 0.55956912
+		a_color: 0.30372041
+		a_freq: 0.93039614
+		a_mod: 0.59554595
+		b_form: 0.12455929
+		b_noise: 0.44713527
+		b_freq: 0.65765285
+		b_mod: 0.47838044
+		b_sh: 0.42398334
+		fm_amt: 0.58587980
+		fm_mod: 0.10908180
+		sub_am: 0.44948953
+		balance: 0.04861969
+		flt_freq: 0.17133921
+		flt_mod: 0.49847138
+		flt_sep: 0.47003055
+		flt_q: 0.84993911
+		flt_kf: 0.91941005
+		fx_mix: 0.32015187
+		fx_len: 0.72280753
+		fx_damp: 0.74354684
+		fx_chors: 0.70439726
+		fx_size: 0.38790712
+	}
+}

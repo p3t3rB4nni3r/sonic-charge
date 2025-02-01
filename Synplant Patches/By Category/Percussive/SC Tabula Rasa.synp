@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "anotherTaBlaahV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 1.83738325 s 
+	WheelScale: 52.49999762 %
+	VelSens: 50.00000000 %
+	Volume: 7.57023141 dB
+	Branch1: 4.43774462 %
+	Branch2: 2.40963846 %
+	Branch3: 27.88082957 %
+	Branch4: 15.67938030 %
+	Branch5: 16.52424037 %
+	Branch6: 18.08813959 %
+	Branch7: 18.13565642 %
+	Branch8: 30.43338954 %
+	Branch9: 20.27062178 %
+	Branch10: 20.25549263 %
+	Branch11: 14.88595009 %
+	Branch12: 12.78972626 %
+	Seed: 0x0f60e7aa
+	Pitch: -0.27700377
+	Cloned: false
+	Genome: {
+		env_time: 0.27270806
+		env_loop: 1.00000000
+		env_tilt: 0.00418192
+		vol_atk: 0.65826029
+		vol_dcy: 0.00000000
+		vol_sus: 0.98515952
+		mod_atk: 0.00000000
+		mod_dcy: 0.08219987
+		mod_sh: 0.66113955
+		mod_vel: 0.51150513
+		lfo_rate: 0.65306479
+		lfo_amt: 0.52797240
+		lfo_bal: 0.98311543
+		a_form: 0.50628871
+		a_noise: 0.00000000
+		a_color: 0.95285934
+		a_freq: 0.54616731
+		a_mod: 0.46156424
+		b_form: 0.32480431
+		b_noise: 0.67959470
+		b_freq: 0.80108702
+		b_mod: 0.61321104
+		b_sh: 0.28052807
+		fm_amt: 0.00000000
+		fm_mod: 0.95164853
+		sub_am: 0.96926332
+		balance: 0.51123679
+		flt_freq: 0.42715335
+		flt_mod: 0.82382584
+		flt_sep: 0.59010911
+		flt_q: 0.02946991
+		flt_kf: 0.59419745
+		fx_mix: 0.50014490
+		fx_len: 0.03616250
+		fx_damp: 0.00019342
+		fx_chors: 0.61979884
+		fx_size: 0.55448806
+	}
+}

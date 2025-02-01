@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "_ 40 (E2) Room [MT32]-27.066756905594"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 1.10289179 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 6.43856190 dB
+	Branch1: 0.00000000 %
+	Branch2: 23.43370020 %
+	Branch3: 27.78936327 %
+	Branch4: 25.76467693 %
+	Branch5: 26.87956989 %
+	Branch6: 34.77736115 %
+	Branch7: 43.19970608 %
+	Branch8: 19.27710772 %
+	Branch9: 23.85767400 %
+	Branch10: 25.42428076 %
+	Branch11: 19.52360421 %
+	Branch12: 21.46585882 %
+	Seed: 0x00000001
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.46812773
+		env_loop: 0.46977222
+		env_tilt: 0.03008977
+		vol_atk: 0.57073683
+		vol_dcy: 0.02402645
+		vol_sus: 0.28286859
+		mod_atk: 0.63020658
+		mod_dcy: 0.13265793
+		mod_sh: 0.69498539
+		mod_vel: 0.00000000
+		lfo_rate: 0.29040867
+		lfo_amt: 0.17332843
+		lfo_bal: 0.58502930
+		a_form: 0.11183966
+		a_noise: 0.92478943
+		a_color: 0.89497066
+		a_freq: 0.43832073
+		a_mod: 0.62395132
+		b_form: 0.22391449
+		b_noise: 0.59318155
+		b_freq: 0.70421833
+		b_mod: 0.46255648
+		b_sh: 0.62937903
+		fm_amt: 0.28766182
+		fm_mod: 0.31048617
+		sub_am: 0.16679257
+		balance: 0.29336709
+		flt_freq: 0.79126644
+		flt_mod: 0.43885428
+		flt_sep: 0.43468794
+		flt_q: 0.15809080
+		flt_kf: 1.00000000
+		fx_mix: 0.43289876
+		fx_len: 0.09155628
+		fx_damp: 0.99283355
+		fx_chors: 0.69063091
+		fx_size: 0.38654584
+	}
+}

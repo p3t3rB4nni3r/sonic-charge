@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "noispulsbas v1b"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 5.41520007 %
+	Effect: -62.49661744 %
+	Release: 1.99200717 s 
+	WheelScale: 25.00000000 %
+	VelSens: 22.49999940 %
+	Volume: 5.85563555 dB
+	Branch1: 44.58835125 %
+	Branch2: 44.58835125 %
+	Branch3: 44.58835125 %
+	Branch4: 44.58835125 %
+	Branch5: 44.58835125 %
+	Branch6: 44.58835125 %
+	Branch7: 44.58835125 %
+	Branch8: 44.58835125 %
+	Branch9: 44.58835125 %
+	Branch10: 44.58835125 %
+	Branch11: 44.58835125 %
+	Branch12: 44.58835125 %
+	Seed: 0x8ad6dc96
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.26451284
+		env_loop: 0.64927357
+		env_tilt: 0.12780195
+		vol_atk: 0.33687770
+		vol_dcy: 0.60893226
+		vol_sus: 0.73710448
+		mod_atk: 0.11858359
+		mod_dcy: 0.11547019
+		mod_sh: 0.31200159
+		mod_vel: 0.80087364
+		lfo_rate: 0.66935980
+		lfo_amt: 0.06866693
+		lfo_bal: 0.23478442
+		a_form: 0.38329768
+		a_noise: 0.95329183
+		a_color: 0.87660843
+		a_freq: 0.16933894
+		a_mod: 0.46944836
+		b_form: 0.55659747
+		b_noise: 0.45632076
+		b_freq: 0.51587355
+		b_mod: 0.51363248
+		b_sh: 0.31491655
+		fm_amt: 0.42765093
+		fm_mod: 0.13920578
+		sub_am: 0.26973200
+		balance: 0.43636012
+		flt_freq: 0.21412364
+		flt_mod: 0.93543535
+		flt_sep: 0.51919299
+		flt_q: 0.11504209
+		flt_kf: 0.36705202
+		fx_mix: 0.03099120
+		fx_len: 0.78563517
+		fx_damp: 0.18247461
+		fx_chors: 0.29179373
+		fx_size: 0.58322477
+	}
+}

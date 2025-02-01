@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Repetition Is Key"
+	ModWheel: 98.42519760 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 11.46566123 %
+	Effect: 0.00000000 %
+	Release: 1.10710827 s 
+	WheelScale: 100.00000000 %
+	VelSens: 0.00000000 %
+	Volume: -13.56144085 dB
+	Branch1: 31.52168095 %
+	Branch2: 36.46204472 %
+	Branch3: 37.03628480 %
+	Branch4: 34.53297019 %
+	Branch5: 36.33751273 %
+	Branch6: 44.19577420 %
+	Branch7: 42.54159033 %
+	Branch8: 43.44493151 %
+	Branch9: 40.88983536 %
+	Branch10: 37.36055195 %
+	Branch11: 39.52195942 %
+	Branch12: 34.31102633 %
+	Seed: 0xe4641f45
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.70777309
+		env_loop: 0.37200654
+		env_tilt: 0.00525689
+		vol_atk: 0.80109745
+		vol_dcy: 0.54648077
+		vol_sus: 0.71345240
+		mod_atk: 0.57779872
+		mod_dcy: 0.19876885
+		mod_sh: 0.29205090
+		mod_vel: 0.44476581
+		lfo_rate: 0.18937266
+		lfo_amt: 0.70370388
+		lfo_bal: 0.16913450
+		a_form: 0.47947085
+		a_noise: 0.36276680
+		a_color: 0.10243666
+		a_freq: 0.66666669
+		a_mod: 0.47089195
+		b_form: 0.95439148
+		b_noise: 0.39007688
+		b_freq: 0.29579973
+		b_mod: 0.50390279
+		b_sh: 0.71558547
+		fm_amt: 0.56278366
+		fm_mod: 0.85562545
+		sub_am: 0.02532572
+		balance: 0.47834367
+		flt_freq: 0.16799861
+		flt_mod: 0.23172575
+		flt_sep: 0.67195052
+		flt_q: 0.89328605
+		flt_kf: 0.73125392
+		fx_mix: 0.37676966
+		fx_len: 0.97132033
+		fx_damp: 0.88390130
+		fx_chors: 0.12888509
+		fx_size: 0.57441610
+	}
+}

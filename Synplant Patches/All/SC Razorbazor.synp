@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Razorbazor"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 10.99999994 %
+	Effect: 0.00000000 %
+	Release: 88.99999992 ms 
+	WheelScale: 28.04878056 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x498a2156
+	Pitch: -0.66795272
+	Cloned: true
+	Genome: {
+		env_time: 0.74377358,
+		env_loop: 0.71634656,
+		env_tilt: 0.60923266,
+		vol_atk: 1.00000000,
+		vol_dcy: 0.52414978,
+		vol_sus: 0.98081118,
+		mod_atk: 0.74395281,
+		mod_dcy: 0.02493615,
+		mod_sh: 0.36319965,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.48571873,
+		lfo_amt: 0.35775486,
+		lfo_bal: 0.88264912,
+		a_form: 0.40296328,
+		a_noise: 0.71046513,
+		a_color: 0.62907195,
+		a_freq: 0.61242187,
+		a_mod: 0.44098166,
+		b_form: 0.90095526,
+		b_noise: 0.14241934,
+		b_freq: 0.49018541,
+		b_mod: 0.52246761,
+		b_sh: 0.02751819,
+		fm_amt: 0.06135706,
+		fm_mod: 0.49858049,
+		sub_am: 0.25000000,
+		balance: 0.78637290,
+		flt_freq: 0.14000000,
+		flt_mod: 0.00000000,
+		flt_sep: 0.50004053,
+		flt_q: 0.91348046,
+		flt_kf: 0.75000000,
+		fx_mix: 0.19841243,
+		fx_len: 0.46242532,
+		fx_damp: 0.45319572,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

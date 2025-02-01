@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "CS Far Fetched Tomatoes"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -1.90007687 ct 
+	Atonality: 66.32143259 %
+	Effect: -41.99960828 %
+	Release: 1.90081756 s 
+	WheelScale: 58.53658319 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xfec992e6
+	Pitch: 1.23049164
+	Cloned: false
+	Genome: {
+		env_time: 0.79092360,
+		env_loop: 0.20775837,
+		env_tilt: 0.91574061,
+		vol_atk: 0.30870050,
+		vol_dcy: 0.47398502,
+		vol_sus: 0.20330000,
+		mod_atk: 0.32720417,
+		mod_dcy: 0.71777105,
+		mod_sh: 0.56778723,
+		mod_vel: 0.78696203,
+		lfo_rate: 0.79262662,
+		lfo_amt: 0.35619766,
+		lfo_bal: 0.37517554,
+		a_form: 0.22516280,
+		a_noise: 0.00000000,
+		a_color: 0.36932290,
+		a_freq: 0.12825137,
+		a_mod: 0.62501705,
+		b_form: 0.29638082,
+		b_noise: 0.00000000,
+		b_freq: 0.56786269,
+		b_mod: 0.44531620,
+		b_sh: 0.43839335,
+		fm_amt: 0.90382272,
+		fm_mod: 0.38714439,
+		sub_am: 0.02942884,
+		balance: 0.42686933,
+		flt_freq: 0.32097226,
+		flt_mod: 0.18722880,
+		flt_sep: 0.48596460,
+		flt_q: 0.66268778,
+		flt_kf: 0.68778896,
+		fx_mix: 0.27529776,
+		fx_len: 0.48968041,
+		fx_damp: 0.30429685,
+		fx_chors: 0.36963749,
+		fx_size: 0.01077139
+	}
+}

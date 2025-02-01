@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "EE Scrapies"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 5.72941303 %
+	Release: 318.60020274 ms 
+	WheelScale: 63.41463327 %
+	VelSens: 50.00000000 %
+	Volume: -2.24949421 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x2f13f311
+	Pitch: 0.72680998
+	Cloned: false
+	Genome: {
+		env_time: 0.50856555,
+		env_loop: 0.78113198,
+		env_tilt: 0.39717209,
+		vol_atk: 0.79675019,
+		vol_dcy: 0.98311639,
+		vol_sus: 0.82423091,
+		mod_atk: 0.88113612,
+		mod_dcy: 0.90731418,
+		mod_sh: 0.68227100,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.62607163,
+		lfo_amt: 0.87362444,
+		lfo_bal: 0.58764309,
+		a_form: 0.76716697,
+		a_noise: 0.05904132,
+		a_color: 0.33670330,
+		a_freq: 0.04553169,
+		a_mod: 0.50079161,
+		b_form: 0.22305757,
+		b_noise: 0.09446502,
+		b_freq: 0.67409682,
+		b_mod: 0.50527060,
+		b_sh: 0.43236756,
+		fm_amt: 0.99452162,
+		fm_mod: 0.97055185,
+		sub_am: 0.30073774,
+		balance: 0.66631258,
+		flt_freq: 0.77163219,
+		flt_mod: 0.66845071,
+		flt_sep: 0.67911345,
+		flt_q: 0.79007626,
+		flt_kf: 0.53921503,
+		fx_mix: 0.12917334,
+		fx_len: 0.73798031,
+		fx_damp: 0.79481846,
+		fx_chors: 0.70390677,
+		fx_size: 0.35494933
+	}
+}

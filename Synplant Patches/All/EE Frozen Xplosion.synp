@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "EE Frozen Xplosion"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 70.75461149 %
+	Release: 373.34086529 ms 
+	WheelScale: 23.17073196 %
+	VelSens: 50.00000000 %
+	Volume: -1.64717362 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xe939123e
+	Pitch: 0.31001580
+	Cloned: false
+	Genome: {
+		env_time: 0.75688457,
+		env_loop: 0.84523129,
+		env_tilt: 0.09321165,
+		vol_atk: 0.76683831,
+		vol_dcy: 0.95920944,
+		vol_sus: 0.75801969,
+		mod_atk: 0.48323894,
+		mod_dcy: 0.73005843,
+		mod_sh: 0.70448780,
+		mod_vel: 0.66400588,
+		lfo_rate: 0.39930797,
+		lfo_amt: 0.94559872,
+		lfo_bal: 0.29641587,
+		a_form: 0.04163301,
+		a_noise: 0.06683517,
+		a_color: 0.33814073,
+		a_freq: 0.44833070,
+		a_mod: 0.50000000,
+		b_form: 0.94480652,
+		b_noise: 0.24398398,
+		b_freq: 0.50066429,
+		b_mod: 0.50000000,
+		b_sh: 0.65939742,
+		fm_amt: 0.84796464,
+		fm_mod: 0.28316712,
+		sub_am: 0.73745346,
+		balance: 0.65648156,
+		flt_freq: 0.93788886,
+		flt_mod: 0.63280994,
+		flt_sep: 0.85305297,
+		flt_q: 0.87269104,
+		flt_kf: 0.48729038,
+		fx_mix: 0.04294550,
+		fx_len: 0.43221506,
+		fx_damp: 0.43686831,
+		fx_chors: 0.01746416,
+		fx_size: 0.35494933
+	}
+}

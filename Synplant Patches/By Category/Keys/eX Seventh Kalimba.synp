@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "eX Seventh Kalimba"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 9.96747389 %
+	Effect: 50.96182823 %
+	Release: 1.01032115 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 1.40778525 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x06e30ed9
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.10722524
+		env_loop: 0.34943300
+		env_tilt: 0.52898109
+		vol_atk: 0.46626675
+		vol_dcy: 0.23697317
+		vol_sus: 0.62270004
+		mod_atk: 0.60617137
+		mod_dcy: 0.42705524
+		mod_sh: 0.23761737
+		mod_vel: 0.56151038
+		lfo_rate: 0.55146545
+		lfo_amt: 0.27508962
+		lfo_bal: 0.28456604
+		a_form: 0.76770413
+		a_noise: 0.53062665
+		a_color: 0.45115435
+		a_freq: 0.50000000
+		a_mod: 0.50000000
+		b_form: 0.55063474
+		b_noise: 0.27199042
+		b_freq: 0.46142614
+		b_mod: 0.50000000
+		b_sh: 0.46892416
+		fm_amt: 0.38187021
+		fm_mod: 0.35324442
+		sub_am: 0.48744571
+		balance: 0.63069487
+		flt_freq: 0.38608170
+		flt_mod: 0.61101770
+		flt_sep: 0.91187263
+		flt_q: 0.95691967
+		flt_kf: 0.71809262
+		fx_mix: 0.38967764
+		fx_len: 0.26098800
+		fx_damp: 0.21383625
+		fx_chors: 0.49955451
+		fx_size: 0.50000000
+	}
+}

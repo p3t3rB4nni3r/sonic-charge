@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Fluid Flute"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -22.39649892 %
+	Release: 299.18708211 ms 
+	WheelScale: 50.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 4.19915916 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x930f8cbb
+	Pitch: -1.25442457
+	Cloned: true
+	Genome: {
+		env_time: 0.47001809,
+		env_loop: 0.86755860,
+		env_tilt: 0.79028046,
+		vol_atk: 0.72308916,
+		vol_dcy: 0.48014110,
+		vol_sus: 0.84332162,
+		mod_atk: 0.03586137,
+		mod_dcy: 0.37395287,
+		mod_sh: 0.16246927,
+		mod_vel: 0.01177359,
+		lfo_rate: 0.61852908,
+		lfo_amt: 0.90312034,
+		lfo_bal: 0.77076268,
+		a_form: 0.08947963,
+		a_noise: 0.76398319,
+		a_color: 0.54381609,
+		a_freq: 0.87573743,
+		a_mod: 0.48207831,
+		b_form: 0.20280242,
+		b_noise: 0.70072001,
+		b_freq: 0.59892833,
+		b_mod: 0.49083209,
+		b_sh: 0.00000000,
+		fm_amt: 0.46584731,
+		fm_mod: 0.40134382,
+		sub_am: 0.59591603,
+		balance: 0.60602188,
+		flt_freq: 0.73107892,
+		flt_mod: 0.46875957,
+		flt_sep: 0.64599049,
+		flt_q: 0.51048565,
+		flt_kf: 0.95316148,
+		fx_mix: 0.83079183,
+		fx_len: 0.65738404,
+		fx_damp: 0.05286652,
+		fx_chors: 0.41261327,
+		fx_size: 0.41776642
+	}
+}

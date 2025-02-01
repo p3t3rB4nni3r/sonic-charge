@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "NE Hermit Fad"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 47.27512598 %
+	Release: 3.96754277 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -4.56537907 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xce098750
+	Pitch: 0.63465118
+	Cloned: true
+	Genome: {
+		env_time: 0.78499991,
+		env_loop: 0.46080768,
+		env_tilt: 0.62387222,
+		vol_atk: 0.28767782,
+		vol_dcy: 0.67650068,
+		vol_sus: 0.89025044,
+		mod_atk: 0.64816958,
+		mod_dcy: 0.85442621,
+		mod_sh: 0.34759927,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.73970616,
+		lfo_amt: 0.15076590,
+		lfo_bal: 0.98843443,
+		a_form: 0.00521863,
+		a_noise: 0.31552911,
+		a_color: 0.25403386,
+		a_freq: 0.39422482,
+		a_mod: 0.55588871,
+		b_form: 0.22160047,
+		b_noise: 0.54256034,
+		b_freq: 0.76361531,
+		b_mod: 0.47661948,
+		b_sh: 0.01785624,
+		fm_amt: 0.07464790,
+		fm_mod: 0.43918431,
+		sub_am: 0.84099162,
+		balance: 0.70407838,
+		flt_freq: 0.78862077,
+		flt_mod: 0.98586553,
+		flt_sep: 0.34627438,
+		flt_q: 0.44613689,
+		flt_kf: 0.89585960,
+		fx_mix: 0.02590823,
+		fx_len: 0.63850248,
+		fx_damp: 0.36539149,
+		fx_chors: 0.32100576,
+		fx_size: 0.35494933
+	}
+}

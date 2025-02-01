@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "NE SETI Scanner"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -1.71999979 sm 
+	Atonality: 68.00000072 %
+	Effect: 0.00000000 %
+	Release: 4.77700043 s 
+	WheelScale: 38.75000179 %
+	VelSens: 50.00000000 %
+	Volume: -6.43856147 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xaa5ecf11
+	Pitch: 0.13728118
+	Cloned: false
+	Genome: {
+		env_time: 0.82659531,
+		env_loop: 0.44867980,
+		env_tilt: 0.62606978,
+		vol_atk: 0.18922716,
+		vol_dcy: 1.00000000,
+		vol_sus: 0.39909053,
+		mod_atk: 0.45717692,
+		mod_dcy: 0.27166617,
+		mod_sh: 0.45907289,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.98722267,
+		lfo_amt: 0.38575441,
+		lfo_bal: 0.37782341,
+		a_form: 0.95101559,
+		a_noise: 0.29843706,
+		a_color: 0.76701927,
+		a_freq: 0.47711980,
+		a_mod: 0.94952643,
+		b_form: 0.31270939,
+		b_noise: 0.32968313,
+		b_freq: 0.59359437,
+		b_mod: 0.67141783,
+		b_sh: 0.57916898,
+		fm_amt: 0.33091950,
+		fm_mod: 0.26911551,
+		sub_am: 0.25000000,
+		balance: 0.13204694,
+		flt_freq: 0.13316405,
+		flt_mod: 0.25796020,
+		flt_sep: 0.41650736,
+		flt_q: 0.17498153,
+		flt_kf: 0.75000000,
+		fx_mix: 0.99421537,
+		fx_len: 0.73216069,
+		fx_damp: 0.89524740,
+		fx_chors: 0.25000000,
+		fx_size: 0.33909494
+	}
+}

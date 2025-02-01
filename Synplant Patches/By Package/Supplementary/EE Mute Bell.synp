@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "EE Mute Bell"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -4.09882164 sm 
+	Atonality: 0.00000000 %
+	Effect: -33.78916383 %
+	Release: 277.04345216 ms 
+	WheelScale: 65.85366130 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xc56c9b8f
+	Pitch: 0.33843589
+	Cloned: false
+	Genome: {
+		env_time: 0.37051612,
+		env_loop: 0.43338120,
+		env_tilt: 0.07356811,
+		vol_atk: 0.21842206,
+		vol_dcy: 0.38022816,
+		vol_sus: 0.72115427,
+		mod_atk: 0.21585810,
+		mod_dcy: 0.07856703,
+		mod_sh: 0.15253544,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.89379811,
+		lfo_amt: 0.65380073,
+		lfo_bal: 0.18370390,
+		a_form: 0.71076614,
+		a_noise: 0.29723513,
+		a_color: 0.98318315,
+		a_freq: 0.77692735,
+		a_mod: 0.50036651,
+		b_form: 0.55075943,
+		b_noise: 0.06442553,
+		b_freq: 0.46036935,
+		b_mod: 0.49982625,
+		b_sh: 0.02791566,
+		fm_amt: 0.25319374,
+		fm_mod: 0.29471946,
+		sub_am: 0.28379631,
+		balance: 0.30283666,
+		flt_freq: 0.37106752,
+		flt_mod: 0.78166401,
+		flt_sep: 0.35359442,
+		flt_q: 0.77434361,
+		flt_kf: 0.98564386,
+		fx_mix: 0.85074180,
+		fx_len: 0.90658414,
+		fx_damp: 0.62942415,
+		fx_chors: 0.64345706,
+		fx_size: 0.35125241
+	}
+}

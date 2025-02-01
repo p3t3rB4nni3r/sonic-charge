@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "elv Flobbybass"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 5.48299910 s 
+	WheelScale: 17.00000018 %
+	VelSens: 50.00000000 %
+	Volume: 11.55164450 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x2162a3a1
+	Pitch: -0.00000012
+	Cloned: false
+	Genome: {
+		env_time: 0.56298888
+		env_loop: 0.20082140
+		env_tilt: 0.83392775
+		vol_atk: 0.25771618
+		vol_dcy: 0.80781293
+		vol_sus: 0.22141774
+		mod_atk: 0.38488990
+		mod_dcy: 0.48700166
+		mod_sh: 0.12545049
+		mod_vel: 0.24625742
+		lfo_rate: 0.53440380
+		lfo_amt: 0.61022943
+		lfo_bal: 0.27240878
+		a_form: 0.37217665
+		a_noise: 0.50989199
+		a_color: 0.25365657
+		a_freq: 0.16666669
+		a_mod: 0.52361107
+		b_form: 0.56457663
+		b_noise: 0.74587476
+		b_freq: 0.60934591
+		b_mod: 0.38979918
+		b_sh: 0.50078619
+		fm_amt: 0.72776031
+		fm_mod: 0.78987640
+		sub_am: 0.25708669
+		balance: 0.00000000
+		flt_freq: 0.72567630
+		flt_mod: 0.43996340
+		flt_sep: 0.62055016
+		flt_q: 0.26035982
+		flt_kf: 0.63330686
+		fx_mix: 0.57699168
+		fx_len: 0.32355970
+		fx_damp: 0.74425256
+		fx_chors: 0.59798002
+		fx_size: 0.50000000
+	}
+}

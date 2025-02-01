@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TJ ElekTricked"
+	ModWheel: 100.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +1.37810469 sm 
+	Atonality: 74.35318232 %
+	Effect: -12.40669489 %
+	Release: 58.07053501 ms 
+	WheelScale: 54.25000191 %
+	VelSens: 0.00000000 %
+	Volume: -6.43856362 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x1acff853
+	Pitch: -0.11596823
+	Cloned: false
+	Genome: {
+		env_time: 0.91834939
+		env_loop: 0.77317679
+		env_tilt: 0.03158319
+		vol_atk: 0.95107508
+		vol_dcy: 0.10329294
+		vol_sus: 0.94068033
+		mod_atk: 0.81325608
+		mod_dcy: 0.38614887
+		mod_sh: 0.51998347
+		mod_vel: 0.50494027
+		lfo_rate: 0.82731271
+		lfo_amt: 0.32978678
+		lfo_bal: 0.57382697
+		a_form: 0.79195309
+		a_noise: 0.03266454
+		a_color: 0.65404814
+		a_freq: 0.51932806
+		a_mod: 0.65283656
+		b_form: 0.66729027
+		b_noise: 0.29881358
+		b_freq: 0.23234010
+		b_mod: 0.34914815
+		b_sh: 0.26176775
+		fm_amt: 0.69601029
+		fm_mod: 0.20542181
+		sub_am: 0.18238831
+		balance: 0.94763935
+		flt_freq: 0.70243955
+		flt_mod: 0.77519578
+		flt_sep: 0.06147516
+		flt_q: 0.04805338
+		flt_kf: 0.41420925
+		fx_mix: 0.46761405
+		fx_len: 0.67049181
+		fx_damp: 0.29529130
+		fx_chors: 0.64589411
+		fx_size: 0.66496521
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "Inspector v1b"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 13.52711916 %
+	Effect: 0.00000000 %
+	Release: 16.46080933 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 30.57053685 %
+	Branch2: 30.57053685 %
+	Branch3: 30.57053685 %
+	Branch4: 30.57053685 %
+	Branch5: 30.57053685 %
+	Branch6: 30.57053685 %
+	Branch7: 30.57053685 %
+	Branch8: 30.57053685 %
+	Branch9: 30.57053685 %
+	Branch10: 30.57053685 %
+	Branch11: 30.57053685 %
+	Branch12: 30.57053685 %
+	Seed: 0xc9aafe13
+	Pitch: 0.22833300
+	Cloned: true
+	Genome: {
+		env_time: 0.32492971
+		env_loop: 0.15423369
+		env_tilt: 0.24273854
+		vol_atk: 0.67364657
+		vol_dcy: 0.66716027
+		vol_sus: 0.92956042
+		mod_atk: 0.79345185
+		mod_dcy: 0.02467453
+		mod_sh: 0.02414095
+		mod_vel: 0.36782056
+		lfo_rate: 0.34324312
+		lfo_amt: 0.88011360
+		lfo_bal: 0.77635336
+		a_form: 0.34718519
+		a_noise: 0.85663974
+		a_color: 0.99790418
+		a_freq: 0.29527783
+		a_mod: 0.45811969
+		b_form: 0.15727222
+		b_noise: 0.64918351
+		b_freq: 0.64893079
+		b_mod: 0.89325285
+		b_sh: 0.72204232
+		fm_amt: 0.29694241
+		fm_mod: 0.98840880
+		sub_am: 0.88574284
+		balance: 0.81879413
+		flt_freq: 0.34766662
+		flt_mod: 0.13337040
+		flt_sep: 0.50441945
+		flt_q: 0.37760639
+		flt_kf: 0.83033293
+		fx_mix: 0.53944957
+		fx_len: 0.96618342
+		fx_damp: 0.86346871
+		fx_chors: 0.00523293
+		fx_size: 0.59584045
+	}
+}

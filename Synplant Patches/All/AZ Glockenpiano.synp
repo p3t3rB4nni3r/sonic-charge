@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Glockenpiano"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 21.64611071 %
+	Effect: 0.00000000 %
+	Release: 1.93356846 s 
+	WheelScale: 47.56097496 %
+	VelSens: 50.00000000 %
+	Volume: -6.46056429 dB
+	Branch1: 79.52755690 %
+	Branch2: 79.52755690 %
+	Branch3: 79.52755690 %
+	Branch4: 79.52755690 %
+	Branch5: 79.52755690 %
+	Branch6: 79.52755690 %
+	Branch7: 79.52755690 %
+	Branch8: 79.52755690 %
+	Branch9: 79.52755690 %
+	Branch10: 79.52755690 %
+	Branch11: 79.52755690 %
+	Branch12: 79.52755690 %
+	Seed: 0x393a575c
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.00557733,
+		env_loop: 0.06985557,
+		env_tilt: 0.24575025,
+		vol_atk: 0.96562099,
+		vol_dcy: 0.91167492,
+		vol_sus: 0.76656020,
+		mod_atk: 0.11105150,
+		mod_dcy: 0.32777303,
+		mod_sh: 0.17043984,
+		mod_vel: 0.88381058,
+		lfo_rate: 0.95890665,
+		lfo_amt: 0.45915061,
+		lfo_bal: 0.15992689,
+		a_form: 0.45291930,
+		a_noise: 0.26181865,
+		a_color: 0.10143083,
+		a_freq: 0.83333331,
+		a_mod: 0.53825825,
+		b_form: 0.51217127,
+		b_noise: 0.41408235,
+		b_freq: 0.78222704,
+		b_mod: 0.26879448,
+		b_sh: 0.11126745,
+		fm_amt: 0.56000912,
+		fm_mod: 0.77242005,
+		sub_am: 0.48396975,
+		balance: 0.40622586,
+		flt_freq: 0.11551636,
+		flt_mod: 0.52567852,
+		flt_sep: 0.11606091,
+		flt_q: 0.89960200,
+		flt_kf: 0.75127167,
+		fx_mix: 0.13505018,
+		fx_len: 0.76472867,
+		fx_damp: 0.84643114,
+		fx_chors: 0.53591871,
+		fx_size: 0.50414133
+	}
+}

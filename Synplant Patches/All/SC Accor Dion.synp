@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Accor Dion"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 26.12515092 %
+	Effect: 20.38521767 %
+	Release: 269.04460977 ms 
+	WheelScale: 31.70731664 %
+	VelSens: 50.00000000 %
+	Volume: 3.32019910 dB
+	Branch1: 23.13481420 %
+	Branch2: 9.71620381 %
+	Branch3: 27.23737061 %
+	Branch4: 24.32005554 %
+	Branch5: 15.81299305 %
+	Branch6: 0.39012961 %
+	Branch7: 15.82966447 %
+	Branch8: 0.00000000 %
+	Branch9: 30.58299124 %
+	Branch10: 21.96512818 %
+	Branch11: 19.15337443 %
+	Branch12: 20.48192769 %
+	Seed: 0xd9cfb095
+	Pitch: 1.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.64086014,
+		env_loop: 0.80045456,
+		env_tilt: 0.35798368,
+		vol_atk: 0.35364470,
+		vol_dcy: 0.56719261,
+		vol_sus: 0.52123213,
+		mod_atk: 0.94110936,
+		mod_dcy: 0.53331769,
+		mod_sh: 0.65462017,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.06753010,
+		lfo_amt: 0.62837207,
+		lfo_bal: 0.21666789,
+		a_form: 0.68251592,
+		a_noise: 0.76923692,
+		a_color: 0.39114293,
+		a_freq: 0.50000000,
+		a_mod: 0.48111141,
+		b_form: 0.87742835,
+		b_noise: 0.48662412,
+		b_freq: 0.51951671,
+		b_mod: 0.51379180,
+		b_sh: 0.20353088,
+		fm_amt: 0.54110765,
+		fm_mod: 0.95765251,
+		sub_am: 0.44615084,
+		balance: 0.53026146,
+		flt_freq: 0.39812198,
+		flt_mod: 0.66199458,
+		flt_sep: 0.95252514,
+		flt_q: 0.28188163,
+		flt_kf: 0.34822980,
+		fx_mix: 0.08513005,
+		fx_len: 0.08408297,
+		fx_damp: 0.86018169,
+		fx_chors: 0.37777621,
+		fx_size: 0.45510203
+	}
+}

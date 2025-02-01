@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Asparagus Grande"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 11.92621887 %
+	Effect: 56.60344362 %
+	Release: 1.44677490 s 
+	WheelScale: 92.50000119 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xb06abce8
+	Pitch: -1.00065899
+	Cloned: true
+	Genome: {
+		env_time: 0.53349125,
+		env_loop: 0.57164097,
+		env_tilt: 0.47215623,
+		vol_atk: 0.70091742,
+		vol_dcy: 0.34942359,
+		vol_sus: 0.72878617,
+		mod_atk: 0.65132415,
+		mod_dcy: 0.39086914,
+		mod_sh: 0.72525018,
+		mod_vel: 0.93474579,
+		lfo_rate: 0.53797603,
+		lfo_amt: 0.37203085,
+		lfo_bal: 0.10714650,
+		a_form: 0.06428957,
+		a_noise: 0.46116453,
+		a_color: 0.68602610,
+		a_freq: 0.66677648,
+		a_mod: 0.65446067,
+		b_form: 0.29381347,
+		b_noise: 0.37319303,
+		b_freq: 0.76617849,
+		b_mod: 0.29765332,
+		b_sh: 0.34733015,
+		fm_amt: 0.14984769,
+		fm_mod: 0.95403844,
+		sub_am: 0.38177800,
+		balance: 0.75506520,
+		flt_freq: 0.70922583,
+		flt_mod: 0.20866984,
+		flt_sep: 0.52974892,
+		flt_q: 0.56551749,
+		flt_kf: 0.84606755,
+		fx_mix: 0.77988636,
+		fx_len: 0.62688458,
+		fx_damp: 0.20876825,
+		fx_chors: 0.50471532,
+		fx_size: 0.64365315
+	}
+}

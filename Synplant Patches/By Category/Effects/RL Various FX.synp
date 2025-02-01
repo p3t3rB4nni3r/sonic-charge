@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "RL Various FX"
+	ModWheel: 100.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +2.32956362 sm 
+	Atonality: 0.00000000 %
+	Effect: 75.56242943 %
+	Release: 195.09135647 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 0.00000000 %
+	Volume: -4.68930629 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x89134574
+	Pitch: -0.57167768
+	Cloned: false
+	Genome: {
+		env_time: 0.24787587,
+		env_loop: 0.87702751,
+		env_tilt: 0.10672206,
+		vol_atk: 0.20937109,
+		vol_dcy: 0.40442544,
+		vol_sus: 0.56898153,
+		mod_atk: 0.70027804,
+		mod_dcy: 0.61008394,
+		mod_sh: 0.92182010,
+		mod_vel: 0.49582201,
+		lfo_rate: 0.84692955,
+		lfo_amt: 0.42130655,
+		lfo_bal: 0.75736707,
+		a_form: 0.58614516,
+		a_noise: 0.38614047,
+		a_color: 0.66443539,
+		a_freq: 0.59527963,
+		a_mod: 0.40175354,
+		b_form: 0.92453212,
+		b_noise: 0.78713536,
+		b_freq: 0.77764297,
+		b_mod: 0.55339074,
+		b_sh: 0.02321970,
+		fm_amt: 0.89077729,
+		fm_mod: 0.49980700,
+		sub_am: 0.54862124,
+		balance: 0.72867650,
+		flt_freq: 0.68014908,
+		flt_mod: 0.61653900,
+		flt_sep: 0.94566810,
+		flt_q: 0.56455255,
+		flt_kf: 0.95324785,
+		fx_mix: 0.27677637,
+		fx_len: 0.08785146,
+		fx_damp: 0.54471624,
+		fx_chors: 0.13401592,
+		fx_size: 0.18376602
+	}
+}

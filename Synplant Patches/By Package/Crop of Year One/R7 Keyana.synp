@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "R7 Keyana"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 20.32598257 %
+	Effect: -54.34081852 %
+	Release: 855.43577421 ms 
+	WheelScale: 19.14370060 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x34e4ae4a
+	Pitch: 0.03543615
+	Cloned: false
+	Genome: {
+		env_time: 0.83826023
+		env_loop: 0.86951888
+		env_tilt: 0.13560247
+		vol_atk: 0.48789281
+		vol_dcy: 0.72244531
+		vol_sus: 0.13625753
+		mod_atk: 0.48866552
+		mod_dcy: 0.24779582
+		mod_sh: 0.50351459
+		mod_vel: 0.72136849
+		lfo_rate: 0.57649815
+		lfo_amt: 0.08641195
+		lfo_bal: 0.28678387
+		a_form: 0.89384913
+		a_noise: 0.71492690
+		a_color: 0.16516346
+		a_freq: 0.49409395
+		a_mod: 0.48026752
+		b_form: 0.18223047
+		b_noise: 0.68762583
+		b_freq: 0.48996496
+		b_mod: 0.56367511
+		b_sh: 0.08474588
+		fm_amt: 0.65671593
+		fm_mod: 0.82367086
+		sub_am: 0.18050516
+		balance: 0.38463569
+		flt_freq: 0.30171835
+		flt_mod: 0.48030692
+		flt_sep: 0.12258410
+		flt_q: 0.27639669
+		flt_kf: 0.44641536
+		fx_mix: 0.31881672
+		fx_len: 0.76448488
+		fx_damp: 0.27796972
+		fx_chors: 0.10024881
+		fx_size: 0.35494933
+	}
+}

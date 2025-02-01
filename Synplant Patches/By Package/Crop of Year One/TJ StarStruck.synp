@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TJ StarStruck"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -1.11107826 ct 
+	Atonality: 62.22011447 %
+	Effect: 0.00000000 %
+	Release: 1.47405125 s 
+	WheelScale: 89.99999762 %
+	VelSens: 50.00000000 %
+	Volume: -0.73051681 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x465dfb48
+	Pitch: 0.00137186
+	Cloned: true
+	Genome: {
+		env_time: 0.57176173
+		env_loop: 0.54873997
+		env_tilt: 0.44402409
+		vol_atk: 0.56776643
+		vol_dcy: 0.68247133
+		vol_sus: 0.35116625
+		mod_atk: 0.48346639
+		mod_dcy: 0.16602075
+		mod_sh: 0.61965770
+		mod_vel: 0.70094407
+		lfo_rate: 0.54969126
+		lfo_amt: 0.38625705
+		lfo_bal: 0.92592812
+		a_form: 0.61109567
+		a_noise: 0.62175268
+		a_color: 0.85995275
+		a_freq: 0.83310467
+		a_mod: 0.19538575
+		b_form: 0.12710834
+		b_noise: 0.75823331
+		b_freq: 0.81957656
+		b_mod: 0.05606663
+		b_sh: 0.79905039
+		fm_amt: 0.84828508
+		fm_mod: 0.59247690
+		sub_am: 0.67722130
+		balance: 0.85105491
+		flt_freq: 0.82565510
+		flt_mod: 0.76649451
+		flt_sep: 0.22436363
+		flt_q: 0.48553777
+		flt_kf: 0.34375250
+		fx_mix: 0.67667639
+		fx_len: 0.69287223
+		fx_damp: 0.37252176
+		fx_chors: 0.86621916
+		fx_size: 0.56318718
+	}
+}

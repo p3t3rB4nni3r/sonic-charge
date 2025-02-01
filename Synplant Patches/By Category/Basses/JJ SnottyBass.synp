@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "JJ SnottyBass"
+	ModWheel: 11.30975336 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 52.84154415 %
+	Effect: -62.70100772 %
+	Release: 238.13165865 ms 
+	WheelScale: 73.17073345 %
+	VelSens: 50.00000000 %
+	Volume: -3.04006263 dB
+	Branch1: 19.60068345 %
+	Branch2: 19.60068345 %
+	Branch3: 19.60068345 %
+	Branch4: 19.60068345 %
+	Branch5: 19.60068345 %
+	Branch6: 19.60068345 %
+	Branch7: 19.60068345 %
+	Branch8: 19.60068345 %
+	Branch9: 19.60068345 %
+	Branch10: 29.89728451 %
+	Branch11: 19.60068345 %
+	Branch12: 19.60068345 %
+	Seed: 0x6991a06f
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.25188801
+		env_loop: 0.65878433
+		env_tilt: 1.00000000
+		vol_atk: 0.80733335
+		vol_dcy: 0.30295268
+		vol_sus: 0.66983789
+		mod_atk: 0.25468531
+		mod_dcy: 0.23993914
+		mod_sh: 0.42598051
+		mod_vel: 0.40043747
+		lfo_rate: 0.07999469
+		lfo_amt: 0.36168540
+		lfo_bal: 0.00000000
+		a_form: 0.74858963
+		a_noise: 0.79813063
+		a_color: 0.47070277
+		a_freq: 0.50000030
+		a_mod: 0.50810820
+		b_form: 0.18095538
+		b_noise: 0.34471679
+		b_freq: 0.49821424
+		b_mod: 0.40689617
+		b_sh: 0.78266400
+		fm_amt: 0.94303668
+		fm_mod: 0.41110969
+		sub_am: 0.85560256
+		balance: 0.40451023
+		flt_freq: 0.11923689
+		flt_mod: 0.52239633
+		flt_sep: 0.81201261
+		flt_q: 0.36120233
+		flt_kf: 0.41981342
+		fx_mix: 0.34555784
+		fx_len: 0.34452978
+		fx_damp: 0.76212287
+		fx_chors: 0.58773893
+		fx_size: 0.22718461
+	}
+}

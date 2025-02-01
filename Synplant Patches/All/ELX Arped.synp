@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Arped"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -35.85137725 %
+	Release: 1.54409985 s 
+	WheelScale: 69.51219440 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xab95d182
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.88053197
+		env_loop: 0.26435491
+		env_tilt: 0.88658738
+		vol_atk: 0.00000000
+		vol_dcy: 0.84247380
+		vol_sus: 0.62828028
+		mod_atk: 0.00000000
+		mod_dcy: 0.14840746
+		mod_sh: 0.04914647
+		mod_vel: 0.48976535
+		lfo_rate: 0.80624056
+		lfo_amt: 0.58046335
+		lfo_bal: 0.72993129
+		a_form: 0.60245669
+		a_noise: 0.71097326
+		a_color: 0.60935175
+		a_freq: 0.50000000
+		a_mod: 0.50000072
+		b_form: 0.81858897
+		b_noise: 0.38986540
+		b_freq: 0.75170064
+		b_mod: 0.50000000
+		b_sh: 0.33712026
+		fm_amt: 0.81982428
+		fm_mod: 0.84335548
+		sub_am: 0.61361796
+		balance: 0.71581805
+		flt_freq: 0.62797099
+		flt_mod: 0.31688479
+		flt_sep: 0.61652982
+		flt_q: 0.56479979
+		flt_kf: 0.76685494
+		fx_mix: 0.38749227
+		fx_len: 0.76727545
+		fx_damp: 0.56726992
+		fx_chors: 0.92249626
+		fx_size: 0.44876403
+	}
+}

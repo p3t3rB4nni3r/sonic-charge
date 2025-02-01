@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Space Raid Siren"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +3.33000040 sm 
+	Atonality: 20.00000030 %
+	Effect: 0.00000000 %
+	Release: 7.21400038 s 
+	WheelScale: 36.25000119 %
+	VelSens: 50.00000000 %
+	Volume: -9.04318987 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x1b05ccc8
+	Pitch: 0.28551060
+	Cloned: false
+	Genome: {
+		env_time: 0.73441690,
+		env_loop: 0.70405829,
+		env_tilt: 0.31219161,
+		vol_atk: 0.29831016,
+		vol_dcy: 0.96864212,
+		vol_sus: 0.31154370,
+		mod_atk: 0.41965789,
+		mod_dcy: 0.56977326,
+		mod_sh: 0.49861953,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.48571944,
+		lfo_amt: 0.09460627,
+		lfo_bal: 0.02937495,
+		a_form: 0.91958457,
+		a_noise: 0.80672520,
+		a_color: 0.58050430,
+		a_freq: 0.75693882,
+		a_mod: 0.20432782,
+		b_form: 0.98447877,
+		b_noise: 0.60653299,
+		b_freq: 0.52418673,
+		b_mod: 0.52855909,
+		b_sh: 0.71024811,
+		fm_amt: 0.33124340,
+		fm_mod: 0.50242829,
+		sub_am: 0.25000000,
+		balance: 0.00000060,
+		flt_freq: 0.00000001,
+		flt_mod: 1.00000000,
+		flt_sep: 0.50006288,
+		flt_q: 0.54895931,
+		flt_kf: 0.75000000,
+		fx_mix: 0.97543436,
+		fx_len: 0.92209071,
+		fx_damp: 0.79124838,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

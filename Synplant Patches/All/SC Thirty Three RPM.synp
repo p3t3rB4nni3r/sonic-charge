@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 4
+	Name: "NE Thirty Three RPM"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: 0.25148392 %
+	Release: 4.15425826 s 
+	WheelScale: 84.14634466 %
+	VelSens: 50.00000000 %
+	Volume: -6.26315744 dB
+	Branch1: 12.70002425 %
+	Branch2: 34.53297019 %
+	Branch3: 20.30086517 %
+	Branch4: 14.11218047 %
+	Branch5: 10.63573584 %
+	Branch6: 14.06008601 %
+	Branch7: 17.89757460 %
+	Branch8: 24.26422834 %
+	Branch9: 20.75225413 %
+	Branch10: 16.99753106 %
+	Branch11: 7.47730583 %
+	Branch12: 13.83358985 %
+	Seed: 0x1222d8cd
+	Pitch: -2.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.78592235,
+		env_loop: 0.79629487,
+		env_tilt: 0.53342491,
+		vol_atk: 0.80423123,
+		vol_dcy: 0.56893843,
+		vol_sus: 0.88621509,
+		mod_atk: 0.67600214,
+		mod_dcy: 0.66390121,
+		mod_sh: 0.30927604,
+		mod_vel: 0.48708266,
+		lfo_rate: 0.14780331,
+		lfo_amt: 0.87669832,
+		lfo_bal: 0.06758340,
+		a_form: 0.34898275,
+		a_noise: 0.78052473,
+		a_color: 0.49076003,
+		a_freq: 0.66666669,
+		a_mod: 0.51614356,
+		b_form: 0.52870083,
+		b_noise: 0.62152362,
+		b_freq: 0.65222347,
+		b_mod: 0.47382247,
+		b_sh: 0.29463589,
+		fm_amt: 0.70700479,
+		fm_mod: 0.29333603,
+		sub_am: 0.97916424,
+		balance: 0.47395575,
+		flt_freq: 0.75192630,
+		flt_mod: 0.53879499,
+		flt_sep: 0.90248179,
+		flt_q: 0.93260229,
+		flt_kf: 0.39030170,
+		fx_mix: 0.87581778,
+		fx_len: 0.66546196,
+		fx_damp: 0.02777320,
+		fx_chors: 0.77936321,
+		fx_size: 0.30335733
+	}
+}

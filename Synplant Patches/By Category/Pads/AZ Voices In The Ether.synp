@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Voices In The Ether"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -35.43307185 %
+	Release: 223.60679775 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 71.65354490 %
+	Branch2: 71.65354490 %
+	Branch3: 71.65354490 %
+	Branch4: 71.65354490 %
+	Branch5: 71.65354490 %
+	Branch6: 71.65354490 %
+	Branch7: 71.65354490 %
+	Branch8: 71.65354490 %
+	Branch9: 71.65354490 %
+	Branch10: 71.65354490 %
+	Branch11: 71.65354490 %
+	Branch12: 71.65354490 %
+	Seed: 0x9318a932
+	Pitch: 0.32955921
+	Cloned: true
+	Genome: {
+		env_time: 0.77007306,
+		env_loop: 0.82383800,
+		env_tilt: 0.45627534,
+		vol_atk: 0.13429880,
+		vol_dcy: 0.60686696,
+		vol_sus: 0.75174534,
+		mod_atk: 0.57759988,
+		mod_dcy: 0.50593913,
+		mod_sh: 0.54949844,
+		mod_vel: 0.20114726,
+		lfo_rate: 0.90496755,
+		lfo_amt: 0.23008180,
+		lfo_bal: 0.01118553,
+		a_form: 0.55804908,
+		a_noise: 0.35410368,
+		a_color: 0.65265954,
+		a_freq: 0.27840680,
+		a_mod: 0.49867958,
+		b_form: 0.39105332,
+		b_noise: 0.61999393,
+		b_freq: 0.77949458,
+		b_mod: 0.50149423,
+		b_sh: 0.20404363,
+		fm_amt: 0.20699966,
+		fm_mod: 0.72841352,
+		sub_am: 0.82215929,
+		balance: 0.51409775,
+		flt_freq: 0.37976420,
+		flt_mod: 0.81744885,
+		flt_sep: 0.08723915,
+		flt_q: 0.92466921,
+		flt_kf: 0.91843730,
+		fx_mix: 0.27508885,
+		fx_len: 0.54268795,
+		fx_damp: 0.43009192,
+		fx_chors: 0.56712431,
+		fx_size: 0.25353691
+	}
+}

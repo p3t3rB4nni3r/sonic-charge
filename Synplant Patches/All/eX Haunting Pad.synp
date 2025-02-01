@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "eX Haunting Pad"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 5.19679487 %
+	Effect: 0.00000000 %
+	Release: 4.15596471 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -12.42976595 dB
+	Branch1: 66.14173055 %
+	Branch2: 66.14173055 %
+	Branch3: 66.14173055 %
+	Branch4: 66.14173055 %
+	Branch5: 66.14173055 %
+	Branch6: 66.14173055 %
+	Branch7: 66.14173055 %
+	Branch8: 66.14173055 %
+	Branch9: 66.14173055 %
+	Branch10: 66.14173055 %
+	Branch11: 66.14173055 %
+	Branch12: 66.14173055 %
+	Seed: 0xc2fa10c4
+	Pitch: 0.36019850
+	Cloned: true
+	Genome: {
+		env_time: 1.00000000
+		env_loop: 1.00000000
+		env_tilt: 1.00000000
+		vol_atk: 0.73960340
+		vol_dcy: 0.77392519
+		vol_sus: 0.71246040
+		mod_atk: 0.00000000
+		mod_dcy: 0.00000000
+		mod_sh: 1.00000000
+		mod_vel: 0.50377619
+		lfo_rate: 0.58707511
+		lfo_amt: 0.83853322
+		lfo_bal: 0.53713948
+		a_form: 0.51145178
+		a_noise: 0.51023477
+		a_color: 0.47408485
+		a_freq: 0.43996692
+		a_mod: 0.74165332
+		b_form: 0.47866464
+		b_noise: 0.79441619
+		b_freq: 0.44013345
+		b_mod: 0.45856547
+		b_sh: 1.00000000
+		fm_amt: 0.44048238
+		fm_mod: 0.44048131
+		sub_am: 1.00000000
+		balance: 0.50268275
+		flt_freq: 0.58198637
+		flt_mod: 0.43809563
+		flt_sep: 0.27662885
+		flt_q: 1.00000000
+		flt_kf: 1.00000000
+		fx_mix: 0.75485569
+		fx_len: 0.66864699
+		fx_damp: 0.59076470
+		fx_chors: 0.51850861
+		fx_size: 0.50000000
+	}
+}

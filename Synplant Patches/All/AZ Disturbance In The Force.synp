@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Disturbance In The Force"
+	ModWheel: 100.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 9.87713486 %
+	Effect: 0.00000000 %
+	Release: 1.47700000 s 
+	WheelScale: 100.00000000 %
+	VelSens: 0.00000000 %
+	Volume: 5.85563555 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xa6d04f40
+	Pitch: 0.11716080
+	Cloned: true
+	Genome: {
+		env_time: 0.42158300
+		env_loop: 0.91061252
+		env_tilt: 0.99604166
+		vol_atk: 0.55889583
+		vol_dcy: 0.97280872
+		vol_sus: 0.30052298
+		mod_atk: 0.68871665
+		mod_dcy: 0.56106114
+		mod_sh: 0.65602791
+		mod_vel: 0.20398116
+		lfo_rate: 0.05891031
+		lfo_amt: 0.94934219
+		lfo_bal: 0.58946902
+		a_form: 0.66898692
+		a_noise: 0.95058942
+		a_color: 0.56568980
+		a_freq: 0.31380653
+		a_mod: 0.01000178
+		b_form: 0.19608903
+		b_noise: 0.60072595
+		b_freq: 0.48773229
+		b_mod: 0.03662109
+		b_sh: 0.19676298
+		fm_amt: 0.47569090
+		fm_mod: 0.90376097
+		sub_am: 0.85959947
+		balance: 0.90516907
+		flt_freq: 0.28205538
+		flt_mod: 0.11174202
+		flt_sep: 0.49483287
+		flt_q: 0.10683692
+		flt_kf: 0.15796065
+		fx_mix: 0.44603378
+		fx_len: 0.83905196
+		fx_damp: 0.53072548
+		fx_chors: 0.24402213
+		fx_size: 0.35494933
+	}
+}

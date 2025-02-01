@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Delayed"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -0.84922314 ct 
+	Atonality: 68.35237741 %
+	Effect: -26.14242435 %
+	Release: 1.96936684 s 
+	WheelScale: 19.51219440 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xea4e9aa6
+	Pitch: -0.00263166
+	Cloned: false
+	Genome: {
+		env_time: 0.80668378
+		env_loop: 0.27357590
+		env_tilt: 0.75494480
+		vol_atk: 0.65146357
+		vol_dcy: 0.51764202
+		vol_sus: 0.62491840
+		mod_atk: 0.44796681
+		mod_dcy: 0.60098839
+		mod_sh: 0.83587873
+		mod_vel: 0.92519796
+		lfo_rate: 0.36319345
+		lfo_amt: 0.47353911
+		lfo_bal: 0.78704482
+		a_form: 0.73106933
+		a_noise: 0.78918779
+		a_color: 0.60462880
+		a_freq: 0.83377194
+		a_mod: 0.39715999
+		b_form: 0.93283135
+		b_noise: 0.56180882
+		b_freq: 0.23766583
+		b_mod: 0.84912384
+		b_sh: 0.12715501
+		fm_amt: 0.48507899
+		fm_mod: 0.59907383
+		sub_am: 0.31344938
+		balance: 0.38605577
+		flt_freq: 0.57750225
+		flt_mod: 0.73121297
+		flt_sep: 0.55951285
+		flt_q: 0.65533924
+		flt_kf: 0.96561879
+		fx_mix: 0.59199631
+		fx_len: 0.75405407
+		fx_damp: 0.35526258
+		fx_chors: 0.53040934
+		fx_size: 0.68563205
+	}
+}

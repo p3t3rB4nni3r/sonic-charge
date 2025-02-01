@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Metal Strings"
+	ModWheel: 40.94488323 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 22.45275080 %
+	Effect: 19.97458935 %
+	Release: 3.85738380 s 
+	WheelScale: 48.78048897 %
+	VelSens: 50.00000596 %
+	Volume: -10.29146149 dB
+	Branch1: 48.78048897 %
+	Branch2: 48.78048897 %
+	Branch3: 48.78048897 %
+	Branch4: 48.78048897 %
+	Branch5: 48.78048897 %
+	Branch6: 48.78048897 %
+	Branch7: 48.78048897 %
+	Branch8: 48.78048897 %
+	Branch9: 48.78048897 %
+	Branch10: 48.78048897 %
+	Branch11: 48.78048897 %
+	Branch12: 48.78048897 %
+	Seed: 0xc49cc69a
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.77946854
+		env_loop: 0.59957987
+		env_tilt: 0.95659941
+		vol_atk: 0.38524520
+		vol_dcy: 0.52138162
+		vol_sus: 0.26378405
+		mod_atk: 0.84572107
+		mod_dcy: 0.62133247
+		mod_sh: 0.69073904
+		mod_vel: 0.71883065
+		lfo_rate: 0.21105891
+		lfo_amt: 0.72556400
+		lfo_bal: 0.93306673
+		a_form: 0.39962769
+		a_noise: 0.32153350
+		a_color: 0.36178982
+		a_freq: 1.00000000
+		a_mod: 0.50334179
+		b_form: 0.64179903
+		b_noise: 0.44464082
+		b_freq: 0.34302950
+		b_mod: 0.51768160
+		b_sh: 0.38676965
+		fm_amt: 0.73744941
+		fm_mod: 0.17344856
+		sub_am: 0.19007564
+		balance: 0.64077759
+		flt_freq: 0.31180537
+		flt_mod: 0.41962028
+		flt_sep: 0.60683358
+		flt_q: 0.80148685
+		flt_kf: 0.19787711
+		fx_mix: 0.64982259
+		fx_len: 0.53744489
+		fx_damp: 0.29427522
+		fx_chors: 0.28351188
+		fx_size: 0.70838511
+	}
+}

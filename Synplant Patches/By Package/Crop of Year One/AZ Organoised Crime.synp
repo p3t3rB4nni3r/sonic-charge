@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Organoised Crime"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 22.91633487 %
+	Effect: 0.00000000 %
+	Release: 355.87472952 ms 
+	WheelScale: 63.74999285 %
+	VelSens: 0.00000000 %
+	Volume: -4.87619578 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x45806490
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.74037087
+		env_loop: 0.70915431
+		env_tilt: 0.13155577
+		vol_atk: 0.46217909
+		vol_dcy: 0.99593163
+		vol_sus: 0.44966644
+		mod_atk: 0.58154982
+		mod_dcy: 0.71967643
+		mod_sh: 0.25724155
+		mod_vel: 0.44268802
+		lfo_rate: 0.13834786
+		lfo_amt: 0.51483506
+		lfo_bal: 0.31265885
+		a_form: 0.59634525
+		a_noise: 0.42107502
+		a_color: 0.42306477
+		a_freq: 0.33333334
+		a_mod: 0.47234932
+		b_form: 0.86190784
+		b_noise: 0.44988436
+		b_freq: 0.90936708
+		b_mod: 0.48870397
+		b_sh: 0.38656759
+		fm_amt: 0.44364858
+		fm_mod: 0.67756379
+		sub_am: 0.33692044
+		balance: 0.31953058
+		flt_freq: 0.47265619
+		flt_mod: 0.70712024
+		flt_sep: 0.16945031
+		flt_q: 0.56564158
+		flt_kf: 0.30452695
+		fx_mix: 0.34576672
+		fx_len: 0.15635574
+		fx_damp: 0.31024012
+		fx_chors: 0.66589797
+		fx_size: 0.81170523
+	}
+}

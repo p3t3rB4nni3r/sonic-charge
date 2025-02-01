@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Enrico Chet"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 100.00000000 %
+	Effect: 0.00000000 %
+	Release: 4.34564621 s 
+	WheelScale: 55.00000119 %
+	VelSens: 50.00000000 %
+	Volume: 4.65321396 dB
+	Branch1: 0.00000000 %
+	Branch2: 36.14457846 %
+	Branch3: 50.60241222 %
+	Branch4: 47.10445702 %
+	Branch5: 46.96851671 %
+	Branch6: 50.83376169 %
+	Branch7: 46.80311382 %
+	Branch8: 43.15875173 %
+	Branch9: 43.04600954 %
+	Branch10: 33.36767256 %
+	Branch11: 34.39288735 %
+	Branch12: 42.38644838 %
+	Seed: 0x554b4d12
+	Pitch: 0.54718924
+	Cloned: false
+	Genome: {
+		env_time: 0.41174686,
+		env_loop: 0.57150578,
+		env_tilt: 0.62093753,
+		vol_atk: 0.04866779,
+		vol_dcy: 0.22357762,
+		vol_sus: 0.03875202,
+		mod_atk: 0.16288608,
+		mod_dcy: 0.57942742,
+		mod_sh: 0.00448120,
+		mod_vel: 0.08111739,
+		lfo_rate: 0.48679066,
+		lfo_amt: 0.00437331,
+		lfo_bal: 0.89557248,
+		a_form: 0.40870023,
+		a_noise: 0.64072061,
+		a_color: 0.01082885,
+		a_freq: 0.74213511,
+		a_mod: 0.11863637,
+		b_form: 0.86207926,
+		b_noise: 0.36108828,
+		b_freq: 0.88227063,
+		b_mod: 0.17981267,
+		b_sh: 0.31371909,
+		fm_amt: 0.94673187,
+		fm_mod: 0.98442930,
+		sub_am: 0.19340563,
+		balance: 0.34384650,
+		flt_freq: 0.87351775,
+		flt_mod: 0.31375766,
+		flt_sep: 0.11260748,
+		flt_q: 0.70937717,
+		flt_kf: 0.71455491,
+		fx_mix: 0.05548716,
+		fx_len: 0.08831930,
+		fx_damp: 0.32550299,
+		fx_chors: 0.40024781,
+		fx_size: 0.50180781
+	}
+}

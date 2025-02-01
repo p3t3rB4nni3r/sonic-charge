@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "eX Brassy Strings"
+	ModWheel: 0.00000000 %
+	Rotation: 270.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 9.94063318 %
+	Effect: 75.43038130 %
+	Release: 4.09816407 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -4.05467772 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x9b502e0c
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.51200378
+		env_loop: 0.43259746
+		env_tilt: 0.64736974
+		vol_atk: 0.77194315
+		vol_dcy: 0.57198936
+		vol_sus: 0.70785892
+		mod_atk: 0.60391092
+		mod_dcy: 0.50623250
+		mod_sh: 0.44611910
+		mod_vel: 0.31889713
+		lfo_rate: 0.27160656
+		lfo_amt: 0.04378545
+		lfo_bal: 0.44263893
+		a_form: 0.61044049
+		a_noise: 0.45933473
+		a_color: 0.64912152
+		a_freq: 0.66666669
+		a_mod: 0.54794741
+		b_form: 0.00498915
+		b_noise: 0.44873291
+		b_freq: 0.66672677
+		b_mod: 0.50636619
+		b_sh: 0.03194356
+		fm_amt: 0.52132225
+		fm_mod: 0.03578937
+		sub_am: 0.56153584
+		balance: 0.23586085
+		flt_freq: 0.73955065
+		flt_mod: 0.74462897
+		flt_sep: 0.51424718
+		flt_q: 0.53130645
+		flt_kf: 1.00000000
+		fx_mix: 0.49091107
+		fx_len: 0.72218919
+		fx_damp: 0.83868504
+		fx_chors: 0.49785045
+		fx_size: 0.50000000
+	}
+}

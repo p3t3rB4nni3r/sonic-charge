@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "SM Zenperi"
+	ModWheel: 0.00000000 %
+	Rotation: 90.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 26.44751370 %
+	Effect: 13.78953457 %
+	Release: 6.81846361 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 55.73152900 %
+	Branch2: 53.79784107 %
+	Branch3: 54.30139899 %
+	Branch4: 19.78154778 %
+	Branch5: 39.12224472 %
+	Branch6: 80.93865514 %
+	Branch7: 66.69576168 %
+	Branch8: 15.56302607 %
+	Branch9: 58.14839602 %
+	Branch10: 64.43496346 %
+	Branch11: 58.26872587 %
+	Branch12: 65.37714005 %
+	Seed: 0xe8cf5425
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.79439795,
+		env_loop: 0.23161574,
+		env_tilt: 0.59926337,
+		vol_atk: 0.92972130,
+		vol_dcy: 0.78489918,
+		vol_sus: 0.99873215,
+		mod_atk: 0.28605053,
+		mod_dcy: 0.90566015,
+		mod_sh: 0.72879887,
+		mod_vel: 0.31269860,
+		lfo_rate: 0.86587417,
+		lfo_amt: 0.76679558,
+		lfo_bal: 0.17809749,
+		a_form: 0.04244117,
+		a_noise: 0.73233086,
+		a_color: 0.50769210,
+		a_freq: 0.13669774,
+		a_mod: 0.23970872,
+		b_form: 0.19175592,
+		b_noise: 0.13214011,
+		b_freq: 0.79143298,
+		b_mod: 0.72815740,
+		b_sh: 0.58380896,
+		fm_amt: 0.63954252,
+		fm_mod: 0.23535043,
+		sub_am: 0.25000000,
+		balance: 0.63944221,
+		flt_freq: 0.74823517,
+		flt_mod: 0.84488475,
+		flt_sep: 0.35710400,
+		flt_q: 0.93043935,
+		flt_kf: 0.75000000,
+		fx_mix: 0.87459886,
+		fx_len: 0.95498455,
+		fx_damp: 0.77424979,
+		fx_chors: 0.25000000,
+		fx_size: 0.01190164
+	}
+}

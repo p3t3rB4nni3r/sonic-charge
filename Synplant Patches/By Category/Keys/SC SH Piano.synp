@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "pianoI v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +2.27199268 sm 
+	Atonality: 50.00000000 %
+	Effect: -43.15909743 %
+	Release: 8.05243508 s 
+	WheelScale: 36.25000119 %
+	VelSens: 50.00000000 %
+	Volume: -2.24949235 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x41fd3831
+	Pitch: 0.80294609
+	Cloned: true
+	Genome: {
+		env_time: 0.68358195
+		env_loop: 0.81116933
+		env_tilt: 0.01280594
+		vol_atk: 0.17560875
+		vol_dcy: 0.23335332
+		vol_sus: 0.37201619
+		mod_atk: 0.81660146
+		mod_dcy: 0.98503506
+		mod_sh: 0.63317788
+		mod_vel: 0.00000000
+		lfo_rate: 0.15283000
+		lfo_amt: 0.47172153
+		lfo_bal: 0.34290481
+		a_form: 0.37957788
+		a_noise: 0.58339745
+		a_color: 0.57054913
+		a_freq: 0.36617565
+		a_mod: 0.35648006
+		b_form: 0.10005736
+		b_noise: 0.50688928
+		b_freq: 0.86885625
+		b_mod: 0.15457535
+		b_sh: 0.81282467
+		fm_amt: 0.42627215
+		fm_mod: 0.76156610
+		sub_am: 0.09839749
+		balance: 0.49832308
+		flt_freq: 0.57994872
+		flt_mod: 0.73794019
+		flt_sep: 0.37092942
+		flt_q: 0.63153911
+		flt_kf: 1.00000000
+		fx_mix: 0.48865867
+		fx_len: 0.85978293
+		fx_damp: 0.17155749
+		fx_chors: 0.24709648
+		fx_size: 0.75855547
+	}
+}

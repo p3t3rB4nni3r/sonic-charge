@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "hiresverb v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 14.50762440 s 
+	WheelScale: 53.74999642 %
+	VelSens: 50.00000000 %
+	Volume: -8.23414809 dB
+	Branch1: 6.55774102 %
+	Branch2: 39.28404152 %
+	Branch3: 43.85177195 %
+	Branch4: 42.13750958 %
+	Branch5: 42.45889187 %
+	Branch6: 54.07500267 %
+	Branch7: 49.43523109 %
+	Branch8: 46.26545310 %
+	Branch9: 56.63511157 %
+	Branch10: 48.26923013 %
+	Branch11: 49.26570058 %
+	Branch12: 40.52916765 %
+	Seed: 0x00000001
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.60385245
+		env_loop: 1.00000000
+		env_tilt: 0.22823672
+		vol_atk: 0.07056969
+		vol_dcy: 0.10790014
+		vol_sus: 0.99532682
+		mod_atk: 0.40144008
+		mod_dcy: 0.11358802
+		mod_sh: 0.53947264
+		mod_vel: 0.00000000
+		lfo_rate: 0.60556859
+		lfo_amt: 0.53939772
+		lfo_bal: 0.55344540
+		a_form: 0.40926933
+		a_noise: 0.25032136
+		a_color: 0.68620062
+		a_freq: 0.65180981
+		a_mod: 1.00000000
+		b_form: 0.86848915
+		b_noise: 0.53871679
+		b_freq: 0.93190712
+		b_mod: 0.33797351
+		b_sh: 0.16954711
+		fm_amt: 0.57492262
+		fm_mod: 0.52552748
+		sub_am: 0.54194438
+		balance: 0.66734236
+		flt_freq: 0.52980798
+		flt_mod: 0.23514366
+		flt_sep: 0.57197189
+		flt_q: 0.29431820
+		flt_kf: 1.00000000
+		fx_mix: 0.85593355
+		fx_len: 0.87439126
+		fx_damp: 0.16115904
+		fx_chors: 0.53857899
+		fx_size: 0.67596000
+	}
+}

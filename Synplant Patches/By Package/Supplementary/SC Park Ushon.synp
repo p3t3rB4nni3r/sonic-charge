@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "NE Park Ushon"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 47.99999893 %
+	Effect: -75.00000000 %
+	Release: 20.00000000 s 
+	WheelScale: 36.00000143 %
+	VelSens: 50.00000000 %
+	Volume: 7.09002430 dB
+	Branch1: 29.56561148 %
+	Branch2: 27.88082957 %
+	Branch3: 41.30122066 %
+	Branch4: 40.66729546 %
+	Branch5: 46.41247392 %
+	Branch6: 41.30122066 %
+	Branch7: 44.46778595 %
+	Branch8: 44.82888281 %
+	Branch9: 26.02193654 %
+	Branch10: 29.56561148 %
+	Branch11: 38.76199722 %
+	Branch12: 36.14457846 %
+	Seed: 0x72cb7321
+	Pitch: 0.79799098
+	Cloned: false
+	Genome: {
+		env_time: 0.68454754,
+		env_loop: 0.32285520,
+		env_tilt: 0.15100837,
+		vol_atk: 0.10041401,
+		vol_dcy: 0.41929960,
+		vol_sus: 0.20085633,
+		mod_atk: 0.37179166,
+		mod_dcy: 0.96428210,
+		mod_sh: 0.37218413,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.65328509,
+		lfo_amt: 0.81670123,
+		lfo_bal: 0.66021174,
+		a_form: 0.08397242,
+		a_noise: 0.09801566,
+		a_color: 0.16832767,
+		a_freq: 0.20033485,
+		a_mod: 0.45613128,
+		b_form: 0.24289478,
+		b_noise: 0.11430719,
+		b_freq: 0.79556310,
+		b_mod: 0.53482401,
+		b_sh: 0.36201194,
+		fm_amt: 0.05132863,
+		fm_mod: 0.96876401,
+		sub_am: 0.25000000,
+		balance: 0.10739136,
+		flt_freq: 0.61652511,
+		flt_mod: 0.34235173,
+		flt_sep: 0.72332394,
+		flt_q: 0.85837400,
+		flt_kf: 0.75000000,
+		fx_mix: 0.91943204,
+		fx_len: 0.69076145,
+		fx_damp: 0.83873284,
+		fx_chors: 0.25000000,
+		fx_size: 0.50000000
+	}
+}

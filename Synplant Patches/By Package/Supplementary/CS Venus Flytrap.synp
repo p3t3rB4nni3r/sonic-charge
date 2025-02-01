@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "CS Venus Flytrap"
+	ModWheel: 21.85598016 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 69.79365349 %
+	Effect: 14.06689882 %
+	Release: 596.00005215 ms 
+	WheelScale: 58.53658319 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x01062449
+	Pitch: 2.46468973
+	Cloned: false
+	Genome: {
+		env_time: 0.67421776,
+		env_loop: 0.74127501,
+		env_tilt: 0.75094837,
+		vol_atk: 0.16521859,
+		vol_dcy: 0.82041132,
+		vol_sus: 0.77388573,
+		mod_atk: 0.65489429,
+		mod_dcy: 0.59950012,
+		mod_sh: 0.00336301,
+		mod_vel: 0.44833037,
+		lfo_rate: 0.21981966,
+		lfo_amt: 0.92946446,
+		lfo_bal: 0.10573589,
+		a_form: 0.51480991,
+		a_noise: 0.29697216,
+		a_color: 0.71132505,
+		a_freq: 0.25588503,
+		a_mod: 0.34706202,
+		b_form: 0.92295629,
+		b_noise: 0.11537712,
+		b_freq: 0.51858431,
+		b_mod: 0.50051373,
+		b_sh: 0.43205890,
+		fm_amt: 0.26226091,
+		fm_mod: 0.35259521,
+		sub_am: 0.25000000,
+		balance: 0.98522002,
+		flt_freq: 0.16910893,
+		flt_mod: 0.21615967,
+		flt_sep: 0.90110075,
+		flt_q: 0.32728693,
+		flt_kf: 0.75000000,
+		fx_mix: 0.97634155,
+		fx_len: 0.94708735,
+		fx_damp: 0.36594945,
+		fx_chors: 0.25000000,
+		fx_size: 0.35494933
+	}
+}

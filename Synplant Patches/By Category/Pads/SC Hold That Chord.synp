@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Hold That Chord"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 54.99999523 %
+	Release: 3.93400033 s 
+	WheelScale: 45.12194991 %
+	VelSens: 50.00000000 %
+	Volume: -4.56537907 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xf3110c72
+	Pitch: 0.89606738
+	Cloned: false
+	Genome: {
+		env_time: 0.83374631,
+		env_loop: 0.83772862,
+		env_tilt: 0.65781510,
+		vol_atk: 0.81154490,
+		vol_dcy: 0.48724720,
+		vol_sus: 0.64221907,
+		mod_atk: 0.04724574,
+		mod_dcy: 0.62836039,
+		mod_sh: 0.17574388,
+		mod_vel: 0.00000000,
+		lfo_rate: 0.53977734,
+		lfo_amt: 0.83604836,
+		lfo_bal: 0.09778875,
+		a_form: 0.94711351,
+		a_noise: 0.30391765,
+		a_color: 0.41715610,
+		a_freq: 0.35065544,
+		a_mod: 0.49404860,
+		b_form: 0.05299646,
+		b_noise: 0.15628237,
+		b_freq: 0.86938721,
+		b_mod: 0.51074988,
+		b_sh: 0.31517142,
+		fm_amt: 0.36714405,
+		fm_mod: 0.27816570,
+		sub_am: 0.25000000,
+		balance: 0.38961703,
+		flt_freq: 0.54654408,
+		flt_mod: 0.06457758,
+		flt_sep: 0.84059966,
+		flt_q: 0.87870646,
+		flt_kf: 0.75000000,
+		fx_mix: 0.58352560,
+		fx_len: 0.40790197,
+		fx_damp: 0.60824782,
+		fx_chors: 0.25000000,
+		fx_size: 0.35125244
+	}
+}

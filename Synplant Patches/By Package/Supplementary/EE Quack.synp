@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 4
+	Name: "EE Quack"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 0.05772114 %
+	Release: 195.92125924 ms 
+	WheelScale: 71.95122242 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x41016a3d
+	Pitch: 0.00247788
+	Cloned: false
+	Genome: {
+		env_time: 0.80154335,
+		env_loop: 0.79921371,
+		env_tilt: 0.26944867,
+		vol_atk: 0.97673535,
+		vol_dcy: 0.93594438,
+		vol_sus: 0.72363132,
+		mod_atk: 0.26453415,
+		mod_dcy: 0.56652009,
+		mod_sh: 0.38747382,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.45684832,
+		lfo_amt: 0.69942677,
+		lfo_bal: 0.56919652,
+		a_form: 0.75108063,
+		a_noise: 0.00000000,
+		a_color: 0.45324314,
+		a_freq: 0.16625367,
+		a_mod: 0.56378597,
+		b_form: 0.96837175,
+		b_noise: 0.00000000,
+		b_freq: 0.56140721,
+		b_mod: 0.59235013,
+		b_sh: 0.07987714,
+		fm_amt: 0.28546339,
+		fm_mod: 0.34327149,
+		sub_am: 0.29590324,
+		balance: 0.72261441,
+		flt_freq: 0.04635497,
+		flt_mod: 0.84709287,
+		flt_sep: 0.94833082,
+		flt_q: 0.44333449,
+		flt_kf: 0.81743038,
+		fx_mix: 0.32990411,
+		fx_len: 0.40056321,
+		fx_damp: 0.72285461,
+		fx_chors: 0.36428481,
+		fx_size: 0.35494933
+	}
+}

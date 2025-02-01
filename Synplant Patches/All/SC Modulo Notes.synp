@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "notSureWhichPatchThisIs v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 60.31544209 %
+	Effect: 0.00000000 %
+	Release: 2.92608621 s 
+	WheelScale: 30.00000119 %
+	VelSens: 40.00000060 %
+	Volume: -1.38619517 dB
+	Branch1: 15.92956632 %
+	Branch2: 13.74614537 %
+	Branch3: 13.83358985 %
+	Branch4: 9.81303975 %
+	Branch5: 21.96512818 %
+	Branch6: 22.74793088 %
+	Branch7: 3.63761894 %
+	Branch8: 15.94619453 %
+	Branch9: 21.08061910 %
+	Branch10: 12.21214831 %
+	Branch11: 6.38788342 %
+	Branch12: 18.79580468 %
+	Seed: 0x01ef8ed4
+	Pitch: -0.12354231
+	Cloned: false
+	Genome: {
+		env_time: 0.48266602
+		env_loop: 0.78027344
+		env_tilt: 0.21801758
+		vol_atk: 0.99462891
+		vol_dcy: 0.36181641
+		vol_sus: 0.49877930
+		mod_atk: 0.68994141
+		mod_dcy: 0.17724609
+		mod_sh: 0.34838867
+		mod_vel: 0.60711545
+		lfo_rate: 0.92578125
+		lfo_amt: 0.75634766
+		lfo_bal: 0.50585938
+		a_form: 0.80419922
+		a_noise: 0.13952637
+		a_color: 0.90087891
+		a_freq: 0.68725705
+		a_mod: 0.50341797
+		b_form: 0.23132324
+		b_noise: 0.17773438
+		b_freq: 0.68017578
+		b_mod: 0.61767578
+		b_sh: 0.23181152
+		fm_amt: 0.72021484
+		fm_mod: 0.30566406
+		sub_am: 0.92480469
+		balance: 0.84765625
+		flt_freq: 0.30981445
+		flt_mod: 0.77001953
+		flt_sep: 0.85302734
+		flt_q: 0.32031250
+		flt_kf: 0.40580368
+		fx_mix: 0.66308594
+		fx_len: 0.82910156
+		fx_damp: 0.73437500
+		fx_chors: 0.74414062
+		fx_size: 0.60156250
+	}
+}

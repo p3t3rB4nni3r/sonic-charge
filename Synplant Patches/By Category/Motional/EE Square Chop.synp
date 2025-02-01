@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 5
+	Name: "EE Square Chop"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -100.00000000 %
+	Release: 1.00723305 s 
+	WheelScale: 56.09756112 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x8dd4954c
+	Pitch: 0.31001580
+	Cloned: false
+	Genome: {
+		env_time: 0.75600606,
+		env_loop: 0.12368280,
+		env_tilt: 0.74885654,
+		vol_atk: 0.34547770,
+		vol_dcy: 0.79782498,
+		vol_sus: 0.39747861,
+		mod_atk: 0.72087216,
+		mod_dcy: 0.83955377,
+		mod_sh: 0.90786660,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.97038436,
+		lfo_amt: 0.77547038,
+		lfo_bal: 0.16449258,
+		a_form: 0.77945888,
+		a_noise: 0.74918288,
+		a_color: 0.64200377,
+		a_freq: 0.44833070,
+		a_mod: 0.49996388,
+		b_form: 0.31724313,
+		b_noise: 0.36902446,
+		b_freq: 0.41024292,
+		b_mod: 0.49883139,
+		b_sh: 0.75242811,
+		fm_amt: 0.49455461,
+		fm_mod: 0.98147726,
+		sub_am: 0.63821977,
+		balance: 0.82850879,
+		flt_freq: 0.50075787,
+		flt_mod: 0.34071267,
+		flt_sep: 0.99058795,
+		flt_q: 0.01248920,
+		flt_kf: 0.18191439,
+		fx_mix: 0.72604924,
+		fx_len: 0.82190835,
+		fx_damp: 0.82008344,
+		fx_chors: 0.62183887,
+		fx_size: 0.35494933
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Cypedo"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 20.99999934 %
+	Effect: -6.06060624 %
+	Release: 1.04189094 s 
+	WheelScale: 70.58219314 %
+	VelSens: 57.53424764 %
+	Volume: 7.59302466 dB
+	Branch1: 16.72069579 %
+	Branch2: 12.33920529 %
+	Branch3: 18.32523644 %
+	Branch4: 9.69680622 %
+	Branch5: 10.71137041 %
+	Branch6: 10.78685597 %
+	Branch7: 15.82966447 %
+	Branch8: 23.43370020 %
+	Branch9: 25.26011467 %
+	Branch10: 20.79716176 %
+	Branch11: 3.82229462 %
+	Branch12: 15.07296562 %
+	Seed: 0x5afd9f7f
+	Pitch: 0.79799092
+	Cloned: true
+	Genome: {
+		env_time: 0.50191933
+		env_loop: 0.60195011
+		env_tilt: 0.26465821
+		vol_atk: 0.86770833
+		vol_dcy: 0.00708407
+		vol_sus: 0.58709663
+		mod_atk: 0.93312943
+		mod_dcy: 0.57267272
+		mod_sh: 0.34853649
+		mod_vel: 0.35435236
+		lfo_rate: 0.71458447
+		lfo_amt: 0.79428363
+		lfo_bal: 0.39578044
+		a_form: 0.36085999
+		a_noise: 0.59715801
+		a_color: 0.42789030
+		a_freq: 0.20033485
+		a_mod: 0.49755442
+		b_form: 0.21172273
+		b_noise: 0.00316983
+		b_freq: 0.75416267
+		b_mod: 0.54731554
+		b_sh: 0.50696981
+		fm_amt: 0.63667059
+		fm_mod: 0.17950422
+		sub_am: 0.95502204
+		balance: 0.60057598
+		flt_freq: 0.58143133
+		flt_mod: 0.87606734
+		flt_sep: 0.75728071
+		flt_q: 1.00000000
+		flt_kf: 0.57035697
+		fx_mix: 0.44072151
+		fx_len: 0.40326899
+		fx_damp: 0.64217663
+		fx_chors: 0.05384946
+		fx_size: 0.75330347
+	}
+}

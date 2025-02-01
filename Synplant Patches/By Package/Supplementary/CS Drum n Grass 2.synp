@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "CS Drum n Grass 2"
+	ModWheel: 0.78740157 %
+	Rotation: 0.00000000 degrees
+	Tuning: -37.47453690 ct 
+	Atonality: 66.52872562 %
+	Effect: -46.66650295 %
+	Release: 50.00000000 ms 
+	WheelScale: 25.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 3.39850003 dB
+	Branch1: 7.44094402 %
+	Branch2: 7.44094402 %
+	Branch3: 7.44094402 %
+	Branch4: 7.44094402 %
+	Branch5: 7.44094402 %
+	Branch6: 7.44094402 %
+	Branch7: 7.44094402 %
+	Branch8: 7.44094402 %
+	Branch9: 7.44094402 %
+	Branch10: 7.44094402 %
+	Branch11: 7.44094402 %
+	Branch12: 7.44094402 %
+	Seed: 0x9f56cb48
+	Pitch: 0.20328653
+	Cloned: true
+	Genome: {
+		env_time: 0.05787987,
+		env_loop: 0.83053154,
+		env_tilt: 0.25420564,
+		vol_atk: 0.17955947,
+		vol_dcy: 0.29086846,
+		vol_sus: 0.86051935,
+		mod_atk: 0.85981077,
+		mod_dcy: 0.28649235,
+		mod_sh: 0.95917696,
+		mod_vel: 0.58205050,
+		lfo_rate: 0.78686982,
+		lfo_amt: 0.17415917,
+		lfo_bal: 0.73679578,
+		a_form: 0.36760998,
+		a_noise: 0.06027961,
+		a_color: 0.70546091,
+		a_freq: 0.29945225,
+		a_mod: 0.22431788,
+		b_form: 0.88818234,
+		b_noise: 0.08213568,
+		b_freq: 0.61012387,
+		b_mod: 0.21660358,
+		b_sh: 0.62736899,
+		fm_amt: 0.73142433,
+		fm_mod: 0.18310136,
+		sub_am: 0.96093792,
+		balance: 0.56747532,
+		flt_freq: 0.38727856,
+		flt_mod: 0.11544454,
+		flt_sep: 0.06826556,
+		flt_q: 0.52466810,
+		flt_kf: 0.92774445,
+		fx_mix: 0.57440847,
+		fx_len: 0.63378185,
+		fx_damp: 0.57662106,
+		fx_chors: 0.39331910,
+		fx_size: 0.12752469
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "RL Mangled Procession"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 100.00000000 %
+	Effect: 100.00000000 %
+	Release: 7.02103355 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -3.04006263 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xc4973331
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.62905478,
+		env_loop: 0.97396684,
+		env_tilt: 0.73654145,
+		vol_atk: 0.46513057,
+		vol_dcy: 0.65330714,
+		vol_sus: 0.14934480,
+		mod_atk: 0.31025183,
+		mod_dcy: 0.79134548,
+		mod_sh: 0.87906313,
+		mod_vel: 0.12469393,
+		lfo_rate: 0.41071546,
+		lfo_amt: 0.14259326,
+		lfo_bal: 0.01278377,
+		a_form: 0.60778129,
+		a_noise: 0.53649813,
+		a_color: 0.94504571,
+		a_freq: 0.66666669,
+		a_mod: 0.50000000,
+		b_form: 0.90866417,
+		b_noise: 0.25282824,
+		b_freq: 0.41039515,
+		b_mod: 0.50000000,
+		b_sh: 0.22036970,
+		fm_amt: 0.05914074,
+		fm_mod: 0.71802944,
+		sub_am: 0.18496108,
+		balance: 0.50587833,
+		flt_freq: 0.61438835,
+		flt_mod: 0.55698717,
+		flt_sep: 0.48817694,
+		flt_q: 0.53433627,
+		flt_kf: 0.07206631,
+		fx_mix: 1.00000000,
+		fx_len: 0.88100410,
+		fx_damp: 0.05239284,
+		fx_chors: 0.09337533,
+		fx_size: 0.01937601
+	}
+}

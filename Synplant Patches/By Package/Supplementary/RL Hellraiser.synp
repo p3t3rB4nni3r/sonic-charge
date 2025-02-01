@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "RL Hellraiser"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 82.70226121 %
+	Effect: -12.17146516 %
+	Release: 185.07292385 ms 
+	WheelScale: 34.14634168 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x50ff943d
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.44807407,
+		env_loop: 0.00000000,
+		env_tilt: 0.80937648,
+		vol_atk: 0.00000000,
+		vol_dcy: 0.48759627,
+		vol_sus: 1.00000000,
+		mod_atk: 0.01291738,
+		mod_dcy: 0.00000000,
+		mod_sh: 0.06045639,
+		mod_vel: 0.01047174,
+		lfo_rate: 0.04192318,
+		lfo_amt: 0.65572929,
+		lfo_bal: 0.03644076,
+		a_form: 0.52099049,
+		a_noise: 0.68868387,
+		a_color: 0.57940984,
+		a_freq: 0.33333334,
+		a_mod: 0.16519189,
+		b_form: 0.63163799,
+		b_noise: 0.35985321,
+		b_freq: 0.51495153,
+		b_mod: 0.10871625,
+		b_sh: 0.32098722,
+		fm_amt: 0.72029424,
+		fm_mod: 0.86372715,
+		sub_am: 0.79927444,
+		balance: 0.71577847,
+		flt_freq: 0.47072464,
+		flt_mod: 0.00626537,
+		flt_sep: 0.18874285,
+		flt_q: 0.36701235,
+		flt_kf: 0.77842087,
+		fx_mix: 0.61893916,
+		fx_len: 0.10195166,
+		fx_damp: 0.74368536,
+		fx_chors: 0.89020288,
+		fx_size: 0.26931447
+	}
+}

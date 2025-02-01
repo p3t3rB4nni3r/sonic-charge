@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TH CrazyComets"
+	ModWheel: 0.03540526 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 67.36904979 %
+	Effect: -53.61269414 %
+	Release: 1.08165539 s 
+	WheelScale: 37.80487776 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 19.76882070 %
+	Branch2: 19.76882070 %
+	Branch3: 19.76882070 %
+	Branch4: 19.76882070 %
+	Branch5: 19.76882070 %
+	Branch6: 19.76882070 %
+	Branch7: 19.76882070 %
+	Branch8: 19.76882070 %
+	Branch9: 19.76882070 %
+	Branch10: 19.76882070 %
+	Branch11: 19.76882070 %
+	Branch12: 19.76882070 %
+	Seed: 0xb65cc7d3
+	Pitch: 0.65317535
+	Cloned: true
+	Genome: {
+		env_time: 0.50891829,
+		env_loop: 0.60357273,
+		env_tilt: 0.12997353,
+		vol_atk: 0.32985246,
+		vol_dcy: 0.26202333,
+		vol_sus: 0.41929251,
+		mod_atk: 0.67959285,
+		mod_dcy: 0.54086119,
+		mod_sh: 0.81217909,
+		mod_vel: 0.51280278,
+		lfo_rate: 0.27007484,
+		lfo_amt: 0.64764374,
+		lfo_bal: 0.30717540,
+		a_form: 0.80485404,
+		a_noise: 0.34007740,
+		a_color: 0.93746877,
+		a_freq: 0.55780411,
+		a_mod: 0.26949477,
+		b_form: 0.90557355,
+		b_noise: 0.46631682,
+		b_freq: 0.47045225,
+		b_mod: 0.99127436,
+		b_sh: 0.77695751,
+		fm_amt: 0.75664896,
+		fm_mod: 0.17810732,
+		sub_am: 0.01298660,
+		balance: 0.95267129,
+		flt_freq: 0.99784416,
+		flt_mod: 0.36631078,
+		flt_sep: 0.98199159,
+		flt_q: 0.20582885,
+		flt_kf: 0.13188970,
+		fx_mix: 0.53204489,
+		fx_len: 0.19249254,
+		fx_damp: 0.76086670,
+		fx_chors: 0.99081689,
+		fx_size: 0.35494933
+	}
+}

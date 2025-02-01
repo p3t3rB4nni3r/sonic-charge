@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "RL Hollow Wind Tunnel"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 100.00000000 %
+	Effect: -36.49207950 %
+	Release: 50.00000000 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 0.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x405ae63d
+	Pitch: -0.30125833
+	Cloned: false
+	Genome: {
+		env_time: 0.76858151,
+		env_loop: 1.00000000,
+		env_tilt: 1.00000000,
+		vol_atk: 0.88083643,
+		vol_dcy: 0.00000000,
+		vol_sus: 0.00000000,
+		mod_atk: 0.33475339,
+		mod_dcy: 0.48730290,
+		mod_sh: 0.13317186,
+		mod_vel: 0.64982057,
+		lfo_rate: 0.96402681,
+		lfo_amt: 0.65811098,
+		lfo_bal: 0.71226668,
+		a_form: 0.82824206,
+		a_noise: 0.97091883,
+		a_color: 0.71216422,
+		a_freq: 0.21687639,
+		a_mod: 0.66982889,
+		b_form: 0.87309772,
+		b_noise: 0.53694820,
+		b_freq: 0.71571326,
+		b_mod: 0.60728300,
+		b_sh: 0.19949001,
+		fm_amt: 0.31133109,
+		fm_mod: 0.00178862,
+		sub_am: 0.54683232,
+		balance: 0.25594229,
+		flt_freq: 0.13773131,
+		flt_mod: 0.89384156,
+		flt_sep: 0.74548805,
+		flt_q: 0.02820459,
+		flt_kf: 0.83465552,
+		fx_mix: 1.00000000,
+		fx_len: 0.25188810,
+		fx_damp: 0.78040540,
+		fx_chors: 1.00000000,
+		fx_size: 0.18376604
+	}
+}

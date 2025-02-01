@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Crystallized Sucrose"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 70.04302144 %
+	Effect: 9.96230841 %
+	Release: 3.96754277 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -2.19248951 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x056ad0e7
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.79063731,
+		env_loop: 0.73085058,
+		env_tilt: 0.00000000,
+		vol_atk: 0.99857759,
+		vol_dcy: 0.32627141,
+		vol_sus: 0.04354065,
+		mod_atk: 0.83316290,
+		mod_dcy: 0.53924298,
+		mod_sh: 0.13425604,
+		mod_vel: 0.67290699,
+		lfo_rate: 0.73293608,
+		lfo_amt: 0.22736423,
+		lfo_bal: 0.69852573,
+		a_form: 0.09495762,
+		a_noise: 0.55719465,
+		a_color: 0.21055779,
+		a_freq: 0.83333331,
+		a_mod: 0.52918273,
+		b_form: 0.67717570,
+		b_noise: 0.61686110,
+		b_freq: 0.94772017,
+		b_mod: 0.46737286,
+		b_sh: 0.20134608,
+		fm_amt: 0.06466879,
+		fm_mod: 0.48542520,
+		sub_am: 0.81645173,
+		balance: 0.31397399,
+		flt_freq: 0.34562838,
+		flt_mod: 0.08396091,
+		flt_sep: 0.05770795,
+		flt_q: 0.35669479,
+		flt_kf: 0.49132484,
+		fx_mix: 0.42815092,
+		fx_len: 0.96672034,
+		fx_damp: 0.58244103,
+		fx_chors: 0.66805333,
+		fx_size: 0.41857716
+	}
+}

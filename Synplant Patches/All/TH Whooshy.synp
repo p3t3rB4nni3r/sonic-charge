@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "TH Whooshy"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 22.08459377 %
+	Release: 2.36000559 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x5350c911
+	Pitch: -1.49867439
+	Cloned: false
+	Genome: {
+		env_time: 0.48021030,
+		env_loop: 0.93040729,
+		env_tilt: 0.72930324,
+		vol_atk: 0.38712060,
+		vol_dcy: 0.90146685,
+		vol_sus: 0.97269619,
+		mod_atk: 0.09278321,
+		mod_dcy: 0.37226522,
+		mod_sh: 0.20698196,
+		mod_vel: 0.27511537,
+		lfo_rate: 0.07686365,
+		lfo_amt: 0.48277324,
+		lfo_bal: 0.73087740,
+		a_form: 0.46150804,
+		a_noise: 0.96771169,
+		a_color: 0.73347026,
+		a_freq: 0.74977911,
+		a_mod: 0.35308367,
+		b_form: 0.68107069,
+		b_noise: 0.53708845,
+		b_freq: 0.78734529,
+		b_mod: 0.70424402,
+		b_sh: 0.95288384,
+		fm_amt: 0.20145679,
+		fm_mod: 0.20513701,
+		sub_am: 0.07361692,
+		balance: 0.77495700,
+		flt_freq: 0.54617989,
+		flt_mod: 0.93857825,
+		flt_sep: 0.37444627,
+		flt_q: 0.66041213,
+		flt_kf: 0.71118838,
+		fx_mix: 0.29731727,
+		fx_len: 0.74566102,
+		fx_damp: 0.61564833,
+		fx_chors: 0.61316735,
+		fx_size: 0.35494933
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Frog Bass"
+	ModWheel: 100.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 14.78208303 %
+	Effect: 33.86158943 %
+	Release: 388.11822002 ms 
+	WheelScale: 42.49999821 %
+	VelSens: 0.00000000 %
+	Volume: 9.70853605 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.49325279 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x6cad7297
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.14175987
+		env_loop: 0.39988437
+		env_tilt: 0.20069733
+		vol_atk: 0.83248436
+		vol_dcy: 0.68484247
+		vol_sus: 0.75715852
+		mod_atk: 0.28290832
+		mod_dcy: 0.69687319
+		mod_sh: 0.07838821
+		mod_vel: 0.67378843
+		lfo_rate: 0.86566687
+		lfo_amt: 0.27371454
+		lfo_bal: 0.17156428
+		a_form: 0.59811884
+		a_noise: 0.59771889
+		a_color: 0.39724836
+		a_freq: 0.16666667
+		a_mod: 0.39846283
+		b_form: 0.43052542
+		b_noise: 0.01698124
+		b_freq: 0.64889824
+		b_mod: 0.42573968
+		b_sh: 0.75745082
+		fm_amt: 0.12585858
+		fm_mod: 0.13531637
+		sub_am: 0.48112774
+		balance: 0.49613097
+		flt_freq: 0.62686658
+		flt_mod: 0.25001621
+		flt_sep: 0.28240865
+		flt_q: 0.86732066
+		flt_kf: 0.16914093
+		fx_mix: 0.24747044
+		fx_len: 0.61454880
+		fx_damp: 0.57348937
+		fx_chors: 0.30999234
+		fx_size: 0.76244313
+	}
+}

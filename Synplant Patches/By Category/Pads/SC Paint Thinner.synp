@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "SC Thinner Pad"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 16.25323147 %
+	Effect: 0.00000000 %
+	Release: 1.48691040 s 
+	WheelScale: 75.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -2.43372325 dB
+	Branch1: 4.09729816 %
+	Branch2: 4.09729816 %
+	Branch3: 4.09729816 %
+	Branch4: 4.09729816 %
+	Branch5: 4.09729816 %
+	Branch6: 4.09729816 %
+	Branch7: 4.09729816 %
+	Branch8: 4.09729816 %
+	Branch9: 4.09729816 %
+	Branch10: 4.09729816 %
+	Branch11: 4.09729816 %
+	Branch12: 4.09729816 %
+	Seed: 0x385c4a91
+	Pitch: -0.11303806
+	Cloned: true
+	Genome: {
+		env_time: 0.80455500
+		env_loop: 0.95105499
+		env_tilt: 0.07787997
+		vol_atk: 0.81947124
+		vol_dcy: 0.15597153
+		vol_sus: 0.92710400
+		mod_atk: 0.87666714
+		mod_dcy: 0.30733430
+		mod_sh: 0.15238804
+		mod_vel: 0.00000000
+		lfo_rate: 0.35947722
+		lfo_amt: 0.55813146
+		lfo_bal: 0.14375246
+		a_form: 0.50998306
+		a_noise: 0.30011249
+		a_color: 0.47613204
+		a_freq: 0.51883966
+		a_mod: 0.53747177
+		b_form: 0.54091650
+		b_noise: 0.34240758
+		b_freq: 0.59245002
+		b_mod: 0.54619360
+		b_sh: 0.33884501
+		fm_amt: 0.48769486
+		fm_mod: 0.48782557
+		sub_am: 0.01374280
+		balance: 0.79379714
+		flt_freq: 0.63204765
+		flt_mod: 0.86695611
+		flt_sep: 0.96618426
+		flt_q: 0.31962359
+		flt_kf: 1.00000000
+		fx_mix: 0.17995995
+		fx_len: 0.96993923
+		fx_damp: 0.13419467
+		fx_chors: 0.53594005
+		fx_size: 0.66709280
+	}
+}

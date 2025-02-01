@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Sandpaper"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -5.03044939 sm 
+	Atonality: 0.25577459 %
+	Effect: 0.00000000 %
+	Release: 1.79205820 s 
+	WheelScale: 69.51219440 %
+	VelSens: 50.00000000 %
+	Volume: -3.07918271 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x3510ec27
+	Pitch: 0.38613248
+	Cloned: false
+	Genome: {
+		env_time: 0.73844147
+		env_loop: 0.31985617
+		env_tilt: 0.53766525
+		vol_atk: 0.25368023
+		vol_dcy: 0.49970528
+		vol_sus: 0.64791292
+		mod_atk: 0.82155669
+		mod_dcy: 0.19024873
+		mod_sh: 0.19872123
+		mod_vel: 0.05837047
+		lfo_rate: 0.49197668
+		lfo_amt: 0.45752972
+		lfo_bal: 0.39650714
+		a_form: 0.92461133
+		a_noise: 0.77336073
+		a_color: 0.26863354
+		a_freq: 0.50274879
+		a_mod: 0.50632036
+		b_form: 0.91888237
+		b_noise: 0.64914972
+		b_freq: 0.50259256
+		b_mod: 0.48904851
+		b_sh: 0.62637669
+		fm_amt: 0.40637231
+		fm_mod: 0.32072362
+		sub_am: 0.64998621
+		balance: 0.14208047
+		flt_freq: 0.83529633
+		flt_mod: 0.34193039
+		flt_sep: 0.79149449
+		flt_q: 0.40010065
+		flt_kf: 0.97903359
+		fx_mix: 0.56739867
+		fx_len: 0.77228940
+		fx_damp: 0.91603619
+		fx_chors: 0.97439593
+		fx_size: 0.24215317
+	}
+}

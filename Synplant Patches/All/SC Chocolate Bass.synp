@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "bass cold again V1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: -55.18406630 %
+	Release: 225.47999584 ms 
+	WheelScale: 61.25000119 %
+	VelSens: 31.25000000 %
+	Volume: 2.08673448 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x39106d9b
+	Pitch: -0.00423670
+	Cloned: true
+	Genome: {
+		env_time: 0.52144480
+		env_loop: 0.77223188
+		env_tilt: 0.31660253
+		vol_atk: 0.38175082
+		vol_dcy: 0.35502940
+		vol_sus: 0.57937717
+		mod_atk: 0.61280215
+		mod_dcy: 0.02687645
+		mod_sh: 0.38240457
+		mod_vel: 0.00000000
+		lfo_rate: 0.17125148
+		lfo_amt: 0.55254519
+		lfo_bal: 0.08929914
+		a_form: 0.86116982
+		a_noise: 0.59427947
+		a_color: 0.66110539
+		a_freq: 0.33403945
+		a_mod: 0.49951982
+		b_form: 0.55711704
+		b_noise: 0.05818069
+		b_freq: 0.51859838
+		b_mod: 0.48314118
+		b_sh: 0.14881217
+		fm_amt: 0.46514273
+		fm_mod: 0.85683948
+		sub_am: 0.26143253
+		balance: 0.91209495
+		flt_freq: 0.60945404
+		flt_mod: 0.84754312
+		flt_sep: 0.46884638
+		flt_q: 0.24379003
+		flt_kf: 1.00000000
+		fx_mix: 0.92389500
+		fx_len: 0.28471768
+		fx_damp: 0.50234479
+		fx_chors: 0.23080671
+		fx_size: 0.98888856
+	}
+}

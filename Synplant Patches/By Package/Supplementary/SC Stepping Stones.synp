@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Stepping Stones"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 47.27512598 %
+	Release: 3.96754277 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 69.88695264 %
+	Branch2: 69.88695264 %
+	Branch3: 69.88695264 %
+	Branch4: 69.88695264 %
+	Branch5: 69.88695264 %
+	Branch6: 69.88695264 %
+	Branch7: 69.88695264 %
+	Branch8: 69.88695264 %
+	Branch9: 69.88695264 %
+	Branch10: 69.88695264 %
+	Branch11: 69.88695264 %
+	Branch12: 69.88695264 %
+	Seed: 0xfc09de31
+	Pitch: 0.63465118
+	Cloned: true
+	Genome: {
+		env_time: 0.83098769,
+		env_loop: 0.72502983,
+		env_tilt: 0.61805987,
+		vol_atk: 0.93128920,
+		vol_dcy: 0.96093941,
+		vol_sus: 0.90902478,
+		mod_atk: 0.29320109,
+		mod_dcy: 0.99428415,
+		mod_sh: 0.78770429,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.82632524,
+		lfo_amt: 0.87255204,
+		lfo_bal: 0.65232074,
+		a_form: 0.05476630,
+		a_noise: 0.08732247,
+		a_color: 0.18386602,
+		a_freq: 0.39422482,
+		a_mod: 0.50000000,
+		b_form: 0.98807770,
+		b_noise: 0.30910289,
+		b_freq: 0.76361531,
+		b_mod: 0.50000000,
+		b_sh: 0.15340632,
+		fm_amt: 0.25533533,
+		fm_mod: 0.01779425,
+		sub_am: 0.80963635,
+		balance: 0.33485490,
+		flt_freq: 0.37872016,
+		flt_mod: 0.80082142,
+		flt_sep: 0.10877013,
+		flt_q: 0.55838513,
+		flt_kf: 0.72702706,
+		fx_mix: 0.11715382,
+		fx_len: 0.98379159,
+		fx_damp: 0.02282917,
+		fx_chors: 0.40944743,
+		fx_size: 0.35494933
+	}
+}

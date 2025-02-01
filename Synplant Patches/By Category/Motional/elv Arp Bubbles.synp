@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "elv Arp Bubbles"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +1.23619938 sm 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 5.48299910 s 
+	WheelScale: 17.00000018 %
+	VelSens: 50.00000000 %
+	Volume: 3.84000041 dB
+	Branch1: 6.09872751 %
+	Branch2: 6.81129172 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.96589616 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 3.49612720 %
+	Branch10: 0.67475075 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x673d8650
+	Pitch: 2.33460784
+	Cloned: false
+	Genome: {
+		env_time: 0.90149766
+		env_loop: 0.33411157
+		env_tilt: 0.29729456
+		vol_atk: 0.93851399
+		vol_dcy: 0.33200455
+		vol_sus: 0.16039526
+		mod_atk: 0.01513648
+		mod_dcy: 0.65298355
+		mod_sh: 0.15915340
+		mod_vel: 0.12038642
+		lfo_rate: 0.44410270
+		lfo_amt: 0.40576226
+		lfo_bal: 0.77749902
+		a_form: 0.99178326
+		a_noise: 0.14512914
+		a_color: 0.55004501
+		a_freq: 0.27756536
+		a_mod: 0.37821901
+		b_form: 0.83370787
+		b_noise: 0.88122547
+		b_freq: 0.34301829
+		b_mod: 0.56505847
+		b_sh: 0.78022426
+		fm_amt: 0.59014475
+		fm_mod: 0.73346901
+		sub_am: 0.04650098
+		balance: 0.69185400
+		flt_freq: 0.01325047
+		flt_mod: 0.62738687
+		flt_sep: 0.23489791
+		flt_q: 0.46514869
+		flt_kf: 0.74590623
+		fx_mix: 0.69446635
+		fx_len: 0.40852016
+		fx_damp: 0.80343217
+		fx_chors: 0.07967365
+		fx_size: 0.50000000
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "EE Cheesy Cello"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +11.71547699 sm 
+	Atonality: 0.00000000 %
+	Effect: 100.00000000 %
+	Release: 1.35136809 s 
+	WheelScale: 17.07317084 %
+	VelSens: 50.00000000 %
+	Volume: -3.04006263 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x1b0e3d8e
+	Pitch: 0.43350339
+	Cloned: false
+	Genome: {
+		env_time: 0.92712510,
+		env_loop: 0.80547714,
+		env_tilt: 0.03904682,
+		vol_atk: 0.09906054,
+		vol_dcy: 0.46062064,
+		vol_sus: 0.43703747,
+		mod_atk: 0.75269014,
+		mod_dcy: 0.62115538,
+		mod_sh: 0.41619474,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.06885475,
+		lfo_amt: 0.25044751,
+		lfo_bal: 0.38224471,
+		a_form: 0.29955792,
+		a_noise: 0.15056753,
+		a_color: 0.70082760,
+		a_freq: 0.26108277,
+		a_mod: 0.57976544,
+		b_form: 0.52010435,
+		b_noise: 0.80087489,
+		b_freq: 0.59874338,
+		b_mod: 0.53803682,
+		b_sh: 0.22034156,
+		fm_amt: 0.61499119,
+		fm_mod: 0.69882774,
+		sub_am: 0.09869671,
+		balance: 0.64165378,
+		flt_freq: 0.64048564,
+		flt_mod: 0.84320569,
+		flt_sep: 0.23140103,
+		flt_q: 0.22668993,
+		flt_kf: 0.51046598,
+		fx_mix: 0.71592838,
+		fx_len: 0.41702938,
+		fx_damp: 0.38180101,
+		fx_chors: 0.64491647,
+		fx_size: 0.35494933
+	}
+}

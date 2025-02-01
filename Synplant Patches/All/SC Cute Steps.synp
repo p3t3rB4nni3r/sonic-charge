@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "fonOctavEkoV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 8.30411687 %
+	Effect: 0.00000000 %
+	Release: 8.53114477 s 
+	WheelScale: 63.74999881 %
+	VelSens: 36.25000119 %
+	Volume: -4.02003884 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xb46833c3
+	Pitch: -0.48232365
+	Cloned: true
+	Genome: {
+		env_time: 0.90822816
+		env_loop: 0.46949786
+		env_tilt: 0.68105227
+		vol_atk: 0.91695726
+		vol_dcy: 0.76501310
+		vol_sus: 0.66057569
+		mod_atk: 0.88047540
+		mod_dcy: 0.00862348
+		mod_sh: 0.67360955
+		mod_vel: 0.00000000
+		lfo_rate: 0.69509757
+		lfo_amt: 0.29897010
+		lfo_bal: 0.26280630
+		a_form: 0.68341392
+		a_noise: 0.43760443
+		a_color: 0.46126473
+		a_freq: 0.74705398
+		a_mod: 0.70975035
+		b_form: 0.40170884
+		b_noise: 0.59397721
+		b_freq: 0.23359305
+		b_mod: 0.29238427
+		b_sh: 0.63650709
+		fm_amt: 0.45958591
+		fm_mod: 0.27155453
+		sub_am: 0.05814117
+		balance: 0.29789865
+		flt_freq: 0.62170541
+		flt_mod: 0.41181755
+		flt_sep: 0.26262379
+		flt_q: 0.87666684
+		flt_kf: 1.00000000
+		fx_mix: 0.61916703
+		fx_len: 0.73288387
+		fx_damp: 0.35515165
+		fx_chors: 0.99520701
+		fx_size: 0.36427072
+	}
+}

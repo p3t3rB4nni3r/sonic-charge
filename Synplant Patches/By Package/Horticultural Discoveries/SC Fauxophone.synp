@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "Sax v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 15.00453502 %
+	Effect: 67.01205969 %
+	Release: 540.38676991 ms 
+	WheelScale: 33.75000060 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x00000001
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.03721032
+		env_loop: 1.00000000
+		env_tilt: 0.98000586
+		vol_atk: 0.06868988
+		vol_dcy: 0.51053464
+		vol_sus: 0.91334176
+		mod_atk: 0.24266711
+		mod_dcy: 0.21813650
+		mod_sh: 0.85735017
+		mod_vel: 1.00000000
+		lfo_rate: 0.93527544
+		lfo_amt: 0.62959194
+		lfo_bal: 0.61422408
+		a_form: 0.50694335
+		a_noise: 0.79244143
+		a_color: 0.42994031
+		a_freq: 0.33326107
+		a_mod: 0.44332525
+		b_form: 0.11200184
+		b_noise: 0.53151184
+		b_freq: 0.75199324
+		b_mod: 0.54954135
+		b_sh: 0.01234928
+		fm_amt: 0.17712919
+		fm_mod: 0.18795291
+		sub_am: 0.88689381
+		balance: 0.38788441
+		flt_freq: 0.75177181
+		flt_mod: 0.35230282
+		flt_sep: 0.77065843
+		flt_q: 0.53606468
+		flt_kf: 0.13831306
+		fx_mix: 0.39907283
+		fx_len: 0.35696635
+		fx_damp: 0.90196794
+		fx_chors: 0.51023084
+		fx_size: 0.27321428
+	}
+}

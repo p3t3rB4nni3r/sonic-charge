@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "feromone2v1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.49999999 %
+	Effect: -13.77969384 %
+	Release: 983.59219858 ms 
+	WheelScale: 39.75000083 %
+	VelSens: 34.99999940 %
+	Volume: -0.95393569 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x0bc2389f
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.54286003
+		env_loop: 0.73130357
+		env_tilt: 0.74996918
+		vol_atk: 0.78386295
+		vol_dcy: 0.15465438
+		vol_sus: 0.92487466
+		mod_atk: 0.47132415
+		mod_dcy: 0.23001194
+		mod_sh: 0.61644906
+		mod_vel: 0.98957241
+		lfo_rate: 0.31909245
+		lfo_amt: 0.76942319
+		lfo_bal: 0.24831223
+		a_form: 0.61914527
+		a_noise: 0.76116771
+		a_color: 0.12632811
+		a_freq: 0.50000000
+		a_mod: 0.55924565
+		b_form: 0.40883243
+		b_noise: 0.32392567
+		b_freq: 0.65699327
+		b_mod: 0.43773741
+		b_sh: 0.09471065
+		fm_amt: 0.77772439
+		fm_mod: 0.60217333
+		sub_am: 0.02573121
+		balance: 0.50993460
+		flt_freq: 0.64746690
+		flt_mod: 0.89899039
+		flt_sep: 0.82494104
+		flt_q: 0.17262936
+		flt_kf: 0.46912128
+		fx_mix: 0.95452350
+		fx_len: 0.73546183
+		fx_damp: 0.61974096
+		fx_chors: 0.78799367
+		fx_size: 0.50000000
+	}
+}

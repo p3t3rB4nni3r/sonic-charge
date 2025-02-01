@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Thoughtful Discorse"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.25577459 %
+	Effect: -71.22063935 %
+	Release: 4.37586880 s 
+	WheelScale: 69.51219440 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xbe839ff9
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.63042551
+		env_loop: 0.26290232
+		env_tilt: 0.67138487
+		vol_atk: 0.41265267
+		vol_dcy: 0.95899659
+		vol_sus: 0.86534619
+		mod_atk: 0.24970436
+		mod_dcy: 0.52701873
+		mod_sh: 0.44622374
+		mod_vel: 0.66399837
+		lfo_rate: 0.28491461
+		lfo_amt: 0.54773241
+		lfo_bal: 0.41331029
+		a_form: 0.49491650
+		a_noise: 0.23445857
+		a_color: 0.38728845
+		a_freq: 0.50000000
+		a_mod: 0.49987626
+		b_form: 0.56222564
+		b_noise: 0.40806067
+		b_freq: 0.80214769
+		b_mod: 0.50039846
+		b_sh: 0.80821443
+		fm_amt: 0.63561827
+		fm_mod: 0.24610850
+		sub_am: 0.28759035
+		balance: 0.65052742
+		flt_freq: 0.29226261
+		flt_mod: 0.82343924
+		flt_sep: 0.83612955
+		flt_q: 0.53088403
+		flt_kf: 0.71091050
+		fx_mix: 0.47186190
+		fx_len: 0.59439826
+		fx_damp: 0.61137044
+		fx_chors: 1.00000000
+		fx_size: 0.58900285
+	}
+}

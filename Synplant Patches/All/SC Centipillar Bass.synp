@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Centipillar Bass"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 20.99999934 %
+	Effect: -100.00000000 %
+	Release: 100.99999879 ms 
+	WheelScale: 46.25000060 %
+	VelSens: 50.00000000 %
+	Volume: 4.03267663 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xe204132e
+	Pitch: -0.20200908
+	Cloned: true
+	Genome: {
+		env_time: 0.29460683
+		env_loop: 0.33337837
+		env_tilt: 0.07926130
+		vol_atk: 0.23324037
+		vol_dcy: 0.79920179
+		vol_sus: 0.82668030
+		mod_atk: 0.36860031
+		mod_dcy: 0.06308305
+		mod_sh: 0.34157163
+		mod_vel: 0.20709950
+		lfo_rate: 0.38671732
+		lfo_amt: 0.18897796
+		lfo_bal: 0.88376468
+		a_form: 0.78910166
+		a_noise: 0.80033934
+		a_color: 0.74632698
+		a_freq: 0.20033485
+		a_mod: 0.44812810
+		b_form: 0.86474180
+		b_noise: 0.05186546
+		b_freq: 0.89706755
+		b_mod: 0.46441227
+		b_sh: 0.63405442
+		fm_amt: 0.50330222
+		fm_mod: 0.21334654
+		sub_am: 0.02022058
+		balance: 0.52695715
+		flt_freq: 0.20406038
+		flt_mod: 0.92130142
+		flt_sep: 0.46654099
+		flt_q: 0.25739026
+		flt_kf: 0.91490364
+		fx_mix: 0.68074894
+		fx_len: 0.13010442
+		fx_damp: 0.71337306
+		fx_chors: 0.83785439
+		fx_size: 0.31839460
+	}
+}

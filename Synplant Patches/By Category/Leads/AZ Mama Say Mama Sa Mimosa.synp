@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Mama Say Mama Sa Mimosa"
+	ModWheel: 100.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 10.17496288 %
+	Effect: 0.00000000 %
+	Release: 3.92474026 s 
+	WheelScale: 61.25000119 %
+	VelSens: 50.00000000 %
+	Volume: 1.40778525 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x12e5174b
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.91861856
+		env_loop: 0.09138477
+		env_tilt: 0.86410242
+		vol_atk: 0.57158917
+		vol_dcy: 0.23200893
+		vol_sus: 0.80879676
+		mod_atk: 0.67329645
+		mod_dcy: 0.26818132
+		mod_sh: 0.99677682
+		mod_vel: 0.07108670
+		lfo_rate: 0.74164617
+		lfo_amt: 0.54668689
+		lfo_bal: 0.22381824
+		a_form: 0.76809573
+		a_noise: 0.64713621
+		a_color: 0.81484091
+		a_freq: 0.50000000
+		a_mod: 0.44098568
+		b_form: 0.69011301
+		b_noise: 0.92016083
+		b_freq: 0.89957535
+		b_mod: 0.42107880
+		b_sh: 0.70191443
+		fm_amt: 0.36879194
+		fm_mod: 0.72558510
+		sub_am: 0.44344211
+		balance: 0.38058901
+		flt_freq: 0.95689154
+		flt_mod: 0.74432248
+		flt_sep: 0.77538979
+		flt_q: 0.23049533
+		flt_kf: 0.65035242
+		fx_mix: 0.34951317
+		fx_len: 0.27519715
+		fx_damp: 0.98770124
+		fx_chors: 0.02132511
+		fx_size: 0.63949394
+	}
+}

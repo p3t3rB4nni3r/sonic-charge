@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Alumini Ruler"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 18.86303723 %
+	Effect: 0.00000000 %
+	Release: 230.97858985 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 22.40152806 %
+	Branch2: 28.54273617 %
+	Branch3: 22.27100879 %
+	Branch4: 24.59829748 %
+	Branch5: 29.37521935 %
+	Branch6: 27.56659985 %
+	Branch7: 28.40063274 %
+	Branch8: 28.69734764 %
+	Branch9: 14.88595009 %
+	Branch10: 16.47499055 %
+	Branch11: 18.00883412 %
+	Branch12: 26.83967054 %
+	Seed: 0xedb7b63e
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.39819103
+		env_loop: 0.07477975
+		env_tilt: 0.36037111
+		vol_atk: 0.09971309
+		vol_dcy: 0.99788988
+		vol_sus: 0.00000000
+		mod_atk: 0.12423432
+		mod_dcy: 0.08287537
+		mod_sh: 0.54524726
+		mod_vel: 0.43103087
+		lfo_rate: 0.58505845
+		lfo_amt: 0.77037621
+		lfo_bal: 0.52133727
+		a_form: 0.20284551
+		a_noise: 0.30107725
+		a_color: 0.49187845
+		a_freq: 0.66666669
+		a_mod: 0.50043225
+		b_form: 0.76838440
+		b_noise: 0.03490651
+		b_freq: 0.62860221
+		b_mod: 0.52083266
+		b_sh: 0.19661546
+		fm_amt: 0.90267348
+		fm_mod: 0.11560577
+		sub_am: 0.53808528
+		balance: 0.52957600
+		flt_freq: 0.77355933
+		flt_mod: 0.59729314
+		flt_sep: 0.44441038
+		flt_q: 0.93022215
+		flt_kf: 0.01924253
+		fx_mix: 0.03774506
+		fx_len: 0.72204012
+		fx_damp: 0.61991799
+		fx_chors: 0.66090232
+		fx_size: 0.78192627
+	}
+}

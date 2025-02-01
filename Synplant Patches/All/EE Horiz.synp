@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "EE Horiz"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: 39.90143538 %
+	Release: 1.87896670 s 
+	WheelScale: 24.39024448 %
+	VelSens: 50.00000000 %
+	Volume: -2.24949421 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xfcc5b913
+	Pitch: 1.35124588
+	Cloned: false
+	Genome: {
+		env_time: 0.80430305,
+		env_loop: 0.46052724,
+		env_tilt: 0.99803793,
+		vol_atk: 0.20468187,
+		vol_dcy: 0.77474701,
+		vol_sus: 0.75493443,
+		mod_atk: 0.04806495,
+		mod_dcy: 0.65281332,
+		mod_sh: 0.14742112,
+		mod_vel: 0.45231926,
+		lfo_rate: 0.30442554,
+		lfo_amt: 0.86760640,
+		lfo_bal: 0.18279636,
+		a_form: 0.91449761,
+		a_noise: 0.14195526,
+		a_color: 0.78008491,
+		a_freq: 0.10812569,
+		a_mod: 0.50003046,
+		b_form: 0.70307958,
+		b_noise: 0.10952961,
+		b_freq: 0.56786579,
+		b_mod: 0.50001854,
+		b_sh: 0.12948674,
+		fm_amt: 0.30479163,
+		fm_mod: 0.17493975,
+		sub_am: 0.79746997,
+		balance: 0.90735495,
+		flt_freq: 0.14292794,
+		flt_mod: 0.66301441,
+		flt_sep: 0.89843237,
+		flt_q: 0.35166526,
+		flt_kf: 0.55062270,
+		fx_mix: 0.95294237,
+		fx_len: 0.88667250,
+		fx_damp: 0.23479527,
+		fx_chors: 0.36368459,
+		fx_size: 0.35494933
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 4
+	Name: "NE Foilage Shredder"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -69.86301243 %
+	Release: 201.80373283 ms 
+	WheelScale: 61.25000119 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x8a3e2026
+	Pitch: -1.20200908
+	Cloned: true
+	Genome: {
+		env_time: 0.59230381
+		env_loop: 0.82477427
+		env_tilt: 0.12622291
+		vol_atk: 0.02700180
+		vol_dcy: 0.86800224
+		vol_sus: 0.70554626
+		mod_atk: 0.48377115
+		mod_dcy: 0.34887463
+		mod_sh: 0.19470119
+		mod_vel: 0.50000000
+		lfo_rate: 0.96819770
+		lfo_amt: 0.05064559
+		lfo_bal: 0.54415840
+		a_form: 0.86718804
+		a_noise: 0.11084473
+		a_color: 0.84310800
+		a_freq: 0.20033485
+		a_mod: 0.55478442
+		b_form: 0.82915497
+		b_noise: 0.17884731
+		b_freq: 0.73832917
+		b_mod: 0.51558739
+		b_sh: 0.42129767
+		fm_amt: 0.89164513
+		fm_mod: 0.94849360
+		sub_am: 0.99476141
+		balance: 0.82996452
+		flt_freq: 0.96178430
+		flt_mod: 0.56751198
+		flt_sep: 0.99902976
+		flt_q: 0.60878861
+		flt_kf: 0.10413349
+		fx_mix: 0.91174579
+		fx_len: 0.46109730
+		fx_damp: 0.95939785
+		fx_chors: 0.45616543
+		fx_size: 0.31839460
+	}
+}

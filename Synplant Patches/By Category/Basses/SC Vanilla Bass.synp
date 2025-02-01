@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "106 bass clean a V1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 17.10620522 %
+	Effect: -100.00000000 %
+	Release: 113.44751684 ms 
+	WheelScale: 47.49999940 %
+	VelSens: 50.00000000 %
+	Volume: 6.33484767 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x00000004
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.40440273
+		env_loop: 0.62762851
+		env_tilt: 0.08051353
+		vol_atk: 0.08066124
+		vol_dcy: 0.30270866
+		vol_sus: 0.80142647
+		mod_atk: 0.73800653
+		mod_dcy: 0.13655995
+		mod_sh: 0.06774636
+		mod_vel: 0.00000000
+		lfo_rate: 0.50554895
+		lfo_amt: 0.72112483
+		lfo_bal: 0.18100730
+		a_form: 0.66885841
+		a_noise: 0.45241094
+		a_color: 0.53568012
+		a_freq: 0.16666305
+		a_mod: 0.56908655
+		b_form: 0.33331773
+		b_noise: 0.72324419
+		b_freq: 0.55970204
+		b_mod: 0.47732860
+		b_sh: 0.21780585
+		fm_amt: 0.44332004
+		fm_mod: 0.86837053
+		sub_am: 0.72521389
+		balance: 0.42432407
+		flt_freq: 0.12973642
+		flt_mod: 0.97968048
+		flt_sep: 0.17416184
+		flt_q: 0.32733813
+		flt_kf: 0.30892336
+		fx_mix: 0.23727335
+		fx_len: 0.97122771
+		fx_damp: 0.16102539
+		fx_chors: 0.78414929
+		fx_size: 0.19538505
+	}
+}

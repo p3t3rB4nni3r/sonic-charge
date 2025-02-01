@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "SM Harpsykey"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 38.58268261 %
+	Release: 214.60668112 ms 
+	WheelScale: 34.41521227 %
+	VelSens: 50.00000000 %
+	Volume: -4.86356833 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x8ac2b3cf
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.37645599,
+		env_loop: 0.49818671,
+		env_tilt: 0.12840861,
+		vol_atk: 0.78444636,
+		vol_dcy: 0.55635178,
+		vol_sus: 0.06584024,
+		mod_atk: 0.52896452,
+		mod_dcy: 0.37839609,
+		mod_sh: 0.96017873,
+		mod_vel: 0.13411176,
+		lfo_rate: 0.16943306,
+		lfo_amt: 0.50056380,
+		lfo_bal: 0.87599754,
+		a_form: 0.52182639,
+		a_noise: 0.10509229,
+		a_color: 0.64225662,
+		a_freq: 0.50000000,
+		a_mod: 0.50000000,
+		b_form: 0.42128766,
+		b_noise: 0.35619342,
+		b_freq: 0.51552379,
+		b_mod: 0.50000000,
+		b_sh: 0.53312945,
+		fm_amt: 0.87777793,
+		fm_mod: 0.76313466,
+		sub_am: 0.33867073,
+		balance: 0.43414575,
+		flt_freq: 0.47073472,
+		flt_mod: 0.09426045,
+		flt_sep: 0.52713704,
+		flt_q: 0.71874219,
+		flt_kf: 0.14667085,
+		fx_mix: 0.33701804,
+		fx_len: 0.22123730,
+		fx_damp: 0.59976077,
+		fx_chors: 0.48632121,
+		fx_size: 0.33087268
+	}
+}

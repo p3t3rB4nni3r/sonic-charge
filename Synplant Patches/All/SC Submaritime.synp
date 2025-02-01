@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Submaritime"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -2.59666443 ct 
+	Atonality: 34.64567065 %
+	Effect: 0.00000000 %
+	Release: 5.48299910 s 
+	WheelScale: 9.01219547 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 26.93272531 %
+	Branch2: 20.85697502 %
+	Branch3: 24.26422834 %
+	Branch4: 31.61962628 %
+	Branch5: 27.56659985 %
+	Branch6: 22.61831015 %
+	Branch7: 16.47499055 %
+	Branch8: 22.40152806 %
+	Branch9: 17.11102426 %
+	Branch10: 31.61962628 %
+	Branch11: 31.04185760 %
+	Branch12: 28.54273617 %
+	Seed: 0xeba02715
+	Pitch: 2.33460784
+	Cloned: false
+	Genome: {
+		env_time: 0.63812041
+		env_loop: 0.88125765
+		env_tilt: 0.24069017
+		vol_atk: 0.71008825
+		vol_dcy: 0.51714629
+		vol_sus: 0.72471917
+		mod_atk: 0.87532347
+		mod_dcy: 0.28514564
+		mod_sh: 0.23153865
+		mod_vel: 0.84463549
+		lfo_rate: 0.49307287
+		lfo_amt: 0.84280872
+		lfo_bal: 0.36081773
+		a_form: 0.75094831
+		a_noise: 0.09465617
+		a_color: 0.62750047
+		a_freq: 0.27756536
+		a_mod: 0.36957836
+		b_form: 0.41945076
+		b_noise: 0.92670900
+		b_freq: 0.44566667
+		b_mod: 0.22515309
+		b_sh: 0.70438004
+		fm_amt: 0.53867722
+		fm_mod: 0.93526298
+		sub_am: 0.27976769
+		balance: 0.60794836
+		flt_freq: 0.57999504
+		flt_mod: 0.71402466
+		flt_sep: 0.59018183
+		flt_q: 0.76295829
+		flt_kf: 0.90035492
+		fx_mix: 0.07935268
+		fx_len: 0.44939291
+		fx_damp: 0.61565936
+		fx_chors: 0.45069128
+		fx_size: 0.54225063
+	}
+}

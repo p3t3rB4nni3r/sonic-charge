@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Freaky Wheel"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 63.99999857 %
+	Effect: 0.00000000 %
+	Release: 2.28700037 s 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -4.68930426 dB
+	Branch1: 7.99999982 %
+	Branch2: 7.99999982 %
+	Branch3: 7.99999982 %
+	Branch4: 7.99999982 %
+	Branch5: 7.99999982 %
+	Branch6: 7.99999982 %
+	Branch7: 7.99999982 %
+	Branch8: 7.99999982 %
+	Branch9: 7.99999982 %
+	Branch10: 7.99999982 %
+	Branch11: 7.99999982 %
+	Branch12: 7.99999982 %
+	Seed: 0xb3017c34
+	Pitch: 0.47649980
+	Cloned: true
+	Genome: {
+		env_time: 0.87083912,
+		env_loop: 0.48021507,
+		env_tilt: 0.41001940,
+		vol_atk: 0.72780561,
+		vol_dcy: 0.61590326,
+		vol_sus: 0.47130078,
+		mod_atk: 0.23748624,
+		mod_dcy: 0.99206924,
+		mod_sh: 0.10673940,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.55100268,
+		lfo_amt: 0.25796133,
+		lfo_bal: 0.69576389,
+		a_form: 0.47328293,
+		a_noise: 0.53489959,
+		a_color: 0.99947143,
+		a_freq: 0.42058337,
+		a_mod: 0.75363326,
+		b_form: 0.51354593,
+		b_noise: 0.94315791,
+		b_freq: 0.07763928,
+		b_mod: 0.64852422,
+		b_sh: 0.30880409,
+		fm_amt: 0.42687428,
+		fm_mod: 0.26118654,
+		sub_am: 0.25000000,
+		balance: 0.05002189,
+		flt_freq: 0.14956266,
+		flt_mod: 0.85954106,
+		flt_sep: 0.18176818,
+		flt_q: 0.48510194,
+		flt_kf: 0.75000000,
+		fx_mix: 0.04482913,
+		fx_len: 0.40162262,
+		fx_damp: 0.49763525,
+		fx_chors: 0.25000000,
+		fx_size: 0.33370134
+	}
+}

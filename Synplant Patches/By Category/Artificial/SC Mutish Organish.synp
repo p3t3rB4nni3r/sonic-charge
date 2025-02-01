@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 1
+	Name: "NE Mutish Organish"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +13.77124786 ct 
+	Atonality: 34.99999940 %
+	Effect: 0.00000000 %
+	Release: 50.00000000 ms 
+	WheelScale: 46.34146392 %
+	VelSens: 0.00000000 %
+	Volume: 17.03802829 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xcf9b1748
+	Pitch: 0.16193390
+	Cloned: false
+	Genome: {
+		env_time: 0.07620573,
+		env_loop: 0.07295328,
+		env_tilt: 0.64936888,
+		vol_atk: 0.72774363,
+		vol_dcy: 0.65440887,
+		vol_sus: 0.66531247,
+		mod_atk: 0.24667764,
+		mod_dcy: 0.16613376,
+		mod_sh: 0.96908975,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.77087533,
+		lfo_amt: 0.82251179,
+		lfo_bal: 0.26276684,
+		a_form: 0.11996353,
+		a_noise: 0.31387424,
+		a_color: 0.08270454,
+		a_freq: 0.47301102,
+		a_mod: 0.44038990,
+		b_form: 0.15882981,
+		b_noise: 0.54567158,
+		b_freq: 0.64963591,
+		b_mod: 0.54990798,
+		b_sh: 0.63510239,
+		fm_amt: 0.54667902,
+		fm_mod: 0.64005828,
+		sub_am: 0.25000000,
+		balance: 0.97800922,
+		flt_freq: 0.12673759,
+		flt_mod: 0.55713367,
+		flt_sep: 0.19499230,
+		flt_q: 0.91634119,
+		flt_kf: 0.75000000,
+		fx_mix: 0.11952847,
+		fx_len: 0.42429668,
+		fx_damp: 0.16128457,
+		fx_chors: 0.25000000,
+		fx_size: 0.47277755
+	}
+}

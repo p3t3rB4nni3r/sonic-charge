@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "dropsOnMetalRoofV1"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 3.68432068 s 
+	WheelScale: 55.00000119 %
+	VelSens: 50.00000000 %
+	Volume: -9.32010627 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x00000001
+	Pitch: 0.00000000
+	Cloned: false
+	Genome: {
+		env_time: 0.77450925
+		env_loop: 0.07341859
+		env_tilt: 0.46155629
+		vol_atk: 0.67556131
+		vol_dcy: 0.41783234
+		vol_sus: 0.78646535
+		mod_atk: 0.43942976
+		mod_dcy: 0.00861799
+		mod_sh: 0.83175856
+		mod_vel: 0.00000000
+		lfo_rate: 0.69831198
+		lfo_amt: 0.23137869
+		lfo_bal: 0.79479611
+		a_form: 0.39980948
+		a_noise: 0.34646353
+		a_color: 0.80484051
+		a_freq: 0.87157661
+		a_mod: 0.91185319
+		b_form: 0.47608581
+		b_noise: 0.98359776
+		b_freq: 0.22616887
+		b_mod: 0.23818661
+		b_sh: 0.43142155
+		fm_amt: 0.25458038
+		fm_mod: 0.98745912
+		sub_am: 0.50211537
+		balance: 0.60687977
+		flt_freq: 0.32849282
+		flt_mod: 0.43327719
+		flt_sep: 0.55015200
+		flt_q: 0.43053800
+		flt_kf: 1.00000000
+		fx_mix: 0.95435876
+		fx_len: 0.55639160
+		fx_damp: 0.45769343
+		fx_chors: 0.15377697
+		fx_size: 0.00492316
+	}
+}

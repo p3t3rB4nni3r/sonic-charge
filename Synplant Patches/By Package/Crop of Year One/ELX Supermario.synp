@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Supermario"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: 3.50222588 %
+	Release: 50.00000000 ms 
+	WheelScale: 48.78048897 %
+	VelSens: 50.00000596 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x4482ba37
+	Pitch: 0.16290760
+	Cloned: false
+	Genome: {
+		env_time: 0.43032908
+		env_loop: 0.81469744
+		env_tilt: 0.29905891
+		vol_atk: 0.36980057
+		vol_dcy: 0.45550567
+		vol_sus: 0.49054313
+		mod_atk: 0.72760117
+		mod_dcy: 0.49647743
+		mod_sh: 0.90060377
+		mod_vel: 0.80265725
+		lfo_rate: 0.07633072
+		lfo_amt: 0.48193157
+		lfo_bal: 0.85207665
+		a_form: 0.80906820
+		a_noise: 0.68827140
+		a_color: 0.19797367
+		a_freq: 0.97284877
+		a_mod: 0.41831803
+		b_form: 0.16540760
+		b_noise: 0.64031088
+		b_freq: 0.35637373
+		b_mod: 0.49975234
+		b_sh: 0.04569948
+		fm_amt: 0.43346685
+		fm_mod: 0.19971293
+		sub_am: 0.02860087
+		balance: 0.91286176
+		flt_freq: 0.39165181
+		flt_mod: 0.39130187
+		flt_sep: 0.83119333
+		flt_q: 0.93037122
+		flt_kf: 0.08826375
+		fx_mix: 0.66665018
+		fx_len: 0.96945524
+		fx_damp: 0.41510439
+		fx_chors: 0.10759902
+		fx_size: 0.70838511
+	}
+}

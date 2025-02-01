@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Geldman Profit"
+	ModWheel: 100.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 0.00000000 %
+	Effect: 0.00000000 %
+	Release: 790.00547658 ms 
+	WheelScale: 31.47561848 %
+	VelSens: 50.00000000 %
+	Volume: 5.05173805 dB
+	Branch1: 33.92364085 %
+	Branch2: 33.82936418 %
+	Branch3: 35.90543866 %
+	Branch4: 43.41432452 %
+	Branch5: 48.87814522 %
+	Branch6: 36.51856780 %
+	Branch7: 33.36767256 %
+	Branch8: 29.56561148 %
+	Branch9: 35.35543382 %
+	Branch10: 26.55954659 %
+	Branch11: 38.99089396 %
+	Branch12: 36.15594208 %
+	Seed: 0x9d7fb4e4
+	Pitch: 3.73103642
+	Cloned: true
+	Genome: {
+		env_time: 0.50815749,
+		env_loop: 0.35628206,
+		env_tilt: 0.01609654,
+		vol_atk: 0.65473205,
+		vol_dcy: 0.89624071,
+		vol_sus: 0.50064045,
+		mod_atk: 0.90039718,
+		mod_dcy: 0.00032845,
+		mod_sh: 0.41801584,
+		mod_vel: 0.82507092,
+		lfo_rate: 0.46389797,
+		lfo_amt: 0.20059803,
+		lfo_bal: 0.52950984,
+		a_form: 0.85017788,
+		a_noise: 0.34744486,
+		a_color: 0.71946484,
+		a_freq: 0.04482728,
+		a_mod: 0.48873666,
+		b_form: 0.06635899,
+		b_noise: 0.33037654,
+		b_freq: 0.33312404,
+		b_mod: 0.53808624,
+		b_sh: 0.16215885,
+		fm_amt: 0.11522735,
+		fm_mod: 0.81506902,
+		sub_am: 0.81289876,
+		balance: 0.61435676,
+		flt_freq: 0.30823195,
+		flt_mod: 0.97851562,
+		flt_sep: 0.50552016,
+		flt_q: 0.61239594,
+		flt_kf: 0.25474912,
+		fx_mix: 0.13816303,
+		fx_len: 0.61474121,
+		fx_damp: 0.05956577,
+		fx_chors: 0.82343471,
+		fx_size: 0.25759917
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "SM Key Oldsing"
+	ModWheel: 0.00000000 %
+	Rotation: 209.99999285 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 21.62395120 %
+	Effect: 27.06879377 %
+	Release: 1.80054450 s 
+	WheelScale: 10.97560972 %
+	VelSens: 50.00000000 %
+	Volume: -5.44424722 dB
+	Branch1: 7.79872164 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xcd959b1f
+	Pitch: -0.30790329
+	Cloned: false
+	Genome: {
+		env_time: 0.56856984,
+		env_loop: 0.89395678,
+		env_tilt: 0.11723596,
+		vol_atk: 0.10125965,
+		vol_dcy: 0.92037165,
+		vol_sus: 0.13439959,
+		mod_atk: 0.73123378,
+		mod_dcy: 0.58116078,
+		mod_sh: 0.01990116,
+		mod_vel: 0.48866719,
+		lfo_rate: 0.67099231,
+		lfo_amt: 0.75849175,
+		lfo_bal: 0.43113768,
+		a_form: 0.14755833,
+		a_noise: 0.47566175,
+		a_color: 0.60803157,
+		a_freq: 0.71798384,
+		a_mod: 0.47460586,
+		b_form: 0.39586252,
+		b_noise: 0.72801811,
+		b_freq: 0.53655541,
+		b_mod: 0.48696864,
+		b_sh: 0.36976242,
+		fm_amt: 0.56747925,
+		fm_mod: 0.66984934,
+		sub_am: 0.31341577,
+		balance: 0.76705694,
+		flt_freq: 0.22916061,
+		flt_mod: 0.28251904,
+		flt_sep: 0.56373376,
+		flt_q: 0.66166121,
+		flt_kf: 0.71789432,
+		fx_mix: 0.41911864,
+		fx_len: 0.69477284,
+		fx_damp: 0.14417976,
+		fx_chors: 0.24964088,
+		fx_size: 0.47527298
+	}
+}

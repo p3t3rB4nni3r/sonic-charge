@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "AZ Derailed Trane"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 60.92296243 %
+	Effect: 0.00000000 %
+	Release: 1.47700000 s 
+	WheelScale: 100.00000000 %
+	VelSens: 0.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x767a2cd6
+	Pitch: 0.11716080
+	Cloned: true
+	Genome: {
+		env_time: 0.45534158
+		env_loop: 0.01698458
+		env_tilt: 0.91632581
+		vol_atk: 0.93020248
+		vol_dcy: 0.69097137
+		vol_sus: 0.80076098
+		mod_atk: 0.35889685
+		mod_dcy: 0.37442833
+		mod_sh: 0.18917972
+		mod_vel: 0.25391072
+		lfo_rate: 0.63631880
+		lfo_amt: 0.54573679
+		lfo_bal: 0.28667963
+		a_form: 0.48750657
+		a_noise: 0.06069142
+		a_color: 0.29743278
+		a_freq: 0.31380653
+		a_mod: 0.49995393
+		b_form: 0.74932039
+		b_noise: 0.15854228
+		b_freq: 0.58606839
+		b_mod: 0.53813243
+		b_sh: 0.98102629
+		fm_amt: 0.74951863
+		fm_mod: 0.59723461
+		sub_am: 0.65811169
+		balance: 0.11543298
+		flt_freq: 0.63496417
+		flt_mod: 0.16601777
+		flt_sep: 0.33570993
+		flt_q: 0.10508436
+		flt_kf: 0.97592080
+		fx_mix: 0.78202426
+		fx_len: 0.91870868
+		fx_damp: 0.80225980
+		fx_chors: 0.02760518
+		fx_size: 0.35494933
+	}
+}

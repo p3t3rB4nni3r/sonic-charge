@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Teebeeish"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 20.99999934 %
+	Effect: -100.00000000 %
+	Release: 100.99999879 ms 
+	WheelScale: 52.43902206 %
+	VelSens: 15.85365832 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xf24dbced
+	Pitch: -0.20200908
+	Cloned: true
+	Genome: {
+		env_time: 0.28339970,
+		env_loop: 0.69003445,
+		env_tilt: 0.01028502,
+		vol_atk: 0.04500169,
+		vol_dcy: 0.63942254,
+		vol_sus: 0.98594487,
+		mod_atk: 0.82295126,
+		mod_dcy: 0.48798692,
+		mod_sh: 0.17904860,
+		mod_vel: 0.90689594,
+		lfo_rate: 0.50346673,
+		lfo_amt: 0.11702794,
+		lfo_bal: 0.98683882,
+		a_form: 0.81021637,
+		a_noise: 0.64747214,
+		a_color: 0.60995275,
+		a_freq: 0.20033485,
+		a_mod: 0.48037887,
+		b_form: 0.55337822,
+		b_noise: 0.13842517,
+		b_freq: 0.90596968,
+		b_mod: 0.34596884,
+		b_sh: 0.21788973,
+		fm_amt: 0.48067850,
+		fm_mod: 0.06438637,
+		sub_am: 0.25000000,
+		balance: 0.04738557,
+		flt_freq: 0.16921234,
+		flt_mod: 0.92147654,
+		flt_sep: 0.47763884,
+		flt_q: 1.00000000,
+		flt_kf: 0.75000000,
+		fx_mix: 0.46407068,
+		fx_len: 0.61623663,
+		fx_damp: 0.58968079,
+		fx_chors: 0.25000000,
+		fx_size: 0.31839460
+	}
+}

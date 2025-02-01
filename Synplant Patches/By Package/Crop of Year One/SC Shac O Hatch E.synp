@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Shac O Hatch E"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 68.43770742 %
+	Effect: 10.08678675 %
+	Release: 230.09031020 ms 
+	WheelScale: 23.74999970 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x8cc077e9
+	Pitch: 0.00364017
+	Cloned: false
+	Genome: {
+		env_time: 0.13997485
+		env_loop: 0.42364705
+		env_tilt: 0.51388198
+		vol_atk: 0.37873030
+		vol_dcy: 0.22579706
+		vol_sus: 0.96081686
+		mod_atk: 0.50040197
+		mod_dcy: 0.84538752
+		mod_sh: 0.48140466
+		mod_vel: 0.76029825
+		lfo_rate: 0.46168911
+		lfo_amt: 0.88374424
+		lfo_bal: 0.86436814
+		a_form: 0.72951537
+		a_noise: 0.78852922
+		a_color: 0.23897076
+		a_freq: 0.66605997
+		a_mod: 0.45074183
+		b_form: 0.58842850
+		b_noise: 0.71854073
+		b_freq: 0.76126087
+		b_mod: 0.57973289
+		b_sh: 0.54401171
+		fm_amt: 0.80597091
+		fm_mod: 0.59059572
+		sub_am: 0.55746710
+		balance: 0.00895530
+		flt_freq: 0.27553225
+		flt_mod: 0.26515806
+		flt_sep: 0.50165707
+		flt_q: 0.39943612
+		flt_kf: 0.41822362
+		fx_mix: 0.65727007
+		fx_len: 0.78811318
+		fx_damp: 0.68973285
+		fx_chors: 0.59462482
+		fx_size: 0.85631382
+	}
+}

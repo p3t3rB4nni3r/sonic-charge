@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Glock Me Gently"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 15.46760052 %
+	Effect: -45.39728165 %
+	Release: 20.00000000 s 
+	WheelScale: 82.49999881 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 23.24888259 %
+	Branch2: 0.00000000 %
+	Branch3: 26.81305408 %
+	Branch4: 20.25549263 %
+	Branch5: 10.10205969 %
+	Branch6: 0.00000000 %
+	Branch7: 36.69911623 %
+	Branch8: 32.11908042 %
+	Branch9: 37.03628480 %
+	Branch10: 3.26496400 %
+	Branch11: 27.91998386 %
+	Branch12: 31.92466795 %
+	Seed: 0xaa60ee90
+	Pitch: -0.04576588
+	Cloned: true
+	Genome: {
+		env_time: 0.57003337
+		env_loop: 1.00000000
+		env_tilt: 0.07745183
+		vol_atk: 0.69844973
+		vol_dcy: 0.34775022
+		vol_sus: 0.32983226
+		mod_atk: 0.26371178
+		mod_dcy: 0.00000000
+		mod_sh: 0.19181073
+		mod_vel: 0.66430855
+		lfo_rate: 0.12936294
+		lfo_amt: 0.78961945
+		lfo_bal: 0.03238535
+		a_form: 0.77197033
+		a_noise: 0.65976655
+		a_color: 0.61556464
+		a_freq: 0.67429435
+		a_mod: 0.53321451
+		b_form: 0.01836479
+		b_noise: 0.20873779
+		b_freq: 0.60079294
+		b_mod: 0.45893586
+		b_sh: 0.27780914
+		fm_amt: 0.50026965
+		fm_mod: 0.83778262
+		sub_am: 0.80014646
+		balance: 0.48882920
+		flt_freq: 0.64997584
+		flt_mod: 0.39649868
+		flt_sep: 0.45456195
+		flt_q: 0.67497474
+		flt_kf: 0.53136307
+		fx_mix: 1.00000000
+		fx_len: 0.12894961
+		fx_damp: 0.29430795
+		fx_chors: 0.70612264
+		fx_size: 0.67590553
+	}
+}

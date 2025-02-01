@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 2
+	Name: "NE Interference Patterns"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: -3.28999972 sm 
+	Atonality: 50.00000000 %
+	Effect: 0.00000000 %
+	Release: 90.99999847 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 100.00000000 %
+	Branch2: 100.00000000 %
+	Branch3: 100.00000000 %
+	Branch4: 100.00000000 %
+	Branch5: 100.00000000 %
+	Branch6: 100.00000000 %
+	Branch7: 100.00000000 %
+	Branch8: 100.00000000 %
+	Branch9: 100.00000000 %
+	Branch10: 100.00000000 %
+	Branch11: 100.00000000 %
+	Branch12: 100.00000000 %
+	Seed: 0x3d32f6c4
+	Pitch: 0.28946635
+	Cloned: true
+	Genome: {
+		env_time: 1.00000000,
+		env_loop: 1.00000000,
+		env_tilt: 0.38763389,
+		vol_atk: 0.53152913,
+		vol_dcy: 0.60886681,
+		vol_sus: 0.39301357,
+		mod_atk: 1.00000000,
+		mod_dcy: 0.00000000,
+		mod_sh: 0.61688489,
+		mod_vel: 0.00000000,
+		lfo_rate: 0.43265665,
+		lfo_amt: 0.45907950,
+		lfo_bal: 0.63523901,
+		a_form: 0.95579946,
+		a_noise: 0.27758741,
+		a_color: 0.41917509,
+		a_freq: 0.61842227,
+		a_mod: 0.50000000,
+		b_form: 0.83971930,
+		b_noise: 0.17568254,
+		b_freq: 0.59089154,
+		b_mod: 0.50000000,
+		b_sh: 0.73566777,
+		fm_amt: 0.38442105,
+		fm_mod: 0.02470684,
+		sub_am: 0.25000000,
+		balance: 0.56123817,
+		flt_freq: 0.43146169,
+		flt_mod: 0.81438875,
+		flt_sep: 0.30887032,
+		flt_q: 0.31634796,
+		flt_kf: 0.75000000,
+		fx_mix: 0.34876806,
+		fx_len: 0.52671629,
+		fx_damp: 0.46428668,
+		fx_chors: 0.25000000,
+		fx_size: 0.50000000
+	}
+}

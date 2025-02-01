@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ELX Epic Kazoo"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 4.57542501 %
+	Effect: -30.50034046 %
+	Release: 2.37864917 s 
+	WheelScale: 69.51219440 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x901b675a
+	Pitch: -0.49622536
+	Cloned: false
+	Genome: {
+		env_time: 0.84935862
+		env_loop: 0.25717694
+		env_tilt: 0.77756214
+		vol_atk: 0.96822792
+		vol_dcy: 0.55570221
+		vol_sus: 0.31756848
+		mod_atk: 0.73123318
+		mod_dcy: 0.88222992
+		mod_sh: 0.88289833
+		mod_vel: 0.25935447
+		lfo_rate: 0.97941160
+		lfo_amt: 0.51652372
+		lfo_bal: 0.76978207
+		a_form: 0.91174763
+		a_noise: 0.76021689
+		a_color: 0.88062221
+		a_freq: 0.74937093
+		a_mod: 0.49242407
+		b_form: 0.75528938
+		b_noise: 0.71233982
+		b_freq: 0.49865460
+		b_mod: 0.47043729
+		b_sh: 0.18299079
+		fm_amt: 0.22667634
+		fm_mod: 0.92168891
+		sub_am: 0.93839914
+		balance: 0.14894968
+		flt_freq: 0.23407280
+		flt_mod: 0.52074981
+		flt_sep: 0.00533587
+		flt_q: 0.48588216
+		flt_kf: 0.39807487
+		fx_mix: 0.70003116
+		fx_len: 0.20112461
+		fx_damp: 0.26405525
+		fx_chors: 0.68150330
+		fx_size: 0.73375040
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Kar Plus Strung"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +10.34016609 ct 
+	Atonality: 6.90704212 %
+	Effect: -33.45307112 %
+	Release: 3.57896171 s 
+	WheelScale: 38.75000477 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 2.43372526 %
+	Branch2: 2.43372526 %
+	Branch3: 2.43372526 %
+	Branch4: 2.43372526 %
+	Branch5: 2.43372526 %
+	Branch6: 2.43372526 %
+	Branch7: 2.43372526 %
+	Branch8: 2.43372526 %
+	Branch9: 2.43372526 %
+	Branch10: 2.43372526 %
+	Branch11: 2.43372526 %
+	Branch12: 2.43372526 %
+	Seed: 0x216de747
+	Pitch: -0.63889027
+	Cloned: true
+	Genome: {
+		env_time: 0.65091324
+		env_loop: 1.00000000
+		env_tilt: 0.18112493
+		vol_atk: 0.40442824
+		vol_dcy: 0.19376010
+		vol_sus: 0.00000000
+		mod_atk: 0.46709222
+		mod_dcy: 0.00968800
+		mod_sh: 0.53714651
+		mod_vel: 0.37398225
+		lfo_rate: 0.80949575
+		lfo_amt: 0.61654794
+		lfo_bal: 0.22126460
+		a_form: 0.57610857
+		a_noise: 0.10932207
+		a_color: 0.01377779
+		a_freq: 0.60648173
+		a_mod: 0.53722888
+		b_form: 0.43807918
+		b_noise: 0.12044227
+		b_freq: 0.59420347
+		b_mod: 0.48471159
+		b_sh: 0.67022765
+		fm_amt: 0.13425493
+		fm_mod: 0.47848773
+		sub_am: 0.84824717
+		balance: 0.69021916
+		flt_freq: 0.43554616
+		flt_mod: 0.91315341
+		flt_sep: 0.40449715
+		flt_q: 0.19444725
+		flt_kf: 0.58055478
+		fx_mix: 0.63831556
+		fx_len: 0.65612936
+		fx_damp: 0.70509386
+		fx_chors: 0.17382327
+		fx_size: 0.36059180
+	}
+}

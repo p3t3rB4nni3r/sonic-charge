@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "eX Wasp Hive"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: 73.26769829 %
+	Release: 223.60679775 ms 
+	WheelScale: 50.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xc2f4f192
+	Pitch: 0.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.34359008
+		env_loop: 0.26751587
+		env_tilt: 0.77711785
+		vol_atk: 0.41172385
+		vol_dcy: 0.28042856
+		vol_sus: 0.12768859
+		mod_atk: 0.29153344
+		mod_dcy: 0.79837263
+		mod_sh: 0.48422220
+		mod_vel: 0.52849829
+		lfo_rate: 0.61795193
+		lfo_amt: 0.15015900
+		lfo_bal: 0.67552578
+		a_form: 0.66685301
+		a_noise: 0.48455754
+		a_color: 0.32402217
+		a_freq: 0.83333331
+		a_mod: 0.50000000
+		b_form: 0.51504159
+		b_noise: 0.53763860
+		b_freq: 0.29786485
+		b_mod: 0.50000000
+		b_sh: 0.39479309
+		fm_amt: 0.55502951
+		fm_mod: 0.23868415
+		sub_am: 0.47460821
+		balance: 0.16498286
+		flt_freq: 0.81323874
+		flt_mod: 0.10353529
+		flt_sep: 0.36021918
+		flt_q: 0.26567626
+		flt_kf: 0.23780751
+		fx_mix: 0.74437797
+		fx_len: 0.61999786
+		fx_damp: 0.64355272
+		fx_chors: 0.84442306
+		fx_size: 0.50000000
+	}
+}

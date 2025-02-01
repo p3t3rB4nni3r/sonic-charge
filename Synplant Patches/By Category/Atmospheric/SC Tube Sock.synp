@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 4
+	Name: "NE Tube Sock"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 38.06983531 %
+	Effect: 100.00000000 %
+	Release: 400.69793471 ms 
+	WheelScale: 100.00000000 %
+	VelSens: 50.00000000 %
+	Volume: 2.70204800 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0xb20187da
+	Pitch: -1.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.19494030,
+		env_loop: 0.31680521,
+		env_tilt: 0.80611974,
+		vol_atk: 0.49772981,
+		vol_dcy: 0.72887164,
+		vol_sus: 0.50776160,
+		mod_atk: 0.61023009,
+		mod_dcy: 0.85193354,
+		mod_sh: 0.72222841,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.57819003,
+		lfo_amt: 0.49863002,
+		lfo_bal: 0.69049013,
+		a_form: 0.72485250,
+		a_noise: 0.56773740,
+		a_color: 0.74221331,
+		a_freq: 0.33333334,
+		a_mod: 0.41035879,
+		b_form: 0.85021931,
+		b_noise: 0.32614240,
+		b_freq: 0.80743545,
+		b_mod: 0.47755900,
+		b_sh: 0.09165511,
+		fm_amt: 0.02073650,
+		fm_mod: 0.89372629,
+		sub_am: 0.44951510,
+		balance: 0.38376266,
+		flt_freq: 0.39387536,
+		flt_mod: 0.23169516,
+		flt_sep: 0.84402764,
+		flt_q: 0.38581815,
+		flt_kf: 0.18577114,
+		fx_mix: 0.96368736,
+		fx_len: 0.59328121,
+		fx_damp: 0.63209236,
+		fx_chors: 0.73501688,
+		fx_size: 0.19626710
+	}
+}

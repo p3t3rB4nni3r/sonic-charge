@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "ME Life Lead"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -21.71893120 %
+	Release: 224.95053411 ms 
+	WheelScale: 54.87805009 %
+	VelSens: 0.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 37.24263012 %
+	Branch2: 36.52080297 %
+	Branch3: 36.33211553 %
+	Branch4: 39.08045888 %
+	Branch5: 39.90852535 %
+	Branch6: 37.05942929 %
+	Branch7: 38.18255067 %
+	Branch8: 37.75704503 %
+	Branch9: 37.05942929 %
+	Branch10: 37.97359169 %
+	Branch11: 39.16399777 %
+	Branch12: 34.78405476 %
+	Seed: 0xe565cf80
+	Pitch: 0.63465118
+	Cloned: true
+	Genome: {
+		env_time: 0.14199865,
+		env_loop: 0.67016590,
+		env_tilt: 0.19525421,
+		vol_atk: 0.49518573,
+		vol_dcy: 0.91932672,
+		vol_sus: 0.79621142,
+		mod_atk: 0.57131279,
+		mod_dcy: 0.11599302,
+		mod_sh: 0.54126072,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.94789654,
+		lfo_amt: 0.42397898,
+		lfo_bal: 0.45192987,
+		a_form: 0.16302353,
+		a_noise: 0.66851991,
+		a_color: 0.68391693,
+		a_freq: 0.39422482,
+		a_mod: 0.51782364,
+		b_form: 0.69182777,
+		b_noise: 0.12698394,
+		b_freq: 0.75024426,
+		b_mod: 0.50508183,
+		b_sh: 0.42281550,
+		fm_amt: 0.59616429,
+		fm_mod: 0.19792634,
+		sub_am: 0.64868301,
+		balance: 0.19246954,
+		flt_freq: 0.53427458,
+		flt_mod: 0.02391243,
+		flt_sep: 0.69436276,
+		flt_q: 0.13866574,
+		flt_kf: 0.89500850,
+		fx_mix: 1.00000000,
+		fx_len: 0.41335481,
+		fx_damp: 0.40580279,
+		fx_chors: 0.36232048,
+		fx_size: 0.35494933
+	}
+}

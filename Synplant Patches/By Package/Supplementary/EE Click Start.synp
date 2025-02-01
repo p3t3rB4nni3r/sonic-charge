@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "EE Click Start"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +0.00000000 ct 
+	Atonality: 0.00000000 %
+	Effect: -68.96737516 %
+	Release: 220.66100572 ms 
+	WheelScale: 48.78048897 %
+	VelSens: 50.00000000 %
+	Volume: 1.40778525 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x1b5a131f
+	Pitch: 0.00247788
+	Cloned: false
+	Genome: {
+		env_time: 0.26905936,
+		env_loop: 0.85149664,
+		env_tilt: 0.48246050,
+		vol_atk: 0.93192351,
+		vol_dcy: 0.92560166,
+		vol_sus: 1.00000000,
+		mod_atk: 0.43603313,
+		mod_dcy: 0.20472290,
+		mod_sh: 0.19191664,
+		mod_vel: 0.48862088,
+		lfo_rate: 0.72870982,
+		lfo_amt: 0.94659495,
+		lfo_bal: 0.04433644,
+		a_form: 0.61570591,
+		a_noise: 0.34691870,
+		a_color: 0.84516221,
+		a_freq: 0.16625369,
+		a_mod: 0.51907134,
+		b_form: 0.63353944,
+		b_noise: 0.06317258,
+		b_freq: 0.60661799,
+		b_mod: 0.50044227,
+		b_sh: 0.13949561,
+		fm_amt: 0.59803474,
+		fm_mod: 0.14351267,
+		sub_am: 0.41647220,
+		balance: 0.92410535,
+		flt_freq: 0.33763939,
+		flt_mod: 0.91537338,
+		flt_sep: 0.80506957,
+		flt_q: 0.24669594,
+		flt_kf: 0.78271431,
+		fx_mix: 0.27276981,
+		fx_len: 0.76124758,
+		fx_damp: 0.98481411,
+		fx_chors: 0.10981566,
+		fx_size: 0.35494933
+	}
+}

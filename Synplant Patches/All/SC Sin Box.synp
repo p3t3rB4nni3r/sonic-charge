@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 10
+	Name: "NE Sin Box"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +3.40539980 sm 
+	Atonality: 76.51357055 %
+	Effect: -2.57544518 %
+	Release: 231.70139607 ms 
+	WheelScale: 37.80487776 %
+	VelSens: 50.00000000 %
+	Volume: 0.00000000 dB
+	Branch1: 0.00000000 %
+	Branch2: 0.00000000 %
+	Branch3: 0.00000000 %
+	Branch4: 0.00000000 %
+	Branch5: 0.00000000 %
+	Branch6: 0.00000000 %
+	Branch7: 0.00000000 %
+	Branch8: 0.00000000 %
+	Branch9: 0.00000000 %
+	Branch10: 0.00000000 %
+	Branch11: 0.00000000 %
+	Branch12: 0.00000000 %
+	Seed: 0x1f7d0580
+	Pitch: 0.70420933
+	Cloned: true
+	Genome: {
+		env_time: 0.72328109,
+		env_loop: 0.74806327,
+		env_tilt: 0.01973248,
+		vol_atk: 0.96455991,
+		vol_dcy: 0.37533581,
+		vol_sus: 0.44282740,
+		mod_atk: 0.87287712,
+		mod_dcy: 0.59590518,
+		mod_sh: 0.67101169,
+		mod_vel: 0.01098782,
+		lfo_rate: 0.60286599,
+		lfo_amt: 0.69696939,
+		lfo_bal: 0.49707252,
+		a_form: 0.80313349,
+		a_noise: 0.58318138,
+		a_color: 0.23214298,
+		a_freq: 0.54929847,
+		a_mod: 0.33816612,
+		b_form: 0.81553394,
+		b_noise: 0.35677582,
+		b_freq: 0.64768529,
+		b_mod: 0.80548775,
+		b_sh: 0.62100649,
+		fm_amt: 0.45976007,
+		fm_mod: 0.30781072,
+		sub_am: 0.02026093,
+		balance: 0.63359392,
+		flt_freq: 0.63978219,
+		flt_mod: 0.33152688,
+		flt_sep: 0.71626711,
+		flt_q: 0.95240861,
+		flt_kf: 0.14032125,
+		fx_mix: 0.46504924,
+		fx_len: 0.69109970,
+		fx_damp: 0.58604395,
+		fx_chors: 0.37728328,
+		fx_size: 0.35494933
+	}
+}

@@ -1,0 +1,68 @@
+SynplantPatch: {
+	Version: 10
+	Implementation: 4
+	Name: "NE Phocaloids"
+	ModWheel: 0.00000000 %
+	Rotation: 0.00000000 degrees
+	Tuning: +12.00000000 sm 
+	Atonality: 18.28184873 %
+	Effect: 0.25148392 %
+	Release: 4.15425826 s 
+	WheelScale: 50.00000000 %
+	VelSens: 50.00000000 %
+	Volume: -9.01322749 dB
+	Branch1: 3.63761894 %
+	Branch2: 3.63761894 %
+	Branch3: 3.63761894 %
+	Branch4: 3.63761894 %
+	Branch5: 3.63761894 %
+	Branch6: 3.63761894 %
+	Branch7: 3.63761894 %
+	Branch8: 3.63761894 %
+	Branch9: 3.63761894 %
+	Branch10: 3.63761894 %
+	Branch11: 3.63761894 %
+	Branch12: 3.63761894 %
+	Seed: 0x16703803
+	Pitch: -2.00000000
+	Cloned: true
+	Genome: {
+		env_time: 0.78199512,
+		env_loop: 0.80361331,
+		env_tilt: 0.78868252,
+		vol_atk: 0.91007262,
+		vol_dcy: 0.45427462,
+		vol_sus: 0.52493346,
+		mod_atk: 0.34539545,
+		mod_dcy: 0.59621370,
+		mod_sh: 0.13734591,
+		mod_vel: 0.50000000,
+		lfo_rate: 0.87990260,
+		lfo_amt: 0.83796704,
+		lfo_bal: 0.30952322,
+		a_form: 0.37764567,
+		a_noise: 0.65207314,
+		a_color: 0.64849949,
+		a_freq: 0.66666669,
+		a_mod: 0.45930147,
+		b_form: 0.48762244,
+		b_noise: 0.54227477,
+		b_freq: 0.65373385,
+		b_mod: 0.47019446,
+		b_sh: 0.23823631,
+		fm_amt: 0.84268010,
+		fm_mod: 0.32104892,
+		sub_am: 0.94190192,
+		balance: 0.36662042,
+		flt_freq: 0.64659876,
+		flt_mod: 0.61435997,
+		flt_sep: 0.72717911,
+		flt_q: 0.98164564,
+		flt_kf: 0.26724851,
+		fx_mix: 0.84477711,
+		fx_len: 0.66702968,
+		fx_damp: 0.02374297,
+		fx_chors: 0.79678249,
+		fx_size: 0.30335733
+	}
+}
